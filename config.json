@@ -1,0 +1,712 @@
+{
+  "_README": "ONE config file drives the whole tracker (scraper + dashboard). Edit it by hand, or generate it from your CV using docs/cv-to-config-prompt.md. After editing, commit it and re-run the workflows. All matching is case-insensitive substring on the JOB TITLE unless noted.",
+
+  "profile": {
+    "title": "Megan's Strategy, Security & Operations Job Tracker",
+    "subtitle": "Remote · New York City · Hawaii · Washington, D.C. · Global",
+    "emoji": "🎯"
+  },
+
+  "keywords": {
+    "_comment": "A job TITLE is kept if it contains any of these. Use full words; multi-word phrases match as substrings.",
+    "include": [
+      "project manager",
+      "senior project manager",
+      "technical project manager",
+      "project delivery manager",
+      "project operations manager",
+      "program manager",
+      "senior program manager",
+      "technical program manager",
+      "security program manager",
+      "risk program manager",
+      "operations program manager",
+      "program operations manager",
+      "program delivery manager",
+      "implementation program manager",
+      "business operations manager",
+      "strategy and operations manager",
+      "strategic operations manager",
+      "operations strategy manager",
+      "global operations manager",
+      "security operations manager",
+      "security manager",
+      "corporate security manager",
+      "physical security manager",
+      "protective security manager",
+      "security assurance manager",
+      "security technology manager",
+      "security systems manager",
+      "security project manager",
+      "intelligence manager",
+      "intelligence program manager",
+      "threat intelligence manager",
+      "intelligence analyst",
+      "senior intelligence analyst",
+      "threat analyst",
+      "threat intelligence analyst",
+      "strategic intelligence analyst",
+      "open source intelligence analyst",
+      "OSINT analyst",
+      "investigations manager",
+      "investigations analyst",
+      "risk intelligence analyst",
+      "security analyst",
+      "operational risk analyst",
+      "security risk analyst",
+      "geopolitical risk analyst",
+      "trust and safety manager",
+      "trust and safety analyst",
+      "governance risk and compliance manager",
+      "GRC program manager",
+      "risk operations manager",
+      "business analyst",
+      "operations analyst",
+      "data analyst",
+      "research analyst",
+      "strategy analyst",
+      "program analyst",
+      "product strategist",
+      "deployment strategist",
+      "implementation manager",
+      "solutions delivery manager",
+      "customer deployment manager"
+    ],
+    "_exclude_comment": "Titles containing any of these are dropped because they represent junior, off-field, highly technical, clinical, legal, sales, or other unsuitable positions.",
+    "exclude": [
+      "intern",
+      "interns",
+      "internship",
+      "co-op",
+      "coop",
+      "trainee",
+      "apprentice",
+      "student",
+      "graduate trainee",
+      "undergraduate",
+      "research assistant",
+      "teaching assistant",
+      "lab assistant",
+      "postdoctoral",
+      "postdoc",
+      "professor",
+      "faculty",
+      "lecturer",
+      "volunteer",
+      "security guard",
+      "security officer",
+      "armed guard",
+      "loss prevention officer",
+      "police officer",
+      "correctional officer",
+      "software engineer",
+      "data engineer",
+      "machine learning engineer",
+      "network engineer",
+      "security engineer",
+      "cybersecurity engineer",
+      "cloud engineer",
+      "DevOps engineer",
+      "penetration tester",
+      "solutions architect",
+      "product designer",
+      "UX designer",
+      "graphic designer",
+      "accountant",
+      "bookkeeper",
+      "financial advisor",
+      "nurse",
+      "physician",
+      "clinical",
+      "attorney",
+      "paralegal",
+      "construction project manager",
+      "electrical project manager",
+      "mechanical project manager",
+      "civil project manager",
+      "sales manager",
+      "account executive",
+      "chief security officer",
+      "vice president"
+    ]
+  },
+
+  "search_terms": {
+    "_comment": "Queries sent to the job boards' search boxes. These are broader than keywords.include, which subsequently filters the titles.",
+    "linkedin": [
+      "remote project manager",
+      "remote program manager",
+      "technical program manager",
+      "security program manager",
+      "security project manager",
+      "strategy and operations manager",
+      "business operations manager",
+      "global operations manager",
+      "implementation manager",
+      "deployment strategist",
+      "product strategist",
+      "intelligence manager",
+      "intelligence analyst",
+      "threat intelligence analyst",
+      "OSINT analyst",
+      "investigations manager",
+      "risk intelligence analyst",
+      "geopolitical risk analyst",
+      "trust and safety manager",
+      "GRC program manager",
+      "risk operations manager",
+      "operations analyst",
+      "data analyst SQL Python",
+      "research analyst",
+      "AI operations program manager"
+    ],
+    "indeed": [
+      "remote project program manager",
+      "strategy business operations manager",
+      "security program manager",
+      "intelligence threat analyst",
+      "OSINT investigations analyst",
+      "risk governance compliance manager",
+      "implementation deployment manager",
+      "data operations analyst"
+    ],
+    "glassdoor": [
+      "remote project program manager",
+      "strategy operations manager",
+      "security risk program manager",
+      "intelligence investigations analyst",
+      "threat intelligence OSINT",
+      "governance risk compliance manager",
+      "implementation manager",
+      "data operations analyst"
+    ],
+    "ziprecruiter": [
+      "remote project manager",
+      "remote program manager",
+      "business operations manager",
+      "security program manager",
+      "intelligence analyst",
+      "risk operations manager",
+      "implementation manager",
+      "data analyst SQL Python"
+    ],
+    "google_jobs": [
+      "remote project program manager",
+      "strategy operations manager",
+      "security program manager",
+      "intelligence OSINT analyst",
+      "investigations risk analyst",
+      "GRC program manager",
+      "implementation deployment manager",
+      "remote data operations analyst"
+    ],
+    "hiring_cafe": [
+      "project program manager",
+      "strategy operations manager",
+      "security program manager",
+      "intelligence investigations analyst",
+      "risk compliance manager",
+      "implementation manager",
+      "deployment strategist",
+      "data operations analyst"
+    ],
+    "calcareers": [
+      "project manager",
+      "program manager",
+      "emergency management",
+      "security",
+      "intelligence",
+      "investigations",
+      "risk management",
+      "operations analyst",
+      "research analyst",
+      "data analyst"
+    ],
+    "usajobs": [
+      "program manager",
+      "project manager",
+      "management and program analyst",
+      "intelligence specialist",
+      "intelligence analyst",
+      "investigative analyst",
+      "emergency management specialist",
+      "security specialist",
+      "physical security specialist",
+      "operations research analyst",
+      "international relations specialist",
+      "foreign affairs specialist"
+    ],
+    "governmentjobs": [
+      "project manager",
+      "program manager",
+      "emergency management",
+      "security manager",
+      "intelligence analyst",
+      "investigations analyst",
+      "risk management",
+      "operations analyst",
+      "research analyst",
+      "data analyst"
+    ],
+    "workday": [
+      "project manager",
+      "program manager",
+      "technical program manager",
+      "business operations manager",
+      "strategy and operations",
+      "security program manager",
+      "intelligence analyst",
+      "risk operations manager",
+      "implementation manager",
+      "data analyst"
+    ]
+  },
+
+  "locations": {
+    "_comment": "LinkedIn needs a geoId; blank values allow LinkedIn to resolve the location text. JobSpy-backed boards need a location and country. HiringCafe currently uses its public United States route.",
+    "linkedin": [
+      {
+        "name": "Remote",
+        "location": "Remote",
+        "geoId": ""
+      },
+      {
+        "name": "New York City",
+        "location": "New York City Metropolitan Area, United States",
+        "geoId": ""
+      },
+      {
+        "name": "Hawaii",
+        "location": "Hawaii, United States",
+        "geoId": ""
+      },
+      {
+        "name": "Washington, D.C.",
+        "location": "Washington DC-Baltimore Area, United States",
+        "geoId": ""
+      },
+      {
+        "name": "London",
+        "location": "London, England, United Kingdom",
+        "geoId": ""
+      },
+      {
+        "name": "Geneva",
+        "location": "Geneva, Switzerland",
+        "geoId": ""
+      },
+      {
+        "name": "Zurich",
+        "location": "Zurich, Switzerland",
+        "geoId": ""
+      },
+      {
+        "name": "Dubai",
+        "location": "Dubai, United Arab Emirates",
+        "geoId": ""
+      },
+      {
+        "name": "Los Angeles",
+        "location": "Los Angeles Metropolitan Area, United States",
+        "geoId": ""
+      },
+      {
+        "name": "Paris",
+        "location": "Paris, Île-de-France, France",
+        "geoId": ""
+      },
+      {
+        "name": "San Francisco",
+        "location": "San Francisco Bay Area, United States",
+        "geoId": ""
+      }
+    ],
+    "indeed": [
+      {
+        "location": "Remote",
+        "country": "USA"
+      },
+      {
+        "location": "New York, NY",
+        "country": "USA"
+      },
+      {
+        "location": "Hawaii",
+        "country": "USA"
+      },
+      {
+        "location": "Washington, DC",
+        "country": "USA"
+      },
+      {
+        "location": "London",
+        "country": "GB"
+      },
+      {
+        "location": "Geneva",
+        "country": "Switzerland"
+      },
+      {
+        "location": "Zurich",
+        "country": "Switzerland"
+      },
+      {
+        "location": "Dubai",
+        "country": "UAE"
+      },
+      {
+        "location": "Los Angeles, CA",
+        "country": "USA"
+      },
+      {
+        "location": "Paris",
+        "country": "France"
+      },
+      {
+        "location": "San Francisco, CA",
+        "country": "USA"
+      }
+    ],
+    "glassdoor": [
+      {
+        "location": "Remote",
+        "country": "USA"
+      },
+      {
+        "location": "New York, NY",
+        "country": "USA"
+      },
+      {
+        "location": "Hawaii",
+        "country": "USA"
+      },
+      {
+        "location": "Washington, DC",
+        "country": "USA"
+      },
+      {
+        "location": "London",
+        "country": "GB"
+      },
+      {
+        "location": "Geneva",
+        "country": "Switzerland"
+      },
+      {
+        "location": "Zurich",
+        "country": "Switzerland"
+      },
+      {
+        "location": "Dubai",
+        "country": "UAE"
+      },
+      {
+        "location": "Los Angeles, CA",
+        "country": "USA"
+      },
+      {
+        "location": "Paris",
+        "country": "France"
+      },
+      {
+        "location": "San Francisco, CA",
+        "country": "USA"
+      }
+    ],
+    "ziprecruiter": [
+      {
+        "location": "Remote",
+        "country": "USA"
+      },
+      {
+        "location": "New York, NY",
+        "country": "USA"
+      },
+      {
+        "location": "Hawaii",
+        "country": "USA"
+      },
+      {
+        "location": "Washington, DC",
+        "country": "USA"
+      },
+      {
+        "location": "London",
+        "country": "GB"
+      },
+      {
+        "location": "Geneva",
+        "country": "Switzerland"
+      },
+      {
+        "location": "Zurich",
+        "country": "Switzerland"
+      },
+      {
+        "location": "Dubai",
+        "country": "UAE"
+      },
+      {
+        "location": "Los Angeles, CA",
+        "country": "USA"
+      },
+      {
+        "location": "Paris",
+        "country": "France"
+      },
+      {
+        "location": "San Francisco, CA",
+        "country": "USA"
+      }
+    ],
+    "google_jobs": [
+      {
+        "location": "Remote",
+        "country": "USA"
+      },
+      {
+        "location": "New York, NY",
+        "country": "USA"
+      },
+      {
+        "location": "Hawaii",
+        "country": "USA"
+      },
+      {
+        "location": "Washington, DC",
+        "country": "USA"
+      },
+      {
+        "location": "London",
+        "country": "GB"
+      },
+      {
+        "location": "Geneva",
+        "country": "Switzerland"
+      },
+      {
+        "location": "Zurich",
+        "country": "Switzerland"
+      },
+      {
+        "location": "Dubai",
+        "country": "UAE"
+      },
+      {
+        "location": "Los Angeles, CA",
+        "country": "USA"
+      },
+      {
+        "location": "Paris",
+        "country": "France"
+      },
+      {
+        "location": "San Francisco, CA",
+        "country": "USA"
+      }
+    ],
+    "hiring_cafe": [
+      {
+        "location": "United States"
+      }
+    ]
+  },
+
+  "location_filter": {
+    "_comment": "Case-insensitive substrings matched against job-location text. This post-filters direct ATS and nationwide GovernmentJobs results. Keep these terms synchronized with the preferred locations above.",
+    "terms": [
+      "remote",
+      "anywhere",
+      "worldwide",
+      "new york",
+      "new york city",
+      "manhattan",
+      "brooklyn",
+      "queens",
+      "bronx",
+      "jersey city",
+      "hawaii",
+      "honolulu",
+      "oahu",
+      "maui",
+      "kailua",
+      "kapolei",
+      "ewa beach",
+      "washington, dc",
+      "washington, d.c.",
+      "district of columbia",
+      "dc metro",
+      "arlington, va",
+      "alexandria, va",
+      "mclean, va",
+      "tysons",
+      "bethesda, md",
+      "london",
+      "greater london",
+      "geneva",
+      "genève",
+      "zurich",
+      "zürich",
+      "dubai",
+      "united arab emirates",
+      "los angeles",
+      "santa monica",
+      "culver city",
+      "el segundo",
+      "long beach",
+      "pasadena",
+      "paris",
+      "île-de-france",
+      "ile-de-france",
+      "san francisco",
+      "bay area",
+      "oakland",
+      "berkeley",
+      "palo alto",
+      "menlo park",
+      "mountain view",
+      "san mateo",
+      "redwood city",
+      "san jose"
+    ]
+  },
+
+  "google_jobs": {
+    "_comment": "Optional exact Google Jobs queries. Leave queries empty to build searches automatically from search_terms.google_jobs and locations.google_jobs. Store fallback API credentials as GitHub Actions secrets rather than in this file.",
+    "queries": [],
+    "serpapi_api_key": "",
+    "oxylabs_username": "",
+    "oxylabs_password": ""
+  },
+
+  "jobspy": {
+    "_comment": "Optional. Prefer JOBSPY_PROXIES as a GitHub Actions secret or environment variable. Use these fields only if JobSpy-backed boards are blocked.",
+    "proxies": [],
+    "user_agent": ""
+  },
+
+  "hiring_cafe": {
+    "_comment": "Uses HiringCafe's public SSR /jobs/<query> pages. max_pages limits pagination per query; the public route currently defaults to the United States.",
+    "max_pages": 3
+  },
+
+  "employers": {
+    "_priority_comment": "Organizations worth highlighting in the daily priority digest. Matching is a case-insensitive substring on company name.",
+    "priority": [
+      "Anduril",
+      "Anthropic",
+      "Scale AI",
+      "OpenAI",
+      "FIFA",
+      "CrowdStrike",
+      "Deloitte",
+      "Binance",
+      "United Nations",
+      "INTERPOL",
+      "Microsoft",
+      "Amazon",
+      "Google",
+      "Meta",
+      "Apple",
+      "Mistral AI",
+      "Dataminr",
+      "Recorded Future",
+      "Flashpoint",
+      "Control Risks",
+      "Crisis24",
+      "Sibylline",
+      "Bellingcat",
+      "Institute for the Study of War",
+      "RAND Corporation",
+      "Council on Foreign Relations",
+      "Atlantic Council",
+      "Center for Strategic and International Studies",
+      "International Crisis Group",
+      "European Club Association",
+      "International Olympic Committee",
+      "Major League Soccer",
+      "National Football League",
+      "National Basketball Association"
+    ],
+    "_exclude_comment": "Company-name substrings that should always be removed. Leave empty unless a specific employer or company category should be excluded.",
+    "exclude": []
+  },
+
+  "priority_topics": {
+    "_comment": "Roles touching these specialties receive a gold star and become filterable on the dashboard. Each item is a name and JavaScript regex source pair.",
+    "terms": [
+      [
+        "Project & Program Delivery",
+        "\\b(project|program|portfolio|workstream|milestone|implementation|deployment|delivery)\\b"
+      ],
+      [
+        "Intelligence & OSINT",
+        "\\b(intelligence|OSINT|open[\\s-]?source|investigation|threat intelligence|geopolitical)\\b"
+      ],
+      [
+        "Security & Risk",
+        "\\b(security|risk|protective security|asset protection|threat monitoring|crisis response)\\b"
+      ],
+      [
+        "AI & Data Operations",
+        "\\b(AI|artificial intelligence|data analytics|SQL|Python|Foundry|data quality)\\b"
+      ],
+      [
+        "Governance & Compliance",
+        "\\b(governance|GRC|compliance|assurance|quality assurance|controls)\\b"
+      ],
+      [
+        "Global Operations",
+        "\\b(global operations|cross-functional|stakeholder|vendor|service provider|operational readiness)\\b"
+      ]
+    ]
+  },
+
+  "role_categories": {
+    "_comment": "Dashboard Role-filter buckets, applied from top to bottom to each job title. Each item is a name and JavaScript regex source pair.",
+    "terms": [
+      [
+        "Intelligence & Investigations",
+        "\\b(OSINT|open source intelligence|threat intelligence|strategic intelligence|intelligence analyst|intelligence manager|investigations?|geopolitical risk)\\b"
+      ],
+      [
+        "Security Programs & Operations",
+        "\\b(security program|security project|security operations|corporate security|physical security|protective security|security assurance|security technology|security systems|asset protection)\\b"
+      ],
+      [
+        "Trust, Risk & Compliance",
+        "\\b(trust and safety|risk operations|risk program|operational risk|security risk|GRC|governance risk|compliance)\\b"
+      ],
+      [
+        "Deployment & Implementation",
+        "\\b(deployment strategist|deployment manager|implementation manager|implementation program|solutions delivery|customer deployment)\\b"
+      ],
+      [
+        "Strategy & Business Operations",
+        "\\b(strategy and operations|strategic operations|operations strategy|business operations|global operations|product strategist)\\b"
+      ],
+      [
+        "Technical Program Management",
+        "\\b(technical program manager|technical project manager|technology program manager|security technology manager)\\b"
+      ],
+      [
+        "Project & Program Management",
+        "\\b(project manager|program manager|project delivery manager|program delivery manager|program operations manager|project operations manager)\\b"
+      ],
+      [
+        "Data, Research & Analysis",
+        "\\b(data analyst|operations analyst|business analyst|research analyst|strategy analyst|program analyst)\\b"
+      ]
+    ]
+  },
+
+  "notify": {
+    "_comment": "Optional Pushover phone alerts. Requires PUSHOVER_TOKEN and PUSHOVER_USER secrets. Notify when a new role matches a priority topic or scores at or above min_fit.",
+    "min_fit": 75,
+    "weekly_digest": {
+      "_comment": "Optional weekly Pushover brief. Prefer enabling it through the WEEKLY_DIGEST_PUSHOVER repository variable so forks remain quiet by default.",
+      "enabled": false,
+      "days": 7
+    }
+  }
+}
