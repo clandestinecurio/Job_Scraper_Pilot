@@ -1,5 +1,5 @@
-# 🟧 ZipRecruiter — Environmental / Toxicology Roles
-*Last updated: 2026-08-16 22:45 UTC*
+# 🟧 ZipRecruiter — Megan's Strategy, Security & Operations Roles
+*Last updated: 2026-08-17 00:25 UTC*
 
 **0 new role(s)** since last run · 0 total in last 24h
 
