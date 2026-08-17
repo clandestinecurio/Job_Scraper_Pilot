@@ -1,18 +1,29 @@
 # ☕ HiringCafe — Megan's Strategy, Security & Operations Roles
-*Last updated: 2026-08-17 03:38 UTC*
+*Last updated: 2026-08-17 04:38 UTC*
 
-**2 new role(s)** since last run · 135 total in last 30d
+**4 new role(s)** since last run · 133 total in last 30d
 
-### [Deployment Strategist](https://jobs.lever.co/istaridigital.ai/50f7efb2-310c-4854-8fbc-a86e90082f32) — Istaridigital.ai
-- 📍 **Location:** Dayton, Ohio, United States
-- 💰 **Salary:** $140k–$220k/yr
+### [Protective Intelligence & Threat Analyst](https://lamresearch.eightfold.ai/careers/job/1099555378257) — Lam Research
+- 📍 **Location:** Phoenix or Fremont or Tualatin
 - **Work mode:** On-site
 - **Job type:** Full Time
-- 🕒 **Posted:** 2026-07-21T12:59:25.682Z
+- 🕒 **Posted:** 2026-08-10T14:06:07.000Z
 
-### [Founding Deployment Strategist ](https://job-boards.greenhouse.io/liberate/jobs/5370479008) — Liberate
-- 📍 **Location:** San Francisco or Boston
-- 💰 **Salary:** $185k–$260k/yr
-- **Work mode:** Telecommute eligible
+### [Deployment Strategist](https://jobs.ashbyhq.com/hippocratic%20ai/a42049ce-e1af-40e6-b4b6-e5e0eb285a8a) — Hippocratic AI
+- 📍 **Location:** Orange County or Menlo Park
+- **Work mode:** On-site
 - **Job type:** Full Time
-- 🕒 **Posted:** 2026-07-24T20:49:00.000Z
+- 🕒 **Posted:** 2026-08-15T15:20:24.986Z
+
+### [Deployment Strategist](https://jobs.ashbyhq.com/mercor/7581deeb-ffee-463c-a2cd-e86181655ff3) — Mercor
+- 📍 **Location:** San Francisco or New York City or London
+- 💰 **Salary:** $140k–$210k/yr
+- **Work mode:** On-site
+- **Job type:** Full Time
+- 🕒 **Posted:** 2026-07-25T00:34:24.220Z
+
+### [Founding Deployment Strategist](https://jobs.ashbyhq.com/specter/a9403bf6-29f8-4627-94ee-a9714f4d546e) — Specter
+- 📍 **Location:** San Francisco, California, United States
+- **Work mode:** On-site
+- **Job type:** Full Time
+- 🕒 **Posted:** 2026-08-16T22:30:43.467Z
