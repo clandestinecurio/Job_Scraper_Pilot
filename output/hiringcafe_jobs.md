@@ -1,24 +1,18 @@
 # ☕ HiringCafe — Megan's Strategy, Security & Operations Roles
-*Last updated: 2026-08-17 02:12 UTC*
+*Last updated: 2026-08-17 03:38 UTC*
 
-**3 new role(s)** since last run · 136 total in last 30d
+**2 new role(s)** since last run · 135 total in last 30d
 
-### [Deployment Strategist](https://jobs.ashbyhq.com/mercor/7581deeb-ffee-463c-a2cd-e86181655ff3) — Mercor
-- 📍 **Location:** San Francisco or New York City or London
-- 💰 **Salary:** $140k–$210k/yr
-- **Work mode:** On-site
-- **Job type:** Full Time
-- 🕒 **Posted:** 2026-07-25T00:34:24.220Z
-
-### [Deployment Strategist](https://jobs.ashbyhq.com/hippocratic%20ai/3b3671ac-11ed-40f9-ab60-b41dc8171510) — Hippocratic AI
-- 📍 **Location:** Seattle or Bellevue or Menlo Park
-- **Work mode:** On-site
-- **Job type:** Full Time
-- 🕒 **Posted:** 2026-08-15T17:49:46.360Z
-
-### [Deployment Strategist](https://jobs.lever.co/istaridigital.ai/9175aec4-0907-43da-b082-41bb145db144) — Istaridigital.ai
-- 📍 **Location:** Melbourne, Florida, United States
+### [Deployment Strategist](https://jobs.lever.co/istaridigital.ai/50f7efb2-310c-4854-8fbc-a86e90082f32) — Istaridigital.ai
+- 📍 **Location:** Dayton, Ohio, United States
 - 💰 **Salary:** $140k–$220k/yr
 - **Work mode:** On-site
 - **Job type:** Full Time
-- 🕒 **Posted:** 2026-07-21T13:03:37.200Z
+- 🕒 **Posted:** 2026-07-21T12:59:25.682Z
+
+### [Founding Deployment Strategist ](https://job-boards.greenhouse.io/liberate/jobs/5370479008) — Liberate
+- 📍 **Location:** San Francisco or Boston
+- 💰 **Salary:** $185k–$260k/yr
+- **Work mode:** Telecommute eligible
+- **Job type:** Full Time
+- 🕒 **Posted:** 2026-07-24T20:49:00.000Z
