@@ -1,8 +1,20 @@
 {
-  "scraped_at": "2026-08-17 00:19 UTC",
-  "total": 31,
+  "scraped_at": "2026-08-17 16:44 UTC",
+  "total": 30,
   "new_count": 0,
   "jobs": [
+    {
+      "company": "Department of Human Resources",
+      "title": "Senior Project Manager",
+      "location": "Sacramento County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=521655",
+      "date_posted": "2026-08-17",
+      "salary": "$7276.00 - $9107.00",
+      "ats": "CalCareers",
+      "telework": "Hybrid",
+      "job_type": "Permanent, Full Time",
+      "work_arrangement": "Telecommute eligible"
+    },
     {
       "company": "Department of Toxic Substances Control",
       "title": "Project Manager",
@@ -82,18 +94,6 @@
       "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=527187",
       "date_posted": "2026-08-04",
       "salary": "$9631.00 - $12054.00",
-      "ats": "CalCareers",
-      "telework": "Hybrid",
-      "job_type": "Permanent, Full Time",
-      "work_arrangement": "Telecommute eligible"
-    },
-    {
-      "company": "Department of Transportation",
-      "title": "Project Manager",
-      "location": "Alameda County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=527606",
-      "date_posted": "2026-08-06",
-      "salary": "$11437.00 - $14315.00",
       "ats": "CalCareers",
       "telework": "Hybrid",
       "job_type": "Permanent, Full Time",
@@ -280,18 +280,6 @@
       "work_arrangement": "Telecommute eligible"
     },
     {
-      "company": "Department of Housing & Community Development",
-      "title": "Operations Analyst - Hybrid",
-      "location": "Sacramento County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=526657",
-      "date_posted": "2026-08-06",
-      "salary": "$6031.00 - $7547.00",
-      "ats": "CalCareers",
-      "telework": "Hybrid",
-      "job_type": "Permanent, Full Time",
-      "work_arrangement": "Telecommute eligible"
-    },
-    {
       "company": "CA State Lottery",
       "title": "Consumer Research Data Analyst",
       "location": "Sacramento County",
@@ -340,24 +328,24 @@
       "work_arrangement": "Telecommute eligible"
     },
     {
-      "company": "Board of State and Community Corrections",
-      "title": "RESEARCH DATA ANALYST II",
-      "location": "Sacramento County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=527285",
-      "date_posted": "2026-08-05",
-      "salary": "$6647.00 - $8325.00",
-      "ats": "CalCareers",
-      "telework": "Hybrid",
-      "job_type": "Permanent, Full Time",
-      "work_arrangement": "Telecommute eligible"
-    },
-    {
       "company": "Public Utilities Commission",
       "title": "Research Data Analyst II",
       "location": "San Francisco County",
       "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=527537",
       "date_posted": "2026-08-05",
       "salary": "$6647.00 - $8573.00",
+      "ats": "CalCareers",
+      "telework": "Hybrid",
+      "job_type": "Permanent, Full Time",
+      "work_arrangement": "Telecommute eligible"
+    },
+    {
+      "company": "Board of State and Community Corrections",
+      "title": "RESEARCH DATA ANALYST II",
+      "location": "Sacramento County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=527285",
+      "date_posted": "2026-08-05",
+      "salary": "$6647.00 - $8325.00",
       "ats": "CalCareers",
       "telework": "Hybrid",
       "job_type": "Permanent, Full Time",
