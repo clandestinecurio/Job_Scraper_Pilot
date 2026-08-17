@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-17 22:29 UTC",
-  "total": 135,
-  "new_count": 0,
+  "scraped_at": "2026-08-17 23:30 UTC",
+  "total": 141,
+  "new_count": 7,
   "jobs": [
     {
       "company": "Lam Research Corporation",
@@ -1000,15 +1000,15 @@
     {
       "company": "Lam Research",
       "title": "Protective Intelligence & Threat Analyst",
-      "location": "Tualatin, Oregon, United States",
-      "url": "https://lamresearch.eightfold.ai/careers/job/1099553704959",
-      "direct_url": "https://lamresearch.eightfold.ai/careers/job/1099553704959",
-      "date_posted": "2026-08-06T18:04:04.000Z",
-      "description": "Bachelor's degree in criminal justice, international relations, or a related field; 3–4 years of analytical experience; OSINT, investigations, threat assessment, communication, and problem-solving skills.",
+      "location": "Phoenix or Fremont or Tualatin",
+      "url": "https://lamresearch.eightfold.ai/careers/job/1099555378257",
+      "direct_url": "https://lamresearch.eightfold.ai/careers/job/1099555378257",
+      "date_posted": "2026-08-10T14:06:07.000Z",
+      "description": "Requires 8 years of related experience with a bachelor's degree, 6 years with a master's, or 3 years with a PhD; strong OSINT, investigative, analytical, communication, and problem-solving skills.",
       "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
+      "work_arrangement": "On-site",
       "ats": "HiringCafe"
     },
     {
@@ -1264,6 +1264,20 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Intenseye",
+      "title": "Implementation Manager",
+      "location": "New York City, New York, United States",
+      "url": "https://jobs.lever.co/intenseye/d646b305-48ef-49a1-939b-ec517608636c",
+      "direct_url": "https://jobs.lever.co/intenseye/d646b305-48ef-49a1-939b-ec517608636c",
+      "date_posted": "2026-08-17T14:32:52.133Z",
+      "description": "Bachelor's degree or equivalent experience, 3+ years managing technical deployments and project management experience, enterprise SaaS implementation expertise, and strong leadership, analytical, communication, and problem-solving skills.",
+      "salary": "$95k–$100k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "Telecommute eligible",
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Canva",
       "title": "Implementation Manager",
       "location": "San Francisco, California, United States",
@@ -1502,6 +1516,62 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Kira",
+      "title": "Deployment Strategist",
+      "location": "New York City, New York, United States",
+      "url": "https://jobs.ashbyhq.com/kira/d0304e80-32b7-4c4c-ad58-e8c19b15e708",
+      "direct_url": "https://jobs.ashbyhq.com/kira/d0304e80-32b7-4c4c-ad58-e8c19b15e708",
+      "date_posted": "2026-07-29T18:25:32.547Z",
+      "description": "7+ years experience; extensive hands-on use of AI tools; background in high-intensity roles; strong prioritization, customer-facing implementation, prototyping, and prompt-engineering fluency.",
+      "salary": "$160k–$200k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "Telecommute eligible",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Hippocratic AI",
+      "title": "Deployment Strategist",
+      "location": "Orange County or Menlo Park",
+      "url": "https://jobs.ashbyhq.com/hippocratic%20ai/a42049ce-e1af-40e6-b4b6-e5e0eb285a8a",
+      "direct_url": "https://jobs.ashbyhq.com/hippocratic%20ai/a42049ce-e1af-40e6-b4b6-e5e0eb285a8a",
+      "date_posted": "2026-08-15T15:20:24.986Z",
+      "description": "Requires 5+ years of technical experience, analytical and problem-solving skills, customer communication, technical requirements analysis, project scoping, timeline estimation, dependency management, and status communication.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Seekr",
+      "title": "Deployment Strategist ",
+      "location": "Austin or Reston",
+      "url": "https://www.seekr.com/careers/?gh_jid=4724221005",
+      "direct_url": "https://www.seekr.com/careers/?gh_jid=4724221005",
+      "date_posted": "2026-08-14T14:05:26.000Z",
+      "description": "Requires 7+ years in technical consulting, product management, solutions architecture, implementation, or technical delivery; solution requirements, enterprise engagements, commercial acumen, AI/ML workflows, Python, SQL, R, and infrastructure tooling.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "Telecommute eligible",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Mercor",
+      "title": "Deployment Strategist",
+      "location": "San Francisco or New York City or London",
+      "url": "https://jobs.ashbyhq.com/mercor/7581deeb-ffee-463c-a2cd-e86181655ff3",
+      "direct_url": "https://jobs.ashbyhq.com/mercor/7581deeb-ffee-463c-a2cd-e86181655ff3",
+      "date_posted": "2026-07-25T00:34:24.220Z",
+      "description": "2+ years in technical, customer-facing roles; familiarity with coding agents, proficiency with SQL and Python, strong product/technical judgment and cross-functional communication.",
+      "salary": "$140k–$210k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Mosaic",
       "title": "Deployment Strategist",
       "location": "New York City, New York, United States",
@@ -1558,20 +1628,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "ElevenLabs",
-      "title": "Deployment Strategist - Canada",
-      "location": "Canada or Toronto or Bengaluru or Dublin or London or New York City or San Francisco or Tokyo or Warsaw",
-      "url": "https://jobs.ashbyhq.com/elevenlabs/74b8610d-697c-404b-9620-8b934e3c65bd",
-      "direct_url": "https://jobs.ashbyhq.com/elevenlabs/74b8610d-697c-404b-9620-8b934e3c65bd",
-      "date_posted": "2026-08-11T19:38:23.220Z",
-      "description": "Requires 3+ years in a customer-facing technical role, product delivery and change management experience, commercial judgment, basic Python and API integration skills, strong communication, and familiarity with LLM and AI agent frameworks.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": true,
-      "work_arrangement": "Remote in-state eligible",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Specter",
       "title": "Founding Deployment Strategist",
       "location": "San Francisco, California, United States",
@@ -1583,6 +1639,20 @@
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "ElevenLabs",
+      "title": "Deployment Strategist - Canada",
+      "location": "Canada or Toronto or Bengaluru or Dublin or London or New York City or San Francisco or Tokyo or Warsaw",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/74b8610d-697c-404b-9620-8b934e3c65bd",
+      "direct_url": "https://jobs.ashbyhq.com/elevenlabs/74b8610d-697c-404b-9620-8b934e3c65bd",
+      "date_posted": "2026-08-11T19:38:23.220Z",
+      "description": "Requires 3+ years in a customer-facing technical role, product delivery and change management experience, commercial judgment, basic Python and API integration skills, strong communication, and familiarity with LLM and AI agent frameworks.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": true,
+      "work_arrangement": "Remote in-state eligible",
       "ats": "HiringCafe"
     },
     {
@@ -1782,6 +1852,20 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Monro",
+      "title": "Operations Efficiency Data Analyst",
+      "location": "Fairport or Rochester or United States",
+      "url": "https://ibqmjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Monro-Careers/requisitions/job/2977",
+      "direct_url": "https://ibqmjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Monro-Careers/requisitions/job/2977",
+      "date_posted": "2026-08-17T18:46:06.000Z",
+      "description": "Bachelor’s degree in business, data analytics, information systems, or related field, or equivalent experience. Preferred analytics experience and proficiency with Excel, Snowflake, AWS, Power BI, ETL, and data pipelines.",
+      "salary": "$90k–$105k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
       "company": "GEICO",
       "title": "Sales Operations Data Analyst",
       "location": "Getzville or Fredericksburg or United States",
@@ -1894,5 +1978,104 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "Lam Research",
+      "title": "Protective Intelligence & Threat Analyst",
+      "location": "Phoenix or Fremont or Tualatin",
+      "url": "https://lamresearch.eightfold.ai/careers/job/1099555378257",
+      "direct_url": "https://lamresearch.eightfold.ai/careers/job/1099555378257",
+      "date_posted": "2026-08-10T14:06:07.000Z",
+      "description": "Requires 8 years of related experience with a bachelor's degree, 6 years with a master's, or 3 years with a PhD; strong OSINT, investigative, analytical, communication, and problem-solving skills.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Intenseye",
+      "title": "Implementation Manager",
+      "location": "New York City, New York, United States",
+      "url": "https://jobs.lever.co/intenseye/d646b305-48ef-49a1-939b-ec517608636c",
+      "direct_url": "https://jobs.lever.co/intenseye/d646b305-48ef-49a1-939b-ec517608636c",
+      "date_posted": "2026-08-17T14:32:52.133Z",
+      "description": "Bachelor's degree or equivalent experience, 3+ years managing technical deployments and project management experience, enterprise SaaS implementation expertise, and strong leadership, analytical, communication, and problem-solving skills.",
+      "salary": "$95k–$100k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "Telecommute eligible",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Kira",
+      "title": "Deployment Strategist",
+      "location": "New York City, New York, United States",
+      "url": "https://jobs.ashbyhq.com/kira/d0304e80-32b7-4c4c-ad58-e8c19b15e708",
+      "direct_url": "https://jobs.ashbyhq.com/kira/d0304e80-32b7-4c4c-ad58-e8c19b15e708",
+      "date_posted": "2026-07-29T18:25:32.547Z",
+      "description": "7+ years experience; extensive hands-on use of AI tools; background in high-intensity roles; strong prioritization, customer-facing implementation, prototyping, and prompt-engineering fluency.",
+      "salary": "$160k–$200k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "Telecommute eligible",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Hippocratic AI",
+      "title": "Deployment Strategist",
+      "location": "Orange County or Menlo Park",
+      "url": "https://jobs.ashbyhq.com/hippocratic%20ai/a42049ce-e1af-40e6-b4b6-e5e0eb285a8a",
+      "direct_url": "https://jobs.ashbyhq.com/hippocratic%20ai/a42049ce-e1af-40e6-b4b6-e5e0eb285a8a",
+      "date_posted": "2026-08-15T15:20:24.986Z",
+      "description": "Requires 5+ years of technical experience, analytical and problem-solving skills, customer communication, technical requirements analysis, project scoping, timeline estimation, dependency management, and status communication.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Seekr",
+      "title": "Deployment Strategist ",
+      "location": "Austin or Reston",
+      "url": "https://www.seekr.com/careers/?gh_jid=4724221005",
+      "direct_url": "https://www.seekr.com/careers/?gh_jid=4724221005",
+      "date_posted": "2026-08-14T14:05:26.000Z",
+      "description": "Requires 7+ years in technical consulting, product management, solutions architecture, implementation, or technical delivery; solution requirements, enterprise engagements, commercial acumen, AI/ML workflows, Python, SQL, R, and infrastructure tooling.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "Telecommute eligible",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Mercor",
+      "title": "Deployment Strategist",
+      "location": "San Francisco or New York City or London",
+      "url": "https://jobs.ashbyhq.com/mercor/7581deeb-ffee-463c-a2cd-e86181655ff3",
+      "direct_url": "https://jobs.ashbyhq.com/mercor/7581deeb-ffee-463c-a2cd-e86181655ff3",
+      "date_posted": "2026-07-25T00:34:24.220Z",
+      "description": "2+ years in technical, customer-facing roles; familiarity with coding agents, proficiency with SQL and Python, strong product/technical judgment and cross-functional communication.",
+      "salary": "$140k–$210k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Monro",
+      "title": "Operations Efficiency Data Analyst",
+      "location": "Fairport or Rochester or United States",
+      "url": "https://ibqmjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Monro-Careers/requisitions/job/2977",
+      "direct_url": "https://ibqmjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Monro-Careers/requisitions/job/2977",
+      "date_posted": "2026-08-17T18:46:06.000Z",
+      "description": "Bachelor’s degree in business, data analytics, information systems, or related field, or equivalent experience. Preferred analytics experience and proficiency with Excel, Snowflake, AWS, Power BI, ETL, and data pipelines.",
+      "salary": "$90k–$105k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    }
+  ]
 }
