@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-17 02:11 UTC",
-  "total": 16,
-  "new_count": 0,
+  "scraped_at": "2026-08-17 03:35 UTC",
+  "total": 17,
+  "new_count": 1,
   "jobs": [
     {
       "company": "Capgemini",
@@ -123,6 +123,24 @@
       "salary": "",
       "salary_source": "",
       "salary_currency": "USD",
+      "job_type": "fulltime",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "emails": "",
+      "ats": "Indeed"
+    },
+    {
+      "company": "TechINT Solutions Group (TSG)",
+      "title": "WMD Intelligence Analyst",
+      "location": "Washington, DC, US",
+      "url": "https://www.indeed.com/viewjob?jk=92ca685886ef7c3f",
+      "direct_url": "https://theapplicantmanager.com/jobs?pos=ti1649&src=Indeed",
+      "company_url": "https://www.indeed.com/cmp/Techint-Solutions-Group-(tsg)",
+      "date_posted": "2026-08-16",
+      "description": "Pioneers. Innovators. Professionals. TechINT Solutions Group (TechINT) is recognized for its knowledge and experience in providing innovative technology exploitation, operational intelligence, counter unmanned aerial systems and cyber security. TechINT Solutions Group has developed a unique analytical methodology to understand current and emerging technology that can be co\\-opted for nefarious purposes. Our innovative analytical methodology helps identify key variables indicative of illicit use or planned illicit use technologies.  \n\n  \n\nTechINT Solutions Group is seeking an WMD Analyst to join our Washington, DC team. Job\\# TI1477  \n\n  \n\n**Job Description and responsibilities**\n* Responsible for executing complex in\\-depth WMD threat analysis to produce products (papers, presentations and reports) to inform senior DHS leadership, DHS Components and other federal, state and local homeland security customers for the purposes of: Identifying and understanding WMD Homeland threats and providing recommendations to respond to, mitigate and disrupt such threats.\n* Serve as production or overall author for individual reports and projects.\n* Additionally, is responsible for supporting customer efforts developing and fostering relationships to facilitate coordination and collaboration with DHS and other USG/Intelligence Community partners at the analyst level.\n\n\n  \n\n**Requirements**\n* Candidates must have active TS/SCI clearance.\n* Education: B.A./M.A. degree in relevant field\n* Up to 3 years’ experience in intelligence analysis.\n* Previous experience with CBRN/WMD\\-related intelligence preferred.\n\n\n  \n\n**Benefits**  \n\nTechINT Solutions Group recognizes the need to support the well\\-being of our team members which is why we offer 15 personal days plus 10 paid federal holidays per year which will grow over time. We offer above industry standard medical, dental, vision, and life insurance plans along with a competitive 401kretirement plan to ensure we help support you, your family's well\\-being, and your retirement strategy as you grow with TechINT.  \n\n  \n\nPAYTRANSPARENCY NONDISCRIMINATION PROVISION  \n\nTechINT Solutions Group will not discharge or in any other manner discriminate against employees or applicants because they have inquired about, discussed, or disclosed their own pay or the pay of another employee or applicant. However, employees who have access to the compensation information of other employees or applicants as a part of their essential job functions cannot disclose the pay of other employees or applicants to individuals who do not otherwise have access to compensation information, unless the disclosure is (a) in response to a formal complaint or charge, (b) in furtherance of an investigation, proceeding, hearing, or action, including an investigation conducted by TechINT Solutions Group, or (c) consistent with TechINT Solutions Group’s legal duty to furnish information. 41 CFR 60\\-1",
+      "salary": "",
+      "salary_source": "",
+      "salary_currency": "",
       "job_type": "fulltime",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -292,5 +310,24 @@
       "ats": "Indeed"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "TechINT Solutions Group (TSG)",
+      "title": "WMD Intelligence Analyst",
+      "location": "Washington, DC, US",
+      "url": "https://www.indeed.com/viewjob?jk=92ca685886ef7c3f",
+      "direct_url": "https://theapplicantmanager.com/jobs?pos=ti1649&src=Indeed",
+      "company_url": "https://www.indeed.com/cmp/Techint-Solutions-Group-(tsg)",
+      "date_posted": "2026-08-16",
+      "description": "Pioneers. Innovators. Professionals. TechINT Solutions Group (TechINT) is recognized for its knowledge and experience in providing innovative technology exploitation, operational intelligence, counter unmanned aerial systems and cyber security. TechINT Solutions Group has developed a unique analytical methodology to understand current and emerging technology that can be co\\-opted for nefarious purposes. Our innovative analytical methodology helps identify key variables indicative of illicit use or planned illicit use technologies.  \n\n  \n\nTechINT Solutions Group is seeking an WMD Analyst to join our Washington, DC team. Job\\# TI1477  \n\n  \n\n**Job Description and responsibilities**\n* Responsible for executing complex in\\-depth WMD threat analysis to produce products (papers, presentations and reports) to inform senior DHS leadership, DHS Components and other federal, state and local homeland security customers for the purposes of: Identifying and understanding WMD Homeland threats and providing recommendations to respond to, mitigate and disrupt such threats.\n* Serve as production or overall author for individual reports and projects.\n* Additionally, is responsible for supporting customer efforts developing and fostering relationships to facilitate coordination and collaboration with DHS and other USG/Intelligence Community partners at the analyst level.\n\n\n  \n\n**Requirements**\n* Candidates must have active TS/SCI clearance.\n* Education: B.A./M.A. degree in relevant field\n* Up to 3 years’ experience in intelligence analysis.\n* Previous experience with CBRN/WMD\\-related intelligence preferred.\n\n\n  \n\n**Benefits**  \n\nTechINT Solutions Group recognizes the need to support the well\\-being of our team members which is why we offer 15 personal days plus 10 paid federal holidays per year which will grow over time. We offer above industry standard medical, dental, vision, and life insurance plans along with a competitive 401kretirement plan to ensure we help support you, your family's well\\-being, and your retirement strategy as you grow with TechINT.  \n\n  \n\nPAYTRANSPARENCY NONDISCRIMINATION PROVISION  \n\nTechINT Solutions Group will not discharge or in any other manner discriminate against employees or applicants because they have inquired about, discussed, or disclosed their own pay or the pay of another employee or applicant. However, employees who have access to the compensation information of other employees or applicants as a part of their essential job functions cannot disclose the pay of other employees or applicants to individuals who do not otherwise have access to compensation information, unless the disclosure is (a) in response to a formal complaint or charge, (b) in furtherance of an investigation, proceeding, hearing, or action, including an investigation conducted by TechINT Solutions Group, or (c) consistent with TechINT Solutions Group’s legal duty to furnish information. 41 CFR 60\\-1",
+      "salary": "",
+      "salary_source": "",
+      "salary_currency": "",
+      "job_type": "fulltime",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "emails": "",
+      "ats": "Indeed"
+    }
+  ]
 }
