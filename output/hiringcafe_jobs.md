@@ -1,36 +1,25 @@
 # ☕ HiringCafe — Megan's Strategy, Security & Operations Roles
-*Last updated: 2026-08-18 20:11 UTC*
+*Last updated: 2026-08-18 21:34 UTC*
 
-**5 new role(s)** since last run · 149 total in last 30d
+**3 new role(s)** since last run · 147 total in last 30d
 
-### [Intelligence Analyst](https://jobs.workable.com/view/7RSfRWRxmhcRYvDY5HVqXH/remote-intelligence-analyst-in-washington-at-moonshot) — Moonshot
-- 📍 **Location:** Massachusetts or Colorado or New York or Virginia or Georgia or Pennsylvania or Maryland or Wisconsin or Tennessee or Oregon or New Jersey or District of Columbia
+### [Security Program Manager, AWS](https://www.amazon.jobs/en/jobs/10504973/security-program-manager-aws) — Amazon Data Services, Inc.
+- 📍 **Location:** Hilliard, Ohio, United States
+- 💰 **Salary:** $80k–$140k/yr
+- **Work mode:** On-site
+- **Job type:** Full Time
+- 🕒 **Posted:** 2026-08-18T12:00:00.000Z
+
+### [Intelligence Analyst](https://jobs.workable.com/view/8CbzK7Dx6H64fMF9QjAqAo/remote-intelligence-analyst-in-denver-at-moonshot) — Moonshot
+- 📍 **Location:** Colorado or Massachusetts or New York or Virginia or Georgia or Pennsylvania or Maryland or Wisconsin or Tennessee or Oregon or New Jersey or District of Columbia or Denver
 - 💰 **Salary:** $50k–$57k/yr
 - **Work mode:** Remote in-state eligible
 - **Job type:** Full Time
-- 🕒 **Posted:** 2026-08-07T05:44:48.216Z
+- 🕒 **Posted:** 2026-08-07T05:44:48.684Z
 
-### [Protective Intelligence & Threat Analyst](https://lamresearch.eightfold.ai/careers/job/1099553704959) — Lam Research
-- 📍 **Location:** Tualatin, Oregon, United States
-- **Work mode:** Telecommute eligible
-- **Job type:** Full Time
-- 🕒 **Posted:** 2026-08-06T18:04:04.000Z
-
-### [Deployment Strategist](https://jobs.ashbyhq.com/causal/4e621c74-66c3-43a7-9720-be794095fc5f) — Causal
-- 📍 **Location:** San Francisco, California, United States
+### [Deployment Strategist](https://jobs.lever.co/istaridigital.ai/50f7efb2-310c-4854-8fbc-a86e90082f32) — Istaridigital.ai
+- 📍 **Location:** Dayton, Ohio, United States
+- 💰 **Salary:** $140k–$220k/yr
 - **Work mode:** On-site
 - **Job type:** Full Time
-- 🕒 **Posted:** 2026-07-20T21:39:46.221Z
-
-### [Deployment Strategist](https://jobs.ashbyhq.com/siftstack/8c4b04b2-4dd9-4bc5-a26b-3133538bc1be) — SIFT
-- 📍 **Location:** Marina Del Rey, California, United States
-- 💰 **Salary:** $125k–$175k/yr
-- **Work mode:** Telecommute eligible
-- **Job type:** Full Time
-- 🕒 **Posted:** 2026-07-29T23:18:28.497Z
-
-### [AI Deployment Strategist](https://jobs.ashbyhq.com/freehand/fe8baee3-b6c4-42a7-849d-467cbd72bad7) — Freehand
-- 📍 **Location:** India or United States
-- **Work mode:** Remote in-state eligible
-- **Job type:** Full Time
-- 🕒 **Posted:** 2026-07-31T09:04:20.459Z
+- 🕒 **Posted:** 2026-07-21T12:59:25.682Z
