@@ -1,50 +1,23 @@
 # ☕ HiringCafe — Megan's Strategy, Security & Operations Roles
-*Last updated: 2026-08-18 00:27 UTC*
+*Last updated: 2026-08-18 02:37 UTC*
 
-**7 new role(s)** since last run · 141 total in last 30d
+**3 new role(s)** since last run · 142 total in last 30d
 
-### [Security Program Manager](https://job-boards.greenhouse.io/thesciongroupllc/jobs/8671806002) — The Scion Group
-- 📍 **Location:** Chicago, Illinois, United States
-- 💰 **Salary:** $115k–$130k/yr
+### [Deployment Strategist](https://jobs.ashbyhq.com/foresightdatamachines/9fb9aeae-dd10-4927-a830-613fed864502) — Foresight Data Machines
+- 📍 **Location:** Austin, Texas, United States
 - **Work mode:** On-site
 - **Job type:** Full Time
-- 🕒 **Posted:** 2026-08-03T14:31:38.000Z
+- 🕒 **Posted:** 2026-07-30T06:14:12.068Z
 
-### [Security Program Manager](https://lennar.wd1.myworkdayjobs.com/lennar_jobs/job/Miami-FL-Job-Posting-Location/Security-Program-Manager_R26_0000003595) — Lennar
-- 📍 **Location:** Miami or Irving
+### [Deployment Strategist](https://jobs.ashbyhq.com/causal/4e621c74-66c3-43a7-9720-be794095fc5f) — Causal
+- 📍 **Location:** San Francisco, California, United States
 - **Work mode:** On-site
 - **Job type:** Full Time
-- 🕒 **Posted:** 2026-08-17T00:00:00.000Z
+- 🕒 **Posted:** 2026-07-20T21:39:46.221Z
 
-### [Security Technical Program Manager](https://ffive.wd5.myworkdayjobs.com/f5jobs/job/Seattle/Security-Technical-Program-Manager_RP1038303) — F5
-- 📍 **Location:** Seattle, Washington, United States
-- 💰 **Salary:** $128k–$193k/yr
-- **Work mode:** Remote in-state eligible
-- **Job type:** Full Time
-- 🕒 **Posted:** 2026-08-17T00:00:00.000Z
-
-### [Protective Intelligence & Threat Analyst](https://lamresearch.eightfold.ai/careers/job/1099553704959) — Lam Research
-- 📍 **Location:** Tualatin, Oregon, United States
+### [Deployment Strategist](https://jobs.ashbyhq.com/siftstack/8c4b04b2-4dd9-4bc5-a26b-3133538bc1be) — SIFT
+- 📍 **Location:** Marina Del Rey, California, United States
+- 💰 **Salary:** $125k–$175k/yr
 - **Work mode:** Telecommute eligible
 - **Job type:** Full Time
-- 🕒 **Posted:** 2026-08-06T18:04:04.000Z
-
-### [Deployment Strategist](https://jobs.ashbyhq.com/hippocratic%20ai/1de2b3b5-b41c-45f6-9192-d4199fd16d7d) — Hippocratic AI
-- 📍 **Location:** Duarte or Menlo Park
-- **Work mode:** On-site
-- **Job type:** Full Time
-- 🕒 **Posted:** 2026-08-15T15:09:09.325Z
-
-### [Deployment Strategist](https://jobs.lever.co/istaridigital.ai/9175aec4-0907-43da-b082-41bb145db144) — Istaridigital.ai
-- 📍 **Location:** Melbourne, Florida, United States
-- 💰 **Salary:** $140k–$220k/yr
-- **Work mode:** On-site
-- **Job type:** Full Time
-- 🕒 **Posted:** 2026-07-21T13:03:37.200Z
-
-### [AI Deployment Strategist](https://zoom.wd5.myworkdayjobs.com/zoom/job/Remote--US/Applied-AI-Engineers_R19229-1) — Zoom
-- 📍 **Location:** United States or San Jose or Seattle
-- 💰 **Salary:** $124k–$271k/yr
-- **Work mode:** Remote in-state eligible
-- **Job type:** Full Time
-- 🕒 **Posted:** 2026-08-17T00:00:00.000Z
+- 🕒 **Posted:** 2026-07-29T23:18:28.497Z

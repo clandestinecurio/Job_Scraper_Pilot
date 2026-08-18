@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-18 00:27 UTC",
-  "total": 141,
-  "new_count": 7,
+  "scraped_at": "2026-08-18 02:37 UTC",
+  "total": 142,
+  "new_count": 3,
   "jobs": [
     {
       "company": "Lam Research Corporation",
@@ -1124,20 +1124,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Elliptic",
-      "title": "Senior Crypto Threat Analyst - Sanctions",
-      "location": "Washington, District of Columbia, United States",
-      "url": "https://jobs.ashbyhq.com/elliptic/073b177e-0760-4a6b-be51-912b4521aaea",
-      "direct_url": "https://jobs.ashbyhq.com/elliptic/073b177e-0760-4a6b-be51-912b4521aaea",
-      "date_posted": "2026-08-07T12:30:57.323Z",
-      "description": "Significant intelligence, investigation, or sanctions-compliance experience; expertise in OFAC, UK, EU, and UN sanctions; monitoring framework design; blockchain analytics, OSINT, corporate registries, adverse media, and AI fluency.",
-      "salary": "$175k–$215k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Amoria Group",
       "title": "Governance Risk and Compliance Manager ",
       "location": "Manchester or Dallas or Cologne or Amsterdam or Singapore",
@@ -1404,20 +1390,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "SafelyYou",
-      "title": "Implementation Manager",
-      "location": "United States",
-      "url": "https://careers.safely-you.com/jobs/682937-implementation-manager",
-      "direct_url": "https://careers.safely-you.com/jobs/682937-implementation-manager",
-      "date_posted": "2026-08-13T18:38:32.000Z",
-      "description": "Requires 3+ years in onboarding, implementation, or project management; strong organization, communication, troubleshooting, technical, networking, solution architecture, and multi-project skills; willingness to travel up to 25%.",
-      "salary": "$90k–$100k/yr",
-      "job_type": "Full Time",
-      "is_remote": true,
-      "work_arrangement": "Remote in-state eligible",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "MetTel",
       "title": "Implementation Manager ",
       "location": "Holmdel, New Jersey, United States",
@@ -1429,6 +1401,20 @@
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "SafelyYou",
+      "title": "Implementation Manager",
+      "location": "United States",
+      "url": "https://careers.safely-you.com/jobs/682937-implementation-manager",
+      "direct_url": "https://careers.safely-you.com/jobs/682937-implementation-manager",
+      "date_posted": "2026-08-13T18:38:32.000Z",
+      "description": "Requires 3+ years in onboarding, implementation, or project management; strong organization, communication, troubleshooting, technical, networking, solution architecture, and multi-project skills; willingness to travel up to 25%.",
+      "salary": "$90k–$100k/yr",
+      "job_type": "Full Time",
+      "is_remote": true,
+      "work_arrangement": "Remote in-state eligible",
       "ats": "HiringCafe"
     },
     {
@@ -1544,6 +1530,34 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Foresight Data Machines",
+      "title": "Deployment Strategist",
+      "location": "Austin, Texas, United States",
+      "url": "https://jobs.ashbyhq.com/foresightdatamachines/9fb9aeae-dd10-4927-a830-613fed864502",
+      "direct_url": "https://jobs.ashbyhq.com/foresightdatamachines/9fb9aeae-dd10-4927-a830-613fed864502",
+      "date_posted": "2026-07-30T06:14:12.068Z",
+      "description": "Programming familiarity, bachelor’s degree (or equivalent) in physics/engineering/math, strong communication, ability to work in dynamic environments, willingness to travel 25–75% and be colocated in office.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Causal",
+      "title": "Deployment Strategist",
+      "location": "San Francisco, California, United States",
+      "url": "https://jobs.ashbyhq.com/causal/4e621c74-66c3-43a7-9720-be794095fc5f",
+      "direct_url": "https://jobs.ashbyhq.com/causal/4e621c74-66c3-43a7-9720-be794095fc5f",
+      "date_posted": "2026-07-20T21:39:46.221Z",
+      "description": "Track record driving complex initiatives, stakeholder alignment, problem decomposition, technical fluency to partner with engineers, and willingness to travel and embed on-site with customers.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Endeavor",
       "title": "Deployment Strategist",
       "location": "Reston, Virginia, United States",
@@ -1558,17 +1572,17 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Hippocratic AI",
+      "company": "SIFT",
       "title": "Deployment Strategist",
-      "location": "Orange County or Menlo Park",
-      "url": "https://jobs.ashbyhq.com/hippocratic%20ai/a42049ce-e1af-40e6-b4b6-e5e0eb285a8a",
-      "direct_url": "https://jobs.ashbyhq.com/hippocratic%20ai/a42049ce-e1af-40e6-b4b6-e5e0eb285a8a",
-      "date_posted": "2026-08-15T15:20:24.986Z",
-      "description": "Requires 5+ years of technical experience, analytical and problem-solving skills, customer communication, technical requirements analysis, project scoping, timeline estimation, dependency management, and status communication.",
-      "salary": "",
+      "location": "Marina Del Rey, California, United States",
+      "url": "https://jobs.ashbyhq.com/siftstack/8c4b04b2-4dd9-4bc5-a26b-3133538bc1be",
+      "direct_url": "https://jobs.ashbyhq.com/siftstack/8c4b04b2-4dd9-4bc5-a26b-3133538bc1be",
+      "date_posted": "2026-07-29T23:18:28.497Z",
+      "description": "Strong technical background, stakeholder management, project management, driving adoption of technical products, ability to explain technical concepts; U.S. person required; willingness to travel ~10-15%.",
+      "salary": "$125k–$175k/yr",
       "job_type": "Full Time",
       "is_remote": false,
-      "work_arrangement": "On-site",
+      "work_arrangement": "Telecommute eligible",
       "ats": "HiringCafe"
     },
     {
@@ -1684,20 +1698,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Hazel",
-      "title": "AI Deployment Strategist",
-      "location": "New York City, New York, United States",
-      "url": "https://jobs.ashbyhq.com/hazel/a10ec44b-75a9-4932-b0f0-ddb2661d390a",
-      "direct_url": "https://jobs.ashbyhq.com/hazel/a10ec44b-75a9-4932-b0f0-ddb2661d390a",
-      "date_posted": "2026-08-17T14:15:05.694Z",
-      "description": "Requires 2–5 years of experience, rapid learning, stakeholder communication, group teaching, data diagnosis, technical discussion leadership, daily AI use, and willingness to travel; SQL and e-commerce experience are preferred.",
-      "salary": "$115k–$145k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Nooks",
       "title": "AI Deployment Strategist",
       "location": "San Francisco, California, United States",
@@ -1723,6 +1723,20 @@
       "job_type": "Full Time",
       "is_remote": true,
       "work_arrangement": "Remote in-state eligible",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Hazel",
+      "title": "AI Deployment Strategist",
+      "location": "New York City, New York, United States",
+      "url": "https://jobs.ashbyhq.com/hazel/a10ec44b-75a9-4932-b0f0-ddb2661d390a",
+      "direct_url": "https://jobs.ashbyhq.com/hazel/a10ec44b-75a9-4932-b0f0-ddb2661d390a",
+      "date_posted": "2026-08-17T14:15:05.694Z",
+      "description": "Requires 2–5 years of experience, rapid learning, stakeholder communication, group teaching, data diagnosis, technical discussion leadership, daily AI use, and willingness to travel; SQL and e-commerce experience are preferred.",
+      "salary": "$115k–$145k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "Telecommute eligible",
       "ats": "HiringCafe"
     },
     {
@@ -1980,27 +1994,13 @@
   ],
   "new_jobs": [
     {
-      "company": "The Scion Group",
-      "title": "Security Program Manager",
-      "location": "Chicago, Illinois, United States",
-      "url": "https://job-boards.greenhouse.io/thesciongroupllc/jobs/8671806002",
-      "direct_url": "https://job-boards.greenhouse.io/thesciongroupllc/jobs/8671806002",
-      "date_posted": "2026-08-03T14:31:38.000Z",
-      "description": "Bachelor's degree in related field, 5+ years in corporate security/program management, proficiency with data analysis and Microsoft Office, strong communication and project management skills.",
-      "salary": "$115k–$130k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Lennar",
-      "title": "Security Program Manager",
-      "location": "Miami or Irving",
-      "url": "https://lennar.wd1.myworkdayjobs.com/lennar_jobs/job/Miami-FL-Job-Posting-Location/Security-Program-Manager_R26_0000003595",
-      "direct_url": "https://lennar.wd1.myworkdayjobs.com/lennar_jobs/job/Miami-FL-Job-Posting-Location/Security-Program-Manager_R26_0000003595",
-      "date_posted": "2026-08-17T00:00:00.000Z",
-      "description": "7+ years in IT program management, audit, risk, compliance, or governance, including 5+ years leading multi-workstream programs; bachelor's degree or equivalent experience and strong NIST, audit, and communication skills.",
+      "company": "Foresight Data Machines",
+      "title": "Deployment Strategist",
+      "location": "Austin, Texas, United States",
+      "url": "https://jobs.ashbyhq.com/foresightdatamachines/9fb9aeae-dd10-4927-a830-613fed864502",
+      "direct_url": "https://jobs.ashbyhq.com/foresightdatamachines/9fb9aeae-dd10-4927-a830-613fed864502",
+      "date_posted": "2026-07-30T06:14:12.068Z",
+      "description": "Programming familiarity, bachelor’s degree (or equivalent) in physics/engineering/math, strong communication, ability to work in dynamic environments, willingness to travel 25–75% and be colocated in office.",
       "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
@@ -2008,73 +2008,31 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "F5",
-      "title": "Security Technical Program Manager",
-      "location": "Seattle, Washington, United States",
-      "url": "https://ffive.wd5.myworkdayjobs.com/f5jobs/job/Seattle/Security-Technical-Program-Manager_RP1038303",
-      "direct_url": "https://ffive.wd5.myworkdayjobs.com/f5jobs/job/Seattle/Security-Technical-Program-Manager_RP1038303",
-      "date_posted": "2026-08-17T00:00:00.000Z",
-      "description": "Bachelor’s degree or equivalent experience; 8+ years in program management; complex cybersecurity program experience preferred; PMP, PgMP, or other project management certification highly desirable.",
-      "salary": "$128k–$193k/yr",
+      "company": "Causal",
+      "title": "Deployment Strategist",
+      "location": "San Francisco, California, United States",
+      "url": "https://jobs.ashbyhq.com/causal/4e621c74-66c3-43a7-9720-be794095fc5f",
+      "direct_url": "https://jobs.ashbyhq.com/causal/4e621c74-66c3-43a7-9720-be794095fc5f",
+      "date_posted": "2026-07-20T21:39:46.221Z",
+      "description": "Track record driving complex initiatives, stakeholder alignment, problem decomposition, technical fluency to partner with engineers, and willingness to travel and embed on-site with customers.",
+      "salary": "",
       "job_type": "Full Time",
-      "is_remote": true,
-      "work_arrangement": "Remote in-state eligible",
+      "is_remote": false,
+      "work_arrangement": "On-site",
       "ats": "HiringCafe"
     },
     {
-      "company": "Lam Research",
-      "title": "Protective Intelligence & Threat Analyst",
-      "location": "Tualatin, Oregon, United States",
-      "url": "https://lamresearch.eightfold.ai/careers/job/1099553704959",
-      "direct_url": "https://lamresearch.eightfold.ai/careers/job/1099553704959",
-      "date_posted": "2026-08-06T18:04:04.000Z",
-      "description": "Bachelor's degree in criminal justice, international relations, or a related field; 3–4 years of analytical experience; OSINT, investigations, threat assessment, communication, and problem-solving skills.",
-      "salary": "",
+      "company": "SIFT",
+      "title": "Deployment Strategist",
+      "location": "Marina Del Rey, California, United States",
+      "url": "https://jobs.ashbyhq.com/siftstack/8c4b04b2-4dd9-4bc5-a26b-3133538bc1be",
+      "direct_url": "https://jobs.ashbyhq.com/siftstack/8c4b04b2-4dd9-4bc5-a26b-3133538bc1be",
+      "date_posted": "2026-07-29T23:18:28.497Z",
+      "description": "Strong technical background, stakeholder management, project management, driving adoption of technical products, ability to explain technical concepts; U.S. person required; willingness to travel ~10-15%.",
+      "salary": "$125k–$175k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "Telecommute eligible",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Hippocratic AI",
-      "title": "Deployment Strategist",
-      "location": "Duarte or Menlo Park",
-      "url": "https://jobs.ashbyhq.com/hippocratic%20ai/1de2b3b5-b41c-45f6-9192-d4199fd16d7d",
-      "direct_url": "https://jobs.ashbyhq.com/hippocratic%20ai/1de2b3b5-b41c-45f6-9192-d4199fd16d7d",
-      "date_posted": "2026-08-15T15:09:09.325Z",
-      "description": "Requires 5+ years of technical experience in software engineering, cloud architecture, systems design, or technical consulting, plus analytical, communication, customer empathy, and project management skills.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Istaridigital.ai",
-      "title": "Deployment Strategist",
-      "location": "Melbourne, Florida, United States",
-      "url": "https://jobs.lever.co/istaridigital.ai/9175aec4-0907-43da-b082-41bb145db144",
-      "direct_url": "https://jobs.lever.co/istaridigital.ai/9175aec4-0907-43da-b082-41bb145db144",
-      "date_posted": "2026-07-21T13:03:37.200Z",
-      "description": "Owns defense program outcomes, customer relationships, priorities, deliverables, growth, and technical direction; requires defense-domain fluency, technical breadth, product sense, and government program experience.",
-      "salary": "$140k–$220k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Zoom",
-      "title": "AI Deployment Strategist",
-      "location": "United States or San Jose or Seattle",
-      "url": "https://zoom.wd5.myworkdayjobs.com/zoom/job/Remote--US/Applied-AI-Engineers_R19229-1",
-      "direct_url": "https://zoom.wd5.myworkdayjobs.com/zoom/job/Remote--US/Applied-AI-Engineers_R19229-1",
-      "date_posted": "2026-08-17T00:00:00.000Z",
-      "description": "Requires 4+ years in customer-facing technical roles shipping SaaS or AI/ML solutions, production LLM agent deployment, voice AI expertise, Python, TypeScript or Go, testing, and stakeholder communication.",
-      "salary": "$124k–$271k/yr",
-      "job_type": "Full Time",
-      "is_remote": true,
-      "work_arrangement": "Remote in-state eligible",
       "ats": "HiringCafe"
     }
   ]
