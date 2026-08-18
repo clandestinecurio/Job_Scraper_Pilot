@@ -1,50 +1,50 @@
 # ☕ HiringCafe — Megan's Strategy, Security & Operations Roles
-*Last updated: 2026-08-17 23:30 UTC*
+*Last updated: 2026-08-18 00:27 UTC*
 
 **7 new role(s)** since last run · 141 total in last 30d
 
-### [Protective Intelligence & Threat Analyst](https://lamresearch.eightfold.ai/careers/job/1099555378257) — Lam Research
-- 📍 **Location:** Phoenix or Fremont or Tualatin
+### [Security Program Manager](https://job-boards.greenhouse.io/thesciongroupllc/jobs/8671806002) — The Scion Group
+- 📍 **Location:** Chicago, Illinois, United States
+- 💰 **Salary:** $115k–$130k/yr
 - **Work mode:** On-site
 - **Job type:** Full Time
-- 🕒 **Posted:** 2026-08-10T14:06:07.000Z
+- 🕒 **Posted:** 2026-08-03T14:31:38.000Z
 
-### [Implementation Manager](https://jobs.lever.co/intenseye/d646b305-48ef-49a1-939b-ec517608636c) — Intenseye
-- 📍 **Location:** New York City, New York, United States
-- 💰 **Salary:** $95k–$100k/yr
+### [Security Program Manager](https://lennar.wd1.myworkdayjobs.com/lennar_jobs/job/Miami-FL-Job-Posting-Location/Security-Program-Manager_R26_0000003595) — Lennar
+- 📍 **Location:** Miami or Irving
+- **Work mode:** On-site
+- **Job type:** Full Time
+- 🕒 **Posted:** 2026-08-17T00:00:00.000Z
+
+### [Security Technical Program Manager](https://ffive.wd5.myworkdayjobs.com/f5jobs/job/Seattle/Security-Technical-Program-Manager_RP1038303) — F5
+- 📍 **Location:** Seattle, Washington, United States
+- 💰 **Salary:** $128k–$193k/yr
+- **Work mode:** Remote in-state eligible
+- **Job type:** Full Time
+- 🕒 **Posted:** 2026-08-17T00:00:00.000Z
+
+### [Protective Intelligence & Threat Analyst](https://lamresearch.eightfold.ai/careers/job/1099553704959) — Lam Research
+- 📍 **Location:** Tualatin, Oregon, United States
 - **Work mode:** Telecommute eligible
 - **Job type:** Full Time
-- 🕒 **Posted:** 2026-08-17T14:32:52.133Z
+- 🕒 **Posted:** 2026-08-06T18:04:04.000Z
 
-### [Deployment Strategist](https://jobs.ashbyhq.com/kira/d0304e80-32b7-4c4c-ad58-e8c19b15e708) — Kira
-- 📍 **Location:** New York City, New York, United States
-- 💰 **Salary:** $160k–$200k/yr
-- **Work mode:** Telecommute eligible
-- **Job type:** Full Time
-- 🕒 **Posted:** 2026-07-29T18:25:32.547Z
-
-### [Deployment Strategist](https://jobs.ashbyhq.com/hippocratic%20ai/a42049ce-e1af-40e6-b4b6-e5e0eb285a8a) — Hippocratic AI
-- 📍 **Location:** Orange County or Menlo Park
+### [Deployment Strategist](https://jobs.ashbyhq.com/hippocratic%20ai/1de2b3b5-b41c-45f6-9192-d4199fd16d7d) — Hippocratic AI
+- 📍 **Location:** Duarte or Menlo Park
 - **Work mode:** On-site
 - **Job type:** Full Time
-- 🕒 **Posted:** 2026-08-15T15:20:24.986Z
+- 🕒 **Posted:** 2026-08-15T15:09:09.325Z
 
-### [Deployment Strategist ](https://www.seekr.com/careers/?gh_jid=4724221005) — Seekr
-- 📍 **Location:** Austin or Reston
-- **Work mode:** Telecommute eligible
-- **Job type:** Full Time
-- 🕒 **Posted:** 2026-08-14T14:05:26.000Z
-
-### [Deployment Strategist](https://jobs.ashbyhq.com/mercor/7581deeb-ffee-463c-a2cd-e86181655ff3) — Mercor
-- 📍 **Location:** San Francisco or New York City or London
-- 💰 **Salary:** $140k–$210k/yr
+### [Deployment Strategist](https://jobs.lever.co/istaridigital.ai/9175aec4-0907-43da-b082-41bb145db144) — Istaridigital.ai
+- 📍 **Location:** Melbourne, Florida, United States
+- 💰 **Salary:** $140k–$220k/yr
 - **Work mode:** On-site
 - **Job type:** Full Time
-- 🕒 **Posted:** 2026-07-25T00:34:24.220Z
+- 🕒 **Posted:** 2026-07-21T13:03:37.200Z
 
-### [Operations Efficiency Data Analyst](https://ibqmjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Monro-Careers/requisitions/job/2977) — Monro
-- 📍 **Location:** Fairport or Rochester or United States
-- 💰 **Salary:** $90k–$105k/yr
-- **Work mode:** On-site
+### [AI Deployment Strategist](https://zoom.wd5.myworkdayjobs.com/zoom/job/Remote--US/Applied-AI-Engineers_R19229-1) — Zoom
+- 📍 **Location:** United States or San Jose or Seattle
+- 💰 **Salary:** $124k–$271k/yr
+- **Work mode:** Remote in-state eligible
 - **Job type:** Full Time
-- 🕒 **Posted:** 2026-08-17T18:46:06.000Z
+- 🕒 **Posted:** 2026-08-17T00:00:00.000Z
