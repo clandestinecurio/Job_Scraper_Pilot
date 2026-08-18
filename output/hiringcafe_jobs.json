@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-18 03:52 UTC",
-  "total": 142,
-  "new_count": 1,
+  "scraped_at": "2026-08-18 04:43 UTC",
+  "total": 141,
+  "new_count": 3,
   "jobs": [
     {
       "company": "Lam Research Corporation",
@@ -564,20 +564,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "HubSpot",
-      "title": "Principal Technical Program Manager, Security",
-      "location": "United States",
-      "url": "https://www.hubspot.com/careers/jobs/8105358?gh_jid=8105358",
-      "direct_url": "https://www.hubspot.com/careers/jobs/8105358?gh_jid=8105358",
-      "date_posted": "2026-08-11T13:10:47.000Z",
-      "description": "12+ years of technical program management experience, significant security or software engineering experience in SaaS or cloud environments, security program expertise, compliance framework familiarity, AI fluency, and excellent communication skills.",
-      "salary": "$173k–$247k/yr",
-      "job_type": "Full Time",
-      "is_remote": true,
-      "work_arrangement": "Remote in-state eligible",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Tarian",
       "title": "Security Program Manager",
       "location": "Houston, Texas, United States",
@@ -589,6 +575,20 @@
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "HubSpot",
+      "title": "Principal Technical Program Manager, Security",
+      "location": "United States",
+      "url": "https://www.hubspot.com/careers/jobs/8105358?gh_jid=8105358",
+      "direct_url": "https://www.hubspot.com/careers/jobs/8105358?gh_jid=8105358",
+      "date_posted": "2026-08-11T13:10:47.000Z",
+      "description": "12+ years of technical program management experience, significant security or software engineering experience in SaaS or cloud environments, security program expertise, compliance framework familiarity, AI fluency, and excellent communication skills.",
+      "salary": "$173k–$247k/yr",
+      "job_type": "Full Time",
+      "is_remote": true,
+      "work_arrangement": "Remote in-state eligible",
       "ats": "HiringCafe"
     },
     {
@@ -662,20 +662,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Unissant",
-      "title": "Program Manager",
-      "location": "Washington, District of Columbia, United States",
-      "url": "https://unissant.applicantpro.com/jobs/4166412",
-      "direct_url": "https://unissant.applicantpro.com/jobs/4166412",
-      "date_posted": "2026-08-04T00:00:00.000Z",
-      "description": "8+ years program/project management experience supporting federal or national security programs; Bachelor's required; PMP/PgMP/Agile preferred; ability to obtain security clearance.",
-      "salary": "$143k–$229k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Akima, LLC",
       "title": "Security Program Analyst II",
       "location": "Rosslyn, Virginia, United States",
@@ -704,14 +690,14 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Modern Technology Solutions, Inc.",
+      "company": "Unissant",
       "title": "Program Manager",
-      "location": "Creech Air Force Base or Indian Springs or Las Vegas",
-      "url": "https://mtsi-va.eightfold.ai/careers/job/1133915159690",
-      "direct_url": "https://mtsi-va.eightfold.ai/careers/job/1133915159690",
-      "date_posted": "2026-08-12T18:52:14.000Z",
-      "description": "14+ years of experience, including 5+ years in program management; qualifying degree; Secret clearance and ability to obtain TS SCI/SAP; U.S. citizenship; leadership, acquisition, troubleshooting, and technical program management skills.",
-      "salary": "",
+      "location": "Washington, District of Columbia, United States",
+      "url": "https://unissant.applicantpro.com/jobs/4166412",
+      "direct_url": "https://unissant.applicantpro.com/jobs/4166412",
+      "date_posted": "2026-08-04T00:00:00.000Z",
+      "description": "8+ years program/project management experience supporting federal or national security programs; Bachelor's required; PMP/PgMP/Agile preferred; ability to obtain security clearance.",
+      "salary": "$143k–$229k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -726,6 +712,20 @@
       "date_posted": "2026-08-07T21:04:23.000Z",
       "description": "Bachelor's degree preferred and 8+ years of progressively responsible management experience. Requires multinational account management, security operations, budgeting, leadership, and Microsoft Office proficiency.",
       "salary": "$100k–$105k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Modern Technology Solutions, Inc.",
+      "title": "Program Manager",
+      "location": "Creech Air Force Base or Indian Springs or Las Vegas",
+      "url": "https://mtsi-va.eightfold.ai/careers/job/1133915159690",
+      "direct_url": "https://mtsi-va.eightfold.ai/careers/job/1133915159690",
+      "date_posted": "2026-08-12T18:52:14.000Z",
+      "description": "14+ years of experience, including 5+ years in program management; qualifying degree; Secret clearance and ability to obtain TS SCI/SAP; U.S. citizenship; leadership, acquisition, troubleshooting, and technical program management skills.",
+      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -872,20 +872,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Synchrony",
-      "title": "AVP, Physical Security Intelligence Analyst",
-      "location": "Stamford or Chicago or Connecticut or Costa Mesa or Kansas City or Orlando or Illinois or Dallas or New York City or New York or Boston or Minnesota or Cincinnati or Baltimore or Florida or Alpharetta or Ohio or Rapid City or California or Charlotte or Canton or Georgia",
-      "url": "https://synchronyfinancial.wd5.myworkdayjobs.com/university/job/Stamford-Hub/AVP--Physical-Security-Intelligence-Analyst_2602188-2",
-      "direct_url": "https://synchronyfinancial.wd5.myworkdayjobs.com/university/job/Stamford-Hub/AVP--Physical-Security-Intelligence-Analyst_2602188-2",
-      "date_posted": "2026-08-11T00:00:00.000Z",
-      "description": "Bachelor's degree or 8+ years analyst experience; 5+ years analyst experience, including 2+ years in intelligence, investigations, fraud, risk, technology, or operations; 2+ years online fraud or financial crimes experience.",
-      "salary": "$100k–$170k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Insitu",
       "title": "Threat Intelligence Analyst",
       "location": "Bingen, Washington, United States",
@@ -970,6 +956,20 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "NTT DATA, Inc.",
+      "title": "Senior All-Source Intelligence Analyst",
+      "location": "Houston, Texas, United States",
+      "url": "https://careers-inc.nttdata.com/job/Houston-Senior-All-Source-Intelligence-Analyst-TX-77001/1415428300/",
+      "direct_url": "https://careers-inc.nttdata.com/job/Houston-Senior-All-Source-Intelligence-Analyst-TX-77001/1415428300/",
+      "date_posted": "2026-08-03T00:00:00.000Z",
+      "description": "Bachelor's degree or 10 years' relevant experience, 8+ years of specialized intelligence or analytical experience, and an active Top Secret clearance. Requires advanced data analysis and federal investigative support skills.",
+      "salary": "$103k–$171k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Akima, LLC",
       "title": "Intelligence Analyst II (Active Secret Clearance with ability to obtain DEA clearance)",
       "location": "Phoenix, Arizona, United States",
@@ -978,20 +978,6 @@
       "date_posted": "2026-07-30T15:05:46.000Z",
       "description": "Active Secret clearance required; undergraduate degree or 3 years specialized intelligence experience (substitutable); ability to travel up to 25%; experience collecting, analyzing, and disseminating investigative intelligence.",
       "salary": "$52k–$88k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "NTT DATA Services",
-      "title": "Senior All-Source Intelligence Analyst",
-      "location": "Houston, Texas, United States",
-      "url": "https://careers-inc.nttdata.com/job/Houston-Senior-All-Source-Intelligence-Analyst-TX-77001/1415428300/",
-      "direct_url": "https://careers-inc.nttdata.com/job/Houston-Senior-All-Source-Intelligence-Analyst-TX-77001/1415428300/",
-      "date_posted": "2026-08-03T00:00:00.000Z",
-      "description": "Active Top Secret clearance, minimum 8 years specialized intelligence/analytical experience, bachelor\\u0002s degree or 10 years equivalent, investigative support experience preferred, advanced analytical and data visualization skills.",
-      "salary": "$103k–$171k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -1028,15 +1014,15 @@
     {
       "company": "Lam Research",
       "title": "Protective Intelligence & Threat Analyst",
-      "location": "Phoenix or Fremont or Tualatin",
-      "url": "https://lamresearch.eightfold.ai/careers/job/1099555378257",
-      "direct_url": "https://lamresearch.eightfold.ai/careers/job/1099555378257",
-      "date_posted": "2026-08-10T14:06:07.000Z",
-      "description": "Requires 8 years of related experience with a bachelor's degree, 6 years with a master's, or 3 years with a PhD; strong OSINT, investigative, analytical, communication, and problem-solving skills.",
+      "location": "Tualatin, Oregon, United States",
+      "url": "https://lamresearch.eightfold.ai/careers/job/1099553704959",
+      "direct_url": "https://lamresearch.eightfold.ai/careers/job/1099553704959",
+      "date_posted": "2026-08-06T18:04:04.000Z",
+      "description": "Bachelor's degree in criminal justice, international relations, or a related field; 3–4 years of analytical experience; OSINT, investigations, threat assessment, communication, and problem-solving skills.",
       "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
-      "work_arrangement": "On-site",
+      "work_arrangement": "Telecommute eligible",
       "ats": "HiringCafe"
     },
     {
@@ -1250,6 +1236,20 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "RELX",
+      "title": "Implementation Manager",
+      "location": "California, United States",
+      "url": "https://relx.wd3.myworkdayjobs.com/relx/job/California/Implementation-Manager_R115644-1",
+      "direct_url": "https://relx.wd3.myworkdayjobs.com/relx/job/California/Implementation-Manager_R115644-1",
+      "date_posted": "2026-08-17T00:00:00.000Z",
+      "description": "Bachelor's degree or equivalent experience; 5+ years in project, implementation, or professional services management; customer-facing delivery, Agile, cross-functional coordination, and stakeholder management experience.",
+      "salary": "$95k–$159k/yr",
+      "job_type": "Full Time",
+      "is_remote": true,
+      "work_arrangement": "Remote in-state eligible",
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Directsupply",
       "title": "Implementation Manager",
       "location": "Milwaukee, Wisconsin, United States",
@@ -1320,6 +1320,20 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Relx",
+      "title": "Implementation Manager",
+      "location": "California, United States",
+      "url": "https://relx.wd3.myworkdayjobs.com/risksolutions/job/California/Implementation-Manager_R115644",
+      "direct_url": "https://relx.wd3.myworkdayjobs.com/risksolutions/job/California/Implementation-Manager_R115644",
+      "date_posted": "2026-08-17T00:00:00.000Z",
+      "description": "Bachelor's degree or equivalent experience, project management certification preferred, and 5+ years in project or implementation management. Requires customer-facing delivery, Agile, stakeholder, budget, and cross-functional coordination experience.",
+      "salary": "$95k–$159k/yr",
+      "job_type": "Full Time",
+      "is_remote": true,
+      "work_arrangement": "Remote in-state eligible",
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Benchling",
       "title": "Implementation Manager",
       "location": "Boston, Massachusetts, United States",
@@ -1348,20 +1362,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "LucyRx",
-      "title": "Implementation Manager",
-      "location": "United States",
-      "url": "https://lucyrx.wd503.myworkdayjobs.com/lucyrx/job/Remote-United-States/Implementation-Manager_JR100177",
-      "direct_url": "https://lucyrx.wd503.myworkdayjobs.com/lucyrx/job/Remote-United-States/Implementation-Manager_JR100177",
-      "date_posted": "2026-08-06T00:00:00.000Z",
-      "description": "Bachelor’s degree or equivalent experience; 3–5 years in PBM, healthcare, or benefits administration; 2+ years in implementation or project management; PBM operations and Microsoft Office proficiency.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": true,
-      "work_arrangement": "Remote in-state eligible",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Vodori",
       "title": "Implementation Manager",
       "location": "United States",
@@ -1370,6 +1370,20 @@
       "date_posted": "2026-07-27T16:17:42.775Z",
       "description": "2+ years professional services or SaaS implementation experience, strong project management, client-facing skills, data migration and business process familiarity, and advanced Excel proficiency.",
       "salary": "$70k–$80k/yr",
+      "job_type": "Full Time",
+      "is_remote": true,
+      "work_arrangement": "Remote in-state eligible",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "LucyRx",
+      "title": "Implementation Manager",
+      "location": "United States",
+      "url": "https://lucyrx.wd503.myworkdayjobs.com/lucyrx/job/Remote-United-States/Implementation-Manager_JR100177",
+      "direct_url": "https://lucyrx.wd503.myworkdayjobs.com/lucyrx/job/Remote-United-States/Implementation-Manager_JR100177",
+      "date_posted": "2026-08-06T00:00:00.000Z",
+      "description": "Bachelor’s degree or equivalent experience; 3–5 years in PBM, healthcare, or benefits administration; 2+ years in implementation or project management; PBM operations and Microsoft Office proficiency.",
+      "salary": "",
       "job_type": "Full Time",
       "is_remote": true,
       "work_arrangement": "Remote in-state eligible",
@@ -1390,20 +1404,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "MetTel",
-      "title": "Implementation Manager ",
-      "location": "Holmdel, New Jersey, United States",
-      "url": "https://job-boards.greenhouse.io/mettel/jobs/4701397006",
-      "direct_url": "https://job-boards.greenhouse.io/mettel/jobs/4701397006",
-      "date_posted": "2026-07-30T23:18:38.000Z",
-      "description": "Bachelor's degree,5+ years in software implementation/project management or related client-facing roles,experience leading complex projects,strong customer-facing communication and organizational skills.",
-      "salary": "$100k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "SafelyYou",
       "title": "Implementation Manager",
       "location": "United States",
@@ -1415,6 +1415,20 @@
       "job_type": "Full Time",
       "is_remote": true,
       "work_arrangement": "Remote in-state eligible",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "MetTel",
+      "title": "Implementation Manager ",
+      "location": "Holmdel, New Jersey, United States",
+      "url": "https://job-boards.greenhouse.io/mettel/jobs/4701397006",
+      "direct_url": "https://job-boards.greenhouse.io/mettel/jobs/4701397006",
+      "date_posted": "2026-07-30T23:18:38.000Z",
+      "description": "Bachelor's degree,5+ years in software implementation/project management or related client-facing roles,experience leading complex projects,strong customer-facing communication and organizational skills.",
+      "salary": "$100k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
       "ats": "HiringCafe"
     },
     {
@@ -1628,6 +1642,20 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Liberate",
+      "title": "Founding Deployment Strategist ",
+      "location": "San Francisco or Boston",
+      "url": "https://job-boards.greenhouse.io/liberate/jobs/5370479008",
+      "direct_url": "https://job-boards.greenhouse.io/liberate/jobs/5370479008",
+      "date_posted": "2026-07-24T20:49:00.000Z",
+      "description": "7+ years customer-facing experience owning enterprise relationships; strong project management, technical acumen, stakeholder alignment, high EQ, and willingness to travel 25–40%.",
+      "salary": "$185k–$260k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "Telecommute eligible",
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Assembled",
       "title": "Associate Deployment Strategist",
       "location": "San Francisco or New York City",
@@ -1636,6 +1664,20 @@
       "date_posted": "2026-07-22T16:54:47.398Z",
       "description": "3+ years in customer-facing roles for technical products, experience with APIs/integrations, familiarity with SQL or parsing code, strong stakeholder communication and project execution skills.",
       "salary": "$100k–$140k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Specter",
+      "title": "Founding Deployment Strategist",
+      "location": "San Francisco, California, United States",
+      "url": "https://jobs.ashbyhq.com/specter/a9403bf6-29f8-4627-94ee-a9714f4d546e",
+      "direct_url": "https://jobs.ashbyhq.com/specter/a9403bf6-29f8-4627-94ee-a9714f4d546e",
+      "date_posted": "2026-08-16T22:30:43.467Z",
+      "description": "Experience navigating enterprise accounts from pilots to expansions, earning engineers' trust, influencing products, distilling complex ideas, and working directly with customers in the field.",
+      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -1656,42 +1698,14 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Liberate",
-      "title": "Founding Deployment Strategist ",
-      "location": "San Francisco or Boston",
-      "url": "https://job-boards.greenhouse.io/liberate/jobs/5370479008",
-      "direct_url": "https://job-boards.greenhouse.io/liberate/jobs/5370479008",
-      "date_posted": "2026-07-24T20:49:00.000Z",
-      "description": "7+ years customer-facing experience owning enterprise relationships; strong project management, technical acumen, stakeholder alignment, high EQ, and willingness to travel 25–40%.",
-      "salary": "$185k–$260k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Specter",
-      "title": "Founding Deployment Strategist",
-      "location": "San Francisco, California, United States",
-      "url": "https://jobs.ashbyhq.com/specter/a9403bf6-29f8-4627-94ee-a9714f4d546e",
-      "direct_url": "https://jobs.ashbyhq.com/specter/a9403bf6-29f8-4627-94ee-a9714f4d546e",
-      "date_posted": "2026-08-16T22:30:43.467Z",
-      "description": "Experience navigating enterprise accounts from pilots to expansions, earning engineers' trust, influencing products, distilling complex ideas, and working directly with customers in the field.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Hazel",
+      "company": "Nooks",
       "title": "AI Deployment Strategist",
-      "location": "New York City, New York, United States",
-      "url": "https://jobs.ashbyhq.com/hazel/a10ec44b-75a9-4932-b0f0-ddb2661d390a",
-      "direct_url": "https://jobs.ashbyhq.com/hazel/a10ec44b-75a9-4932-b0f0-ddb2661d390a",
-      "date_posted": "2026-08-17T14:15:05.694Z",
-      "description": "Requires 2–5 years of experience, rapid learning, stakeholder communication, group teaching, data diagnosis, technical discussion leadership, daily AI use, and willingness to travel; SQL and e-commerce experience are preferred.",
-      "salary": "$115k–$145k/yr",
+      "location": "San Francisco, California, United States",
+      "url": "https://jobs.ashbyhq.com/nooks/13078f2c-31a9-42c4-8405-7eca748a943a",
+      "direct_url": "https://jobs.ashbyhq.com/nooks/13078f2c-31a9-42c4-8405-7eca748a943a",
+      "date_posted": "2026-07-23T00:34:03.960Z",
+      "description": "2+ years enterprise SaaS implementation experience, domain expertise in RevOps/sales operations, experience with Salesforce/HubSpot/Outreach/Salesloft, strong project and stakeholder management, excellent communication.",
+      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "Telecommute eligible",
@@ -1712,20 +1726,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Nooks",
-      "title": "AI Deployment Strategist",
-      "location": "San Francisco, California, United States",
-      "url": "https://jobs.ashbyhq.com/nooks/13078f2c-31a9-42c4-8405-7eca748a943a",
-      "direct_url": "https://jobs.ashbyhq.com/nooks/13078f2c-31a9-42c4-8405-7eca748a943a",
-      "date_posted": "2026-07-23T00:34:03.960Z",
-      "description": "2+ years enterprise SaaS implementation experience, domain expertise in RevOps/sales operations, experience with Salesforce/HubSpot/Outreach/Salesloft, strong project and stakeholder management, excellent communication.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Freehand",
       "title": "AI Deployment Strategist",
       "location": "India or United States",
@@ -1737,6 +1737,20 @@
       "job_type": "Full Time",
       "is_remote": true,
       "work_arrangement": "Remote in-state eligible",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Hazel",
+      "title": "AI Deployment Strategist",
+      "location": "New York City, New York, United States",
+      "url": "https://jobs.ashbyhq.com/hazel/a10ec44b-75a9-4932-b0f0-ddb2661d390a",
+      "direct_url": "https://jobs.ashbyhq.com/hazel/a10ec44b-75a9-4932-b0f0-ddb2661d390a",
+      "date_posted": "2026-08-17T14:15:05.694Z",
+      "description": "Requires 2–5 years of experience, rapid learning, stakeholder communication, group teaching, data diagnosis, technical discussion leadership, daily AI use, and willingness to travel; SQL and e-commerce experience are preferred.",
+      "salary": "$115k–$145k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "Telecommute eligible",
       "ats": "HiringCafe"
     },
     {
@@ -1818,34 +1832,6 @@
       "date_posted": "2026-08-12T00:00:00.000Z",
       "description": "Marketing operations experience, data infrastructure and MarTech integration knowledge, AI/ML proficiency, project management, privacy compliance, and technical requirements documentation skills.",
       "salary": "$106k–$170k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Pacific Gas And Electric Company",
-      "title": "Operations Data Analyst, Expert",
-      "location": "Dublin or California or San Francisco or Oakland",
-      "url": "https://careers.pge.com/job/Dublin-Operations-Data-Analyst%2C-Expert-CA-94568/1417365000/",
-      "direct_url": "https://careers.pge.com/job/Dublin-Operations-Data-Analyst%2C-Expert-CA-94568/1417365000/",
-      "date_posted": "2026-08-10T00:00:00.000Z",
-      "description": "Bachelor's degree or equivalent experience, 6 years of job-related experience, advanced data analysis and project management skills, and proficiency with Excel, Access, SQL, Oracle or Business Objects.",
-      "salary": "$120k–$190k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Zieglercat",
-      "title": "Operations Data Analyst - Power Systems",
-      "location": "Shakopee, Minnesota, United States",
-      "url": "https://zieglercat.wd1.myworkdayjobs.com/zieglercat/job/Shakopee-MN-55379/Operations-Data-Analyst---Power-Systems_2026-1373",
-      "direct_url": "https://zieglercat.wd1.myworkdayjobs.com/zieglercat/job/Shakopee-MN-55379/Operations-Data-Analyst---Power-Systems_2026-1373",
-      "date_posted": "2026-08-14T00:00:00.000Z",
-      "description": "Bachelor's degree, 4+ years of related experience, Power Systems industry experience, Power BI expertise, Microsoft Office expertise, and strong data analysis and communication skills.",
-      "salary": "$71k–$89k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -1996,15 +1982,43 @@
     {
       "company": "Lam Research",
       "title": "Protective Intelligence & Threat Analyst",
-      "location": "Phoenix or Fremont or Tualatin",
-      "url": "https://lamresearch.eightfold.ai/careers/job/1099555378257",
-      "direct_url": "https://lamresearch.eightfold.ai/careers/job/1099555378257",
-      "date_posted": "2026-08-10T14:06:07.000Z",
-      "description": "Requires 8 years of related experience with a bachelor's degree, 6 years with a master's, or 3 years with a PhD; strong OSINT, investigative, analytical, communication, and problem-solving skills.",
+      "location": "Tualatin, Oregon, United States",
+      "url": "https://lamresearch.eightfold.ai/careers/job/1099553704959",
+      "direct_url": "https://lamresearch.eightfold.ai/careers/job/1099553704959",
+      "date_posted": "2026-08-06T18:04:04.000Z",
+      "description": "Bachelor's degree in criminal justice, international relations, or a related field; 3–4 years of analytical experience; OSINT, investigations, threat assessment, communication, and problem-solving skills.",
       "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
-      "work_arrangement": "On-site",
+      "work_arrangement": "Telecommute eligible",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "RELX",
+      "title": "Implementation Manager",
+      "location": "California, United States",
+      "url": "https://relx.wd3.myworkdayjobs.com/relx/job/California/Implementation-Manager_R115644-1",
+      "direct_url": "https://relx.wd3.myworkdayjobs.com/relx/job/California/Implementation-Manager_R115644-1",
+      "date_posted": "2026-08-17T00:00:00.000Z",
+      "description": "Bachelor's degree or equivalent experience; 5+ years in project, implementation, or professional services management; customer-facing delivery, Agile, cross-functional coordination, and stakeholder management experience.",
+      "salary": "$95k–$159k/yr",
+      "job_type": "Full Time",
+      "is_remote": true,
+      "work_arrangement": "Remote in-state eligible",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Relx",
+      "title": "Implementation Manager",
+      "location": "California, United States",
+      "url": "https://relx.wd3.myworkdayjobs.com/risksolutions/job/California/Implementation-Manager_R115644",
+      "direct_url": "https://relx.wd3.myworkdayjobs.com/risksolutions/job/California/Implementation-Manager_R115644",
+      "date_posted": "2026-08-17T00:00:00.000Z",
+      "description": "Bachelor's degree or equivalent experience, project management certification preferred, and 5+ years in project or implementation management. Requires customer-facing delivery, Agile, stakeholder, budget, and cross-functional coordination experience.",
+      "salary": "$95k–$159k/yr",
+      "job_type": "Full Time",
+      "is_remote": true,
+      "work_arrangement": "Remote in-state eligible",
       "ats": "HiringCafe"
     }
   ]
