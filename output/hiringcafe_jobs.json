@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-18 02:37 UTC",
+  "scraped_at": "2026-08-18 03:52 UTC",
   "total": 142,
-  "new_count": 3,
+  "new_count": 1,
   "jobs": [
     {
       "company": "Lam Research Corporation",
@@ -662,6 +662,20 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Unissant",
+      "title": "Program Manager",
+      "location": "Washington, District of Columbia, United States",
+      "url": "https://unissant.applicantpro.com/jobs/4166412",
+      "direct_url": "https://unissant.applicantpro.com/jobs/4166412",
+      "date_posted": "2026-08-04T00:00:00.000Z",
+      "description": "8+ years program/project management experience supporting federal or national security programs; Bachelor's required; PMP/PgMP/Agile preferred; ability to obtain security clearance.",
+      "salary": "$143k–$229k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Akima, LLC",
       "title": "Security Program Analyst II",
       "location": "Rosslyn, Virginia, United States",
@@ -690,14 +704,14 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Unissant",
+      "company": "Modern Technology Solutions, Inc.",
       "title": "Program Manager",
-      "location": "Washington, District of Columbia, United States",
-      "url": "https://unissant.applicantpro.com/jobs/4166412",
-      "direct_url": "https://unissant.applicantpro.com/jobs/4166412",
-      "date_posted": "2026-08-04T00:00:00.000Z",
-      "description": "8+ years program/project management experience supporting federal or national security programs; Bachelor's required; PMP/PgMP/Agile preferred; ability to obtain security clearance.",
-      "salary": "$143k–$229k/yr",
+      "location": "Creech Air Force Base or Indian Springs or Las Vegas",
+      "url": "https://mtsi-va.eightfold.ai/careers/job/1133915159690",
+      "direct_url": "https://mtsi-va.eightfold.ai/careers/job/1133915159690",
+      "date_posted": "2026-08-12T18:52:14.000Z",
+      "description": "14+ years of experience, including 5+ years in program management; qualifying degree; Secret clearance and ability to obtain TS SCI/SAP; U.S. citizenship; leadership, acquisition, troubleshooting, and technical program management skills.",
+      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -712,20 +726,6 @@
       "date_posted": "2026-08-07T21:04:23.000Z",
       "description": "Bachelor's degree preferred and 8+ years of progressively responsible management experience. Requires multinational account management, security operations, budgeting, leadership, and Microsoft Office proficiency.",
       "salary": "$100k–$105k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Modern Technology Solutions, Inc.",
-      "title": "Program Manager",
-      "location": "Creech Air Force Base or Indian Springs or Las Vegas",
-      "url": "https://mtsi-va.eightfold.ai/careers/job/1133915159690",
-      "direct_url": "https://mtsi-va.eightfold.ai/careers/job/1133915159690",
-      "date_posted": "2026-08-12T18:52:14.000Z",
-      "description": "14+ years of experience, including 5+ years in program management; qualifying degree; Secret clearance and ability to obtain TS SCI/SAP; U.S. citizenship; leadership, acquisition, troubleshooting, and technical program management skills.",
-      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -1028,15 +1028,15 @@
     {
       "company": "Lam Research",
       "title": "Protective Intelligence & Threat Analyst",
-      "location": "Tualatin, Oregon, United States",
-      "url": "https://lamresearch.eightfold.ai/careers/job/1099553704959",
-      "direct_url": "https://lamresearch.eightfold.ai/careers/job/1099553704959",
-      "date_posted": "2026-08-06T18:04:04.000Z",
-      "description": "Bachelor's degree in criminal justice, international relations, or a related field; 3–4 years of analytical experience; OSINT, investigations, threat assessment, communication, and problem-solving skills.",
+      "location": "Phoenix or Fremont or Tualatin",
+      "url": "https://lamresearch.eightfold.ai/careers/job/1099555378257",
+      "direct_url": "https://lamresearch.eightfold.ai/careers/job/1099555378257",
+      "date_posted": "2026-08-10T14:06:07.000Z",
+      "description": "Requires 8 years of related experience with a bachelor's degree, 6 years with a master's, or 3 years with a PhD; strong OSINT, investigative, analytical, communication, and problem-solving skills.",
       "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
+      "work_arrangement": "On-site",
       "ats": "HiringCafe"
     },
     {
@@ -1684,6 +1684,20 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Hazel",
+      "title": "AI Deployment Strategist",
+      "location": "New York City, New York, United States",
+      "url": "https://jobs.ashbyhq.com/hazel/a10ec44b-75a9-4932-b0f0-ddb2661d390a",
+      "direct_url": "https://jobs.ashbyhq.com/hazel/a10ec44b-75a9-4932-b0f0-ddb2661d390a",
+      "date_posted": "2026-08-17T14:15:05.694Z",
+      "description": "Requires 2–5 years of experience, rapid learning, stakeholder communication, group teaching, data diagnosis, technical discussion leadership, daily AI use, and willingness to travel; SQL and e-commerce experience are preferred.",
+      "salary": "$115k–$145k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "Telecommute eligible",
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Abby Care",
       "title": "AI Deployment Strategist",
       "location": "New York City, New York, United States",
@@ -1723,20 +1737,6 @@
       "job_type": "Full Time",
       "is_remote": true,
       "work_arrangement": "Remote in-state eligible",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Hazel",
-      "title": "AI Deployment Strategist",
-      "location": "New York City, New York, United States",
-      "url": "https://jobs.ashbyhq.com/hazel/a10ec44b-75a9-4932-b0f0-ddb2661d390a",
-      "direct_url": "https://jobs.ashbyhq.com/hazel/a10ec44b-75a9-4932-b0f0-ddb2661d390a",
-      "date_posted": "2026-08-17T14:15:05.694Z",
-      "description": "Requires 2–5 years of experience, rapid learning, stakeholder communication, group teaching, data diagnosis, technical discussion leadership, daily AI use, and willingness to travel; SQL and e-commerce experience are preferred.",
-      "salary": "$115k–$145k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
       "ats": "HiringCafe"
     },
     {
@@ -1994,45 +1994,17 @@
   ],
   "new_jobs": [
     {
-      "company": "Foresight Data Machines",
-      "title": "Deployment Strategist",
-      "location": "Austin, Texas, United States",
-      "url": "https://jobs.ashbyhq.com/foresightdatamachines/9fb9aeae-dd10-4927-a830-613fed864502",
-      "direct_url": "https://jobs.ashbyhq.com/foresightdatamachines/9fb9aeae-dd10-4927-a830-613fed864502",
-      "date_posted": "2026-07-30T06:14:12.068Z",
-      "description": "Programming familiarity, bachelor’s degree (or equivalent) in physics/engineering/math, strong communication, ability to work in dynamic environments, willingness to travel 25–75% and be colocated in office.",
+      "company": "Lam Research",
+      "title": "Protective Intelligence & Threat Analyst",
+      "location": "Phoenix or Fremont or Tualatin",
+      "url": "https://lamresearch.eightfold.ai/careers/job/1099555378257",
+      "direct_url": "https://lamresearch.eightfold.ai/careers/job/1099555378257",
+      "date_posted": "2026-08-10T14:06:07.000Z",
+      "description": "Requires 8 years of related experience with a bachelor's degree, 6 years with a master's, or 3 years with a PhD; strong OSINT, investigative, analytical, communication, and problem-solving skills.",
       "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Causal",
-      "title": "Deployment Strategist",
-      "location": "San Francisco, California, United States",
-      "url": "https://jobs.ashbyhq.com/causal/4e621c74-66c3-43a7-9720-be794095fc5f",
-      "direct_url": "https://jobs.ashbyhq.com/causal/4e621c74-66c3-43a7-9720-be794095fc5f",
-      "date_posted": "2026-07-20T21:39:46.221Z",
-      "description": "Track record driving complex initiatives, stakeholder alignment, problem decomposition, technical fluency to partner with engineers, and willingness to travel and embed on-site with customers.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "SIFT",
-      "title": "Deployment Strategist",
-      "location": "Marina Del Rey, California, United States",
-      "url": "https://jobs.ashbyhq.com/siftstack/8c4b04b2-4dd9-4bc5-a26b-3133538bc1be",
-      "direct_url": "https://jobs.ashbyhq.com/siftstack/8c4b04b2-4dd9-4bc5-a26b-3133538bc1be",
-      "date_posted": "2026-07-29T23:18:28.497Z",
-      "description": "Strong technical background, stakeholder management, project management, driving adoption of technical products, ability to explain technical concepts; U.S. person required; willingness to travel ~10-15%.",
-      "salary": "$125k–$175k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
       "ats": "HiringCafe"
     }
   ]
