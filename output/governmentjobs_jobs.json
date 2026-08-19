@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-18 16:52 UTC",
+  "scraped_at": "2026-08-19 16:53 UTC",
   "total": 4,
-  "new_count": 4,
+  "new_count": 1,
   "jobs": [
     {
       "company": "City of Oakland",
@@ -13,12 +13,12 @@
       "ats": "NEOGOV"
     },
     {
-      "company": "Los Angeles County Metropolitan Transportation Authority (CA)",
-      "title": "PROJECT MANAGER (TRANSIT AMBASSADOR PROGRAM)",
-      "location": "Los Angeles, CA",
-      "url": "https://www.governmentjobs.com/jobs/5445975-0/project-manager-transit-ambassador-program",
+      "company": "County of Los Angeles",
+      "title": "PROGRAM MANAGER I / Emergency Appointment Fire",
+      "location": "Los Angeles County, CA",
+      "url": "https://www.governmentjobs.com/jobs/5419957-0/program-manager-i-emergency-appointment-fire",
       "date_posted": "",
-      "salary": "$109,470.40 - $164,195.20 Annually",
+      "salary": "$82,080.00 - $104,772.00 Annually",
       "ats": "NEOGOV"
     },
     {
@@ -42,39 +42,12 @@
   ],
   "new_jobs": [
     {
-      "company": "City of Oakland",
-      "title": "Project Manager II (SC-CeaseFire)",
-      "location": "Oakland, CA",
-      "url": "https://www.governmentjobs.com/jobs/5432702-0/project-manager-ii-sc-ceasefire",
+      "company": "County of Los Angeles",
+      "title": "PROGRAM MANAGER I / Emergency Appointment Fire",
+      "location": "Los Angeles County, CA",
+      "url": "https://www.governmentjobs.com/jobs/5419957-0/program-manager-i-emergency-appointment-fire",
       "date_posted": "",
-      "salary": "$172,963.68 - $212,374.44 Annually",
-      "ats": "NEOGOV"
-    },
-    {
-      "company": "Los Angeles County Metropolitan Transportation Authority (CA)",
-      "title": "PROJECT MANAGER (TRANSIT AMBASSADOR PROGRAM)",
-      "location": "Los Angeles, CA",
-      "url": "https://www.governmentjobs.com/jobs/5445975-0/project-manager-transit-ambassador-program",
-      "date_posted": "",
-      "salary": "$109,470.40 - $164,195.20 Annually",
-      "ats": "NEOGOV"
-    },
-    {
-      "company": "Superior Court of California County of Los Angeles",
-      "title": "Data Strategy and Business Intelligence Manager",
-      "location": "Los Angeles, CA",
-      "url": "https://www.governmentjobs.com/jobs/5411895-0/data-strategy-and-business-intelligence-manager",
-      "date_posted": "",
-      "salary": "$129,531.24 - $189,358.92 Annually",
-      "ats": "NEOGOV"
-    },
-    {
-      "company": "Hawai`i State Judiciary",
-      "title": "Court Research Analyst - Kapolei, Oahu",
-      "location": "Kapolei",
-      "url": "https://www.governmentjobs.com/jobs/5440193-0/court-research-analyst-kapolei-oahu",
-      "date_posted": "",
-      "salary": "",
+      "salary": "$82,080.00 - $104,772.00 Annually",
       "ats": "NEOGOV"
     }
   ]
