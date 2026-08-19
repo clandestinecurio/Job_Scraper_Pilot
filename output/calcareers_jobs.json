@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-18 16:47 UTC",
-  "total": 29,
+  "scraped_at": "2026-08-19 16:46 UTC",
+  "total": 30,
   "new_count": 0,
   "jobs": [
     {
@@ -94,6 +94,18 @@
       "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=527187",
       "date_posted": "2026-08-04",
       "salary": "$9631.00 - $12054.00",
+      "ats": "CalCareers",
+      "telework": "Hybrid",
+      "job_type": "Permanent, Full Time",
+      "work_arrangement": "Telecommute eligible"
+    },
+    {
+      "company": "Department of Insurance",
+      "title": "Data Analytics & Reporting Project Manager",
+      "location": "Los Angeles County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=528412",
+      "date_posted": "2026-08-18",
+      "salary": "$6955.00 - $8706.00",
       "ats": "CalCareers",
       "telework": "Hybrid",
       "job_type": "Permanent, Full Time",
@@ -220,6 +232,18 @@
       "work_arrangement": "Telecommute eligible"
     },
     {
+      "company": "State Teachers' Retirement System",
+      "title": "Operational Strategy Implementation Manager",
+      "location": "Yolo County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=529003",
+      "date_posted": "2026-08-18",
+      "salary": "$12667.00 - $19000.00",
+      "ats": "CalCareers",
+      "telework": "Hybrid",
+      "job_type": "Permanent, Full Time",
+      "work_arrangement": "Telecommute eligible"
+    },
+    {
       "company": "California African American Museum",
       "title": "Operations Analyst",
       "location": "Los Angeles County",
@@ -238,18 +262,6 @@
       "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=528462",
       "date_posted": "2026-08-13",
       "salary": "$3861.00 - $6464.00",
-      "ats": "CalCareers",
-      "telework": "Hybrid",
-      "job_type": "Permanent, Full Time",
-      "work_arrangement": "Telecommute eligible"
-    },
-    {
-      "company": "Department of Transportation",
-      "title": "Transactions Operations Analyst",
-      "location": "Sacramento County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=526319",
-      "date_posted": "2026-08-07",
-      "salary": "$6031.00 - $7775.00",
       "ats": "CalCareers",
       "telework": "Hybrid",
       "job_type": "Permanent, Full Time",
@@ -292,11 +304,11 @@
       "work_arrangement": "Telecommute eligible"
     },
     {
-      "company": "Department of Consumer Affairs",
-      "title": "Business Analyst",
+      "company": "Employment Training Panel",
+      "title": "Research Data Analyst II",
       "location": "Sacramento County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=528361",
-      "date_posted": "2026-08-12",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=528066",
+      "date_posted": "2026-08-11",
       "salary": "$6647.00 - $8325.00",
       "ats": "CalCareers",
       "telework": "Hybrid",
@@ -304,11 +316,11 @@
       "work_arrangement": "Telecommute eligible"
     },
     {
-      "company": "Employment Training Panel",
-      "title": "Research Data Analyst II",
+      "company": "Department of Consumer Affairs",
+      "title": "Business Analyst",
       "location": "Sacramento County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=528066",
-      "date_posted": "2026-08-11",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=528361",
+      "date_posted": "2026-08-12",
       "salary": "$6647.00 - $8325.00",
       "ats": "CalCareers",
       "telework": "Hybrid",
