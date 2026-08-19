@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-19 03:57 UTC",
+  "scraped_at": "2026-08-19 04:48 UTC",
   "total": 147,
-  "new_count": 3,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Brooksauto",
@@ -2062,48 +2062,5 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Moonshot",
-      "title": "Intelligence Analyst",
-      "location": "Massachusetts or Colorado or New York or Virginia or Georgia or Pennsylvania or Maryland or Wisconsin or Tennessee or Oregon or New Jersey or District of Columbia",
-      "url": "https://jobs.workable.com/view/7RSfRWRxmhcRYvDY5HVqXH/remote-intelligence-analyst-in-washington-at-moonshot",
-      "direct_url": "https://jobs.workable.com/view/7RSfRWRxmhcRYvDY5HVqXH/remote-intelligence-analyst-in-washington-at-moonshot",
-      "date_posted": "2026-08-07T05:44:48.216Z",
-      "description": "Professional OSINT or intelligence analysis experience; strong social media investigation, written communication, problem-solving, and risk assessment skills; US work eligibility; background check required.",
-      "salary": "$50k–$57k/yr",
-      "job_type": "Full Time",
-      "is_remote": true,
-      "work_arrangement": "Remote in-state eligible",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Hippocratic AI",
-      "title": "Deployment Strategist",
-      "location": "Orange County or Menlo Park",
-      "url": "https://jobs.ashbyhq.com/hippocratic%20ai/a42049ce-e1af-40e6-b4b6-e5e0eb285a8a",
-      "direct_url": "https://jobs.ashbyhq.com/hippocratic%20ai/a42049ce-e1af-40e6-b4b6-e5e0eb285a8a",
-      "date_posted": "2026-08-15T15:20:24.986Z",
-      "description": "Requires 5+ years of technical experience, analytical and problem-solving skills, customer communication, technical requirements analysis, project scoping, timeline estimation, dependency management, and status communication.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Kira",
-      "title": "Deployment Strategist",
-      "location": "New York City, New York, United States",
-      "url": "https://jobs.ashbyhq.com/kira/d0304e80-32b7-4c4c-ad58-e8c19b15e708",
-      "direct_url": "https://jobs.ashbyhq.com/kira/d0304e80-32b7-4c4c-ad58-e8c19b15e708",
-      "date_posted": "2026-07-29T18:25:32.547Z",
-      "description": "7+ years experience; extensive hands-on use of AI tools; background in high-intensity roles; strong prioritization, customer-facing implementation, prototyping, and prompt-engineering fluency.",
-      "salary": "$160k–$200k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
-      "ats": "HiringCafe"
-    }
-  ]
+  "new_jobs": []
 }
