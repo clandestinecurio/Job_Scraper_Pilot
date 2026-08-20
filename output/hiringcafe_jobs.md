@@ -1,24 +1,17 @@
 # ☕ HiringCafe — Megan's Strategy, Security & Operations Roles
-*Last updated: 2026-08-20 02:47 UTC*
+*Last updated: 2026-08-20 04:55 UTC*
 
-**3 new role(s)** since last run · 151 total in last 30d
+**2 new role(s)** since last run · 145 total in last 30d
 
-### [Deployment Strategist](https://jobs.lever.co/istaridigital.ai/50f7efb2-310c-4854-8fbc-a86e90082f32) — Istaridigital.ai
-- 📍 **Location:** Dayton, Ohio, United States
-- 💰 **Salary:** $140k–$220k/yr
-- **Work mode:** On-site
-- **Job type:** Full Time
-- 🕒 **Posted:** 2026-07-21T12:59:25.682Z
-
-### [Deployment Strategist](https://jobs.ashbyhq.com/mosaic/14b240bf-7bbe-4460-af8f-d1b5553e0f44) — Mosaic
-- 📍 **Location:** New York City, New York, United States
-- **Work mode:** On-site
-- **Job type:** Full Time
-- 🕒 **Posted:** 2026-08-17T15:52:59.834Z
-
-### [Deployment Strategist](https://jobs.ashbyhq.com/siftstack/8c4b04b2-4dd9-4bc5-a26b-3133538bc1be) — SIFT
-- 📍 **Location:** Marina Del Rey, California, United States
-- 💰 **Salary:** $125k–$175k/yr
+### [Strategic Program Manager, Information Security](https://boards.greenhouse.io/figma/jobs/6144522004?gh_jid=6144522004) — Figma
+- 📍 **Location:** San Francisco or New York City or United States
+- 💰 **Salary:** $169k–$296k/yr
 - **Work mode:** Telecommute eligible
 - **Job type:** Full Time
-- 🕒 **Posted:** 2026-07-29T23:18:28.497Z
+- 🕒 **Posted:** 2026-08-19T21:30:55.000Z
+
+### [Deployment Strategist](https://jobs.ashbyhq.com/hippocratic%20ai/c40c4a85-4c66-43e0-9778-004d10dde12f) — Hippocratic AI
+- 📍 **Location:** Minneapolis, Minnesota, United States
+- **Work mode:** On-site
+- **Job type:** Full Time
+- 🕒 **Posted:** 2026-08-15T14:58:50.616Z
