@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-19 16:46 UTC",
+  "scraped_at": "2026-08-20 16:56 UTC",
   "total": 30,
   "new_count": 0,
   "jobs": [
@@ -112,18 +112,6 @@
       "work_arrangement": "Telecommute eligible"
     },
     {
-      "company": "CA High Speed Rail Authority",
-      "title": "Construction Safety and Security Program Manager",
-      "location": "Sacramento County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=526954",
-      "date_posted": "2026-07-30",
-      "salary": "$11437.00 - $14315.00",
-      "ats": "CalCareers",
-      "telework": "Hybrid",
-      "job_type": "Permanent, Full Time",
-      "work_arrangement": "Telecommute eligible"
-    },
-    {
       "company": "Department of Forestry & Fire Protection",
       "title": "Rotary-Wing Pilot Program Manager",
       "location": "Sacramento County",
@@ -144,6 +132,18 @@
       "salary": "$15263.00 - $17336.00",
       "ats": "CalCareers",
       "telework": "Hybrid",
+      "job_type": "Permanent, Full Time",
+      "work_arrangement": "Telecommute eligible"
+    },
+    {
+      "company": "Employment Development Department",
+      "title": "Disability Insurance Program Manager I",
+      "location": "San Bernardino County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=529227",
+      "date_posted": "2026-08-19",
+      "salary": "$6525.00 - $8170.00",
+      "ats": "CalCareers",
+      "telework": "Telework",
       "job_type": "Permanent, Full Time",
       "work_arrangement": "Telecommute eligible"
     },
@@ -181,18 +181,6 @@
       "ats": "CalCareers",
       "telework": "Hybrid",
       "job_type": "12 Month Limited Term - Full Time",
-      "work_arrangement": "Telecommute eligible"
-    },
-    {
-      "company": "Department of Human Resources",
-      "title": "Personnel Program Manager",
-      "location": "Sacramento County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=524331",
-      "date_posted": "2026-07-10",
-      "salary": "$9572.00 - $10867.00",
-      "ats": "CalCareers",
-      "telework": "Hybrid",
-      "job_type": "Permanent, Full Time",
       "work_arrangement": "Telecommute eligible"
     },
     {
@@ -268,6 +256,18 @@
       "work_arrangement": "Telecommute eligible"
     },
     {
+      "company": "Commission on the Status of Women and Girls",
+      "title": "Operations Analyst",
+      "location": "Sacramento County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=529314",
+      "date_posted": "2026-08-19",
+      "salary": "$6031.00 - $7775.00",
+      "ats": "CalCareers",
+      "telework": "Hybrid",
+      "job_type": "Permanent, Full Time",
+      "work_arrangement": "Telecommute eligible"
+    },
+    {
       "company": "Department of Human Resources",
       "title": "Business Operations Analyst II",
       "location": "Sacramento County",
@@ -280,12 +280,12 @@
       "work_arrangement": "Telecommute eligible"
     },
     {
-      "company": "CA State Lottery",
-      "title": "Consumer Research Data Analyst",
+      "company": "Department of Transportation",
+      "title": "Research Data Analyst II (will consider Research Data Analyst I)",
       "location": "Sacramento County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=528005",
-      "date_posted": "2026-08-12",
-      "salary": "$4469.00 - $6922.00",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=529240",
+      "date_posted": "2026-08-19",
+      "salary": "$6647.00 - $8325.00",
       "ats": "CalCareers",
       "telework": "Hybrid",
       "job_type": "Permanent, Full Time",
@@ -297,6 +297,18 @@
       "location": "Sacramento County",
       "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=528434",
       "date_posted": "2026-08-13",
+      "salary": "$4469.00 - $6922.00",
+      "ats": "CalCareers",
+      "telework": "Hybrid",
+      "job_type": "Permanent, Full Time",
+      "work_arrangement": "Telecommute eligible"
+    },
+    {
+      "company": "CA State Lottery",
+      "title": "Consumer Research Data Analyst",
+      "location": "Sacramento County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=528005",
+      "date_posted": "2026-08-12",
       "salary": "$4469.00 - $6922.00",
       "ats": "CalCareers",
       "telework": "Hybrid",
@@ -328,18 +340,6 @@
       "work_arrangement": "Telecommute eligible"
     },
     {
-      "company": "Board of State and Community Corrections",
-      "title": "RESEARCH DATA ANALYST II",
-      "location": "Sacramento County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=527285",
-      "date_posted": "2026-08-05",
-      "salary": "$6647.00 - $8325.00",
-      "ats": "CalCareers",
-      "telework": "Hybrid",
-      "job_type": "Permanent, Full Time",
-      "work_arrangement": "Telecommute eligible"
-    },
-    {
       "company": "Public Utilities Commission",
       "title": "Research Data Analyst II",
       "location": "San Francisco County",
@@ -352,12 +352,12 @@
       "work_arrangement": "Telecommute eligible"
     },
     {
-      "company": "State Teachers' Retirement System",
-      "title": "Innovation Program Analyst",
-      "location": "Yolo County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=521681",
-      "date_posted": "2026-08-05",
-      "salary": "$6031.00 - $7547.00",
+      "company": "Department of Transportation",
+      "title": "Research Analyst",
+      "location": "San Diego County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=529184",
+      "date_posted": "2026-08-19",
+      "salary": "$6647.00 - $8325.00",
       "ats": "CalCareers",
       "telework": "Hybrid",
       "job_type": "Permanent, Full Time",
