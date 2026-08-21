@@ -1,49 +1,64 @@
 # ☕ HiringCafe — Megan's Strategy, Security & Operations Roles
-*Last updated: 2026-08-21 18:55 UTC*
+*Last updated: 2026-08-21 20:20 UTC*
 
-**7 new role(s)** since last run · 148 total in last 30d
+**9 new role(s)** since last run · 151 total in last 30d
 
-### [Construction Security Senior Program Manager](https://job-boards.eu.greenhouse.io/nscaleoperationsukltd/jobs/4956325101) — Nscale
-- 📍 **Location:** Point Pleasant or Mason County
-- 💰 **Salary:** $170k–$200k/yr
-- **Work mode:** On-site
-- **Job type:** Full Time
-- 🕒 **Posted:** 2026-08-19T17:57:10.000Z
-
-### [Program Manager, Security & Privacy - KCC ](https://jobs.dayforcehcm.com/en-US/kubota/candidateportal/jobs/13325) — Kubota
-- 📍 **Location:** Grapevine, Texas, United States
-- **Work mode:** Telecommute eligible
-- **Job type:** Full Time
-- 🕒 **Posted:** 2026-08-21T06:00:00.000Z
-
-### [Implementation Manager ](https://job-boards.greenhouse.io/mettel/jobs/4701397006) — MetTel
-- 📍 **Location:** Holmdel, New Jersey, United States
-- 💰 **Salary:** $100k/yr
-- **Work mode:** On-site
-- **Job type:** Full Time
-- 🕒 **Posted:** 2026-07-30T23:18:38.000Z
-
-### [Deployment Strategist](https://jobs.ashbyhq.com/mercor/7581deeb-ffee-463c-a2cd-e86181655ff3) — Mercor
-- 📍 **Location:** San Francisco or New York City or London
-- 💰 **Salary:** $140k–$210k/yr
-- **Work mode:** On-site
-- **Job type:** Full Time
-- 🕒 **Posted:** 2026-07-25T00:34:24.220Z
-
-### [Deployment Strategist ](https://www.seekr.com/careers/?gh_jid=4724221005) — Seekr
-- 📍 **Location:** Austin or Reston
-- **Work mode:** Telecommute eligible
-- **Job type:** Full Time
-- 🕒 **Posted:** 2026-08-14T14:05:26.000Z
-
-### [Deployment Strategist - USMC](https://jobs.ashbyhq.com/code-metal/8694ee02-6f3c-45c8-9269-3156b3bca92f) — Code Metal
-- 📍 **Location:** Washington, District of Columbia, United States
-- **Work mode:** Telecommute eligible
-- **Job type:** Full Time
-- 🕒 **Posted:** 2026-08-20T21:01:59.491Z
-
-### [AI Deployment Strategist](https://jobs.ashbyhq.com/freehand/fe8baee3-b6c4-42a7-849d-467cbd72bad7) — Freehand
-- 📍 **Location:** India or United States
+### [Intelligence Analyst](https://jobs.workable.com/view/7RSfRWRxmhcRYvDY5HVqXH/remote-intelligence-analyst-in-washington-at-moonshot) — Moonshot
+- 📍 **Location:** Massachusetts or Colorado or New York or Virginia or Georgia or Pennsylvania or Maryland or Wisconsin or Tennessee or Oregon or New Jersey or District of Columbia
+- 💰 **Salary:** $50k–$57k/yr
 - **Work mode:** Remote in-state eligible
 - **Job type:** Full Time
-- 🕒 **Posted:** 2026-07-31T09:04:20.459Z
+- 🕒 **Posted:** 2026-08-07T05:44:48.216Z
+
+### [Intelligence Analyst III](https://careers.akima.com/jobs/25144?lang=en-us) — Akima, LLC
+- 📍 **Location:** Riverton, Utah, United States
+- 💰 **Salary:** $62k–$106k/yr
+- **Work mode:** On-site
+- **Job type:** Full Time
+- 🕒 **Posted:** 2026-08-20T20:08:27.000Z
+
+### [MDSO Intelligence Analyst](https://jobs.miamidade.gov/psc/JOBS/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&JobOpeningId=101005&PostingSeq=1&SiteId=1) — Miami-Dade County
+- 📍 **Location:** Doral, Florida, United States
+- **Work mode:** On-site
+- **Job type:** Full Time
+- 🕒 **Posted:** 2026-08-20T12:00:00.000Z
+
+### [Protective Intelligence & Threat Analyst](https://lamresearch.eightfold.ai/careers/job/1099553704959) — Lam Research
+- 📍 **Location:** Tualatin, Oregon, United States
+- **Work mode:** Telecommute eligible
+- **Job type:** Full Time
+- 🕒 **Posted:** 2026-08-06T18:04:04.000Z
+
+### [Police Crime Intelligence Analyst I](https://secure6.saashr.com/ta/6123570.careers?ShowJob=705341825) — City of South Bend
+- 📍 **Location:** South Bend, Indiana, United States
+- 💰 **Salary:** $48k/yr
+- **Work mode:** On-site
+- **Job type:** Full Time
+- 🕒 **Posted:** 2026-08-21T00:17:59.801Z
+
+### [Implementation Manager](https://jobs.lever.co/zocks/5a768d73-30e8-48f5-b732-79308df68320) — Zocks
+- 📍 **Location:** Denver, Colorado, United States
+- 💰 **Salary:** $80k–$95k/yr
+- **Work mode:** Telecommute eligible
+- **Job type:** Full Time
+- 🕒 **Posted:** 2026-08-20T18:42:00.673Z
+
+### [Implementation Manager](https://careers.safely-you.com/jobs/682937-implementation-manager) — SafelyYou
+- 📍 **Location:** United States
+- 💰 **Salary:** $90k–$100k/yr
+- **Work mode:** Remote in-state eligible
+- **Job type:** Full Time
+- 🕒 **Posted:** 2026-08-13T18:38:32.000Z
+
+### [Deployment Strategist](https://jobs.ashbyhq.com/hippocratic%20ai/a42049ce-e1af-40e6-b4b6-e5e0eb285a8a) — Hippocratic AI
+- 📍 **Location:** Orange County or Menlo Park
+- **Work mode:** On-site
+- **Job type:** Full Time
+- 🕒 **Posted:** 2026-08-15T15:20:24.986Z
+
+### [Deployment Strategist](https://jobs.ashbyhq.com/kira/d0304e80-32b7-4c4c-ad58-e8c19b15e708) — Kira
+- 📍 **Location:** New York City, New York, United States
+- 💰 **Salary:** $160k–$200k/yr
+- **Work mode:** Telecommute eligible
+- **Job type:** Full Time
+- 🕒 **Posted:** 2026-07-29T18:25:32.547Z
