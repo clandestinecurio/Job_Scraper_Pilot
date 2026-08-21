@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-21 03:00 UTC",
+  "scraped_at": "2026-08-21 04:14 UTC",
   "total": 150,
-  "new_count": 5,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Polar Semiconductor",
@@ -2104,76 +2104,5 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Akima, LLC",
-      "title": "Security Program Analyst II",
-      "location": "Rosslyn, Virginia, United States",
-      "url": "https://careers.akima.com/jobs/24611?lang=en-us",
-      "direct_url": "https://careers.akima.com/jobs/24611?lang=en-us",
-      "date_posted": "2026-07-31T22:38:41.000Z",
-      "description": "Associate's degree, 1 year experience (6 months specialized in security program administration), knowledge of security standards/Department of State regulations, active SECRET clearance.",
-      "salary": "$95k–$101k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Target",
-      "title": "Senior Fraud Intelligence Analyst",
-      "location": "Brooklyn Park, Minnesota, United States",
-      "url": "https://corporate.target.com/jobs/w89/21/senior-fraud-intelligence-analyst",
-      "direct_url": "https://corporate.target.com/jobs/w89/21/senior-fraud-intelligence-analyst",
-      "date_posted": "2026-08-20T12:00:00.000Z",
-      "description": "Requires 2–5 years in threat intelligence, fraud analysis, response, or mitigation; expertise in fraud tactics, investigations, intelligence methods, open/deep/dark web sources, digital investigations, data management, and scripting utilities.",
-      "salary": "$88k–$158k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Target",
-      "title": "Senior Fraud Intelligence Analyst",
-      "location": "Brooklyn Park, Minnesota, United States",
-      "url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/7000-Target-Pkwy-NNCD-0375-Brooklyn-ParkMN-55445/Senior-Fraud-Intelligence-Analyst_R0000448921",
-      "direct_url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/7000-Target-Pkwy-NNCD-0375-Brooklyn-ParkMN-55445/Senior-Fraud-Intelligence-Analyst_R0000448921",
-      "date_posted": "2026-08-20T00:00:00.000Z",
-      "description": "Requires 2–5 years in threat intelligence, fraud analysis, response, or mitigation; experience with open, deep, and dark web investigations, fraud tactics, intelligence methodologies, and analytical tools.",
-      "salary": "$88k–$158k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Akima, LLC",
-      "title": "Intelligence Analyst II (Active Secret Clearance with ability to obtain DEA clearance)",
-      "location": "Phoenix, Arizona, United States",
-      "url": "https://careers.akima.com/jobs/21504?lang=en-us",
-      "direct_url": "https://careers.akima.com/jobs/21504?lang=en-us",
-      "date_posted": "2026-07-30T15:05:46.000Z",
-      "description": "Active Secret clearance required; undergraduate degree or 3 years specialized intelligence experience (substitutable); ability to travel up to 25%; experience collecting, analyzing, and disseminating investigative intelligence.",
-      "salary": "$52k–$88k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "MetTel",
-      "title": "Implementation Manager ",
-      "location": "Holmdel, New Jersey, United States",
-      "url": "https://job-boards.greenhouse.io/mettel/jobs/4701397006",
-      "direct_url": "https://job-boards.greenhouse.io/mettel/jobs/4701397006",
-      "date_posted": "2026-07-30T23:18:38.000Z",
-      "description": "Bachelor's degree,5+ years in software implementation/project management or related client-facing roles,experience leading complex projects,strong customer-facing communication and organizational skills.",
-      "salary": "$100k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    }
-  ]
+  "new_jobs": []
 }
