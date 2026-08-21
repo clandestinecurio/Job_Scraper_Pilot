@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-21 04:14 UTC",
+  "scraped_at": "2026-08-21 04:38 UTC",
   "total": 150,
-  "new_count": 0,
+  "new_count": 3,
   "jobs": [
     {
       "company": "Polar Semiconductor",
@@ -438,20 +438,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Nscale",
-      "title": "Construction Security Senior Program Manager",
-      "location": "Point Pleasant or Mason County",
-      "url": "https://job-boards.eu.greenhouse.io/nscaleoperationsukltd/jobs/4956325101",
-      "direct_url": "https://job-boards.eu.greenhouse.io/nscaleoperationsukltd/jobs/4956325101",
-      "date_posted": "2026-08-19T17:57:10.000Z",
-      "description": "Requires 7+ years in physical, data center, construction, or critical infrastructure security; large-scale project experience; security technology expertise; and strong program management and communication skills.",
-      "salary": "$170k–$200k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Tarian",
       "title": "Security Program Manager",
       "location": "Aurora, Colorado, United States",
@@ -474,6 +460,20 @@
       "date_posted": "2026-08-03T18:19:37.370Z",
       "description": "Bachelor's or equivalent experience, 5-8+ years security experience supporting classified Intelligence Community programs, active TS/SCI clearance, knowledge of ICD 503/705 and NISPOM, ability to manage complex security programs and brief senior leadership.",
       "salary": "$130k–$180k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Nscale",
+      "title": "Construction Security Senior Program Manager",
+      "location": "Point Pleasant or Mason County",
+      "url": "https://job-boards.eu.greenhouse.io/nscaleoperationsukltd/jobs/4956325101",
+      "direct_url": "https://job-boards.eu.greenhouse.io/nscaleoperationsukltd/jobs/4956325101",
+      "date_posted": "2026-08-19T17:57:10.000Z",
+      "description": "Requires 7+ years in physical, data center, construction, or critical infrastructure security; large-scale project experience; security technology expertise; and strong program management and communication skills.",
+      "salary": "$170k–$200k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -550,20 +550,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Sancorp Consulting LLC",
-      "title": "Program Manager Personnel Security",
-      "location": "Hanover or Fort Meade or Arlington",
-      "url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=32186ff8-408c-44a6-a407-bfefe4f2d0ad&ccId=19000101_000001&jobId=538964&lang=en_US",
-      "direct_url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=32186ff8-408c-44a6-a407-bfefe4f2d0ad&ccId=19000101_000001&jobId=538964&lang=en_US",
-      "date_posted": "2026-08-06T20:48:00.000Z",
-      "description": "Requires U.S. citizenship, TS/SCI clearance, 3+ years of personnel security clearance experience, 3+ years managing 40+ staff, and experience in contract management, process optimization, and risk mitigation.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Tarian",
       "title": "Security Program Manager",
       "location": "Houston, Texas, United States",
@@ -572,6 +558,20 @@
       "date_posted": "2026-08-04T04:00:00.000Z",
       "description": "Lead security program for healthcare sites, manage supervisors and officers, develop policies/training, handle budgets, investigations, and compliance with healthcare regulations; bachelor’s preferred and IAHSS certifications preferred.",
       "salary": "$79k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Sancorp Consulting LLC",
+      "title": "Program Manager Personnel Security",
+      "location": "Hanover or Fort Meade or Arlington",
+      "url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=32186ff8-408c-44a6-a407-bfefe4f2d0ad&ccId=19000101_000001&jobId=538964&lang=en_US",
+      "direct_url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=32186ff8-408c-44a6-a407-bfefe4f2d0ad&ccId=19000101_000001&jobId=538964&lang=en_US",
+      "date_posted": "2026-08-06T20:48:00.000Z",
+      "description": "Requires U.S. citizenship, TS/SCI clearance, 3+ years of personnel security clearance experience, 3+ years managing 40+ staff, and experience in contract management, process optimization, and risk mitigation.",
+      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -620,20 +620,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Unissant",
-      "title": "Program Manager",
-      "location": "Washington, District of Columbia, United States",
-      "url": "https://unissant.applicantpro.com/jobs/4166412",
-      "direct_url": "https://unissant.applicantpro.com/jobs/4166412",
-      "date_posted": "2026-08-04T00:00:00.000Z",
-      "description": "8+ years program/project management experience supporting federal or national security programs; Bachelor's required; PMP/PgMP/Agile preferred; ability to obtain security clearance.",
-      "salary": "$143k–$229k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Akima, LLC",
       "title": "Security Program Analyst II",
       "location": "Rosslyn, Virginia, United States",
@@ -642,6 +628,20 @@
       "date_posted": "2026-07-31T22:38:41.000Z",
       "description": "Associate's degree, 1 year experience (6 months specialized in security program administration), knowledge of security standards/Department of State regulations, active SECRET clearance.",
       "salary": "$95k–$101k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Unissant",
+      "title": "Program Manager",
+      "location": "Washington, District of Columbia, United States",
+      "url": "https://unissant.applicantpro.com/jobs/4166412",
+      "direct_url": "https://unissant.applicantpro.com/jobs/4166412",
+      "date_posted": "2026-08-04T00:00:00.000Z",
+      "description": "8+ years program/project management experience supporting federal or national security programs; Bachelor's required; PMP/PgMP/Agile preferred; ability to obtain security clearance.",
+      "salary": "$143k–$229k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -690,6 +690,20 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Amentum",
+      "title": "Program Security Manager",
+      "location": "Omaha or Nebraska",
+      "url": "https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-NE-Omaha/Program-Security-Manager_R0168549",
+      "direct_url": "https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-NE-Omaha/Program-Security-Manager_R0168549",
+      "date_posted": "2026-08-18T00:00:00.000Z",
+      "description": "Requires US citizenship, Top Secret clearance with SCI eligibility, 10+ years relevant experience, PMP certification, IC construction surveillance training, site security manager training, and 5+ years federal security leadership.",
+      "salary": "$100k–$180k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Modern Technology Solutions, Inc.",
       "title": "Program Manager",
       "location": "Creech Air Force Base or Indian Springs or Las Vegas",
@@ -712,20 +726,6 @@
       "date_posted": "2026-08-18T13:24:32.000Z",
       "description": "Experience managing complex technology or security programs, cross-functional leadership, government IT and security knowledge, financial management, project methodologies, and strong communication and problem-solving skills.",
       "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Amentum",
-      "title": "Program Security Manager",
-      "location": "Omaha or Nebraska",
-      "url": "https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-NE-Omaha/Program-Security-Manager_R0168549",
-      "direct_url": "https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-NE-Omaha/Program-Security-Manager_R0168549",
-      "date_posted": "2026-08-18T00:00:00.000Z",
-      "description": "Requires US citizenship, Top Secret clearance with SCI eligibility, 10+ years relevant experience, PMP certification, IC construction surveillance training, site security manager training, and 5+ years federal security leadership.",
-      "salary": "$100k–$180k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -1140,15 +1140,15 @@
     {
       "company": "Lam Research",
       "title": "Protective Intelligence & Threat Analyst",
-      "location": "Tualatin, Oregon, United States",
-      "url": "https://lamresearch.eightfold.ai/careers/job/1099553704959",
-      "direct_url": "https://lamresearch.eightfold.ai/careers/job/1099553704959",
-      "date_posted": "2026-08-06T18:04:04.000Z",
-      "description": "Bachelor's degree in criminal justice, international relations, or a related field; 3–4 years of analytical experience; OSINT, investigations, threat assessment, communication, and problem-solving skills.",
+      "location": "Phoenix or Fremont or Tualatin",
+      "url": "https://lamresearch.eightfold.ai/careers/job/1099555378257",
+      "direct_url": "https://lamresearch.eightfold.ai/careers/job/1099555378257",
+      "date_posted": "2026-08-10T14:06:07.000Z",
+      "description": "Requires 8 years of related experience with a bachelor's degree, 6 years with a master's, or 3 years with a PhD; strong OSINT, investigative, analytical, communication, and problem-solving skills.",
       "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
+      "work_arrangement": "On-site",
       "ats": "HiringCafe"
     },
     {
@@ -1684,17 +1684,17 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Kira",
+      "company": "Foresight Data Machines",
       "title": "Deployment Strategist",
-      "location": "New York City, New York, United States",
-      "url": "https://jobs.ashbyhq.com/kira/d0304e80-32b7-4c4c-ad58-e8c19b15e708",
-      "direct_url": "https://jobs.ashbyhq.com/kira/d0304e80-32b7-4c4c-ad58-e8c19b15e708",
-      "date_posted": "2026-07-29T18:25:32.547Z",
-      "description": "7+ years experience; extensive hands-on use of AI tools; background in high-intensity roles; strong prioritization, customer-facing implementation, prototyping, and prompt-engineering fluency.",
-      "salary": "$160k–$200k/yr",
+      "location": "Austin, Texas, United States",
+      "url": "https://jobs.ashbyhq.com/foresightdatamachines/9fb9aeae-dd10-4927-a830-613fed864502",
+      "direct_url": "https://jobs.ashbyhq.com/foresightdatamachines/9fb9aeae-dd10-4927-a830-613fed864502",
+      "date_posted": "2026-07-30T06:14:12.068Z",
+      "description": "Programming familiarity, bachelor’s degree (or equivalent) in physics/engineering/math, strong communication, ability to work in dynamic environments, willingness to travel 25–75% and be colocated in office.",
+      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
+      "work_arrangement": "On-site",
       "ats": "HiringCafe"
     },
     {
@@ -1706,20 +1706,6 @@
       "date_posted": "2026-07-23T03:15:10.876Z",
       "description": "4+ years in management consulting, enterprise technology, or high-growth B2B with an MBA; proven executive relationship and account growth experience; technical fluency in AI and data; ability to travel.",
       "salary": "$125k–$225k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Foresight Data Machines",
-      "title": "Deployment Strategist",
-      "location": "Austin, Texas, United States",
-      "url": "https://jobs.ashbyhq.com/foresightdatamachines/9fb9aeae-dd10-4927-a830-613fed864502",
-      "direct_url": "https://jobs.ashbyhq.com/foresightdatamachines/9fb9aeae-dd10-4927-a830-613fed864502",
-      "date_posted": "2026-07-30T06:14:12.068Z",
-      "description": "Programming familiarity, bachelor’s degree (or equivalent) in physics/engineering/math, strong communication, ability to work in dynamic environments, willingness to travel 25–75% and be colocated in office.",
-      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -1754,6 +1740,20 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Code Metal",
+      "title": "Deployment Strategist - USMC",
+      "location": "Washington, District of Columbia, United States",
+      "url": "https://jobs.ashbyhq.com/code-metal/8694ee02-6f3c-45c8-9269-3156b3bca92f",
+      "direct_url": "https://jobs.ashbyhq.com/code-metal/8694ee02-6f3c-45c8-9269-3156b3bca92f",
+      "date_posted": "2026-08-20T21:01:59.491Z",
+      "description": "Former operators with deep customer and US Government knowledge, strong organizational relationships, active US security clearance, analytical and product intuition, customer empathy, and willingness to travel 50%.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "Telecommute eligible",
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Liberate",
       "title": "Founding Deployment Strategist ",
       "location": "San Francisco or Boston",
@@ -1762,34 +1762,6 @@
       "date_posted": "2026-07-24T20:49:00.000Z",
       "description": "7+ years customer-facing experience owning enterprise relationships; strong project management, technical acumen, stakeholder alignment, high EQ, and willingness to travel 25–40%.",
       "salary": "$185k–$260k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Avallon",
-      "title": "Founding Deployment Strategist",
-      "location": "New York City, New York, United States",
-      "url": "https://jobs.ashbyhq.com/avallon/7765f3c1-c71c-4e3c-84ab-c182cc4b7a4e",
-      "direct_url": "https://jobs.ashbyhq.com/avallon/7765f3c1-c71c-4e3c-84ab-c182cc4b7a4e",
-      "date_posted": "2026-08-20T17:43:06.726Z",
-      "description": "Requires 3–6 years running enterprise programs in consulting, implementation, or product management; product and technical judgment, high agency, executive communication, and ability to manage multiple engagements.",
-      "salary": "$160k–$220k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Code Metal",
-      "title": "Deployment Strategist - PACOM",
-      "location": "Honolulu, Hawaii, United States",
-      "url": "https://jobs.ashbyhq.com/code-metal/9b107380-14b9-41b1-93c8-445b24cf22ab",
-      "direct_url": "https://jobs.ashbyhq.com/code-metal/9b107380-14b9-41b1-93c8-445b24cf22ab",
-      "date_posted": "2026-08-20T21:01:56.000Z",
-      "description": "Former operator with deep understanding of U.S. Government customers, strong relevant organizational relationships, active U.S. security clearance, and willingness to travel 50%.",
-      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "Telecommute eligible",
@@ -1824,6 +1796,20 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Avallon",
+      "title": "Founding Deployment Strategist",
+      "location": "New York City, New York, United States",
+      "url": "https://jobs.ashbyhq.com/avallon/7765f3c1-c71c-4e3c-84ab-c182cc4b7a4e",
+      "direct_url": "https://jobs.ashbyhq.com/avallon/7765f3c1-c71c-4e3c-84ab-c182cc4b7a4e",
+      "date_posted": "2026-08-20T17:43:06.726Z",
+      "description": "Requires 3–6 years running enterprise programs in consulting, implementation, or product management; product and technical judgment, high agency, executive communication, and ability to manage multiple engagements.",
+      "salary": "$160k–$220k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
       "company": "PhysicsX",
       "title": "Deployment Strategist - Aerospace & Defense",
       "location": "New York, New York, United States",
@@ -1835,6 +1821,20 @@
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "Telecommute eligible",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Freehand",
+      "title": "AI Deployment Strategist",
+      "location": "India or United States",
+      "url": "https://jobs.ashbyhq.com/freehand/fe8baee3-b6c4-42a7-849d-467cbd72bad7",
+      "direct_url": "https://jobs.ashbyhq.com/freehand/fe8baee3-b6c4-42a7-849d-467cbd72bad7",
+      "date_posted": "2026-07-31T09:04:20.459Z",
+      "description": "6–15 years in enterprise software implementation, solution architecture, consulting or delivery; Bachelor's required; experience with ERP/TMS/spend management; strong customer partnership and execution skills.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": true,
+      "work_arrangement": "Remote in-state eligible",
       "ats": "HiringCafe"
     },
     {
@@ -1964,20 +1964,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Tech Mahindra",
-      "title": "Market Risk Data Operations Analyst / Data Operations Specialist",
-      "location": "Tampa, Florida, United States",
-      "url": "https://careers.techmahindra.com/JobDetails.aspx?JobCode=OQAAADQAAAAxAAAAMQAAADgAAAA=-qZ7jeCAnock=&IndustryType=SQAAAFQAAAA=-cu6HGbNv01o=",
-      "direct_url": "https://careers.techmahindra.com/JobDetails.aspx?JobCode=OQAAADQAAAAxAAAAMQAAADgAAAA=-qZ7jeCAnock=&IndustryType=SQAAAFQAAAA=-cu6HGbNv01o=",
-      "date_posted": "2026-08-04T00:00:00.000Z",
-      "description": "Requires 10–12 years of experience, a bachelor's or higher degree, MS Access, SQL, database management, Tableau reporting, data governance, data quality, and market risk knowledge.",
-      "salary": "$110k–$120k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "GEICO",
       "title": "Sales Operations Data Analyst",
       "location": "Getzville or Fredericksburg or United States",
@@ -1989,6 +1975,20 @@
       "job_type": "Full Time",
       "is_remote": true,
       "work_arrangement": "Remote in-state eligible",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Tech Mahindra",
+      "title": "Market Risk Data Operations Analyst / Data Operations Specialist",
+      "location": "Tampa, Florida, United States",
+      "url": "https://careers.techmahindra.com/JobDetails.aspx?JobCode=OQAAADQAAAAxAAAAMQAAADgAAAA=-qZ7jeCAnock=&IndustryType=SQAAAFQAAAA=-cu6HGbNv01o=",
+      "direct_url": "https://careers.techmahindra.com/JobDetails.aspx?JobCode=OQAAADQAAAAxAAAAMQAAADgAAAA=-qZ7jeCAnock=&IndustryType=SQAAAFQAAAA=-cu6HGbNv01o=",
+      "date_posted": "2026-08-04T00:00:00.000Z",
+      "description": "Requires 10–12 years of experience, a bachelor's or higher degree, MS Access, SQL, database management, Tableau reporting, data governance, data quality, and market risk knowledge.",
+      "salary": "$110k–$120k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
       "ats": "HiringCafe"
     },
     {
@@ -2104,5 +2104,48 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "Lam Research",
+      "title": "Protective Intelligence & Threat Analyst",
+      "location": "Phoenix or Fremont or Tualatin",
+      "url": "https://lamresearch.eightfold.ai/careers/job/1099555378257",
+      "direct_url": "https://lamresearch.eightfold.ai/careers/job/1099555378257",
+      "date_posted": "2026-08-10T14:06:07.000Z",
+      "description": "Requires 8 years of related experience with a bachelor's degree, 6 years with a master's, or 3 years with a PhD; strong OSINT, investigative, analytical, communication, and problem-solving skills.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Code Metal",
+      "title": "Deployment Strategist - USMC",
+      "location": "Washington, District of Columbia, United States",
+      "url": "https://jobs.ashbyhq.com/code-metal/8694ee02-6f3c-45c8-9269-3156b3bca92f",
+      "direct_url": "https://jobs.ashbyhq.com/code-metal/8694ee02-6f3c-45c8-9269-3156b3bca92f",
+      "date_posted": "2026-08-20T21:01:59.491Z",
+      "description": "Former operators with deep customer and US Government knowledge, strong organizational relationships, active US security clearance, analytical and product intuition, customer empathy, and willingness to travel 50%.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "Telecommute eligible",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Freehand",
+      "title": "AI Deployment Strategist",
+      "location": "India or United States",
+      "url": "https://jobs.ashbyhq.com/freehand/fe8baee3-b6c4-42a7-849d-467cbd72bad7",
+      "direct_url": "https://jobs.ashbyhq.com/freehand/fe8baee3-b6c4-42a7-849d-467cbd72bad7",
+      "date_posted": "2026-07-31T09:04:20.459Z",
+      "description": "6–15 years in enterprise software implementation, solution architecture, consulting or delivery; Bachelor's required; experience with ERP/TMS/spend management; strong customer partnership and execution skills.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": true,
+      "work_arrangement": "Remote in-state eligible",
+      "ats": "HiringCafe"
+    }
+  ]
 }
