@@ -1,8 +1,17 @@
 {
-  "scraped_at": "2026-08-19 16:53 UTC",
-  "total": 4,
-  "new_count": 1,
+  "scraped_at": "2026-08-21 17:06 UTC",
+  "total": 5,
+  "new_count": 3,
   "jobs": [
+    {
+      "company": "Housing Authority of the City of Los Angeles",
+      "title": "Project Manager",
+      "location": "Los Angeles, CA",
+      "url": "https://www.governmentjobs.com/jobs/5454706-0/project-manager",
+      "date_posted": "",
+      "salary": "$118,240.00 - $146,286.40 Annually",
+      "ats": "NEOGOV"
+    },
     {
       "company": "City of Oakland",
       "title": "Project Manager II (SC-CeaseFire)",
@@ -13,21 +22,21 @@
       "ats": "NEOGOV"
     },
     {
-      "company": "County of Los Angeles",
-      "title": "PROGRAM MANAGER I / Emergency Appointment Fire",
-      "location": "Los Angeles County, CA",
-      "url": "https://www.governmentjobs.com/jobs/5419957-0/program-manager-i-emergency-appointment-fire",
+      "company": "City of Oakland",
+      "title": "Program Manager (SC - Early Childhood and Family Services)",
+      "location": "Oakland, CA",
+      "url": "https://www.governmentjobs.com/jobs/5318853-0/program-manager-sc-early-childhood-and-family-services",
       "date_posted": "",
-      "salary": "$82,080.00 - $104,772.00 Annually",
+      "salary": "$149,409.72 - $183,462.00 Annually",
       "ats": "NEOGOV"
     },
     {
-      "company": "Superior Court of California County of Los Angeles",
-      "title": "Data Strategy and Business Intelligence Manager",
-      "location": "Los Angeles, CA",
-      "url": "https://www.governmentjobs.com/jobs/5411895-0/data-strategy-and-business-intelligence-manager",
+      "company": "City of San Jose",
+      "title": "Program Manager (Children and Youth Services Masterplan) - PRNS",
+      "location": "San Jose",
+      "url": "https://www.governmentjobs.com/jobs/5435755-0/program-manager-children-and-youth-services-masterplan-prns",
       "date_posted": "",
-      "salary": "$129,531.24 - $189,358.92 Annually",
+      "salary": "$134,490.72 - $174,851.04 Annually",
       "ats": "NEOGOV"
     },
     {
@@ -42,12 +51,30 @@
   ],
   "new_jobs": [
     {
-      "company": "County of Los Angeles",
-      "title": "PROGRAM MANAGER I / Emergency Appointment Fire",
-      "location": "Los Angeles County, CA",
-      "url": "https://www.governmentjobs.com/jobs/5419957-0/program-manager-i-emergency-appointment-fire",
+      "company": "Housing Authority of the City of Los Angeles",
+      "title": "Project Manager",
+      "location": "Los Angeles, CA",
+      "url": "https://www.governmentjobs.com/jobs/5454706-0/project-manager",
       "date_posted": "",
-      "salary": "$82,080.00 - $104,772.00 Annually",
+      "salary": "$118,240.00 - $146,286.40 Annually",
+      "ats": "NEOGOV"
+    },
+    {
+      "company": "City of Oakland",
+      "title": "Program Manager (SC - Early Childhood and Family Services)",
+      "location": "Oakland, CA",
+      "url": "https://www.governmentjobs.com/jobs/5318853-0/program-manager-sc-early-childhood-and-family-services",
+      "date_posted": "",
+      "salary": "$149,409.72 - $183,462.00 Annually",
+      "ats": "NEOGOV"
+    },
+    {
+      "company": "City of San Jose",
+      "title": "Program Manager (Children and Youth Services Masterplan) - PRNS",
+      "location": "San Jose",
+      "url": "https://www.governmentjobs.com/jobs/5435755-0/program-manager-children-and-youth-services-masterplan-prns",
+      "date_posted": "",
+      "salary": "$134,490.72 - $174,851.04 Annually",
       "ats": "NEOGOV"
     }
   ]
