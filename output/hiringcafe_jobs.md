@@ -1,22 +1,24 @@
 # ☕ HiringCafe — Megan's Strategy, Security & Operations Roles
-*Last updated: 2026-08-21 04:38 UTC*
+*Last updated: 2026-08-21 17:34 UTC*
 
-**3 new role(s)** since last run · 150 total in last 30d
+**3 new role(s)** since last run · 144 total in last 30d
 
-### [Protective Intelligence & Threat Analyst](https://lamresearch.eightfold.ai/careers/job/1099555378257) — Lam Research
-- 📍 **Location:** Phoenix or Fremont or Tualatin
-- **Work mode:** On-site
-- **Job type:** Full Time
-- 🕒 **Posted:** 2026-08-10T14:06:07.000Z
-
-### [Deployment Strategist - USMC](https://jobs.ashbyhq.com/code-metal/8694ee02-6f3c-45c8-9269-3156b3bca92f) — Code Metal
-- 📍 **Location:** Washington, District of Columbia, United States
-- **Work mode:** Telecommute eligible
-- **Job type:** Full Time
-- 🕒 **Posted:** 2026-08-20T21:01:59.491Z
-
-### [AI Deployment Strategist](https://jobs.ashbyhq.com/freehand/fe8baee3-b6c4-42a7-849d-467cbd72bad7) — Freehand
-- 📍 **Location:** India or United States
+### [Intelligence Analyst](https://jobs.workable.com/view/8CbzK7Dx6H64fMF9QjAqAo/remote-intelligence-analyst-in-denver-at-moonshot) — Moonshot
+- 📍 **Location:** Colorado or Massachusetts or New York or Virginia or Georgia or Pennsylvania or Maryland or Wisconsin or Tennessee or Oregon or New Jersey or District of Columbia or Denver
+- 💰 **Salary:** $50k–$57k/yr
 - **Work mode:** Remote in-state eligible
 - **Job type:** Full Time
-- 🕒 **Posted:** 2026-07-31T09:04:20.459Z
+- 🕒 **Posted:** 2026-08-07T05:44:48.684Z
+
+### [Deployment Strategist](https://jobs.ashbyhq.com/kira/d0304e80-32b7-4c4c-ad58-e8c19b15e708) — Kira
+- 📍 **Location:** New York City, New York, United States
+- 💰 **Salary:** $160k–$200k/yr
+- **Work mode:** Telecommute eligible
+- **Job type:** Full Time
+- 🕒 **Posted:** 2026-07-29T18:25:32.547Z
+
+### [Deployment Strategist - PACOM](https://jobs.ashbyhq.com/code-metal/9b107380-14b9-41b1-93c8-445b24cf22ab) — Code Metal
+- 📍 **Location:** Honolulu, Hawaii, United States
+- **Work mode:** Telecommute eligible
+- **Job type:** Full Time
+- 🕒 **Posted:** 2026-08-20T21:01:56.000Z
