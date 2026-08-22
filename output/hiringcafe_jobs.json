@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-22 21:39 UTC",
+  "scraped_at": "2026-08-22 22:39 UTC",
   "total": 144,
-  "new_count": 5,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Polar Semiconductor",
@@ -2020,76 +2020,5 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Moonshot",
-      "title": "Intelligence Analyst",
-      "location": "Massachusetts or Colorado or New York or Virginia or Georgia or Pennsylvania or Maryland or Wisconsin or Tennessee or Oregon or New Jersey or District of Columbia",
-      "url": "https://jobs.workable.com/view/7RSfRWRxmhcRYvDY5HVqXH/remote-intelligence-analyst-in-washington-at-moonshot",
-      "direct_url": "https://jobs.workable.com/view/7RSfRWRxmhcRYvDY5HVqXH/remote-intelligence-analyst-in-washington-at-moonshot",
-      "date_posted": "2026-08-07T05:44:48.216Z",
-      "description": "Professional OSINT or intelligence analysis experience; strong social media investigation, written communication, problem-solving, and risk assessment skills; US work eligibility; background check required.",
-      "salary": "$50k–$57k/yr",
-      "job_type": "Full Time",
-      "is_remote": true,
-      "work_arrangement": "Remote in-state eligible",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Hippocratic AI",
-      "title": "Deployment Strategist",
-      "location": "United States",
-      "url": "https://jobs.ashbyhq.com/hippocratic%20ai/80f4d65d-beb2-41d5-8c28-259e57062c08",
-      "direct_url": "https://jobs.ashbyhq.com/hippocratic%20ai/80f4d65d-beb2-41d5-8c28-259e57062c08",
-      "date_posted": "2026-08-11T14:44:57.675Z",
-      "description": "Requires 5+ years of technical experience in software engineering, cloud architecture, systems design, or technical consulting, plus analytical, communication, and project management skills.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": true,
-      "work_arrangement": "Remote in-state eligible",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Seekr",
-      "title": "Deployment Strategist ",
-      "location": "Austin or Reston",
-      "url": "https://www.seekr.com/careers/?gh_jid=4724221005",
-      "direct_url": "https://www.seekr.com/careers/?gh_jid=4724221005",
-      "date_posted": "2026-08-14T14:05:26.000Z",
-      "description": "Requires 7+ years in technical consulting, product management, solutions architecture, implementation, or technical delivery; solution requirements, enterprise engagements, commercial acumen, AI/ML workflows, Python, SQL, R, and infrastructure tooling.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Zoom",
-      "title": "AI Deployment Strategist",
-      "location": "United States or San Jose or Seattle",
-      "url": "https://zoom.wd5.myworkdayjobs.com/zoom/job/Remote--US/Applied-AI-Engineers_R19229-1",
-      "direct_url": "https://zoom.wd5.myworkdayjobs.com/zoom/job/Remote--US/Applied-AI-Engineers_R19229-1",
-      "date_posted": "2026-08-17T00:00:00.000Z",
-      "description": "Requires 4+ years in customer-facing technical roles shipping SaaS or AI/ML solutions, production LLM agent deployment, voice AI expertise, Python, TypeScript or Go, testing, and stakeholder communication.",
-      "salary": "$124k–$271k/yr",
-      "job_type": "Full Time",
-      "is_remote": true,
-      "work_arrangement": "Remote in-state eligible",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Hazel",
-      "title": "AI Deployment Strategist",
-      "location": "New York City, New York, United States",
-      "url": "https://jobs.ashbyhq.com/hazel/a10ec44b-75a9-4932-b0f0-ddb2661d390a",
-      "direct_url": "https://jobs.ashbyhq.com/hazel/a10ec44b-75a9-4932-b0f0-ddb2661d390a",
-      "date_posted": "2026-08-17T14:15:05.694Z",
-      "description": "Requires 2–5 years of experience, rapid learning, stakeholder communication, group teaching, data diagnosis, technical discussion leadership, daily AI use, and willingness to travel; SQL and e-commerce experience are preferred.",
-      "salary": "$115k–$145k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
-      "ats": "HiringCafe"
-    }
-  ]
+  "new_jobs": []
 }
