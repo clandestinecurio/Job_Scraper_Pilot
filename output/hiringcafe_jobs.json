@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-22 22:39 UTC",
-  "total": 144,
-  "new_count": 0,
+  "scraped_at": "2026-08-22 23:31 UTC",
+  "total": 141,
+  "new_count": 4,
   "jobs": [
     {
       "company": "Polar Semiconductor",
@@ -550,20 +550,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Tarian",
-      "title": "Security Program Manager (Taser)",
-      "location": "Richmond, Virginia, United States",
-      "url": "https://careers.hss-us.com/jobs/23646?lang=en-us",
-      "direct_url": "https://careers.hss-us.com/jobs/23646?lang=en-us",
-      "date_posted": "2026-07-28T02:31:59.000Z",
-      "description": "Lead healthcare security program management, supervise security teams, develop policies/training, manage budgets, ensure regulatory compliance, and handle investigations; requires driver license and ability to obtain armed/TASER credentials.",
-      "salary": "$103k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Unissant",
       "title": "Program Manager",
       "location": "Washington, District of Columbia, United States",
@@ -872,20 +858,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "ZeroFox",
-      "title": "Intelligence Analyst - ZSAT",
-      "location": "United States",
-      "url": "https://jobs.workable.com/view/qUN1M7DWnVBd5xvax25tib/remote-intelligence-analyst---zsat-in-united-states-at-zerofox",
-      "direct_url": "https://jobs.workable.com/view/qUN1M7DWnVBd5xvax25tib/remote-intelligence-analyst---zsat-in-united-states-at-zerofox",
-      "date_posted": "2026-08-18T14:55:37.608Z",
-      "description": "Requires 2–3 years in open-source or social media research or investigations, analytical and reporting skills, online evidence collection, investigative tools, Google Suite, and strong written and oral communication.",
-      "salary": "$65k–$80k/yr",
-      "job_type": "Full Time",
-      "is_remote": true,
-      "work_arrangement": "Remote in-state eligible",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "ZeroFOX",
       "title": "Intelligence Analyst - ZSAT",
       "location": "United States",
@@ -897,6 +869,20 @@
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "ZeroFox",
+      "title": "Intelligence Analyst - ZSAT",
+      "location": "United States",
+      "url": "https://jobs.workable.com/view/qUN1M7DWnVBd5xvax25tib/remote-intelligence-analyst---zsat-in-united-states-at-zerofox",
+      "direct_url": "https://jobs.workable.com/view/qUN1M7DWnVBd5xvax25tib/remote-intelligence-analyst---zsat-in-united-states-at-zerofox",
+      "date_posted": "2026-08-18T14:55:37.608Z",
+      "description": "Requires 2–3 years in open-source or social media research or investigations, analytical and reporting skills, online evidence collection, investigative tools, Google Suite, and strong written and oral communication.",
+      "salary": "$65k–$80k/yr",
+      "job_type": "Full Time",
+      "is_remote": true,
+      "work_arrangement": "Remote in-state eligible",
       "ats": "HiringCafe"
     },
     {
@@ -1070,15 +1056,15 @@
     {
       "company": "Lam Research",
       "title": "Protective Intelligence & Threat Analyst",
-      "location": "Phoenix or Fremont or Tualatin",
-      "url": "https://lamresearch.eightfold.ai/careers/job/1099555378257",
-      "direct_url": "https://lamresearch.eightfold.ai/careers/job/1099555378257",
-      "date_posted": "2026-08-10T14:06:07.000Z",
-      "description": "Requires 8 years of related experience with a bachelor's degree, 6 years with a master's, or 3 years with a PhD; strong OSINT, investigative, analytical, communication, and problem-solving skills.",
+      "location": "Tualatin, Oregon, United States",
+      "url": "https://lamresearch.eightfold.ai/careers/job/1099553704959",
+      "direct_url": "https://lamresearch.eightfold.ai/careers/job/1099553704959",
+      "date_posted": "2026-08-06T18:04:04.000Z",
+      "description": "Bachelor's degree in criminal justice, international relations, or a related field; 3–4 years of analytical experience; OSINT, investigations, threat assessment, communication, and problem-solving skills.",
       "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
-      "work_arrangement": "On-site",
+      "work_arrangement": "Telecommute eligible",
       "ats": "HiringCafe"
     },
     {
@@ -1250,20 +1236,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "RELX",
-      "title": "Implementation Manager",
-      "location": "California, United States",
-      "url": "https://relx.wd3.myworkdayjobs.com/relx/job/California/Implementation-Manager_R115644-1",
-      "direct_url": "https://relx.wd3.myworkdayjobs.com/relx/job/California/Implementation-Manager_R115644-1",
-      "date_posted": "2026-08-17T00:00:00.000Z",
-      "description": "Bachelor's degree or equivalent experience; 5+ years in project, implementation, or professional services management; customer-facing delivery, Agile, cross-functional coordination, and stakeholder management experience.",
-      "salary": "$95k–$159k/yr",
-      "job_type": "Full Time",
-      "is_remote": true,
-      "work_arrangement": "Remote in-state eligible",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "12twenty",
       "title": "Implementation Manager",
       "location": "United States",
@@ -1272,6 +1244,20 @@
       "date_posted": "2026-08-13T16:20:50.000Z",
       "description": "Requires 3–5 years in SaaS onboarding, implementation, or project management; experience managing complex multi-month projects, cloud platforms, senior stakeholders, and remote work.",
       "salary": "$75k–$85k/yr",
+      "job_type": "Full Time",
+      "is_remote": true,
+      "work_arrangement": "Remote in-state eligible",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "RELX",
+      "title": "Implementation Manager",
+      "location": "California, United States",
+      "url": "https://relx.wd3.myworkdayjobs.com/relx/job/California/Implementation-Manager_R115644-1",
+      "direct_url": "https://relx.wd3.myworkdayjobs.com/relx/job/California/Implementation-Manager_R115644-1",
+      "date_posted": "2026-08-17T00:00:00.000Z",
+      "description": "Bachelor's degree or equivalent experience; 5+ years in project, implementation, or professional services management; customer-facing delivery, Agile, cross-functional coordination, and stakeholder management experience.",
+      "salary": "$95k–$159k/yr",
       "job_type": "Full Time",
       "is_remote": true,
       "work_arrangement": "Remote in-state eligible",
@@ -1404,20 +1390,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "LucyRx",
-      "title": "Implementation Manager",
-      "location": "United States",
-      "url": "https://lucyrx.wd503.myworkdayjobs.com/lucyrx/job/Remote-United-States/Implementation-Manager_JR100177",
-      "direct_url": "https://lucyrx.wd503.myworkdayjobs.com/lucyrx/job/Remote-United-States/Implementation-Manager_JR100177",
-      "date_posted": "2026-08-06T00:00:00.000Z",
-      "description": "Bachelor’s degree or equivalent experience; 3–5 years in PBM, healthcare, or benefits administration; 2+ years in implementation or project management; PBM operations and Microsoft Office proficiency.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": true,
-      "work_arrangement": "Remote in-state eligible",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Vodori",
       "title": "Implementation Manager",
       "location": "United States",
@@ -1426,6 +1398,20 @@
       "date_posted": "2026-07-27T16:17:42.775Z",
       "description": "2+ years professional services or SaaS implementation experience, strong project management, client-facing skills, data migration and business process familiarity, and advanced Excel proficiency.",
       "salary": "$70k–$80k/yr",
+      "job_type": "Full Time",
+      "is_remote": true,
+      "work_arrangement": "Remote in-state eligible",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "LucyRx",
+      "title": "Implementation Manager",
+      "location": "United States",
+      "url": "https://lucyrx.wd503.myworkdayjobs.com/lucyrx/job/Remote-United-States/Implementation-Manager_JR100177",
+      "direct_url": "https://lucyrx.wd503.myworkdayjobs.com/lucyrx/job/Remote-United-States/Implementation-Manager_JR100177",
+      "date_posted": "2026-08-06T00:00:00.000Z",
+      "description": "Bachelor’s degree or equivalent experience; 3–5 years in PBM, healthcare, or benefits administration; 2+ years in implementation or project management; PBM operations and Microsoft Office proficiency.",
+      "salary": "",
       "job_type": "Full Time",
       "is_remote": true,
       "work_arrangement": "Remote in-state eligible",
@@ -1446,20 +1432,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "AssistRx, LLC",
-      "title": "Implementation Manager",
-      "location": "Florida, United States",
-      "url": "https://careers.assistrx.com/jobs/1805/job?utm_source=hiringcafe_integration&iis=Job%20Board&iisn=HiringCafe",
-      "direct_url": "https://careers.assistrx.com/jobs/1805/job?utm_source=hiringcafe_integration&iis=Job%20Board&iisn=HiringCafe",
-      "date_posted": "2026-08-17T18:48:00.000Z",
-      "description": "Bachelor’s degree preferred, 3–5 years managing complex client-facing software projects, SaaS implementation experience, strong communication and presentation skills, and proficiency with Microsoft Office.",
-      "salary": "$207065k–$258831k/yr",
-      "job_type": "Full Time",
-      "is_remote": true,
-      "work_arrangement": "Remote in-state eligible",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "SafelyYou",
       "title": "Implementation Manager",
       "location": "United States",
@@ -1468,6 +1440,20 @@
       "date_posted": "2026-08-13T18:38:32.000Z",
       "description": "Requires 3+ years in onboarding, implementation, or project management; strong organization, communication, troubleshooting, technical, networking, solution architecture, and multi-project skills; willingness to travel up to 25%.",
       "salary": "$90k–$100k/yr",
+      "job_type": "Full Time",
+      "is_remote": true,
+      "work_arrangement": "Remote in-state eligible",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "AssistRx, LLC",
+      "title": "Implementation Manager",
+      "location": "Florida, United States",
+      "url": "https://careers.assistrx.com/jobs/1805/job?utm_source=hiringcafe_integration&iis=Job%20Board&iisn=HiringCafe",
+      "direct_url": "https://careers.assistrx.com/jobs/1805/job?utm_source=hiringcafe_integration&iis=Job%20Board&iisn=HiringCafe",
+      "date_posted": "2026-08-17T18:48:00.000Z",
+      "description": "Bachelor’s degree preferred, 3–5 years managing complex client-facing software projects, SaaS implementation experience, strong communication and presentation skills, and proficiency with Microsoft Office.",
+      "salary": "$207065k–$258831k/yr",
       "job_type": "Full Time",
       "is_remote": true,
       "work_arrangement": "Remote in-state eligible",
@@ -1558,14 +1544,14 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Mercor",
+      "company": "Mosaic",
       "title": "Deployment Strategist",
-      "location": "San Francisco or New York City or London",
-      "url": "https://jobs.ashbyhq.com/mercor/7581deeb-ffee-463c-a2cd-e86181655ff3",
-      "direct_url": "https://jobs.ashbyhq.com/mercor/7581deeb-ffee-463c-a2cd-e86181655ff3",
-      "date_posted": "2026-07-25T00:34:24.220Z",
-      "description": "2+ years in technical, customer-facing roles; familiarity with coding agents, proficiency with SQL and Python, strong product/technical judgment and cross-functional communication.",
-      "salary": "$140k–$210k/yr",
+      "location": "New York City, New York, United States",
+      "url": "https://jobs.ashbyhq.com/mosaic/14b240bf-7bbe-4460-af8f-d1b5553e0f44",
+      "direct_url": "https://jobs.ashbyhq.com/mosaic/14b240bf-7bbe-4460-af8f-d1b5553e0f44",
+      "date_posted": "2026-08-17T15:52:59.834Z",
+      "description": "Requires 1–3 years in private equity, investment banking, or related finance; financial modeling and valuation fluency; analytical thinking; executive-level communication; and technical curiosity.",
+      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -1600,20 +1586,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Kira",
-      "title": "Deployment Strategist",
-      "location": "New York City, New York, United States",
-      "url": "https://jobs.ashbyhq.com/kira/d0304e80-32b7-4c4c-ad58-e8c19b15e708",
-      "direct_url": "https://jobs.ashbyhq.com/kira/d0304e80-32b7-4c4c-ad58-e8c19b15e708",
-      "date_posted": "2026-07-29T18:25:32.547Z",
-      "description": "7+ years experience; extensive hands-on use of AI tools; background in high-intensity roles; strong prioritization, customer-facing implementation, prototyping, and prompt-engineering fluency.",
-      "salary": "$160k–$200k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Foresight Data Machines",
       "title": "Deployment Strategist",
       "location": "Austin, Texas, United States",
@@ -1642,31 +1614,31 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Avallon",
-      "title": "Founding Deployment Strategist",
-      "location": "New York City, New York, United States",
-      "url": "https://jobs.ashbyhq.com/avallon/7765f3c1-c71c-4e3c-84ab-c182cc4b7a4e",
-      "direct_url": "https://jobs.ashbyhq.com/avallon/7765f3c1-c71c-4e3c-84ab-c182cc4b7a4e",
-      "date_posted": "2026-08-20T17:43:06.726Z",
-      "description": "Requires 3–6 years running enterprise programs in consulting, implementation, or product management; product and technical judgment, high agency, executive communication, and ability to manage multiple engagements.",
-      "salary": "$160k–$220k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Code Metal",
-      "title": "Deployment Strategist - USMC",
-      "location": "Washington, District of Columbia, United States",
-      "url": "https://jobs.ashbyhq.com/code-metal/8694ee02-6f3c-45c8-9269-3156b3bca92f",
-      "direct_url": "https://jobs.ashbyhq.com/code-metal/8694ee02-6f3c-45c8-9269-3156b3bca92f",
-      "date_posted": "2026-08-20T21:01:59.491Z",
-      "description": "Former operators with deep customer and US Government knowledge, strong organizational relationships, active US security clearance, analytical and product intuition, customer empathy, and willingness to travel 50%.",
+      "title": "Deployment Strategist - CENTCOM",
+      "location": "Tampa, Florida, United States",
+      "url": "https://jobs.ashbyhq.com/code-metal/434acecf-97a6-4882-9023-6ab9d2331f56",
+      "direct_url": "https://jobs.ashbyhq.com/code-metal/434acecf-97a6-4882-9023-6ab9d2331f56",
+      "date_posted": "2026-08-20T21:02:02.314Z",
+      "description": "Former operators with deep customer and U.S. Government expertise, strong relevant relationships, active U.S. security clearance, analytical skills, and willingness to travel 50%.",
       "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "Telecommute eligible",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Specter",
+      "title": "Founding Deployment Strategist",
+      "location": "San Francisco, California, United States",
+      "url": "https://jobs.ashbyhq.com/specter/a9403bf6-29f8-4627-94ee-a9714f4d546e",
+      "direct_url": "https://jobs.ashbyhq.com/specter/a9403bf6-29f8-4627-94ee-a9714f4d546e",
+      "date_posted": "2026-08-16T22:30:43.467Z",
+      "description": "Experience navigating enterprise accounts from pilots to expansions, earning engineers' trust, influencing products, distilling complex ideas, and working directly with customers in the field.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
       "ats": "HiringCafe"
     },
     {
@@ -1698,14 +1670,14 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Specter",
+      "company": "Avallon",
       "title": "Founding Deployment Strategist",
-      "location": "San Francisco, California, United States",
-      "url": "https://jobs.ashbyhq.com/specter/a9403bf6-29f8-4627-94ee-a9714f4d546e",
-      "direct_url": "https://jobs.ashbyhq.com/specter/a9403bf6-29f8-4627-94ee-a9714f4d546e",
-      "date_posted": "2026-08-16T22:30:43.467Z",
-      "description": "Experience navigating enterprise accounts from pilots to expansions, earning engineers' trust, influencing products, distilling complex ideas, and working directly with customers in the field.",
-      "salary": "",
+      "location": "New York City, New York, United States",
+      "url": "https://jobs.ashbyhq.com/avallon/7765f3c1-c71c-4e3c-84ab-c182cc4b7a4e",
+      "direct_url": "https://jobs.ashbyhq.com/avallon/7765f3c1-c71c-4e3c-84ab-c182cc4b7a4e",
+      "date_posted": "2026-08-20T17:43:06.726Z",
+      "description": "Requires 3–6 years running enterprise programs in consulting, implementation, or product management; product and technical judgment, high agency, executive communication, and ability to manage multiple engagements.",
+      "salary": "$160k–$220k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -1740,17 +1712,17 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Hazel",
+      "company": "Freehand",
       "title": "AI Deployment Strategist",
-      "location": "New York City, New York, United States",
-      "url": "https://jobs.ashbyhq.com/hazel/a10ec44b-75a9-4932-b0f0-ddb2661d390a",
-      "direct_url": "https://jobs.ashbyhq.com/hazel/a10ec44b-75a9-4932-b0f0-ddb2661d390a",
-      "date_posted": "2026-08-17T14:15:05.694Z",
-      "description": "Requires 2–5 years of experience, rapid learning, stakeholder communication, group teaching, data diagnosis, technical discussion leadership, daily AI use, and willingness to travel; SQL and e-commerce experience are preferred.",
-      "salary": "$115k–$145k/yr",
+      "location": "India or United States",
+      "url": "https://jobs.ashbyhq.com/freehand/fe8baee3-b6c4-42a7-849d-467cbd72bad7",
+      "direct_url": "https://jobs.ashbyhq.com/freehand/fe8baee3-b6c4-42a7-849d-467cbd72bad7",
+      "date_posted": "2026-07-31T09:04:20.459Z",
+      "description": "6–15 years in enterprise software implementation, solution architecture, consulting or delivery; Bachelor's required; experience with ERP/TMS/spend management; strong customer partnership and execution skills.",
+      "salary": "",
       "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
+      "is_remote": true,
+      "work_arrangement": "Remote in-state eligible",
       "ats": "HiringCafe"
     },
     {
@@ -1894,20 +1866,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Tech Mahindra",
-      "title": "Market Risk Data Operations Analyst / Data Operations Specialist",
-      "location": "Tampa, Florida, United States",
-      "url": "https://careers.techmahindra.com/JobDetails.aspx?JobCode=OQAAADQAAAAxAAAAMQAAADgAAAA=-qZ7jeCAnock=&IndustryType=SQAAAFQAAAA=-cu6HGbNv01o=",
-      "direct_url": "https://careers.techmahindra.com/JobDetails.aspx?JobCode=OQAAADQAAAAxAAAAMQAAADgAAAA=-qZ7jeCAnock=&IndustryType=SQAAAFQAAAA=-cu6HGbNv01o=",
-      "date_posted": "2026-08-04T00:00:00.000Z",
-      "description": "Requires 10–12 years of experience, a bachelor's or higher degree, MS Access, SQL, database management, Tableau reporting, data governance, data quality, and market risk knowledge.",
-      "salary": "$110k–$120k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Meta",
       "title": "Data Analyst, Global Operations",
       "location": "Austin, Texas, United States",
@@ -2020,5 +1978,62 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "Lam Research",
+      "title": "Protective Intelligence & Threat Analyst",
+      "location": "Tualatin, Oregon, United States",
+      "url": "https://lamresearch.eightfold.ai/careers/job/1099553704959",
+      "direct_url": "https://lamresearch.eightfold.ai/careers/job/1099553704959",
+      "date_posted": "2026-08-06T18:04:04.000Z",
+      "description": "Bachelor's degree in criminal justice, international relations, or a related field; 3–4 years of analytical experience; OSINT, investigations, threat assessment, communication, and problem-solving skills.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "Telecommute eligible",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Mosaic",
+      "title": "Deployment Strategist",
+      "location": "New York City, New York, United States",
+      "url": "https://jobs.ashbyhq.com/mosaic/14b240bf-7bbe-4460-af8f-d1b5553e0f44",
+      "direct_url": "https://jobs.ashbyhq.com/mosaic/14b240bf-7bbe-4460-af8f-d1b5553e0f44",
+      "date_posted": "2026-08-17T15:52:59.834Z",
+      "description": "Requires 1–3 years in private equity, investment banking, or related finance; financial modeling and valuation fluency; analytical thinking; executive-level communication; and technical curiosity.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Code Metal",
+      "title": "Deployment Strategist - CENTCOM",
+      "location": "Tampa, Florida, United States",
+      "url": "https://jobs.ashbyhq.com/code-metal/434acecf-97a6-4882-9023-6ab9d2331f56",
+      "direct_url": "https://jobs.ashbyhq.com/code-metal/434acecf-97a6-4882-9023-6ab9d2331f56",
+      "date_posted": "2026-08-20T21:02:02.314Z",
+      "description": "Former operators with deep customer and U.S. Government expertise, strong relevant relationships, active U.S. security clearance, analytical skills, and willingness to travel 50%.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "Telecommute eligible",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Freehand",
+      "title": "AI Deployment Strategist",
+      "location": "India or United States",
+      "url": "https://jobs.ashbyhq.com/freehand/fe8baee3-b6c4-42a7-849d-467cbd72bad7",
+      "direct_url": "https://jobs.ashbyhq.com/freehand/fe8baee3-b6c4-42a7-849d-467cbd72bad7",
+      "date_posted": "2026-07-31T09:04:20.459Z",
+      "description": "6–15 years in enterprise software implementation, solution architecture, consulting or delivery; Bachelor's required; experience with ERP/TMS/spend management; strong customer partnership and execution skills.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": true,
+      "work_arrangement": "Remote in-state eligible",
+      "ats": "HiringCafe"
+    }
+  ]
 }
