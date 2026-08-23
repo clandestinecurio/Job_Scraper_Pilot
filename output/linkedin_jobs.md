@@ -1,65 +1,93 @@
 # 🔥 LinkedIn — Megan's Strategy, Security & Operations Roles
-*Last updated: 2026-08-23 22:23 UTC*
+*Last updated: 2026-08-23 23:25 UTC*
 
-**14 new role(s)** since last run · 57 total in last 1h
+**21 new role(s)** since last run · 24 total in last 1h
 
-### [Project Manager - EF Kafr Elsheikh](https://www.linkedin.com/jobs/view/4458114858/) — Save the Children Colombia Oficial
-- 📍 **Location:** Egypt
+### [Assistant Project Manager INTERNAL](https://www.linkedin.com/jobs/view/4458142007/) — Betsi Cadwaladr University Health Board
+- 📍 **Location:** St Asaph, Wales, United Kingdom
 - 🕒 **Posted:** 2026-08-23
 
-### [Sr. Project Manager - Environmental Remediation](https://www.linkedin.com/jobs/view/4456823793/) — Cape Environmental Management Inc
-- 📍 **Location:** Byram, NJ
-- 🕒 **Posted:** 2026-08-23
-
-### [Project Manager](https://www.linkedin.com/jobs/view/4455820106/) — ManpowerGroup
-- 📍 **Location:** Foggia, Apulia, Italy
-- 🕒 **Posted:** 2026-08-23
-
-### [Project Manager](https://www.linkedin.com/jobs/view/4456824744/) — Signzy
-- 📍 **Location:** Bengaluru, Karnataka, India
-- 🕒 **Posted:** 2026-08-23
-
-### [Agile / Project Manager](https://www.linkedin.com/jobs/view/4456816792/) — [un]prompted
-- 📍 **Location:** Cook County, IL
-- 🕒 **Posted:** 2026-08-23
-
-### [Business Analyst, Technical Enablement](https://www.linkedin.com/jobs/view/4456818789/) — RemoteHunter
-- 📍 **Location:** United States
-- 💰 **Salary:** $75,000–$95,000 per year
-- 🕒 **Posted:** 2026-08-23
-
-### [Strategy and Operations Manager](https://www.linkedin.com/jobs/view/4458110940/) — Flexiple
-- 📍 **Location:** India
-- 🕒 **Posted:** 2026-08-23
-
-### [Junior Data Operations Analyst](https://www.linkedin.com/jobs/view/4456815802/) — Arabian Private Holdings
-- 📍 **Location:** Dubai, Dubai, United Arab Emirates
-- 🕒 **Posted:** 2026-08-23
-
-### [Business Analyst - Salesforce](https://www.linkedin.com/jobs/view/4455821130/) — Gen II Fund Services
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $105,000 - $135,000,
-- 🕒 **Posted:** 2026-08-23
-
-### [Program Manager – Training Activation](https://www.linkedin.com/jobs/view/4457898991/) — Trilyon, Inc.
+### [Boys Club - Content Project Manager](https://www.linkedin.com/jobs/view/4456808898/) — Polygon Labs
 - 📍 **Location:** United States
 - 🕒 **Posted:** 2026-08-23
 
-### [Senior Project Manager - Commercial Drywall & Interiors](https://www.linkedin.com/jobs/view/4458113938/) — Work Well Fractional HR, LLC
-- 📍 **Location:** Crofton, MD
-- 💰 **Salary:** $130,000.00/yr - $165,000.00/yr
+### [Program Manager](https://www.linkedin.com/jobs/view/4458140172/) — Swissclear Global Inc.
+- 📍 **Location:** Villeneuve-de-Duras, Nouvelle-Aquitaine, France
 - 🕒 **Posted:** 2026-08-23
 
-### [Security Business Analyst- Secret Clearance](https://www.linkedin.com/jobs/view/4454416407/) — Dunhill Professional Search & Government Solutions
-- 📍 **Location:** Arlington, VA
-- 💰 **Salary:** $115,000.00/yr - $132,000.00/yr
+### [Senior Business Analyst](https://www.linkedin.com/jobs/view/4456814881/) — Hays
+- 📍 **Location:** Sydney, New South Wales, Australia
 - 🕒 **Posted:** 2026-08-23
 
-### [Jr. Strategy Analyst](https://www.linkedin.com/jobs/view/4456814843/) — StratasCorp Technologies
-- 📍 **Location:** Washington, DC
-- 💰 **Salary:** $100-$120K
+### [Deputy Program Manager](https://www.linkedin.com/jobs/view/4456804521/) — StratasCorp Technologies
+- 📍 **Location:** Chesapeake, VA
+- 💰 **Salary:** $140,000 to $150,000 annually
 - 🕒 **Posted:** 2026-08-23
 
-### [IT Operations Analyst - FinTech - £40,000-£50,000 + Bonus](https://www.linkedin.com/jobs/view/4455822098/) — Hunter Bond
-- 📍 **Location:** London Area, United Kingdom
+### [Trade Compliance Program Manager](https://www.linkedin.com/jobs/view/4456814862/) — Husky Technologies
+- 📍 **Location:** Bolton, Ontario, Canada
+- 🕒 **Posted:** 2026-08-23
+
+### [R&D Project Manager (SETT)](https://www.linkedin.com/jobs/view/4455827069/) — University Hospital Southampton NHS FT
+- 📍 **Location:** Southampton, England, United Kingdom
+- 🕒 **Posted:** 2026-08-23
+
+### [Senior Project Manager, PMO (Hybrid)](https://www.linkedin.com/jobs/view/4456612942/) — Stryker
+- 📍 **Location:** Kalamazoo, MI
+- 💰 **Salary:** $102,600 - $171,000 USD
+- 🕒 **Posted:** 2026-08-23
+
+### [Senior Project Manager, PMO (Hybrid)](https://www.linkedin.com/jobs/view/4456607999/) — Stryker
+- 📍 **Location:** Flower Mound, TX
+- 💰 **Salary:** $102,600 - $171,000 USD
+- 🕒 **Posted:** 2026-08-23
+
+### [Sr. Project Manager](https://www.linkedin.com/jobs/view/4458115998/) — Predica Inc
+- 📍 **Location:** Dover, DE
+- 🕒 **Posted:** 2026-08-23
+
+### [Technical Business Analyst](https://www.linkedin.com/jobs/view/4456809900/) — Hays
+- 📍 **Location:** Sydney, New South Wales, Australia
+- 🕒 **Posted:** 2026-08-23
+
+### [Security Manager](https://www.linkedin.com/jobs/view/4456813878/) — All Nation Security & Investigation Sevices, Inc.
+- 📍 **Location:** Imus, Calabarzon, Philippines
+- 🕒 **Posted:** 2026-08-23
+
+### [Business Analyst](https://www.linkedin.com/jobs/view/4456821854/) — RemoteHunter
+- 📍 **Location:** United States
+- 💰 **Salary:** $91,000.00 - $136,240.00 USD
+- 🕒 **Posted:** 2026-08-23
+
+### [Senior Project Manager - NPI](https://www.linkedin.com/jobs/view/4451137049/) — Stryker
+- 📍 **Location:** Carrigtwohill, County Cork, Ireland
+- 🕒 **Posted:** 2026-08-23
+
+### [Operations Analyst - Entry to Mid Level](https://www.linkedin.com/jobs/view/4455820166/) — Wan Up
+- 📍 **Location:** United States
+- 🕒 **Posted:** 2026-08-23
+
+### [Lead Data Analyst - Strategic Partnering](https://www.linkedin.com/jobs/view/4454423058/) — Stryker
+- 📍 **Location:** Melbourne, Victoria, Australia
+- 🕒 **Posted:** 2026-08-23
+
+### [Lead Data Analyst - Strategic Partnering](https://www.linkedin.com/jobs/view/4454429025/) — Stryker
+- 📍 **Location:** Sydney, New South Wales, Australia
+- 🕒 **Posted:** 2026-08-23
+
+### [DST Business Analyst and Business Intelligence Developer - Husky (Guindy,Chennai)](https://www.linkedin.com/jobs/view/4456806903/) — Husky Technologies
+- 📍 **Location:** Chennai, Tamil Nadu, India
+- 🕒 **Posted:** 2026-08-23
+
+### [Data Analyst, AI Agent Analytics — New Grad](https://www.linkedin.com/jobs/view/4456818832/) — Jobright.ai
+- 📍 **Location:** United States
+- 🕒 **Posted:** 2026-08-23
+
+### [Oracle Cloud Project Manager Higher Ed Business Sector](https://www.linkedin.com/jobs/view/4455823205/) — Sierra-Cedar
+- 📍 **Location:** United States
+- 🕒 **Posted:** 2026-08-23
+
+### [Assistant Project Manager/Project Engineer](https://www.linkedin.com/jobs/view/4456810856/) — Faisal X Ai and MODBLT
+- 📍 **Location:** Los Angeles Metropolitan Area
+- 💰 **Salary:** $40,000.00 - $95,000.00 per year
 - 🕒 **Posted:** 2026-08-23
