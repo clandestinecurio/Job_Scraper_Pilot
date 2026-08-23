@@ -1,133 +1,152 @@
 # 🔥 LinkedIn — Megan's Strategy, Security & Operations Roles
-*Last updated: 2026-08-23 02:42 UTC*
+*Last updated: 2026-08-23 04:01 UTC*
 
-**29 new role(s)** since last run · 29 total in last 1h
+**34 new role(s)** since last run · 35 total in last 1h
 
-### [Project Manager (Künstliche Intelligenz – Lingen)](https://www.linkedin.com/jobs/view/4456685636/) — Linvelo
-- 📍 **Location:** Lingen, Lower Saxony, Germany
+### [Strategic Project Manager (Remote)](https://www.linkedin.com/jobs/view/4457878120/) — Jobs Ai
+- 📍 **Location:** United Kingdom
+- 💰 **Salary:** $400,000.00/yr - $550,000.00/yr
 - 🕒 **Posted:** 2026-08-23
 
-### [Technical Project Manager ($60k-$80k) at StrataBlue](https://www.linkedin.com/jobs/view/4456696544/) — Jack & Jill
+### [Strategic Project Manager (Remote)](https://www.linkedin.com/jobs/view/4457893020/) — Jobs Ai
+- 📍 **Location:** India
+- 💰 **Salary:** $400,000.00/yr - $550,000.00/yr
+- 🕒 **Posted:** 2026-08-23
+
+### [Operations Program Manager, Tax](https://www.linkedin.com/jobs/view/4454545345/) — Stripe
 - 📍 **Location:** United States
-- 💰 **Salary:** $60k-$80k
+- 💰 **Salary:** $101,800 - $152,800
 - 🕒 **Posted:** 2026-08-23
 
-### [Project Manager (£50k-£70k) at Tended Ltd](https://www.linkedin.com/jobs/view/4456686589/) — Jack & Jill
-- 📍 **Location:** United Kingdom
+### [Project Manager](https://www.linkedin.com/jobs/view/4455067986/) — Virtustant
+- 📍 **Location:** Myanmar
 - 🕒 **Posted:** 2026-08-23
 
-### [Project Manager](https://www.linkedin.com/jobs/view/4456697629/) — TekSynap
-- 📍 **Location:** Rockville, MD
-- 💰 **Salary:** $120,000.00 - $140,000.00
+### [Commercial Solutions Program Manager](https://www.linkedin.com/jobs/view/4454533484/) — Stripe
+- 📍 **Location:** United States
+- 💰 **Salary:** $127,600 - $191,400
 - 🕒 **Posted:** 2026-08-23
 
-### [Transformation Project Manager, Payroll & Employee Lifecycle at ABB Robotics (Temporary role, 1 year)](https://www.linkedin.com/jobs/view/4457870189/) — ABB
-- 📍 **Location:** Lafortunada, Aragon, Spain
+### [Strategic Project Manager (Finance) - Remote](https://www.linkedin.com/jobs/view/4457884056/) — Quik Hire Staffing
+- 📍 **Location:** India
+- 💰 **Salary:** $400,000.00/yr - $550,000.00/yr
 - 🕒 **Posted:** 2026-08-23
 
-### [DOME Business Operations Manager](https://www.linkedin.com/jobs/view/4457846880/) — Deloitte
+### [Strategic Project Manager (Finance) - Remote](https://www.linkedin.com/jobs/view/4457880074/) — Quik Hire Staffing
+- 📍 **Location:** Pakistan
+- 💰 **Salary:** $400K - $550K/yr
+- 🕒 **Posted:** 2026-08-23
+
+### [Project Manager Construction - Scaffolding](https://www.linkedin.com/jobs/view/4457888105/) — Seating Solutions
+- 📍 **Location:** Brentwood, NY
+- 🕒 **Posted:** 2026-08-23
+
+### [Project Manager](https://www.linkedin.com/jobs/view/4455074144/) — 梅塞尔格里斯海姆(中国)投资有限公司
+- 📍 **Location:** Chengdu, Sichuan, China
+- 🕒 **Posted:** 2026-08-23
+
+### [Project Manager](https://www.linkedin.com/jobs/view/4455062906/) — 不凡帝范梅勒糖果(中国)有限公司
+- 📍 **Location:** Shanghai, Shanghai, China
+- 🕒 **Posted:** 2026-08-23
+
+### [Program Manager](https://www.linkedin.com/jobs/view/4456695712/) — sugar.fit
+- 📍 **Location:** Bengaluru, Karnataka, India
+- 🕒 **Posted:** 2026-08-23
+
+### [RQ11445 – Program Manager – Senior](https://www.linkedin.com/jobs/view/4457878050/) — S M Software Solutions Inc
 - 📍 **Location:** Toronto, Ontario, Canada
-- 💰 **Salary:** $80,000 - $138,000,
 - 🕒 **Posted:** 2026-08-23
 
-### [Oracle - Project Manager Job](https://www.linkedin.com/jobs/view/4455060590/) — YASH Technologies Middle East
-- 📍 **Location:** Pune/Pimpri-Chinchwad Area
+### [全国Project Manager-PM/SPM](https://www.linkedin.com/jobs/view/4455072168/) — 爱恩康临床医学研究(北京)有限公司
+- 📍 **Location:** Beijing, Beijing, China
 - 🕒 **Posted:** 2026-08-23
 
-### [Performance Improvement Project Manager](https://www.linkedin.com/jobs/view/4455056590/) — CHI
-- 📍 **Location:** Roseburg, OR
-- 💰 **Salary:** $60.87 - $87.14 /hour
+### [SAP Project Manager](https://www.linkedin.com/jobs/view/4455067830/) — 曼合普(上海)管理咨询有限公司
+- 📍 **Location:** Shanghai, Shanghai, China
 - 🕒 **Posted:** 2026-08-23
 
-### [Project Manager - Construction - DPW - Construction](https://www.linkedin.com/jobs/view/4457863915/) — City of Indianapolis
-- 📍 **Location:** Indianapolis, IN
-- 🕒 **Posted:** 2026-08-23
-
-### [Data Analyst (£50k-£68k) at Eligible Limited](https://www.linkedin.com/jobs/view/4456691567/) — Jack & Jill
-- 📍 **Location:** United Kingdom
-- 🕒 **Posted:** 2026-08-23
-
-### [Technical Program Manager](https://www.linkedin.com/jobs/view/4427577295/) — KWI
-- 📍 **Location:** Melville, NY
-- 💰 **Salary:** $135,000.00/yr - $140,000.00/yr
-- 🕒 **Posted:** 2026-08-23
-
-### [Senior Program Manager, CGM - Pittsburgh, PA](https://www.linkedin.com/jobs/view/4456802088/) — VetJobs
-- 📍 **Location:** Pittsburgh, PA
-- 🕒 **Posted:** 2026-08-23
-
-### [Project Manager / Senior Project Manager – Asset Management & Business Transformation](https://www.linkedin.com/jobs/view/4456694550/) — Nimble Minds Consulting
-- 📍 **Location:** California, United States
-- 💰 **Salary:** $135,000 – $190,000/year
-- 🕒 **Posted:** 2026-08-23
-
-### [Business Analyst/Product Owner](https://www.linkedin.com/jobs/view/4456687645/) — Kemsys Technologies
-- 📍 **Location:** Ahmedabad, Gujarat, India
-- 🕒 **Posted:** 2026-08-23
-
-### [Logistics Project Manager](https://www.linkedin.com/jobs/view/4456686605/) — Ultimate Staffing
-- 📍 **Location:** Henderson, NV
-- 💰 **Salary:** $31.25/hr - $31.25/hr
-- 🕒 **Posted:** 2026-08-23
-
-### [Technical Program Manager II](https://www.linkedin.com/jobs/view/4457859839/) — AdaMarie
-- 📍 **Location:** Redmond, WA
-- 💰 **Salary:** USD $102,100 - $202,200 per year
-- 🕒 **Posted:** 2026-08-23
-
-### [Project Manager](https://www.linkedin.com/jobs/view/4457864947/) — Parker Hannifin
-- 📍 **Location:** Kearney, NE
-- 🕒 **Posted:** 2026-08-23
-
-### [Project Manager — LFG Manufacturing](https://www.linkedin.com/jobs/view/4455054648/) — Power Design Resources
-- 📍 **Location:** Palmetto, FL
-- 🕒 **Posted:** 2026-08-23
-
-### [Project Manager - Growth (Remote)](https://www.linkedin.com/jobs/view/4457871052/) — Hire Feed
-- 📍 **Location:** Philippines
-- 💰 **Salary:** $63.00/hr - $119.00/hr
-- 🕒 **Posted:** 2026-08-23
-
-### [Automation Project Manager at Sava Technologies Ltd.](https://www.linkedin.com/jobs/view/4456682600/) — Jack & Jill
-- 📍 **Location:** London, England, United Kingdom
-- 🕒 **Posted:** 2026-08-23
-
-### [Technical Project Manager](https://www.linkedin.com/jobs/view/4456699605/) — Tharp Consulting
-- 📍 **Location:** Herndon, VA
-- 🕒 **Posted:** 2026-08-23
-
-### [Corporate Technology Project Manager](https://www.linkedin.com/jobs/view/4454832399/) — Morningstar
+### [Technical Program Manager, Risk](https://www.linkedin.com/jobs/view/4454547318/) — Stripe
 - 📍 **Location:** Chicago, IL
-- 💰 **Salary:** $500-$2,000 annually
+- 💰 **Salary:** $157,700 - $236,500
 - 🕒 **Posted:** 2026-08-23
 
-### [Program Manager BHT](https://www.linkedin.com/jobs/view/4456683596/) — Community Bridges
-- 📍 **Location:** Phoenix, AZ
-- 🕒 **Posted:** 2026-08-23
-
-### [Deployment Strategist ($166k–$195k + Equity) at Valon Technologies, Inc.](https://www.linkedin.com/jobs/view/4456801526/) — Jack & Jill
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $166k–$195k
-- 🕒 **Posted:** 2026-08-23
-
-### [Product Business Analyst](https://www.linkedin.com/jobs/view/4456633984/) — PINUP – Real Estate and Urban Development Platform
-- 📍 **Location:** Bangkok, Bangkok City, Thailand
-- 🕒 **Posted:** 2026-08-23
-
-### [Financial Analyst / Investment Analyst / Research Analyst](https://www.linkedin.com/jobs/view/4456693608/) — Boss Excel Tutorials & Videos
-- 📍 **Location:** Dubai, United Arab Emirates
-- 🕒 **Posted:** 2026-08-23
-
-### [Finance Business Analyst (Remote)](https://www.linkedin.com/jobs/view/4457854975/) — Jobs Ai
-- 📍 **Location:** United Arab Emirates
-- 🕒 **Posted:** 2026-08-23
-
-### [Sr. Business Analyst - US Card](https://www.linkedin.com/jobs/view/4457846914/) — Capital One
+### [Commercial Solutions Program Manager](https://www.linkedin.com/jobs/view/4454540395/) — Stripe
 - 📍 **Location:** Chicago, IL
-- 💰 **Salary:** $111,200 - $126,900
+- 💰 **Salary:** $127,600 - $191,400
 - 🕒 **Posted:** 2026-08-23
 
-### [Strategic Project Manager (Remote)](https://www.linkedin.com/jobs/view/4457874082/) — Jobs Ai
+### [RQ11437 – Project Manager/Leader – Senior](https://www.linkedin.com/jobs/view/4457879042/) — S M Software Solutions Inc
+- 📍 **Location:** Toronto, Ontario, Canada
+- 🕒 **Posted:** 2026-08-23
+
+### [Senior Manager, Program Manager - 电商](https://www.linkedin.com/jobs/view/4455054792/) — 青岛越洋工程咨询有限公司
+- 📍 **Location:** Shenzhen, Guangdong, China
+- 🕒 **Posted:** 2026-08-23
+
+### [Project Manager -项目管理](https://www.linkedin.com/jobs/view/4455060845/) — 思特沃克软件技术(西安)有限公司
+- 📍 **Location:** Xi'an, Shaanxi, China
+- 🕒 **Posted:** 2026-08-23
+
+### [Senior Program Manager, Data Practice](https://www.linkedin.com/jobs/view/4456682763/) — EPAM Systems
+- 📍 **Location:** Latvia
+- 🕒 **Posted:** 2026-08-23
+
+### [Program & Project Delivery Manager I](https://www.linkedin.com/jobs/view/4455049809/) — 邦吉(上海)管理有限公司
+- 📍 **Location:** Shanghai, Shanghai, China
+- 🕒 **Posted:** 2026-08-23
+
+### [Strategic Project Manager (Remote)](https://www.linkedin.com/jobs/view/4457886096/) — Jobs Ai
+- 📍 **Location:** Indonesia
+- 💰 **Salary:** $400K - $550K/yr
+- 🕒 **Posted:** 2026-08-23
+
+### [Project Manager](https://www.linkedin.com/jobs/view/4456695693/) — Aussie Mate AI Pty Ltd
+- 📍 **Location:** Jesmond, New South Wales, Australia
+- 🕒 **Posted:** 2026-08-23
+
+### [Accounting and Business Operations Manager](https://www.linkedin.com/jobs/view/4457871130/) — Barbier Security Group
+- 📍 **Location:** Novato, CA
+- 💰 **Salary:** $42.00 to $52.00 per hour
+- 🕒 **Posted:** 2026-08-23
+
+### [Research Analyst (Remote)](https://www.linkedin.com/jobs/view/4457874174/) — Jobs Ai
+- 📍 **Location:** Pakistan
+- 🕒 **Posted:** 2026-08-23
+
+### [Senior Research Analyst(Smart Cities)](https://www.linkedin.com/jobs/view/4455054883/) — IDC咨询(北京)有限公司
+- 📍 **Location:** Beijing, Beijing, China
+- 🕒 **Posted:** 2026-08-23
+
+### [Research Analyst (Remote)](https://www.linkedin.com/jobs/view/4457882089/) — Jobs Ai
+- 📍 **Location:** India
+- 🕒 **Posted:** 2026-08-23
+
+### [Research Analyst (Remote)](https://www.linkedin.com/jobs/view/4457876144/) — Jobs Ai
+- 📍 **Location:** Germany
+- 🕒 **Posted:** 2026-08-23
+
+### [Monetization Operations Analyst](https://www.linkedin.com/jobs/view/4454546339/) — Stripe
+- 📍 **Location:** Bengaluru, Karnataka, India
+- 🕒 **Posted:** 2026-08-23
+
+### [Data Analyst, Population Health Management](https://www.linkedin.com/jobs/view/4457881168/) — One Brooklyn Health
+- 📍 **Location:** Brooklyn, NY
+- 🕒 **Posted:** 2026-08-23
+
+### [Business Analyst 业务分析（第三方）](https://www.linkedin.com/jobs/view/4455049889/) — 博西家用电器投资(中国)有限公司
+- 📍 **Location:** Nanjing, Jiangsu, China
+- 🕒 **Posted:** 2026-08-23
+
+### [Security Manager](https://www.linkedin.com/jobs/view/4456699715/) — CoralTree Hospitality
+- 📍 **Location:** Lahaina, HI
+- 💰 **Salary:** $63,000.00 to $73,000.00
+- 🕒 **Posted:** 2026-08-23
+
+### [Strategic Project Manager (Finance) - Remote](https://www.linkedin.com/jobs/view/4457876134/) — Quik Hire Staffing
 - 📍 **Location:** United Arab Emirates
 - 💰 **Salary:** $400K - $550K/yr
+- 🕒 **Posted:** 2026-08-23
+
+### [Project Manager (Remote)](https://www.linkedin.com/jobs/view/4457871185/) — Quik Hire Staffing
+- 📍 **Location:** United Arab Emirates
 - 🕒 **Posted:** 2026-08-23
