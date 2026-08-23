@@ -1,44 +1,49 @@
 # ☕ HiringCafe — Megan's Strategy, Security & Operations Roles
-*Last updated: 2026-08-23 00:45 UTC*
+*Last updated: 2026-08-23 02:54 UTC*
 
-**6 new role(s)** since last run · 141 total in last 30d
+**7 new role(s)** since last run · 140 total in last 30d
 
-### [Deployment Strategist](https://jobs.ashbyhq.com/hippocratic%20ai/a42049ce-e1af-40e6-b4b6-e5e0eb285a8a) — Hippocratic AI
-- 📍 **Location:** Orange County or Menlo Park
+### [Security Program Manager (Taser)](https://careers.hss-us.com/jobs/23646?lang=en-us) — Tarian
+- 📍 **Location:** Richmond, Virginia, United States
+- 💰 **Salary:** $103k/yr
 - **Work mode:** On-site
 - **Job type:** Full Time
-- 🕒 **Posted:** 2026-08-15T15:20:24.986Z
+- 🕒 **Posted:** 2026-07-28T02:31:59.000Z
 
-### [Deployment Strategist](https://jobs.ashbyhq.com/kira/d0304e80-32b7-4c4c-ad58-e8c19b15e708) — Kira
-- 📍 **Location:** New York City, New York, United States
-- 💰 **Salary:** $160k–$200k/yr
-- **Work mode:** Telecommute eligible
+### [Intelligence Analyst](https://jobs.workable.com/view/8CbzK7Dx6H64fMF9QjAqAo/remote-intelligence-analyst-in-denver-at-moonshot) — Moonshot
+- 📍 **Location:** Colorado or Massachusetts or New York or Virginia or Georgia or Pennsylvania or Maryland or Wisconsin or Tennessee or Oregon or New Jersey or District of Columbia or Denver
+- 💰 **Salary:** $50k–$57k/yr
+- **Work mode:** Remote in-state eligible
 - **Job type:** Full Time
-- 🕒 **Posted:** 2026-07-29T18:25:32.547Z
+- 🕒 **Posted:** 2026-08-07T05:44:48.684Z
 
-### [Deployment Strategist](https://jobs.ashbyhq.com/mercor/7581deeb-ffee-463c-a2cd-e86181655ff3) — Mercor
-- 📍 **Location:** San Francisco or New York City or London
-- 💰 **Salary:** $140k–$210k/yr
+### [Protective Intelligence & Threat Analyst](https://lamresearch.eightfold.ai/careers/job/1099555378257) — Lam Research
+- 📍 **Location:** Phoenix or Fremont or Tualatin
 - **Work mode:** On-site
 - **Job type:** Full Time
-- 🕒 **Posted:** 2026-07-25T00:34:24.220Z
+- 🕒 **Posted:** 2026-08-10T14:06:07.000Z
 
-### [Deployment Strategist - USMC](https://jobs.ashbyhq.com/code-metal/8694ee02-6f3c-45c8-9269-3156b3bca92f) — Code Metal
-- 📍 **Location:** Washington, District of Columbia, United States
-- **Work mode:** Telecommute eligible
+### [Deployment Strategist](https://jobs.ashbyhq.com/hippocratic%20ai/80f4d65d-beb2-41d5-8c28-259e57062c08) — Hippocratic AI
+- 📍 **Location:** United States
+- **Work mode:** Remote in-state eligible
 - **Job type:** Full Time
-- 🕒 **Posted:** 2026-08-20T21:01:59.491Z
+- 🕒 **Posted:** 2026-08-11T14:44:57.675Z
 
-### [AI Deployment Strategist](https://jobs.ashbyhq.com/hazel/a10ec44b-75a9-4932-b0f0-ddb2661d390a) — Hazel
-- 📍 **Location:** New York City, New York, United States
-- 💰 **Salary:** $115k–$145k/yr
-- **Work mode:** Telecommute eligible
-- **Job type:** Full Time
-- 🕒 **Posted:** 2026-08-17T14:15:05.694Z
-
-### [Market Risk Data Operations Analyst / Data Operations Specialist](https://careers.techmahindra.com/JobDetails.aspx?JobCode=OQAAADQAAAAxAAAAMQAAADgAAAA=-qZ7jeCAnock=&IndustryType=SQAAAFQAAAA=-cu6HGbNv01o=) — Tech Mahindra
+### [Deployment Strategist - CENTCOM](https://jobs.ashbyhq.com/code-metal/434acecf-97a6-4882-9023-6ab9d2331f56) — Code Metal
 - 📍 **Location:** Tampa, Florida, United States
-- 💰 **Salary:** $110k–$120k/yr
-- **Work mode:** On-site
+- **Work mode:** Telecommute eligible
 - **Job type:** Full Time
-- 🕒 **Posted:** 2026-08-04T00:00:00.000Z
+- 🕒 **Posted:** 2026-08-20T21:02:02.314Z
+
+### [AI Deployment Strategist](https://jobs.ashbyhq.com/freehand/fe8baee3-b6c4-42a7-849d-467cbd72bad7) — Freehand
+- 📍 **Location:** India or United States
+- **Work mode:** Remote in-state eligible
+- **Job type:** Full Time
+- 🕒 **Posted:** 2026-07-31T09:04:20.459Z
+
+### [VENDOR OPERATIONS DATA ANALYST - 80076](https://careers.edison.tn.gov/psc/hrprdrs/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&JobOpeningId=80076&PostingSeq=1&SiteId=1) — TennCare
+- 📍 **Location:** Davidson County or Tennessee
+- 💰 **Salary:** $68k/yr
+- **Work mode:** Telecommute eligible
+- **Job type:** Full Time
+- 🕒 **Posted:** 2026-08-18T11:54:48.818Z
