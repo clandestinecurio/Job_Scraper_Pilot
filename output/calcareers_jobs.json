@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-21 16:58 UTC",
-  "total": 30,
+  "scraped_at": "2026-08-23 16:56 UTC",
+  "total": 31,
   "new_count": 0,
   "jobs": [
     {
@@ -10,18 +10,6 @@
       "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=521655",
       "date_posted": "2026-08-17",
       "salary": "$7276.00 - $9107.00",
-      "ats": "CalCareers",
-      "telework": "Hybrid",
-      "job_type": "Permanent, Full Time",
-      "work_arrangement": "Telecommute eligible"
-    },
-    {
-      "company": "Department of Toxic Substances Control",
-      "title": "Project Manager",
-      "location": "Alameda County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=526929",
-      "date_posted": "2026-07-31",
-      "salary": "$6488.00 - $12152.00",
       "ats": "CalCareers",
       "telework": "Hybrid",
       "job_type": "Permanent, Full Time",
@@ -100,6 +88,18 @@
       "work_arrangement": "Telecommute eligible"
     },
     {
+      "company": "Department of Transportation",
+      "title": "Project Manager",
+      "location": "Inyo County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=529618",
+      "date_posted": "2026-08-21",
+      "salary": "$11437.00 - $14315.00",
+      "ats": "CalCareers",
+      "telework": "Hybrid",
+      "job_type": "Permanent, Full Time",
+      "work_arrangement": "Telecommute eligible"
+    },
+    {
       "company": "CA High Speed Rail Authority",
       "title": "Construction Safety and Security Program Manager",
       "location": "Sacramento County",
@@ -161,6 +161,18 @@
     },
     {
       "company": "Employment Development Department",
+      "title": "Disability Insurance Program Manager I",
+      "location": "Los Angeles County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=529567",
+      "date_posted": "2026-08-21",
+      "salary": "$6525.00 - $8170.00",
+      "ats": "CalCareers",
+      "telework": "Hybrid",
+      "job_type": "Permanent, Full Time",
+      "work_arrangement": "Telecommute eligible"
+    },
+    {
+      "company": "Employment Development Department",
       "title": "Employment Program Manager I Limited Term",
       "location": "San Francisco County",
       "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=528554",
@@ -184,16 +196,16 @@
       "work_arrangement": "On-site"
     },
     {
-      "company": "California Correctional Health Care Services",
-      "title": "HEALTH PROGRAM MANAGER I",
-      "location": "Sacramento County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=525855",
-      "date_posted": "2026-08-11",
-      "salary": "$7172.00 - $8910.00",
+      "company": "Department of Social Services",
+      "title": "Licensing Program Manager I (LPM I)",
+      "location": "Fresno County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=529499",
+      "date_posted": "2026-08-21",
+      "salary": "$7416.00 - $9213.00",
       "ats": "CalCareers",
-      "telework": "Hybrid",
+      "telework": "In Office",
       "job_type": "12 Month Limited Term - Full Time",
-      "work_arrangement": "Telecommute eligible"
+      "work_arrangement": "On-site"
     },
     {
       "company": "Department of Industrial Relations",
