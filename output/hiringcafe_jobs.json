@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-23 22:36 UTC",
+  "scraped_at": "2026-08-23 23:40 UTC",
   "total": 140,
-  "new_count": 2,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Polar Semiconductor",
@@ -1964,34 +1964,5 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Moonshot",
-      "title": "Intelligence Analyst",
-      "location": "Colorado or Massachusetts or New York or Virginia or Georgia or Pennsylvania or Maryland or Wisconsin or Tennessee or Oregon or New Jersey or District of Columbia or Denver",
-      "url": "https://jobs.workable.com/view/8CbzK7Dx6H64fMF9QjAqAo/remote-intelligence-analyst-in-denver-at-moonshot",
-      "direct_url": "https://jobs.workable.com/view/8CbzK7Dx6H64fMF9QjAqAo/remote-intelligence-analyst-in-denver-at-moonshot",
-      "date_posted": "2026-08-07T05:44:48.684Z",
-      "description": "Professional OSINT or intelligence analysis experience; strong social media investigation, threat assessment, writing, problem-solving, and collaboration skills; US work eligibility and background check required.",
-      "salary": "$50k–$57k/yr",
-      "job_type": "Full Time",
-      "is_remote": true,
-      "work_arrangement": "Remote in-state eligible",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Hazel",
-      "title": "AI Deployment Strategist",
-      "location": "New York City, New York, United States",
-      "url": "https://jobs.ashbyhq.com/hazel/a10ec44b-75a9-4932-b0f0-ddb2661d390a",
-      "direct_url": "https://jobs.ashbyhq.com/hazel/a10ec44b-75a9-4932-b0f0-ddb2661d390a",
-      "date_posted": "2026-08-17T14:15:05.694Z",
-      "description": "Requires 2–5 years of experience, rapid learning, stakeholder communication, group teaching, data diagnosis, technical discussion leadership, daily AI use, and willingness to travel; SQL and e-commerce experience are preferred.",
-      "salary": "$115k–$145k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
-      "ats": "HiringCafe"
-    }
-  ]
+  "new_jobs": []
 }
