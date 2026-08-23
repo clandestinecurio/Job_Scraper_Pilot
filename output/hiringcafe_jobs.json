@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-23 04:15 UTC",
-  "total": 141,
-  "new_count": 1,
+  "scraped_at": "2026-08-23 05:15 UTC",
+  "total": 142,
+  "new_count": 2,
   "jobs": [
     {
       "company": "Polar Semiconductor",
@@ -396,20 +396,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Nscale",
-      "title": "Construction Security Senior Program Manager",
-      "location": "Point Pleasant or Mason County",
-      "url": "https://job-boards.eu.greenhouse.io/nscaleoperationsukltd/jobs/4956325101",
-      "direct_url": "https://job-boards.eu.greenhouse.io/nscaleoperationsukltd/jobs/4956325101",
-      "date_posted": "2026-08-19T17:57:10.000Z",
-      "description": "Requires 7+ years in physical, data center, construction, or critical infrastructure security; large-scale project experience; security technology expertise; and strong program management and communication skills.",
-      "salary": "$170k–$200k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Umbra",
       "title": "Program Security Manager",
       "location": "Reston, Virginia, United States",
@@ -418,6 +404,20 @@
       "date_posted": "2026-08-03T18:19:37.370Z",
       "description": "Bachelor's or equivalent experience, 5-8+ years security experience supporting classified Intelligence Community programs, active TS/SCI clearance, knowledge of ICD 503/705 and NISPOM, ability to manage complex security programs and brief senior leadership.",
       "salary": "$130k–$180k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Nscale",
+      "title": "Construction Security Senior Program Manager",
+      "location": "Point Pleasant or Mason County",
+      "url": "https://job-boards.eu.greenhouse.io/nscaleoperationsukltd/jobs/4956325101",
+      "direct_url": "https://job-boards.eu.greenhouse.io/nscaleoperationsukltd/jobs/4956325101",
+      "date_posted": "2026-08-19T17:57:10.000Z",
+      "description": "Requires 7+ years in physical, data center, construction, or critical infrastructure security; large-scale project experience; security technology expertise; and strong program management and communication skills.",
+      "salary": "$170k–$200k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -494,20 +494,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Tarian",
-      "title": "Security Program Manager",
-      "location": "Houston, Texas, United States",
-      "url": "https://careers3-tarian.icims.com/jobs/23725/security-program-manager/job?in_iframe=1",
-      "direct_url": "https://careers3-tarian.icims.com/jobs/23725/security-program-manager/job?in_iframe=1",
-      "date_posted": "2026-08-04T04:00:00.000Z",
-      "description": "Lead security program for healthcare sites, manage supervisors and officers, develop policies/training, handle budgets, investigations, and compliance with healthcare regulations; bachelor’s preferred and IAHSS certifications preferred.",
-      "salary": "$79k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Sancorp Consulting LLC",
       "title": "Program Manager Personnel Security",
       "location": "Hanover or Fort Meade or Arlington",
@@ -516,6 +502,20 @@
       "date_posted": "2026-08-06T20:48:00.000Z",
       "description": "Requires U.S. citizenship, TS/SCI clearance, 3+ years of personnel security clearance experience, 3+ years managing 40+ staff, and experience in contract management, process optimization, and risk mitigation.",
       "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Tarian",
+      "title": "Security Program Manager",
+      "location": "Houston, Texas, United States",
+      "url": "https://careers3-tarian.icims.com/jobs/23725/security-program-manager/job?in_iframe=1",
+      "direct_url": "https://careers3-tarian.icims.com/jobs/23725/security-program-manager/job?in_iframe=1",
+      "date_posted": "2026-08-04T04:00:00.000Z",
+      "description": "Lead security program for healthcare sites, manage supervisors and officers, develop policies/training, handle budgets, investigations, and compliance with healthcare regulations; bachelor’s preferred and IAHSS certifications preferred.",
+      "salary": "$79k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -564,20 +564,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Unissant",
-      "title": "Program Manager",
-      "location": "Washington, District of Columbia, United States",
-      "url": "https://unissant.applicantpro.com/jobs/4166412",
-      "direct_url": "https://unissant.applicantpro.com/jobs/4166412",
-      "date_posted": "2026-08-04T00:00:00.000Z",
-      "description": "8+ years program/project management experience supporting federal or national security programs; Bachelor's required; PMP/PgMP/Agile preferred; ability to obtain security clearance.",
-      "salary": "$143k–$229k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Akima, LLC",
       "title": "Security Program Analyst II",
       "location": "Rosslyn, Virginia, United States",
@@ -586,6 +572,20 @@
       "date_posted": "2026-07-31T22:38:41.000Z",
       "description": "Associate's degree, 1 year experience (6 months specialized in security program administration), knowledge of security standards/Department of State regulations, active SECRET clearance.",
       "salary": "$95k–$101k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Unissant",
+      "title": "Program Manager",
+      "location": "Washington, District of Columbia, United States",
+      "url": "https://unissant.applicantpro.com/jobs/4166412",
+      "direct_url": "https://unissant.applicantpro.com/jobs/4166412",
+      "date_posted": "2026-08-04T00:00:00.000Z",
+      "description": "8+ years program/project management experience supporting federal or national security programs; Bachelor's required; PMP/PgMP/Agile preferred; ability to obtain security clearance.",
+      "salary": "$143k–$229k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -1222,20 +1222,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "12twenty",
-      "title": "Implementation Manager",
-      "location": "United States",
-      "url": "https://job-boards.greenhouse.io/12twenty/jobs/4723977005",
-      "direct_url": "https://job-boards.greenhouse.io/12twenty/jobs/4723977005",
-      "date_posted": "2026-08-13T16:20:50.000Z",
-      "description": "Requires 3–5 years in SaaS onboarding, implementation, or project management; experience managing complex multi-month projects, cloud platforms, senior stakeholders, and remote work.",
-      "salary": "$75k–$85k/yr",
-      "job_type": "Full Time",
-      "is_remote": true,
-      "work_arrangement": "Remote in-state eligible",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "RELX",
       "title": "Implementation Manager",
       "location": "California, United States",
@@ -1244,6 +1230,20 @@
       "date_posted": "2026-08-17T00:00:00.000Z",
       "description": "Bachelor's degree or equivalent experience; 5+ years in project, implementation, or professional services management; customer-facing delivery, Agile, cross-functional coordination, and stakeholder management experience.",
       "salary": "$95k–$159k/yr",
+      "job_type": "Full Time",
+      "is_remote": true,
+      "work_arrangement": "Remote in-state eligible",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "12twenty",
+      "title": "Implementation Manager",
+      "location": "United States",
+      "url": "https://job-boards.greenhouse.io/12twenty/jobs/4723977005",
+      "direct_url": "https://job-boards.greenhouse.io/12twenty/jobs/4723977005",
+      "date_posted": "2026-08-13T16:20:50.000Z",
+      "description": "Requires 3–5 years in SaaS onboarding, implementation, or project management; experience managing complex multi-month projects, cloud platforms, senior stakeholders, and remote work.",
+      "salary": "$75k–$85k/yr",
       "job_type": "Full Time",
       "is_remote": true,
       "work_arrangement": "Remote in-state eligible",
@@ -1530,6 +1530,34 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Hippocratic AI",
+      "title": "Deployment Strategist",
+      "location": "Orange County or Menlo Park",
+      "url": "https://jobs.ashbyhq.com/hippocratic%20ai/a42049ce-e1af-40e6-b4b6-e5e0eb285a8a",
+      "direct_url": "https://jobs.ashbyhq.com/hippocratic%20ai/a42049ce-e1af-40e6-b4b6-e5e0eb285a8a",
+      "date_posted": "2026-08-15T15:20:24.986Z",
+      "description": "Requires 5+ years of technical experience, analytical and problem-solving skills, customer communication, technical requirements analysis, project scoping, timeline estimation, dependency management, and status communication.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Kira",
+      "title": "Deployment Strategist",
+      "location": "New York City, New York, United States",
+      "url": "https://jobs.ashbyhq.com/kira/d0304e80-32b7-4c4c-ad58-e8c19b15e708",
+      "direct_url": "https://jobs.ashbyhq.com/kira/d0304e80-32b7-4c4c-ad58-e8c19b15e708",
+      "date_posted": "2026-07-29T18:25:32.547Z",
+      "description": "7+ years experience; extensive hands-on use of AI tools; background in high-intensity roles; strong prioritization, customer-facing implementation, prototyping, and prompt-engineering fluency.",
+      "salary": "$160k–$200k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "Telecommute eligible",
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Mercor",
       "title": "Deployment Strategist",
       "location": "San Francisco or New York City or London",
@@ -1541,20 +1569,6 @@
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Hippocratic AI",
-      "title": "Deployment Strategist",
-      "location": "United States",
-      "url": "https://jobs.ashbyhq.com/hippocratic%20ai/80f4d65d-beb2-41d5-8c28-259e57062c08",
-      "direct_url": "https://jobs.ashbyhq.com/hippocratic%20ai/80f4d65d-beb2-41d5-8c28-259e57062c08",
-      "date_posted": "2026-08-11T14:44:57.675Z",
-      "description": "Requires 5+ years of technical experience in software engineering, cloud architecture, systems design, or technical consulting, plus analytical, communication, and project management skills.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": true,
-      "work_arrangement": "Remote in-state eligible",
       "ats": "HiringCafe"
     },
     {
@@ -1894,20 +1908,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Columbia University",
-      "title": "Senior Operations and Data Analyst",
-      "location": "New York City, New York, United States",
-      "url": "https://opportunities.columbia.edu/job/559192",
-      "direct_url": "https://opportunities.columbia.edu/job/559192",
-      "date_posted": "2026-08-20T15:00:00.000Z",
-      "description": "Bachelor's degree or equivalent experience and 3–5 years of data experience required. Requires Python, JavaScript, macros, SQL, Google Sheets, Excel, reporting, automation, CRM, and systems integration skills.",
-      "salary": "$85k–$94k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Booz Allen Hamilton",
       "title": "Sales and Partnership Operations Data Analyst",
       "location": "McLean, Virginia, United States",
@@ -1919,6 +1919,20 @@
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "Telecommute eligible",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Columbia University",
+      "title": "Senior Operations and Data Analyst",
+      "location": "New York City, New York, United States",
+      "url": "https://opportunities.columbia.edu/job/559192",
+      "direct_url": "https://opportunities.columbia.edu/job/559192",
+      "date_posted": "2026-08-20T15:00:00.000Z",
+      "description": "Bachelor's degree or equivalent experience and 3–5 years of data experience required. Requires Python, JavaScript, macros, SQL, Google Sheets, Excel, reporting, automation, CRM, and systems integration skills.",
+      "salary": "$85k–$94k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
       "ats": "HiringCafe"
     },
     {
@@ -1980,17 +1994,31 @@
   ],
   "new_jobs": [
     {
-      "company": "Mercor",
+      "company": "Hippocratic AI",
       "title": "Deployment Strategist",
-      "location": "San Francisco or New York City or London",
-      "url": "https://jobs.ashbyhq.com/mercor/7581deeb-ffee-463c-a2cd-e86181655ff3",
-      "direct_url": "https://jobs.ashbyhq.com/mercor/7581deeb-ffee-463c-a2cd-e86181655ff3",
-      "date_posted": "2026-07-25T00:34:24.220Z",
-      "description": "2+ years in technical, customer-facing roles; familiarity with coding agents, proficiency with SQL and Python, strong product/technical judgment and cross-functional communication.",
-      "salary": "$140k–$210k/yr",
+      "location": "Orange County or Menlo Park",
+      "url": "https://jobs.ashbyhq.com/hippocratic%20ai/a42049ce-e1af-40e6-b4b6-e5e0eb285a8a",
+      "direct_url": "https://jobs.ashbyhq.com/hippocratic%20ai/a42049ce-e1af-40e6-b4b6-e5e0eb285a8a",
+      "date_posted": "2026-08-15T15:20:24.986Z",
+      "description": "Requires 5+ years of technical experience, analytical and problem-solving skills, customer communication, technical requirements analysis, project scoping, timeline estimation, dependency management, and status communication.",
+      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Kira",
+      "title": "Deployment Strategist",
+      "location": "New York City, New York, United States",
+      "url": "https://jobs.ashbyhq.com/kira/d0304e80-32b7-4c4c-ad58-e8c19b15e708",
+      "direct_url": "https://jobs.ashbyhq.com/kira/d0304e80-32b7-4c4c-ad58-e8c19b15e708",
+      "date_posted": "2026-07-29T18:25:32.547Z",
+      "description": "7+ years experience; extensive hands-on use of AI tools; background in high-intensity roles; strong prioritization, customer-facing implementation, prototyping, and prompt-engineering fluency.",
+      "salary": "$160k–$200k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "Telecommute eligible",
       "ats": "HiringCafe"
     }
   ]
