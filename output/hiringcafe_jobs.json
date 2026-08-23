@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-23 17:25 UTC",
+  "scraped_at": "2026-08-23 18:39 UTC",
   "total": 142,
-  "new_count": 4,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Polar Semiconductor",
@@ -1992,62 +1992,5 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Alutiiq Solutions LLC",
-      "title": "Program Manager I",
-      "location": "Dunn Loring, Virginia, United States",
-      "url": "https://alutiiq.hua.hrsmart.com/hr/ats/Posting/view/7158",
-      "direct_url": "https://alutiiq.hua.hrsmart.com/hr/ats/Posting/view/7158",
-      "date_posted": "2026-08-11T22:46:17.600Z",
-      "description": "Bachelor's degree, U.S. citizenship, Secret clearance eligibility, excellent communication and cross-cultural skills, Microsoft Office Suite and Project Manager proficiency, and willingness to travel to developing or hazardous countries.",
-      "salary": "$160k–$163k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Pinterest",
-      "title": "Staff Technical Program Manager, Security",
-      "location": "San Francisco or United States",
-      "url": "https://www.pinterestcareers.com/jobs/7494650/staff-technical-program-manager-security/",
-      "direct_url": "https://www.pinterestcareers.com/jobs/7494650/staff-technical-program-manager-security/",
-      "date_posted": "2026-08-10T12:00:00.000Z",
-      "description": "10+ years technical program management, 5+ years information security/risk/compliance, 5+ years big data/cloud, technical judgment, GenAI workflow expertise, and a technical bachelor's degree or equivalent.",
-      "salary": "$146k–$300k/yr",
-      "job_type": "Full Time",
-      "is_remote": true,
-      "work_arrangement": "Remote in-state eligible",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Moonshot",
-      "title": "Intelligence Analyst",
-      "location": "Massachusetts or Colorado or New York or Virginia or Georgia or Pennsylvania or Maryland or Wisconsin or Tennessee or Oregon or New Jersey or District of Columbia",
-      "url": "https://jobs.workable.com/view/7RSfRWRxmhcRYvDY5HVqXH/remote-intelligence-analyst-in-washington-at-moonshot",
-      "direct_url": "https://jobs.workable.com/view/7RSfRWRxmhcRYvDY5HVqXH/remote-intelligence-analyst-in-washington-at-moonshot",
-      "date_posted": "2026-08-07T05:44:48.216Z",
-      "description": "Professional OSINT or intelligence analysis experience; strong social media investigation, written communication, problem-solving, and risk assessment skills; US work eligibility; background check required.",
-      "salary": "$50k–$57k/yr",
-      "job_type": "Full Time",
-      "is_remote": true,
-      "work_arrangement": "Remote in-state eligible",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Code Metal",
-      "title": "Deployment Strategist - USMC",
-      "location": "Washington, District of Columbia, United States",
-      "url": "https://jobs.ashbyhq.com/code-metal/8694ee02-6f3c-45c8-9269-3156b3bca92f",
-      "direct_url": "https://jobs.ashbyhq.com/code-metal/8694ee02-6f3c-45c8-9269-3156b3bca92f",
-      "date_posted": "2026-08-20T21:01:59.491Z",
-      "description": "Former operators with deep customer and US Government knowledge, strong organizational relationships, active US security clearance, analytical and product intuition, customer empathy, and willingness to travel 50%.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
-      "ats": "HiringCafe"
-    }
-  ]
+  "new_jobs": []
 }
