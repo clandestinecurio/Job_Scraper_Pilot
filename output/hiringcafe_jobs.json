@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-23 23:40 UTC",
-  "total": 140,
-  "new_count": 0,
+  "scraped_at": "2026-08-24 00:48 UTC",
+  "total": 138,
+  "new_count": 2,
   "jobs": [
     {
       "company": "Polar Semiconductor",
@@ -85,20 +85,6 @@
       "job_type": "Temporary",
       "is_remote": false,
       "work_arrangement": "Telecommute eligible",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "MiniMed",
-      "title": "IT Program & Project Manager",
-      "location": "Utah, United States",
-      "url": "https://mdtkangaroo.wd108.myworkdayjobs.com/minimedcareers/job/Virtual-Utah-United-States-of-America/IT-Program---Project-Manager_R-801589",
-      "direct_url": "https://mdtkangaroo.wd108.myworkdayjobs.com/minimedcareers/job/Virtual-Utah-United-States-of-America/IT-Program---Project-Manager_R-801589",
-      "date_posted": "2026-08-19T00:00:00.000Z",
-      "description": "Bachelor’s degree or equivalent experience plus 10+ years managing increasingly complex IT projects. Requires program leadership, governance, risk, financial, resource, vendor, and stakeholder management expertise.",
-      "salary": "$136k–$230k/yr",
-      "job_type": "Full Time",
-      "is_remote": true,
-      "work_arrangement": "Remote in-state eligible",
       "ats": "HiringCafe"
     },
     {
@@ -298,6 +284,20 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Alutiiq Solutions LLC",
+      "title": "Program Manager I",
+      "location": "Dunn Loring, Virginia, United States",
+      "url": "https://alutiiq.hua.hrsmart.com/hr/ats/Posting/view/7158",
+      "direct_url": "https://alutiiq.hua.hrsmart.com/hr/ats/Posting/view/7158",
+      "date_posted": "2026-08-11T22:46:17.600Z",
+      "description": "Bachelor's degree, U.S. citizenship, Secret clearance eligibility, excellent communication and cross-cultural skills, Microsoft Office Suite and Project Manager proficiency, and willingness to travel to developing or hazardous countries.",
+      "salary": "$160k–$163k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Bugcrowd",
       "title": " Security Program Manager",
       "location": "Brazil or Bangalore or San Francisco or New Hampshire or Australia or United States",
@@ -396,20 +396,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Umbra",
-      "title": "Program Security Manager",
-      "location": "Reston, Virginia, United States",
-      "url": "https://jobs.workable.com/view/fKfzNyfTdNKzAqwdv6bF4U/program-security-manager-in-reston-at-umbra",
-      "direct_url": "https://jobs.workable.com/view/fKfzNyfTdNKzAqwdv6bF4U/program-security-manager-in-reston-at-umbra",
-      "date_posted": "2026-08-03T18:19:37.370Z",
-      "description": "Bachelor's or equivalent experience, 5-8+ years security experience supporting classified Intelligence Community programs, active TS/SCI clearance, knowledge of ICD 503/705 and NISPOM, ability to manage complex security programs and brief senior leadership.",
-      "salary": "$130k–$180k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Nscale",
       "title": "Construction Security Senior Program Manager",
       "location": "Point Pleasant or Mason County",
@@ -418,6 +404,20 @@
       "date_posted": "2026-08-19T17:57:10.000Z",
       "description": "Requires 7+ years in physical, data center, construction, or critical infrastructure security; large-scale project experience; security technology expertise; and strong program management and communication skills.",
       "salary": "$170k–$200k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Umbra",
+      "title": "Program Security Manager",
+      "location": "Reston, Virginia, United States",
+      "url": "https://jobs.workable.com/view/fKfzNyfTdNKzAqwdv6bF4U/program-security-manager-in-reston-at-umbra",
+      "direct_url": "https://jobs.workable.com/view/fKfzNyfTdNKzAqwdv6bF4U/program-security-manager-in-reston-at-umbra",
+      "date_posted": "2026-08-03T18:19:37.370Z",
+      "description": "Bachelor's or equivalent experience, 5-8+ years security experience supporting classified Intelligence Community programs, active TS/SCI clearance, knowledge of ICD 503/705 and NISPOM, ability to manage complex security programs and brief senior leadership.",
+      "salary": "$130k–$180k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -578,20 +578,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Akima, LLC",
-      "title": "Security Program Analyst II",
-      "location": "Rosslyn, Virginia, United States",
-      "url": "https://careers.akima.com/jobs/24611/job?utm_source=hiringcafe_integration&iis=Job%20Board&iisn=HiringCafe",
-      "direct_url": "https://careers.akima.com/jobs/24611/job?utm_source=hiringcafe_integration&iis=Job%20Board&iisn=HiringCafe",
-      "date_posted": "2026-07-31T22:37:00.000Z",
-      "description": "Associate's degree,1 year experience (6 months specialized) in security program administration,knowledge of security standards and Department of State policies,active SECRET clearance required.",
-      "salary": "$95k–$101k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Unissant",
       "title": "Program Manager",
       "location": "Washington, District of Columbia, United States",
@@ -600,6 +586,20 @@
       "date_posted": "2026-08-04T00:00:00.000Z",
       "description": "8+ years program/project management experience supporting federal or national security programs; Bachelor's required; PMP/PgMP/Agile preferred; ability to obtain security clearance.",
       "salary": "$143k–$229k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Akima, LLC",
+      "title": "Security Program Analyst II",
+      "location": "Rosslyn, Virginia, United States",
+      "url": "https://careers.akima.com/jobs/24611/job?utm_source=hiringcafe_integration&iis=Job%20Board&iisn=HiringCafe",
+      "direct_url": "https://careers.akima.com/jobs/24611/job?utm_source=hiringcafe_integration&iis=Job%20Board&iisn=HiringCafe",
+      "date_posted": "2026-07-31T22:37:00.000Z",
+      "description": "Associate's degree,1 year experience (6 months specialized) in security program administration,knowledge of security standards and Department of State policies,active SECRET clearance required.",
+      "salary": "$95k–$101k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -858,20 +858,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "ZeroFOX",
-      "title": "Intelligence Analyst - ZSAT",
-      "location": "United States",
-      "url": "https://zerofox.bamboohr.com/careers/238",
-      "direct_url": "https://zerofox.bamboohr.com/careers/238",
-      "date_posted": "2026-08-18T00:00:00.000Z",
-      "description": "Requires 2–3 years in open-source or social media research, investigations, or analysis; strong communication and reporting skills; online evidence collection; investigative tool proficiency; and Google Suite proficiency.",
-      "salary": "$65k–$80k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "ZeroFox",
       "title": "Intelligence Analyst - ZSAT",
       "location": "United States",
@@ -883,6 +869,20 @@
       "job_type": "Full Time",
       "is_remote": true,
       "work_arrangement": "Remote in-state eligible",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "ZeroFOX",
+      "title": "Intelligence Analyst - ZSAT",
+      "location": "United States",
+      "url": "https://zerofox.bamboohr.com/careers/238",
+      "direct_url": "https://zerofox.bamboohr.com/careers/238",
+      "date_posted": "2026-08-18T00:00:00.000Z",
+      "description": "Requires 2–3 years in open-source or social media research, investigations, or analysis; strong communication and reporting skills; online evidence collection; investigative tool proficiency; and Google Suite proficiency.",
+      "salary": "$65k–$80k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
       "ats": "HiringCafe"
     },
     {
@@ -1404,20 +1404,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "SafelyYou",
-      "title": "Implementation Manager",
-      "location": "United States",
-      "url": "https://careers.safely-you.com/jobs/682937-implementation-manager",
-      "direct_url": "https://careers.safely-you.com/jobs/682937-implementation-manager",
-      "date_posted": "2026-08-13T18:38:32.000Z",
-      "description": "Requires 3+ years in onboarding, implementation, or project management; strong organization, communication, troubleshooting, technical, networking, solution architecture, and multi-project skills; willingness to travel up to 25%.",
-      "salary": "$90k–$100k/yr",
-      "job_type": "Full Time",
-      "is_remote": true,
-      "work_arrangement": "Remote in-state eligible",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "AssistRx, LLC",
       "title": "Implementation Manager",
       "location": "Florida, United States",
@@ -1457,6 +1443,20 @@
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "SafelyYou",
+      "title": "Implementation Manager",
+      "location": "United States",
+      "url": "https://careers.safely-you.com/jobs/682937-implementation-manager",
+      "direct_url": "https://careers.safely-you.com/jobs/682937-implementation-manager",
+      "date_posted": "2026-08-13T18:38:32.000Z",
+      "description": "Requires 3+ years in onboarding, implementation, or project management; strong organization, communication, troubleshooting, technical, networking, solution architecture, and multi-project skills; willingness to travel up to 25%.",
+      "salary": "$90k–$100k/yr",
+      "job_type": "Full Time",
+      "is_remote": true,
+      "work_arrangement": "Remote in-state eligible",
       "ats": "HiringCafe"
     },
     {
@@ -1558,20 +1558,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Mercor",
-      "title": "Deployment Strategist",
-      "location": "San Francisco or New York City or London",
-      "url": "https://jobs.ashbyhq.com/mercor/7581deeb-ffee-463c-a2cd-e86181655ff3",
-      "direct_url": "https://jobs.ashbyhq.com/mercor/7581deeb-ffee-463c-a2cd-e86181655ff3",
-      "date_posted": "2026-07-25T00:34:24.220Z",
-      "description": "2+ years in technical, customer-facing roles; familiarity with coding agents, proficiency with SQL and Python, strong product/technical judgment and cross-functional communication.",
-      "salary": "$140k–$210k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Seekr",
       "title": "Deployment Strategist ",
       "location": "Austin or Reston",
@@ -1583,20 +1569,6 @@
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "Telecommute eligible",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Mosaic",
-      "title": "Deployment Strategist",
-      "location": "New York City, New York, United States",
-      "url": "https://jobs.ashbyhq.com/mosaic/14b240bf-7bbe-4460-af8f-d1b5553e0f44",
-      "direct_url": "https://jobs.ashbyhq.com/mosaic/14b240bf-7bbe-4460-af8f-d1b5553e0f44",
-      "date_posted": "2026-08-17T15:52:59.834Z",
-      "description": "Requires 1–3 years in private equity, investment banking, or related finance; financial modeling and valuation fluency; analytical thinking; executive-level communication; and technical curiosity.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
       "ats": "HiringCafe"
     },
     {
@@ -1642,6 +1614,20 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Specter",
+      "title": "Founding Deployment Strategist",
+      "location": "San Francisco, California, United States",
+      "url": "https://jobs.ashbyhq.com/specter/a9403bf6-29f8-4627-94ee-a9714f4d546e",
+      "direct_url": "https://jobs.ashbyhq.com/specter/a9403bf6-29f8-4627-94ee-a9714f4d546e",
+      "date_posted": "2026-08-16T22:30:43.467Z",
+      "description": "Experience navigating enterprise accounts from pilots to expansions, earning engineers' trust, influencing products, distilling complex ideas, and working directly with customers in the field.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Avallon",
       "title": "Founding Deployment Strategist",
       "location": "New York City, New York, United States",
@@ -1667,20 +1653,6 @@
       "job_type": "Full Time",
       "is_remote": true,
       "work_arrangement": "Remote in-state eligible",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Specter",
-      "title": "Founding Deployment Strategist",
-      "location": "San Francisco, California, United States",
-      "url": "https://jobs.ashbyhq.com/specter/a9403bf6-29f8-4627-94ee-a9714f4d546e",
-      "direct_url": "https://jobs.ashbyhq.com/specter/a9403bf6-29f8-4627-94ee-a9714f4d546e",
-      "date_posted": "2026-08-16T22:30:43.467Z",
-      "description": "Experience navigating enterprise accounts from pilots to expansions, earning engineers' trust, influencing products, distilling complex ideas, and working directly with customers in the field.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
       "ats": "HiringCafe"
     },
     {
@@ -1712,17 +1684,17 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Hazel",
+      "company": "Freehand",
       "title": "AI Deployment Strategist",
-      "location": "New York City, New York, United States",
-      "url": "https://jobs.ashbyhq.com/hazel/a10ec44b-75a9-4932-b0f0-ddb2661d390a",
-      "direct_url": "https://jobs.ashbyhq.com/hazel/a10ec44b-75a9-4932-b0f0-ddb2661d390a",
-      "date_posted": "2026-08-17T14:15:05.694Z",
-      "description": "Requires 2–5 years of experience, rapid learning, stakeholder communication, group teaching, data diagnosis, technical discussion leadership, daily AI use, and willingness to travel; SQL and e-commerce experience are preferred.",
-      "salary": "$115k–$145k/yr",
+      "location": "India or United States",
+      "url": "https://jobs.ashbyhq.com/freehand/fe8baee3-b6c4-42a7-849d-467cbd72bad7",
+      "direct_url": "https://jobs.ashbyhq.com/freehand/fe8baee3-b6c4-42a7-849d-467cbd72bad7",
+      "date_posted": "2026-07-31T09:04:20.459Z",
+      "description": "6–15 years in enterprise software implementation, solution architecture, consulting or delivery; Bachelor's required; experience with ERP/TMS/spend management; strong customer partnership and execution skills.",
+      "salary": "",
       "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
+      "is_remote": true,
+      "work_arrangement": "Remote in-state eligible",
       "ats": "HiringCafe"
     },
     {
@@ -1964,5 +1936,34 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "Alutiiq Solutions LLC",
+      "title": "Program Manager I",
+      "location": "Dunn Loring, Virginia, United States",
+      "url": "https://alutiiq.hua.hrsmart.com/hr/ats/Posting/view/7158",
+      "direct_url": "https://alutiiq.hua.hrsmart.com/hr/ats/Posting/view/7158",
+      "date_posted": "2026-08-11T22:46:17.600Z",
+      "description": "Bachelor's degree, U.S. citizenship, Secret clearance eligibility, excellent communication and cross-cultural skills, Microsoft Office Suite and Project Manager proficiency, and willingness to travel to developing or hazardous countries.",
+      "salary": "$160k–$163k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Freehand",
+      "title": "AI Deployment Strategist",
+      "location": "India or United States",
+      "url": "https://jobs.ashbyhq.com/freehand/fe8baee3-b6c4-42a7-849d-467cbd72bad7",
+      "direct_url": "https://jobs.ashbyhq.com/freehand/fe8baee3-b6c4-42a7-849d-467cbd72bad7",
+      "date_posted": "2026-07-31T09:04:20.459Z",
+      "description": "6–15 years in enterprise software implementation, solution architecture, consulting or delivery; Bachelor's required; experience with ERP/TMS/spend management; strong customer partnership and execution skills.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": true,
+      "work_arrangement": "Remote in-state eligible",
+      "ats": "HiringCafe"
+    }
+  ]
 }
