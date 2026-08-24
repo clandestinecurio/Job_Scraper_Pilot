@@ -1,349 +1,301 @@
 # 🟦 Indeed — Megan's Strategy, Security & Operations Roles
-*Last updated: 2026-08-24 20:22 UTC*
+*Last updated: 2026-08-24 23:25 UTC*
 
-**53 new role(s)** since last run · 54 total in last 24h
+**46 new role(s)** since last run · 88 total in last 24h
 
-### [Project Manager, Social Impact](https://www.indeed.com/viewjob?jk=bd084fc331992518) — American Diabetes Association
+### [Project Manager, Enterprise Implementations](https://www.indeed.com/viewjob?jk=b88debc1ef503aa0) — Blackbaud
 - 📍 **Location:** Remote, US
-- 💰 **Salary:** $64k–$72k/yr
+- 💰 **Salary:** $78k–$104k/yr
 - **Work mode:** Remote in-state eligible
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-08-24
 
-### [Senior Project Manager - Healthcare](https://www.indeed.com/viewjob?jk=2f3c058a5a4356db) — Sfklogix LLC
+### [Senior Bridge Project Manager](https://www.indeed.com/viewjob?jk=93e9660b7f209881) — Unknown
 - 📍 **Location:** Remote, US
-- 💰 **Salary:** $60–$75/hr
-- **Work mode:** Remote in-state eligible
-- **Job type:** contract
-- 🕒 **Posted:** 2026-08-24
-
-### [Program Manager, Ting Data Products](https://www.indeed.com/viewjob?jk=0b3e0c7c442dd19f) — Whisker Labs
-- 📍 **Location:** Remote, US
-- 💰 **Salary:** $85k–$100k/yr
+- 💰 **Salary:** $165k–$185k/yr
 - **Work mode:** Remote in-state eligible
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-08-24
 
-### [Manager - Pricing & Actuarial Program Manager](https://www.indeed.com/viewjob?jk=309175b65f6464bd) — Blake Willson Group
-- 📍 **Location:** Remote, US
-- 💰 **Salary:** $100k–$140k/yr
-- **Work mode:** Remote in-state eligible
-- 🕒 **Posted:** 2026-08-24
-
-### [Sr. Sales Operations Analyst](https://www.indeed.com/viewjob?jk=3884435ea643c047) — ZeroFOX
-- 📍 **Location:** Remote, US
-- 💰 **Salary:** $90k–$125k/yr
-- **Work mode:** Remote in-state eligible
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-08-24
-
-### [HR Project Manager](https://www.indeed.com/viewjob?jk=5e471a77d25406ce) — Chickasaw Nation Industries
+### [Sr. Technical Program Manager](https://www.indeed.com/viewjob?jk=b2e4d794bb5fa146) — Prime Data Centers
 - 📍 **Location:** Remote, US
 - **Work mode:** Remote in-state eligible
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-08-24
 
-### [Program Analyst](https://www.indeed.com/viewjob?jk=74850b9e2fe33d9d) — General Dynamics Information Technology
+### [Project Manager](https://www.indeed.com/viewjob?jk=fc015284d6e2a9c5) — CBX Solutions
 - 📍 **Location:** Remote, US
-- 💰 **Salary:** $73k–$99k/yr
-- **Work mode:** Remote in-state eligible
-- 🕒 **Posted:** 2026-08-24
-
-### [Senior Program Analyst](https://www.indeed.com/viewjob?jk=d1b8f9608badd7a4) — General Dynamics Information Technology
-- 📍 **Location:** Remote, US
-- 💰 **Salary:** $97k–$131k/yr
-- **Work mode:** Remote in-state eligible
-- 🕒 **Posted:** 2026-08-24
-
-### [IAM Security Analyst](https://www.indeed.com/viewjob?jk=a1efab9c2856643b) — NFinity LLC
-- 📍 **Location:** Remote, US
-- 💰 **Salary:** $40k–$60k/yr
 - **Work mode:** Remote in-state eligible
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-08-24
 
-### [Product Program Manager](https://www.indeed.com/viewjob?jk=495ab2d1a99502da) — Mammoth Brands
+### [Cybersecurity Program Manager](https://www.indeed.com/viewjob?jk=98456ffd1da83653) — ASRC Federal
+- 📍 **Location:** Remote, US
+- **Work mode:** Remote in-state eligible
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-08-24
+
+### [Intelligence Analyst III - Temporary position](https://www.indeed.com/viewjob?jk=1af1609373d53b44) — Crisis24
+- 📍 **Location:** Remote, US
+- 💰 **Salary:** $75k–$77k/yr
+- **Work mode:** Remote in-state eligible
+- **Job type:** temporary
+- 🕒 **Posted:** 2026-08-24
+
+### [Cyber Threat Analyst](https://www.indeed.com/viewjob?jk=7793ed1a28814892) — Tokio Marine HCC
+- 📍 **Location:** Remote, US
+- 💰 **Salary:** $87k–$131k/yr
+- **Work mode:** Remote in-state eligible
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-08-24
+
+### [Staff Program Manager, People](https://www.indeed.com/viewjob?jk=c8962e66f4d51ee7) — Uber
 - 📍 **Location:** New York, NY, US
-- 💰 **Salary:** $91k–$114k/yr
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-08-24
-
-### [Associate Project Manager](https://www.indeed.com/viewjob?jk=e23aca7419314f0e) — Fanatics
-- 📍 **Location:** New York, NY, US
-- 💰 **Salary:** $77k–$90k/yr
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-08-24
-
-### [Project Manager](https://www.indeed.com/viewjob?jk=7554a46651696666) — Capgemini
-- 📍 **Location:** New York, NY, US
-- 💰 **Salary:** $90k–$95k/yr
-- **Work mode:** On-site
+- 💰 **Salary:** $175k–$194k/yr
+- **Work mode:** Remote in-state eligible
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-08-24
 
-### [Project Manager](https://www.indeed.com/viewjob?jk=a20e0110504c552e) — Capgemini
-- 📍 **Location:** New York, NY, US
-- 💰 **Salary:** $90k–$95k/yr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-08-24
-
-### [Program Manager](https://www.indeed.com/viewjob?jk=3e8aae8b80042c93) — Wipro
-- 📍 **Location:** Avenel, NJ, US
-- 💰 **Salary:** $80k–$158k/yr
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-08-24
-
-### [Data Analyst, Full Time, 8a-4p, Atlantic Health Morristown Medical Center.](https://www.indeed.com/viewjob?jk=cdbff7261d38685e) — Atlantic Health
+### [Transmission Planning Project Manager - 1898 & Co.](https://www.indeed.com/viewjob?jk=8beb672d3854e4f4) — Burns & McDonnell
 - 📍 **Location:** Morristown, NJ, US
+- 💰 **Salary:** $140k–$375k/yr
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-08-24
 
-### [Business Systems & Data Analyst - Bilingual Korean](https://www.indeed.com/viewjob?jk=3ce80dd2d1edb195) — Ray America Inc.
-- 📍 **Location:** Fort Lee, NJ, US
-- 💰 **Salary:** $60k–$75k/yr
+### [Transmission Planning Project Manager - 1898 & Co.](https://www.indeed.com/viewjob?jk=18ad8b820d3f046c) — Burns & McDonnell
+- 📍 **Location:** Manhattan, NY, US
+- 💰 **Salary:** $140k–$375k/yr
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-08-24
 
-### [Project Manager](https://www.indeed.com/viewjob?jk=5c8206ab911c5750) — LAUKOA
-- 📍 **Location:** Honolulu, HI, US
-- 💰 **Salary:** $100k–$160k/yr
+### [Security Operations Manager - Williamsbridge](https://www.indeed.com/viewjob?jk=11580c6ebb675c51) — Homes for the Homeless
+- 📍 **Location:** Bronx, NY, US
 - **Work mode:** On-site
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-08-21
+- 🕒 **Posted:** 2026-08-24
 
-### [Task Order Project Manager - Remote](https://www.indeed.com/viewjob?jk=1eff059690deb061) — Enterprise Solutions and Management Corporation (ESM)
-- 📍 **Location:** Vienna, VA, US
-- 💰 **Salary:** $140k–$165k/yr
-- **Work mode:** Remote in-state eligible
+### [Security Operations Manager (FLSD) - Clinton](https://www.indeed.com/viewjob?jk=2fdf53bb337abf09) — Homes for the Homeless
+- 📍 **Location:** New York, NY, US
+- **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-08-24
 
-### [SUPERVISORY PROGRAM MANAGER (SPECIAL OPERATION FORCES)](https://www.indeed.com/viewjob?jk=cf04bc935feb8850) — US Defense Threat Reduction Agency
-- 📍 **Location:** Fort Belvoir, VA, US
-- 💰 **Salary:** $169k–$197k/yr
-- **Work mode:** Remote in-state eligible
+### [Project Manager, Capital Procurement (Planning, Design + Construction)](https://www.indeed.com/viewjob?jk=a198a25a8ef29265) — Memorial Sloan Kettering Cancer Center
+- 📍 **Location:** New York, NY, US
+- 💰 **Salary:** $138k–$227k/yr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-07-30
+
+### [Mid-Level Data Analyst](https://www.indeed.com/viewjob?jk=e351ab713888f8be) — Cawley & Bergmann, LLC.
+- 📍 **Location:** Newark, NJ, US
+- 💰 **Salary:** $40k–$60k/yr
+- **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-08-24
 
-### [Technical Program Manager, Security Systems Operations](https://www.indeed.com/viewjob?jk=574c11718d90fcc1) — Google
-- 📍 **Location:** Reston, VA, US
-- 💰 **Salary:** $163k–$236k/yr
-- **Work mode:** Remote in-state eligible
+### [District Contract Security Manager - Airport](https://www.indeed.com/viewjob?jk=7a71629946f01185) — Allied Universal
+- 📍 **Location:** Lihue, HI, US
+- 💰 **Salary:** $95k–$115k/yr
+- **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-08-24
 
-### [Senior BIM/VDC Project Manager](https://www.indeed.com/viewjob?jk=8cdddfc51f2aa0ee) — Ayoroa Simmons, PLLC
-- 📍 **Location:** Arlington, VA, US
-- 💰 **Salary:** $125k–$160k/yr
-- **Work mode:** Remote in-state eligible
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-08-23
-
-### [Project Manager III](https://www.indeed.com/viewjob?jk=5c07af890927cdb9) — Bureau Veritas
+### [Enterprise Cybersecurity Program Manager, Lead](https://www.indeed.com/viewjob?jk=7b483143bc3bfdf3) — Booz Allen Hamilton
 - 📍 **Location:** McLean, VA, US
-- **Work mode:** On-site
+- 💰 **Salary:** $99k–$225k/yr
+- **Work mode:** Remote in-state eligible
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-08-24
 
-### [Project Manager](https://www.indeed.com/viewjob?jk=3c256d7978eccc7a) — A P Ventures LLC
-- 📍 **Location:** Columbia, MD, US
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-08-24
-
-### [Deputy Program Manager](https://www.indeed.com/viewjob?jk=13eb876a49d717c1) — GreenXT
+### [Project Manager](https://www.indeed.com/viewjob?jk=17ccacff733fc70f) — American Geophysical Union
 - 📍 **Location:** Washington, DC, US
-- **Work mode:** On-site
+- 💰 **Salary:** $82k–$137k/yr
+- **Work mode:** Remote in-state eligible
+- **Job type:** fulltime
 - 🕒 **Posted:** 2026-08-24
 
-### [Program Manager](https://www.indeed.com/viewjob?jk=59e075aa0a7e44b6) — GreenXT
+### [Project Manager](https://www.indeed.com/viewjob?jk=b3a62faf219a3b7a) — American Geophysical Union
 - 📍 **Location:** Washington, DC, US
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-08-24
-
-### [Business Operations Analyst](https://www.indeed.com/viewjob?jk=9d46ff8db48b65c4) — The Prospective Group (TPG)
-- 📍 **Location:** Stafford, VA, US
-- 💰 **Salary:** $55k–$65k/yr
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-08-24
-
-### [Business Analyst](https://www.indeed.com/viewjob?jk=fdea8b721eab43a4) — George Mason University
-- 📍 **Location:** Fairfax, VA, US
-- **Work mode:** On-site
+- 💰 **Salary:** $82k–$137k/yr
+- **Work mode:** Remote in-state eligible
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-08-24
 
-### [Project Manager / SME - International Affairs](https://www.indeed.com/viewjob?jk=770eadab81549266) — Chimera Enterprises International
-- 📍 **Location:** Arlington, VA, US
-- 💰 **Salary:** $140k–$170k/yr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-08-24
-
-### [Investigative and Security Services Assistant Program Manager](https://www.indeed.com/viewjob?jk=9dcb03182c6a92ef) — Amentum
+### [Senior Program Manager - Engineering Operations](https://www.indeed.com/viewjob?jk=952dbbd04014c5cf) — World Bank Group
 - 📍 **Location:** Washington, DC, US
-- 💰 **Salary:** $120k–$130k/yr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-08-24
-
-### [Senior Program Manager](https://www.indeed.com/viewjob?jk=38e39656d7f6fbbf) — General Dynamics Information Technology
-- 📍 **Location:** Washington, DC, US
-- 💰 **Salary:** $147k–$199k/yr
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-08-24
-
-### [Foreign Military Sales Program Analyst, F-35 JPO, Propulsion Program Management Office 1](https://www.indeed.com/viewjob?jk=91ebe5fa3f6d0843) — Serco
-- 📍 **Location:** Crystal City, VA, US
-- 💰 **Salary:** $87k–$141k/yr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-08-24
-
-### [Data Analyst](https://www.indeed.com/viewjob?jk=df06b673789d9f75) — Steerbridge
-- 📍 **Location:** Vienna, VA, US
-- 💰 **Salary:** $75k–$95k/yr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-08-24
-
-### [Security Analyst - CPE Ground](https://www.indeed.com/viewjob?jk=b24c0ca5ab08dbfb) — Janus Research Group
-- 📍 **Location:** Fort Belvoir, VA, US
-- 💰 **Salary:** $75k–$85k/yr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-08-24
-
-### [Senior Operations Research Analyst](https://www.indeed.com/viewjob?jk=955b423c55b036a3) — AP3SI
-- 📍 **Location:** Falls Church, VA, US
-- 💰 **Salary:** $100k–$130k/yr
 - **Work mode:** On-site
 - **Job type:** contract
 - 🕒 **Posted:** 2026-08-24
 
-### [Operations Research Analyst](https://www.indeed.com/viewjob?jk=a1e0ce4fa727f630) — US National Geospatial-Intelligence Agency
-- 📍 **Location:** Springfield, VA, US
-- 💰 **Salary:** $122k–$187k/yr
+### [Technical Project Manager, Site Deployment - Electrical Design Assurance, NA](https://www.indeed.com/viewjob?jk=0bc56e28d0269365) — Vantage Data Centers
+- 📍 **Location:** Stafford, VA, US
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-08-24
 
-### [Principal Business Operations Analyst](https://www.indeed.com/viewjob?jk=22c45bb9afaa4bb4) — Textron Systems
-- 📍 **Location:** Hunt Valley, MD, US
-- 💰 **Salary:** $116k–$176k/yr
+### [Technical Project Manager, Site Deployment - Electrical Design Assurance, NA](https://www.indeed.com/viewjob?jk=5c4feb60f5a9657b) — Vantage Data Centers
+- 📍 **Location:** Sterling, VA, US
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-08-24
 
-### [Revenue Integrity Data Analyst I](https://www.indeed.com/viewjob?jk=a7b76f70c3ffd157) — University of Maryland Medical System
-- 📍 **Location:** Linthicum Heights, MD, US
+### [Technical Project Manager, Site Deployment - Electrical Design Assurance, NA](https://www.indeed.com/viewjob?jk=834e4f374e44b44b) — Vantage Data Centers
+- 📍 **Location:** Sterling, VA, US
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-08-24
 
-### [Mid-Level All-Source Intelligence Analyst](https://www.indeed.com/viewjob?jk=c4aa26dade6b923a) — Valiant Integrated Services
-- 📍 **Location:** Arlington, VA, US
-- 💰 **Salary:** $110k–$120k/yr
+### [Technical Project Manager, Site Deployment - Mechanical Design Assurance, NA](https://www.indeed.com/viewjob?jk=f358170ecece7cff) — Vantage Data Centers
+- 📍 **Location:** Sterling, VA, US
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-08-24
+
+### [Technical Project Manager, Site Deployment - Mechanical Design Assurance, NA](https://www.indeed.com/viewjob?jk=e45ada6834944d56) — Vantage Data Centers
+- 📍 **Location:** Sterling, VA, US
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-08-24
+
+### [Technical Project Manager, Site Deployment - Mechanical Design Assurance, NA](https://www.indeed.com/viewjob?jk=1d5ee7f11b6113b3) — Vantage Data Centers
+- 📍 **Location:** Stafford, VA, US
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-08-24
+
+### [Technical Project Manager - Senior](https://www.indeed.com/viewjob?jk=197eccb627c691ed) — Peraton
+- 📍 **Location:** Herndon, VA, US
+- 💰 **Salary:** $135k–$216k/yr
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-08-24
+
+### [Technical Project Manager - SME](https://www.indeed.com/viewjob?jk=41dde614ea6f2f8a) — Peraton
+- 📍 **Location:** Herndon, VA, US
+- 💰 **Salary:** $135k–$216k/yr
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-08-24
+
+### [Cybersecurity Program Manager](https://www.indeed.com/viewjob?jk=14d03d801c47a4b6) — ASRC Federal
+- 📍 **Location:** Reston, VA, US
+- **Work mode:** Remote in-state eligible
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-08-24
+
+### [IT Program Manager (TRIRIGA/Maximo)](https://www.indeed.com/viewjob?jk=2770063cf4d51663) — Metric5
+- 📍 **Location:** Washington, DC, US
+- 💰 **Salary:** $135k–$155k/yr
 - **Work mode:** On-site
 - 🕒 **Posted:** 2026-08-20
 
-### [Cyber Security Analyst (f/m/x/d, hybrid set up), Zurich (Zurich, CH)](https://ch.indeed.com/viewjob?jk=44588ba4ab42a78a) — Swiss Re
-- 📍 **Location:** Zürich, ZH, CH
+### [Intelligence Analyst III - Temporary position](https://www.indeed.com/viewjob?jk=82caa0c96b4f9c68) — Crisis24
+- 📍 **Location:** Annapolis, MD, US
+- 💰 **Salary:** $75k–$77k/yr
+- **Work mode:** Remote in-state eligible
+- **Job type:** temporary
+- 🕒 **Posted:** 2026-08-24
+
+### [Cloud Threat Analyst](https://www.indeed.com/viewjob?jk=edc83cc011c5c5fc) — ASRC Federal
+- 📍 **Location:** Hanover, MD, US
+- 💰 **Salary:** $115k–$135k/yr
 - **Work mode:** Remote in-state eligible
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-08-24
 
-### [Sr. Program Manager - Missile Defense](https://www.indeed.com/viewjob?jk=837e0f5553896b23) — True Anomaly
-- 📍 **Location:** Long Beach, CA, US
-- 💰 **Salary:** $140k–$250k/yr
+### [Program Analyst](https://www.indeed.com/viewjob?jk=01ddbe447022e883) — General Dynamics Information Technology
+- 📍 **Location:** Herndon, VA, US
+- 💰 **Salary:** $124k–$144k/yr
 - **Work mode:** On-site
 - 🕒 **Posted:** 2026-08-24
 
-### [Security Analyst (DHS/ICE)](https://www.indeed.com/viewjob?jk=1dced642c0d46783) — ITSC Secure Solutions, LLC
-- 📍 **Location:** Santa Ana, CA, US
-- 💰 **Salary:** $50k–$54k/yr
+### [Program Manager](https://www.indeed.com/viewjob?jk=be5a970df9a94f16) — Diné Development Corporation
+- 📍 **Location:** Washington, DC, US
+- 💰 **Salary:** $145k–$175k/yr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-08-24
+
+### [Deputy Program Manager](https://www.indeed.com/viewjob?jk=c4f20103dd04dd10) — General Dynamics Information Technology
+- 📍 **Location:** Los Angeles, CA, US
+- 💰 **Salary:** $128k–$173k/yr
+- **Work mode:** Remote in-state eligible
+- 🕒 **Posted:** 2026-08-24
+
+### [Senior Project Manager (Bilingual Required - Eng/Span) - MultiPro Property Solutions](https://www.indeed.com/viewjob?jk=e49dfc545d2f6e11) — Valet Living
+- 📍 **Location:** Los Angeles, CA, US
+- 💰 **Salary:** $90k–$100k/yr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-08-24
+
+### [Operations Data Analyst II](https://www.indeed.com/viewjob?jk=4f22dd982fe6b0d0) — Gold Coast Health Plan
+- 📍 **Location:** Camarillo, CA, US
+- 💰 **Salary:** $100k–$150k/yr
 - **Work mode:** Remote in-state eligible
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-08-24
 
-### [Business Operations Analyst](https://www.indeed.com/viewjob?jk=cb7d709fb14936d8) — ZURU
-- 📍 **Location:** El Segundo, CA, US
-- 💰 **Salary:** $75k–$80k/yr
+### [Data Analyst, Patient Experience & Capacity Management - USC Care Patient Experience - Full Time 8 Hour Days (Exempt) (Non-Union)](https://www.indeed.com/viewjob?jk=4e168c3e04ed45a1) — Keck Medicine of USC
+- 📍 **Location:** Los Angeles, CA, US
+- 💰 **Salary:** $69k–$117k/yr
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-08-24
 
-### [CDI - HQ IT Security Manager](https://fr.indeed.com/viewjob?jk=0a6217dbc882ca15) — Rexel Dev
+### [Senior Business Analyst](https://www.indeed.com/viewjob?jk=2c440d78b955362c) — T&T Supermarket
+- 📍 **Location:** Brea, CA, US
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-07-17
+
+### [CDI - Digital & Innovation Project Manager](https://fr.indeed.com/viewjob?jk=861b9a69f5769c80) — KLEPIERRE
 - 📍 **Location:** Paris, A8, FR
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-08-24
 
-### [Stage DEBT SECURITIES OPERATIONS DATA ANALYST (f/m/d)](https://fr.indeed.com/viewjob?jk=5538a0d8101ca723) — HSBC
-- 📍 **Location:** Paris, A8, FR
+### [Staff Program Manager, People](https://www.indeed.com/viewjob?jk=f03f5f763cdb85f5) — Uber
+- 📍 **Location:** San Francisco, CA, US
+- 💰 **Salary:** $175k–$194k/yr
+- **Work mode:** Remote in-state eligible
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-08-24
+
+### [Technical Project Manager, Site Deployment - Electrical Design Assurance, NA](https://www.indeed.com/viewjob?jk=8bf62ff767ec600d) — Vantage Data Centers
+- 📍 **Location:** Santa Clara, CA, US
 - **Work mode:** On-site
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-08-23
+- 🕒 **Posted:** 2026-08-24
 
-### [Project Manager AI](https://www.indeed.com/viewjob?jk=d635ef25549ff3c6) — Interaslabs
-- 📍 **Location:** Livermore, CA, US
-- 💰 **Salary:** $70–$85/hr
-- **Work mode:** Remote in-state eligible
+### [Technical Project Manager, Site Deployment - Mechanical Design Assurance, NA](https://www.indeed.com/viewjob?jk=d5888168077dbbba) — Vantage Data Centers
+- 📍 **Location:** Santa Clara, CA, US
+- **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-08-24
 
-### [Staff Technical Program Manager, New Verticals](https://www.indeed.com/viewjob?jk=3b3407a3875eed1f) — DoorDash
-- 📍 **Location:** San Francisco, CA, US
-- 💰 **Salary:** $131k–$192k/yr
-- **Work mode:** Remote in-state eligible
-- 🕒 **Posted:** 2026-08-24
-
-### [Technical Program Manager, Security Systems Operations](https://www.indeed.com/viewjob?jk=76cd4efa4bc5bdcd) — Google
-- 📍 **Location:** Sunnyvale, CA, US
-- 💰 **Salary:** $163k–$236k/yr
-- **Work mode:** Remote in-state eligible
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-08-24
-
-### [Technical Program Manager, Security Systems Operations](https://www.indeed.com/viewjob?jk=02d135d0cc032681) — Google
-- 📍 **Location:** San Francisco, CA, US
-- 💰 **Salary:** $163k–$236k/yr
-- **Work mode:** Remote in-state eligible
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-08-24
-
-### [Staff Program Manager, Tech](https://www.indeed.com/viewjob?jk=58cc375c295e35bb) — Uber
-- 📍 **Location:** Sunnyvale, CA, US
-- 💰 **Salary:** $389k–$467k/yr
-- **Work mode:** Remote in-state eligible
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-08-24
-
-### [Technical Program Manager II](https://www.indeed.com/viewjob?jk=503c10e49f40175a) — Uber
-- 📍 **Location:** San Francisco, CA, US
-- 💰 **Salary:** $153k–$187k/yr
-- **Work mode:** Remote in-state eligible
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-08-24
-
-### [Senior Engineering Program Manager](https://www.indeed.com/viewjob?jk=418beeec9924f17d) — Hewlett Packard Enterprise | HPE
+### [Environmental Markets Program Manager](https://www.indeed.com/viewjob?jk=79c57f9431b0255a) — Apple
 - 📍 **Location:** Cupertino, CA, US
-- 💰 **Salary:** $120k–$243k/yr
-- **Work mode:** Remote in-state eligible
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-08-23
+- 💰 **Salary:** $164k–$246k/yr
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-08-20
 
-### [Supervisory Management and Program Analyst](https://www.indeed.com/viewjob?jk=dfaf08a45e6bd9b0) — Unknown
-- 📍 **Location:** San Francisco, CA, US
-- 💰 **Salary:** $122k–$158k/yr
-- **Work mode:** Remote in-state eligible
-- **Job type:** parttime, fulltime
-- 🕒 **Posted:** 2026-08-24
-
-### [Deployment Strategist](https://www.indeed.com/viewjob?jk=45182ee973203550) — Paradigm
-- 📍 **Location:** San Francisco, CA, US
+### [Tenant Fit Out Project Manager - Data Centers](https://www.indeed.com/viewjob?jk=782a55270fd0f54b) — Colliers Engineering & Design
+- 📍 **Location:** Santa Clara, CA, US
 - **Work mode:** On-site
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-08-23
+- 🕒 **Posted:** 2026-08-24
+
+### [Senior Technical Program Manager, Trust & Infrastructure - Developer Experience](https://www.indeed.com/viewjob?jk=e671b050efbd4b6e) — Salesforce
+- 📍 **Location:** San Francisco, CA, US
+- 💰 **Salary:** $150k–$248k/yr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-08-24
+
+### [Autonomous Vehicle Safety Assurance Technical Program Manager](https://www.indeed.com/viewjob?jk=985031731cdf9e45) — General Motors (GM)
+- 📍 **Location:** Sunnyvale, CA, US
+- 💰 **Salary:** $160k–$291k/yr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-08-24
