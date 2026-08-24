@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-24 20:34 UTC",
+  "scraped_at": "2026-08-24 23:37 UTC",
   "total": 141,
-  "new_count": 5,
+  "new_count": 3,
   "jobs": [
     {
       "company": "Polar Semiconductor",
@@ -536,20 +536,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Unissant",
-      "title": "Program Manager",
-      "location": "Washington, District of Columbia, United States",
-      "url": "https://unissant.applicantpro.com/jobs/4166412",
-      "direct_url": "https://unissant.applicantpro.com/jobs/4166412",
-      "date_posted": "2026-08-04T00:00:00.000Z",
-      "description": "8+ years program/project management experience supporting federal or national security programs; Bachelor's required; PMP/PgMP/Agile preferred; ability to obtain security clearance.",
-      "salary": "$143k–$229k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "F5",
       "title": "Security Technical Program Manager",
       "location": "Seattle, Washington, United States",
@@ -564,6 +550,20 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Unissant",
+      "title": "Program Manager",
+      "location": "Washington, District of Columbia, United States",
+      "url": "https://unissant.applicantpro.com/jobs/4166412",
+      "direct_url": "https://unissant.applicantpro.com/jobs/4166412",
+      "date_posted": "2026-08-04T00:00:00.000Z",
+      "description": "8+ years program/project management experience supporting federal or national security programs; Bachelor's required; PMP/PgMP/Agile preferred; ability to obtain security clearance.",
+      "salary": "$143k–$229k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Modern Technology Solutions, Inc.",
       "title": "Program Manager",
       "location": "Creech Air Force Base or Indian Springs or Las Vegas",
@@ -572,20 +572,6 @@
       "date_posted": "2026-08-12T18:52:14.000Z",
       "description": "14+ years of experience, including 5+ years in program management; qualifying degree; Secret clearance and ability to obtain TS SCI/SAP; U.S. citizenship; leadership, acquisition, troubleshooting, and technical program management skills.",
       "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Tarian",
-      "title": "Security Program Manager (Taser)",
-      "location": "Richmond, Virginia, United States",
-      "url": "https://careers.hss-us.com/jobs/23646?lang=en-us",
-      "direct_url": "https://careers.hss-us.com/jobs/23646?lang=en-us",
-      "date_posted": "2026-07-28T02:31:59.000Z",
-      "description": "Lead healthcare security program management, supervise security teams, develop policies/training, manage budgets, ensure regulatory compliance, and handle investigations; requires driver license and ability to obtain armed/TASER credentials.",
-      "salary": "$103k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -687,6 +673,20 @@
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "Telecommute eligible",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Amentum",
+      "title": "Program Security Manager",
+      "location": "Omaha or Nebraska",
+      "url": "https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-NE-Omaha/Program-Security-Manager_R0168549",
+      "direct_url": "https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-NE-Omaha/Program-Security-Manager_R0168549",
+      "date_posted": "2026-08-18T00:00:00.000Z",
+      "description": "Requires US citizenship, Top Secret clearance with SCI eligibility, 10+ years relevant experience, PMP certification, IC construction surveillance training, site security manager training, and 5+ years federal security leadership.",
+      "salary": "$100k–$180k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
       "ats": "HiringCafe"
     },
     {
@@ -872,20 +872,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "ZeroFox",
-      "title": "Intelligence Analyst - ZSAT",
-      "location": "United States",
-      "url": "https://jobs.workable.com/view/qUN1M7DWnVBd5xvax25tib/remote-intelligence-analyst---zsat-in-united-states-at-zerofox",
-      "direct_url": "https://jobs.workable.com/view/qUN1M7DWnVBd5xvax25tib/remote-intelligence-analyst---zsat-in-united-states-at-zerofox",
-      "date_posted": "2026-08-18T14:55:37.608Z",
-      "description": "Requires 2–3 years in open-source or social media research or investigations, analytical and reporting skills, online evidence collection, investigative tools, Google Suite, and strong written and oral communication.",
-      "salary": "$65k–$80k/yr",
-      "job_type": "Full Time",
-      "is_remote": true,
-      "work_arrangement": "Remote in-state eligible",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "ZeroFOX",
       "title": "Intelligence Analyst - ZSAT",
       "location": "United States",
@@ -897,6 +883,20 @@
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "ZeroFox",
+      "title": "Intelligence Analyst - ZSAT",
+      "location": "United States",
+      "url": "https://jobs.workable.com/view/qUN1M7DWnVBd5xvax25tib/remote-intelligence-analyst---zsat-in-united-states-at-zerofox",
+      "direct_url": "https://jobs.workable.com/view/qUN1M7DWnVBd5xvax25tib/remote-intelligence-analyst---zsat-in-united-states-at-zerofox",
+      "date_posted": "2026-08-18T14:55:37.608Z",
+      "description": "Requires 2–3 years in open-source or social media research or investigations, analytical and reporting skills, online evidence collection, investigative tools, Google Suite, and strong written and oral communication.",
+      "salary": "$65k–$80k/yr",
+      "job_type": "Full Time",
+      "is_remote": true,
+      "work_arrangement": "Remote in-state eligible",
       "ats": "HiringCafe"
     },
     {
@@ -1070,15 +1070,15 @@
     {
       "company": "Lam Research",
       "title": "Protective Intelligence & Threat Analyst",
-      "location": "Phoenix or Fremont or Tualatin",
-      "url": "https://lamresearch.eightfold.ai/careers/job/1099555378257",
-      "direct_url": "https://lamresearch.eightfold.ai/careers/job/1099555378257",
-      "date_posted": "2026-08-10T14:06:07.000Z",
-      "description": "Requires 8 years of related experience with a bachelor's degree, 6 years with a master's, or 3 years with a PhD; strong OSINT, investigative, analytical, communication, and problem-solving skills.",
+      "location": "Tualatin, Oregon, United States",
+      "url": "https://lamresearch.eightfold.ai/careers/job/1099553704959",
+      "direct_url": "https://lamresearch.eightfold.ai/careers/job/1099553704959",
+      "date_posted": "2026-08-06T18:04:04.000Z",
+      "description": "Bachelor's degree in criminal justice, international relations, or a related field; 3–4 years of analytical experience; OSINT, investigations, threat assessment, communication, and problem-solving skills.",
       "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
-      "work_arrangement": "On-site",
+      "work_arrangement": "Telecommute eligible",
       "ats": "HiringCafe"
     },
     {
@@ -1404,20 +1404,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "LucyRx",
-      "title": "Implementation Manager",
-      "location": "United States",
-      "url": "https://lucyrx.wd503.myworkdayjobs.com/lucyrx/job/Remote-United-States/Implementation-Manager_JR100177",
-      "direct_url": "https://lucyrx.wd503.myworkdayjobs.com/lucyrx/job/Remote-United-States/Implementation-Manager_JR100177",
-      "date_posted": "2026-08-06T00:00:00.000Z",
-      "description": "Bachelor’s degree or equivalent experience; 3–5 years in PBM, healthcare, or benefits administration; 2+ years in implementation or project management; PBM operations and Microsoft Office proficiency.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": true,
-      "work_arrangement": "Remote in-state eligible",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Vodori",
       "title": "Implementation Manager",
       "location": "United States",
@@ -1426,6 +1412,20 @@
       "date_posted": "2026-07-27T16:17:42.775Z",
       "description": "2+ years professional services or SaaS implementation experience, strong project management, client-facing skills, data migration and business process familiarity, and advanced Excel proficiency.",
       "salary": "$70k–$80k/yr",
+      "job_type": "Full Time",
+      "is_remote": true,
+      "work_arrangement": "Remote in-state eligible",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "LucyRx",
+      "title": "Implementation Manager",
+      "location": "United States",
+      "url": "https://lucyrx.wd503.myworkdayjobs.com/lucyrx/job/Remote-United-States/Implementation-Manager_JR100177",
+      "direct_url": "https://lucyrx.wd503.myworkdayjobs.com/lucyrx/job/Remote-United-States/Implementation-Manager_JR100177",
+      "date_posted": "2026-08-06T00:00:00.000Z",
+      "description": "Bachelor’s degree or equivalent experience; 3–5 years in PBM, healthcare, or benefits administration; 2+ years in implementation or project management; PBM operations and Microsoft Office proficiency.",
+      "salary": "",
       "job_type": "Full Time",
       "is_remote": true,
       "work_arrangement": "Remote in-state eligible",
@@ -1516,6 +1516,20 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "ExtensisHR",
+      "title": "Implementation Manager",
+      "location": "United States",
+      "url": "https://careers-extensishr.icims.com/jobs/6717/implementation-manager/job?in_iframe=1",
+      "direct_url": "https://careers-extensishr.icims.com/jobs/6717/implementation-manager/job?in_iframe=1",
+      "date_posted": "2026-08-24T04:00:00.000Z",
+      "description": "BA/BS or equivalent experience, 3+ years of client-facing experience, and experience in payroll or HR services, customer service, project management, or implementation required. Strong communication and presentation skills required.",
+      "salary": "$90k–$100k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Vantage Point Logistics (VPL)",
       "title": "Implementation Manager",
       "location": "Columbus, Ohio, United States",
@@ -1566,20 +1580,6 @@
       "date_posted": "2026-08-18T11:38:55.467Z",
       "description": "Requires 3–6 years in client-facing technical delivery, implementation, deployment, solutions engineering, or technical customer success; technical depth in JSON, flow logic, and prompt structure; English fluency and executive communication.",
       "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Kira",
-      "title": "Deployment Strategist",
-      "location": "New York City, New York, United States",
-      "url": "https://jobs.ashbyhq.com/kira/d0304e80-32b7-4c4c-ad58-e8c19b15e708",
-      "direct_url": "https://jobs.ashbyhq.com/kira/d0304e80-32b7-4c4c-ad58-e8c19b15e708",
-      "date_posted": "2026-07-29T18:25:32.547Z",
-      "description": "7+ years experience; extensive hands-on use of AI tools; background in high-intensity roles; strong prioritization, customer-facing implementation, prototyping, and prompt-engineering fluency.",
-      "salary": "$160k–$200k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "Telecommute eligible",
@@ -1656,20 +1656,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "ElevenLabs",
-      "title": "Deployment Strategist - Canada",
-      "location": "Canada or Toronto or Bengaluru or Dublin or London or New York City or San Francisco or Tokyo or Warsaw",
-      "url": "https://jobs.ashbyhq.com/elevenlabs/74b8610d-697c-404b-9620-8b934e3c65bd",
-      "direct_url": "https://jobs.ashbyhq.com/elevenlabs/74b8610d-697c-404b-9620-8b934e3c65bd",
-      "date_posted": "2026-08-11T19:38:23.220Z",
-      "description": "Requires 3+ years in a customer-facing technical role, product delivery and change management experience, commercial judgment, basic Python and API integration skills, strong communication, and familiarity with LLM and AI agent frameworks.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": true,
-      "work_arrangement": "Remote in-state eligible",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Avallon",
       "title": "Founding Deployment Strategist",
       "location": "New York City, New York, United States",
@@ -1695,6 +1681,20 @@
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "ElevenLabs",
+      "title": "Deployment Strategist - Canada",
+      "location": "Canada or Toronto or Bengaluru or Dublin or London or New York City or San Francisco or Tokyo or Warsaw",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/74b8610d-697c-404b-9620-8b934e3c65bd",
+      "direct_url": "https://jobs.ashbyhq.com/elevenlabs/74b8610d-697c-404b-9620-8b934e3c65bd",
+      "date_posted": "2026-08-11T19:38:23.220Z",
+      "description": "Requires 3+ years in a customer-facing technical role, product delivery and change management experience, commercial judgment, basic Python and API integration skills, strong communication, and familiarity with LLM and AI agent frameworks.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": true,
+      "work_arrangement": "Remote in-state eligible",
       "ats": "HiringCafe"
     },
     {
@@ -1980,73 +1980,45 @@
   ],
   "new_jobs": [
     {
-      "company": "Pinterest",
-      "title": "Staff Technical Program Manager, Security",
-      "location": "San Francisco or United States",
-      "url": "https://www.pinterestcareers.com/jobs/7494650/staff-technical-program-manager-security/",
-      "direct_url": "https://www.pinterestcareers.com/jobs/7494650/staff-technical-program-manager-security/",
-      "date_posted": "2026-08-10T12:00:00.000Z",
-      "description": "10+ years technical program management, 5+ years information security/risk/compliance, 5+ years big data/cloud, technical judgment, GenAI workflow expertise, and a technical bachelor's degree or equivalent.",
-      "salary": "$146k–$300k/yr",
-      "job_type": "Full Time",
-      "is_remote": true,
-      "work_arrangement": "Remote in-state eligible",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Micron",
-      "title": "Senior Program Manager, AI Security",
-      "location": "Boise, Idaho, United States",
-      "url": "https://micron.wd1.myworkdayjobs.com/external/job/Boise-ID---Main-Site/Senior-Program-Manager--AI-Security_JR108643",
-      "direct_url": "https://micron.wd1.myworkdayjobs.com/external/job/Boise-ID---Main-Site/Senior-Program-Manager--AI-Security_JR108643",
+      "company": "Amentum",
+      "title": "Program Security Manager",
+      "location": "Omaha or Nebraska",
+      "url": "https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-NE-Omaha/Program-Security-Manager_R0168549",
+      "direct_url": "https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-NE-Omaha/Program-Security-Manager_R0168549",
       "date_posted": "2026-08-18T00:00:00.000Z",
-      "description": "Bachelor's degree and 5+ years of program management experience, including 3+ years at senior, lead, or staff level. Requires complex cross-functional program leadership, executive reporting, roadmaps, metrics, and governance.",
-      "salary": "",
+      "description": "Requires US citizenship, Top Secret clearance with SCI eligibility, 10+ years relevant experience, PMP certification, IC construction surveillance training, site security manager training, and 5+ years federal security leadership.",
+      "salary": "$100k–$180k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
       "ats": "HiringCafe"
     },
     {
-      "company": "StoneX Group",
-      "title": "Program Manager",
-      "location": "Birmingham, Alabama, United States",
-      "url": "https://careers-stonex.icims.com/jobs/15585/job?utm_source=hiringcafe_integration&iis=Job%20Board&iisn=HiringCafe",
-      "direct_url": "https://careers-stonex.icims.com/jobs/15585/job?utm_source=hiringcafe_integration&iis=Job%20Board&iisn=HiringCafe",
-      "date_posted": "2026-08-03T13:58:00.000Z",
-      "description": "Program manager with 7+ years delivering large, cross-geography securities operations programs; knowledge of post-trade lifecycle; professional program/project qualification preferred; experience with large budgets and vendor/technical delivery.",
-      "salary": "$125k–$170k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "AIPAC",
-      "title": "Senior Associate, Intelligence Analyst",
-      "location": "Washington, District of Columbia, United States",
-      "url": "https://recruiting.ultipro.com/ame1071/JobBoard/0ef31e79-3786-dcf1-5756-a5fc7f17ce54/OpportunityDetail?opportunityId=5fd1cacd-6a77-41fd-b5e2-542ed0ee3f42",
-      "direct_url": "https://recruiting.ultipro.com/ame1071/JobBoard/0ef31e79-3786-dcf1-5756-a5fc7f17ce54/OpportunityDetail?opportunityId=5fd1cacd-6a77-41fd-b5e2-542ed0ee3f42",
-      "date_posted": "2026-08-20T19:52:27.766Z",
-      "description": "Bachelor's degree required and 1–3 years of relevant OSINT experience. Requires analytical, investigative, writing, communication, social media analysis, and physical-security threat assessment skills.",
-      "salary": "$72k–$85k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Code Metal",
-      "title": "Deployment Strategist - USMC",
-      "location": "Washington, District of Columbia, United States",
-      "url": "https://jobs.ashbyhq.com/code-metal/8694ee02-6f3c-45c8-9269-3156b3bca92f",
-      "direct_url": "https://jobs.ashbyhq.com/code-metal/8694ee02-6f3c-45c8-9269-3156b3bca92f",
-      "date_posted": "2026-08-20T21:01:59.491Z",
-      "description": "Former operators with deep customer and US Government knowledge, strong organizational relationships, active US security clearance, analytical and product intuition, customer empathy, and willingness to travel 50%.",
+      "company": "Lam Research",
+      "title": "Protective Intelligence & Threat Analyst",
+      "location": "Tualatin, Oregon, United States",
+      "url": "https://lamresearch.eightfold.ai/careers/job/1099553704959",
+      "direct_url": "https://lamresearch.eightfold.ai/careers/job/1099553704959",
+      "date_posted": "2026-08-06T18:04:04.000Z",
+      "description": "Bachelor's degree in criminal justice, international relations, or a related field; 3–4 years of analytical experience; OSINT, investigations, threat assessment, communication, and problem-solving skills.",
       "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "Telecommute eligible",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "ExtensisHR",
+      "title": "Implementation Manager",
+      "location": "United States",
+      "url": "https://careers-extensishr.icims.com/jobs/6717/implementation-manager/job?in_iframe=1",
+      "direct_url": "https://careers-extensishr.icims.com/jobs/6717/implementation-manager/job?in_iframe=1",
+      "date_posted": "2026-08-24T04:00:00.000Z",
+      "description": "BA/BS or equivalent experience, 3+ years of client-facing experience, and experience in payroll or HR services, customer service, project management, or implementation required. Strong communication and presentation skills required.",
+      "salary": "$90k–$100k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
       "ats": "HiringCafe"
     }
   ]
