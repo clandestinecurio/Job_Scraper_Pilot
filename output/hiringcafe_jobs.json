@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-25 18:48 UTC",
-  "total": 144,
-  "new_count": 2,
+  "scraped_at": "2026-08-25 20:50 UTC",
+  "total": 146,
+  "new_count": 4,
   "jobs": [
     {
       "company": "Polar Semiconductor",
@@ -99,6 +99,20 @@
       "job_type": "Temporary",
       "is_remote": false,
       "work_arrangement": "Telecommute eligible",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Fulton County",
+      "title": "PROGRAM PROJECT MANAGER I",
+      "location": "Atlanta, Georgia, United States",
+      "url": "https://www.governmentjobs.com/careers/fulton/jobs/5456187",
+      "direct_url": "https://www.governmentjobs.com/careers/fulton/jobs/5456187",
+      "date_posted": "2026-08-25T00:00:00.000Z",
+      "description": "Bachelor's degree in computer science, information technology, information systems, or related field plus 3 years of project management experience; PMP preferred.",
+      "salary": "$67k–$101k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
       "ats": "HiringCafe"
     },
     {
@@ -298,20 +312,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Honeywell Aerospace",
-      "title": "Program Manager",
-      "location": "Phoenix or Phoenix",
-      "url": "https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/requisitions/job/120988",
-      "direct_url": "https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/requisitions/job/120988",
-      "date_posted": "2026-08-21T19:55:41.000Z",
-      "description": "Requires 4+ years in program or project management, leadership and people management skills, risk management experience, and executive communication. Engineering or Business degree, PMP, Agile, SAFe, MS Project, and JIRA are valued.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Bugcrowd",
       "title": " Security Program Manager",
       "location": "Brazil or Bangalore or San Francisco or New Hampshire or Australia or United States",
@@ -452,20 +452,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Amentum",
-      "title": "Program Security Manager",
-      "location": "Omaha, Nebraska, United States",
-      "url": "https://www.amentumcareers.com/jobs/program-security-manager-omaha-nebraska-united-states",
-      "direct_url": "https://www.amentumcareers.com/jobs/program-security-manager-omaha-nebraska-united-states",
-      "date_posted": "2026-08-18T12:00:00.000Z",
-      "description": "Requires U.S. citizenship, Top Secret clearance with SCI eligibility, 10+ years in a relevant security or construction field, PMP, IC construction surveillance training, and 5+ years managing federal security programs.",
-      "salary": "$100k–$180k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "JEWISH COLLABORATIVE SERVICE",
       "title": "Nutrition & Food Security Program Manager",
       "location": "Providence, Rhode Island, United States",
@@ -474,6 +460,20 @@
       "date_posted": "2026-08-04T00:00:00.000Z",
       "description": "Manage community nutrition and food security programs; supervise staff and volunteers; ensure food safety and kosher compliance; monitor budgets and grant reporting; build community partnerships.",
       "salary": "$55k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Amentum",
+      "title": "Program Security Manager",
+      "location": "Omaha, Nebraska, United States",
+      "url": "https://www.amentumcareers.com/jobs/program-security-manager-omaha-nebraska-united-states",
+      "direct_url": "https://www.amentumcareers.com/jobs/program-security-manager-omaha-nebraska-united-states",
+      "date_posted": "2026-08-18T12:00:00.000Z",
+      "description": "Requires U.S. citizenship, Top Secret clearance with SCI eligibility, 10+ years in a relevant security or construction field, PMP, IC construction surveillance training, and 5+ years managing federal security programs.",
+      "salary": "$100k–$180k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -1432,6 +1432,20 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "MetTel",
+      "title": "Implementation Manager ",
+      "location": "Holmdel, New Jersey, United States",
+      "url": "https://job-boards.greenhouse.io/mettel/jobs/4701397006",
+      "direct_url": "https://job-boards.greenhouse.io/mettel/jobs/4701397006",
+      "date_posted": "2026-07-30T23:18:38.000Z",
+      "description": "Bachelor's degree,5+ years in software implementation/project management or related client-facing roles,experience leading complex projects,strong customer-facing communication and organizational skills.",
+      "salary": "$100k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Uptick",
       "title": "Implementation Manager",
       "location": "Denver or Denver",
@@ -1446,6 +1460,20 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "SafelyYou",
+      "title": "Implementation Manager",
+      "location": "United States",
+      "url": "https://careers.safely-you.com/jobs/682937-implementation-manager",
+      "direct_url": "https://careers.safely-you.com/jobs/682937-implementation-manager",
+      "date_posted": "2026-08-13T18:38:32.000Z",
+      "description": "Requires 3+ years in onboarding, implementation, or project management; strong organization, communication, troubleshooting, technical, networking, solution architecture, and multi-project skills; willingness to travel up to 25%.",
+      "salary": "$90k–$100k/yr",
+      "job_type": "Full Time",
+      "is_remote": true,
+      "work_arrangement": "Remote in-state eligible",
+      "ats": "HiringCafe"
+    },
+    {
       "company": "AssistRx, LLC",
       "title": "Implementation Manager",
       "location": "Florida, United States",
@@ -1457,20 +1485,6 @@
       "job_type": "Full Time",
       "is_remote": true,
       "work_arrangement": "Remote in-state eligible",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "MetTel",
-      "title": "Implementation Manager ",
-      "location": "Holmdel, New Jersey, United States",
-      "url": "https://job-boards.greenhouse.io/mettel/jobs/4701397006",
-      "direct_url": "https://job-boards.greenhouse.io/mettel/jobs/4701397006",
-      "date_posted": "2026-07-30T23:18:38.000Z",
-      "description": "Bachelor's degree,5+ years in software implementation/project management or related client-facing roles,experience leading complex projects,strong customer-facing communication and organizational skills.",
-      "salary": "$100k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
       "ats": "HiringCafe"
     },
     {
@@ -1600,20 +1614,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Seekr",
-      "title": "Deployment Strategist ",
-      "location": "Austin or Reston",
-      "url": "https://www.seekr.com/careers/?gh_jid=4724221005",
-      "direct_url": "https://www.seekr.com/careers/?gh_jid=4724221005",
-      "date_posted": "2026-08-14T14:05:26.000Z",
-      "description": "Requires 7+ years in technical consulting, product management, solutions architecture, implementation, or technical delivery; solution requirements, enterprise engagements, commercial acumen, AI/ML workflows, Python, SQL, R, and infrastructure tooling.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Mosaic",
       "title": "Deployment Strategist",
       "location": "New York City, New York, United States",
@@ -1625,6 +1625,20 @@
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Seekr",
+      "title": "Deployment Strategist ",
+      "location": "Austin or Reston",
+      "url": "https://www.seekr.com/careers/?gh_jid=4724221005",
+      "direct_url": "https://www.seekr.com/careers/?gh_jid=4724221005",
+      "date_posted": "2026-08-14T14:05:26.000Z",
+      "description": "Requires 7+ years in technical consulting, product management, solutions architecture, implementation, or technical delivery; solution requirements, enterprise engagements, commercial acumen, AI/ML workflows, Python, SQL, R, and infrastructure tooling.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "Telecommute eligible",
       "ats": "HiringCafe"
     },
     {
@@ -1657,30 +1671,16 @@
     },
     {
       "company": "Code Metal",
-      "title": "Deployment Strategist - USMC",
-      "location": "Washington, District of Columbia, United States",
-      "url": "https://jobs.ashbyhq.com/code-metal/8694ee02-6f3c-45c8-9269-3156b3bca92f",
-      "direct_url": "https://jobs.ashbyhq.com/code-metal/8694ee02-6f3c-45c8-9269-3156b3bca92f",
-      "date_posted": "2026-08-20T21:01:59.491Z",
-      "description": "Former operators with deep customer and US Government knowledge, strong organizational relationships, active US security clearance, analytical and product intuition, customer empathy, and willingness to travel 50%.",
+      "title": "Deployment Strategist - CENTCOM",
+      "location": "Tampa, Florida, United States",
+      "url": "https://jobs.ashbyhq.com/code-metal/434acecf-97a6-4882-9023-6ab9d2331f56",
+      "direct_url": "https://jobs.ashbyhq.com/code-metal/434acecf-97a6-4882-9023-6ab9d2331f56",
+      "date_posted": "2026-08-20T21:02:02.314Z",
+      "description": "Former operators with deep customer and U.S. Government expertise, strong relevant relationships, active U.S. security clearance, analytical skills, and willingness to travel 50%.",
       "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "Telecommute eligible",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "ElevenLabs",
-      "title": "Deployment Strategist - Canada",
-      "location": "Canada or Toronto or Bengaluru or Dublin or London or New York City or San Francisco or Tokyo or Warsaw",
-      "url": "https://jobs.ashbyhq.com/elevenlabs/74b8610d-697c-404b-9620-8b934e3c65bd",
-      "direct_url": "https://jobs.ashbyhq.com/elevenlabs/74b8610d-697c-404b-9620-8b934e3c65bd",
-      "date_posted": "2026-08-11T19:38:23.220Z",
-      "description": "Requires 3+ years in a customer-facing technical role, product delivery and change management experience, commercial judgment, basic Python and API integration skills, strong communication, and familiarity with LLM and AI agent frameworks.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": true,
-      "work_arrangement": "Remote in-state eligible",
       "ats": "HiringCafe"
     },
     {
@@ -1698,6 +1698,20 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "ElevenLabs",
+      "title": "Deployment Strategist - Canada",
+      "location": "Canada or Toronto or Bengaluru or Dublin or London or New York City or San Francisco or Tokyo or Warsaw",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/74b8610d-697c-404b-9620-8b934e3c65bd",
+      "direct_url": "https://jobs.ashbyhq.com/elevenlabs/74b8610d-697c-404b-9620-8b934e3c65bd",
+      "date_posted": "2026-08-11T19:38:23.220Z",
+      "description": "Requires 3+ years in a customer-facing technical role, product delivery and change management experience, commercial judgment, basic Python and API integration skills, strong communication, and familiarity with LLM and AI agent frameworks.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": true,
+      "work_arrangement": "Remote in-state eligible",
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Specter",
       "title": "Founding Deployment Strategist",
       "location": "San Francisco, California, United States",
@@ -1709,6 +1723,20 @@
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "PhysicsX",
+      "title": "Deployment Strategist - Aerospace & Defense",
+      "location": "New York, New York, United States",
+      "url": "https://job-boards.eu.greenhouse.io/physicsx/jobs/4932526101",
+      "direct_url": "https://job-boards.eu.greenhouse.io/physicsx/jobs/4932526101",
+      "date_posted": "2026-08-19T14:32:06.000Z",
+      "description": "Requires 8+ years in aerospace and defense, strong engineering, program, consulting, ML, data science, and simulation expertise, plus customer leadership and business development experience.",
+      "salary": "$175k–$250k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "Telecommute eligible",
       "ats": "HiringCafe"
     },
     {
@@ -1726,17 +1754,17 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "PhysicsX",
-      "title": "Deployment Strategist - Aerospace & Defense",
-      "location": "New York, New York, United States",
-      "url": "https://job-boards.eu.greenhouse.io/physicsx/jobs/4932526101",
-      "direct_url": "https://job-boards.eu.greenhouse.io/physicsx/jobs/4932526101",
-      "date_posted": "2026-08-19T14:32:06.000Z",
-      "description": "Requires 8+ years in aerospace and defense, strong engineering, program, consulting, ML, data science, and simulation expertise, plus customer leadership and business development experience.",
-      "salary": "$175k–$250k/yr",
+      "company": "Freehand",
+      "title": "AI Deployment Strategist",
+      "location": "India or United States",
+      "url": "https://jobs.ashbyhq.com/freehand/fe8baee3-b6c4-42a7-849d-467cbd72bad7",
+      "direct_url": "https://jobs.ashbyhq.com/freehand/fe8baee3-b6c4-42a7-849d-467cbd72bad7",
+      "date_posted": "2026-07-31T09:04:20.459Z",
+      "description": "6–15 years in enterprise software implementation, solution architecture, consulting or delivery; Bachelor's required; experience with ERP/TMS/spend management; strong customer partnership and execution skills.",
+      "salary": "",
       "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
+      "is_remote": true,
+      "work_arrangement": "Remote in-state eligible",
       "ats": "HiringCafe"
     },
     {
@@ -1936,20 +1964,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Pacific Gas And Electric Company",
-      "title": "Expert, Operations Data Analyst",
-      "location": "Oakland or Dublin",
-      "url": "https://careers.pge.com/job/Oakland-Expert%2C-Operations-Data-Analyst-CA-94612/1422060400/",
-      "direct_url": "https://careers.pge.com/job/Oakland-Expert%2C-Operations-Data-Analyst-CA-94612/1422060400/",
-      "date_posted": "2026-08-21T00:00:00.000Z",
-      "description": "BA/BS or equivalent experience and 6 years of related experience required. Advanced Excel/Access, SQL, Oracle or Business Objects, UNIX shell programming, SAS, and programming language skills desired.",
-      "salary": "$126k–$200k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "KBR",
       "title": "Operations Research Analyst / Data Scientist",
       "location": "Colorado Springs or Peterson Air Force Base",
@@ -1961,6 +1975,20 @@
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Pacific Gas And Electric Company",
+      "title": "Expert, Operations Data Analyst",
+      "location": "Oakland or Dublin",
+      "url": "https://careers.pge.com/job/Oakland-Expert%2C-Operations-Data-Analyst-CA-94612/1422060400/",
+      "direct_url": "https://careers.pge.com/job/Oakland-Expert%2C-Operations-Data-Analyst-CA-94612/1422060400/",
+      "date_posted": "2026-08-21T00:00:00.000Z",
+      "description": "BA/BS or equivalent experience and 6 years of related experience required. Advanced Excel/Access, SQL, Oracle or Business Objects, UNIX shell programming, SAS, and programming language skills desired.",
+      "salary": "$126k–$200k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "Telecommute eligible",
       "ats": "HiringCafe"
     },
     {
@@ -2022,31 +2050,59 @@
   ],
   "new_jobs": [
     {
-      "company": "Tarian",
-      "title": "Security Program Manager (Taser)",
-      "location": "Richmond, Virginia, United States",
-      "url": "https://careers.hss-us.com/jobs/23646?lang=en-us",
-      "direct_url": "https://careers.hss-us.com/jobs/23646?lang=en-us",
-      "date_posted": "2026-07-28T02:31:59.000Z",
-      "description": "Lead healthcare security program management, supervise security teams, develop policies/training, manage budgets, ensure regulatory compliance, and handle investigations; requires driver license and ability to obtain armed/TASER credentials.",
-      "salary": "$103k/yr",
+      "company": "Fulton County",
+      "title": "PROGRAM PROJECT MANAGER I",
+      "location": "Atlanta, Georgia, United States",
+      "url": "https://www.governmentjobs.com/careers/fulton/jobs/5456187",
+      "direct_url": "https://www.governmentjobs.com/careers/fulton/jobs/5456187",
+      "date_posted": "2026-08-25T00:00:00.000Z",
+      "description": "Bachelor's degree in computer science, information technology, information systems, or related field plus 3 years of project management experience; PMP preferred.",
+      "salary": "$67k–$101k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
       "ats": "HiringCafe"
     },
     {
-      "company": "UBS",
-      "title": "Data Analyst",
-      "location": "Pune or Chicago or Krakow or Zurich or Singapore",
-      "url": "https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5012&PageType=JobDetails&jobid=345572",
-      "direct_url": "https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5012&PageType=JobDetails&jobid=345572",
-      "date_posted": "2026-08-11T07:48:53.947Z",
-      "description": "Experience overseeing data operations, improving processes, managing projects, resolving escalations, tracking risks and KPIs, and coordinating with technology teams, data providers, and global stakeholders.",
+      "company": "SafelyYou",
+      "title": "Implementation Manager",
+      "location": "United States",
+      "url": "https://careers.safely-you.com/jobs/682937-implementation-manager",
+      "direct_url": "https://careers.safely-you.com/jobs/682937-implementation-manager",
+      "date_posted": "2026-08-13T18:38:32.000Z",
+      "description": "Requires 3+ years in onboarding, implementation, or project management; strong organization, communication, troubleshooting, technical, networking, solution architecture, and multi-project skills; willingness to travel up to 25%.",
+      "salary": "$90k–$100k/yr",
+      "job_type": "Full Time",
+      "is_remote": true,
+      "work_arrangement": "Remote in-state eligible",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Code Metal",
+      "title": "Deployment Strategist - CENTCOM",
+      "location": "Tampa, Florida, United States",
+      "url": "https://jobs.ashbyhq.com/code-metal/434acecf-97a6-4882-9023-6ab9d2331f56",
+      "direct_url": "https://jobs.ashbyhq.com/code-metal/434acecf-97a6-4882-9023-6ab9d2331f56",
+      "date_posted": "2026-08-20T21:02:02.314Z",
+      "description": "Former operators with deep customer and U.S. Government expertise, strong relevant relationships, active U.S. security clearance, analytical skills, and willingness to travel 50%.",
       "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
-      "work_arrangement": "On-site",
+      "work_arrangement": "Telecommute eligible",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Freehand",
+      "title": "AI Deployment Strategist",
+      "location": "India or United States",
+      "url": "https://jobs.ashbyhq.com/freehand/fe8baee3-b6c4-42a7-849d-467cbd72bad7",
+      "direct_url": "https://jobs.ashbyhq.com/freehand/fe8baee3-b6c4-42a7-849d-467cbd72bad7",
+      "date_posted": "2026-07-31T09:04:20.459Z",
+      "description": "6–15 years in enterprise software implementation, solution architecture, consulting or delivery; Bachelor's required; experience with ERP/TMS/spend management; strong customer partnership and execution skills.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": true,
+      "work_arrangement": "Remote in-state eligible",
       "ats": "HiringCafe"
     }
   ]
