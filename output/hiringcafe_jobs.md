@@ -1,43 +1,30 @@
 # ☕ HiringCafe — Megan's Strategy, Security & Operations Roles
-*Last updated: 2026-08-26 18:56 UTC*
+*Last updated: 2026-08-26 21:43 UTC*
 
-**6 new role(s)** since last run · 143 total in last 30d
+**4 new role(s)** since last run · 144 total in last 30d
 
-### [PROGRAM PROJECT MANAGER I](https://www.governmentjobs.com/careers/fulton/jobs/5415739) — Fulton County
-- 📍 **Location:** Atlanta, Georgia, United States
-- 💰 **Salary:** $67k–$101k/yr
+### [Security Program Analyst II](https://careers.akima.com/jobs/24611?lang=en-us) — Akima, LLC
+- 📍 **Location:** Rosslyn, Virginia, United States
+- 💰 **Salary:** $95k–$101k/yr
 - **Work mode:** On-site
 - **Job type:** Full Time
-- 🕒 **Posted:** 2026-08-25T00:00:00.000Z
+- 🕒 **Posted:** 2026-07-31T22:38:41.000Z
 
-### [Program Manager](https://grahamtech.isolvedhire.com/jobs/1844047) — Graham Technologies
-- 📍 **Location:** Norfolk, Virginia, United States
+### [Criminal Intelligence Analyst 1(DDS only Division/work unit EES's Only)](https://georgia.wd5.myworkdayjobs.com/tgc/job/Conyers/Criminal-Intelligence-Analyst-1-DDS-only-Division-work-unit-EES-s-Only-_JR0000002652) — Georgia
+- 📍 **Location:** Conyers, Georgia, United States
+- **Work mode:** On-site
+- **Job type:** Full Time
+- 🕒 **Posted:** 2026-08-26T00:00:00.000Z
+
+### [Deployment Strategist - USMC](https://jobs.ashbyhq.com/code-metal/8694ee02-6f3c-45c8-9269-3156b3bca92f) — Code Metal
+- 📍 **Location:** Washington, District of Columbia, United States
 - **Work mode:** Telecommute eligible
 - **Job type:** Full Time
-- 🕒 **Posted:** 2026-08-17T00:00:00.000Z
+- 🕒 **Posted:** 2026-08-20T21:01:59.491Z
 
-### [Program Manager](https://secure7.saashr.com/ta/6215627.careers?ShowJob=621241038) — CenCore Group
-- 📍 **Location:** Chantilly, Virginia, United States
-- 💰 **Salary:** $150k–$200k/yr
-- **Work mode:** On-site
-- **Job type:** Full Time
-- 🕒 **Posted:** 2026-08-10T23:46:12.989Z
-
-### [Intelligence Analyst II](https://jobs.dayforcehcm.com/en-US/crisis24/candidateportal/jobs/23650) — Crisis24
-- 📍 **Location:** Atlanta, Georgia, United States
-- **Work mode:** On-site
-- **Job type:** Full Time
-- 🕒 **Posted:** 2026-08-26T04:00:00.000Z
-
-### [Deployment Strategist - CENTCOM](https://jobs.ashbyhq.com/code-metal/434acecf-97a6-4882-9023-6ab9d2331f56) — Code Metal
-- 📍 **Location:** Tampa, Florida, United States
+### [AI Deployment Strategist](https://jobs.ashbyhq.com/hazel/a10ec44b-75a9-4932-b0f0-ddb2661d390a) — Hazel
+- 📍 **Location:** New York City, New York, United States
+- 💰 **Salary:** $115k–$145k/yr
 - **Work mode:** Telecommute eligible
 - **Job type:** Full Time
-- 🕒 **Posted:** 2026-08-20T21:02:02.314Z
-
-### [Data Operations Analyst](https://peraton.jibeapply.com/jobs/169995) — Peraton
-- 📍 **Location:** Virginia, United States
-- 💰 **Salary:** $146k–$234k/yr
-- **Work mode:** Remote in-state eligible
-- **Job type:** Full Time
-- 🕒 **Posted:** 2026-08-25T23:56:04.000Z
+- 🕒 **Posted:** 2026-08-17T14:15:05.694Z
