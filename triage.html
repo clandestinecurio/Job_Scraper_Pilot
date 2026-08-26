@@ -1164,16 +1164,62 @@
       return url.split('?')[0].replace(/\/+$/, '').toLowerCase();
     }
   }
+  function _dedupeMeta(j) {
+    const titleTokens = _titleTokens(j.title);
+    const locationTokens = _locTokens(j.location);
+    return {
+      company: _normCo(j.company),
+      titleTokens,
+      title: titleTokens.join(' '),
+      locationTokens,
+      location: locationTokens.join(' '),
+      keys: new Set(_dupUrlList(j).map(_jobKey).filter(Boolean)),
+      contentTokens: null,
+    };
+  }
+  function _metaCoMatch(a, b) {
+    if (!a || !b) return false;
+    if (a === b) return true;
+    return a.length >= 5 && b.length >= 5 && (a.includes(b) || b.includes(a));
+  }
+  function _metaLocOverlap(a, b) {
+    if (!a.locationTokens.length || !b.locationTokens.length) return false;
+    if (a.location === b.location) return true;
+    if (a.location.length >= 4 && b.location.length >= 4
+        && (a.location.includes(b.location) || b.location.includes(a.location))) return true;
+    const bset = new Set(b.locationTokens);
+    return a.locationTokens.some(t => t.length >= 4 && bset.has(t));
+  }
+  function _metaTitleMatch(a, b) {
+    const at = a.titleTokens, bt = b.titleTokens;
+    if (!at.length || !bt.length) return false;
+    if (a.title === b.title) return true;
+    const score = _jaccard(at, bt);
+    if (score >= 0.86 && at.filter(t => bt.includes(t)).length >= 2) return true;
+    const aset = new Set(at), bset = new Set(bt);
+    const aExtra = at.filter(t => !bset.has(t));
+    const bExtra = bt.filter(t => !aset.has(t));
+    return Math.min(at.length, bt.length) >= 2
+      && ((aExtra.length > 0 && bExtra.length === 0 && aExtra.every(t => TITLE_LEVEL.has(t)))
+        || (bExtra.length > 0 && aExtra.length === 0 && bExtra.every(t => TITLE_LEVEL.has(t))));
+  }
+  function _metaDescOverlap(a, b, aJob, bJob) {
+    const ad = (aJob.description || '').slice(0, 3000);
+    const bd = (bJob.description || '').slice(0, 3000);
+    if (ad.length < 220 || bd.length < 220) return false;
+    if (!a.contentTokens) a.contentTokens = _contentTokens(ad);
+    if (!b.contentTokens) b.contentTokens = _contentTokens(bd);
+    return _jaccard(a.contentTokens, b.contentTokens) >= 0.82;
+  }
   // Company and title must match; distinct locations stay separate unless a
   // normalized URL ID proves they are the same posting.
-  function _shouldMerge(a, b) {
-    const aKeys = new Set(_dupUrlList(a).map(_jobKey).filter(Boolean));
-    const bKeys = _dupUrlList(b).map(_jobKey).filter(Boolean);
-    if (bKeys.some(k => aKeys.has(k))) return true;
-    if (!_coMatch(a.company, b.company)) return false;
-    if (!_titleMatch(a.title, b.title)) return false;
-    if (_locOverlap(a.location, b.location)) return true;
-    return (!(a.location || '').trim() || !(b.location || '').trim()) && _descOverlap(a, b);
+  function _shouldMerge(a, b, aMeta = _dedupeMeta(a), bMeta = _dedupeMeta(b)) {
+    if ([...bMeta.keys].some(k => aMeta.keys.has(k))) return true;
+    if (!_metaCoMatch(aMeta.company, bMeta.company)) return false;
+    if (!_metaTitleMatch(aMeta, bMeta)) return false;
+    if (_metaLocOverlap(aMeta, bMeta)) return true;
+    return (!(a.location || '').trim() || !(b.location || '').trim())
+      && _metaDescOverlap(aMeta, bMeta, a, b);
   }
   function _richness(j) { return (j._salMin != null ? 2 : 0) + (j.description ? 1 : 0); }
   const TRIAGE_PRIORITY = { applied: 4, saved: 3, irrelevant: 2, dismissed: 1 };
@@ -1183,6 +1229,9 @@
     // generic same-title roles that fail the location/content checks.
     const out = [];
     const used = new Array(list.length).fill(false);
+    // Normalization, URL parsing and tokenization are expensive. Compute them
+    // once per job instead of repeating them for every pairwise comparison.
+    const meta = new WeakMap(list.map(j => [j, _dedupeMeta(j)]));
     for (let i = 0; i < list.length; i++) {
       if (used[i]) continue;
       const cluster = [list[i]];
@@ -1192,7 +1241,7 @@
         changed = false;
         for (let k = i + 1; k < list.length; k++) {
           if (used[k]) continue;
-          if (cluster.some(member => _shouldMerge(member, list[k]))) {
+          if (cluster.some(member => _shouldMerge(member, list[k], meta.get(member), meta.get(list[k])))) {
             cluster.push(list[k]);
             used[k] = true;
             changed = true;
@@ -2089,8 +2138,14 @@
       + 'Hover a dot for the location, click for the roles (★ = priority topic).';
   }
 
+  let DEDUPE_INPUT = null;
   function renderAll() {
-    VIEW = dedupe(state.jobs);   // collapse cross-posted (LinkedIn↔Indeed) dupes
+    // Filtering and triage actions do not change the jobs array. Reuse the
+    // deduplicated view until a refresh replaces that array.
+    if (DEDUPE_INPUT !== state.jobs) {
+      VIEW = dedupe(state.jobs);   // collapse cross-posted (LinkedIn↔Indeed) dupes
+      DEDUPE_INPUT = state.jobs;
+    }
     renderFilterGroup('filter-source', 'source', ['LinkedIn', 'Priority', 'Indeed', 'Glassdoor', 'ZipRecruiter', 'GoogleJobs', 'HiringCafe', 'CalCareers', 'CSUCareers', 'USAJOBS', 'NEOGOV', 'CalOpps']);
     renderFilterGroup('filter-role', 'role', ROLE_NAMES);   // from config.json → role_categories
     renderFilterGroup('filter-sen', 'sen',
