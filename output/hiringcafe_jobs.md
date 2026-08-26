@@ -1,28 +1,16 @@
 # ☕ HiringCafe — Megan's Strategy, Security & Operations Roles
-*Last updated: 2026-08-25 22:33 UTC*
+*Last updated: 2026-08-26 00:47 UTC*
 
-**4 new role(s)** since last run · 146 total in last 30d
+**2 new role(s)** since last run · 146 total in last 30d
 
-### [Program Manager](https://grahamtech.isolvedhire.com/jobs/1844047) — Graham Technologies
-- 📍 **Location:** Norfolk, Virginia, United States
-- **Work mode:** Telecommute eligible
-- **Job type:** Full Time
-- 🕒 **Posted:** 2026-08-17T00:00:00.000Z
-
-### [Implementation Manager](https://myjobs.adp.com/fedex/cx/job-details?reqId=5001217052306) — FedEx Supply Chain
-- 📍 **Location:** Dallas or Indianapolis or Memphis or Warrendale
+### [Deployment Strategist](https://jobs.ashbyhq.com/mosaic/14b240bf-7bbe-4460-af8f-d1b5553e0f44) — Mosaic
+- 📍 **Location:** New York City, New York, United States
 - **Work mode:** On-site
 - **Job type:** Full Time
-- 🕒 **Posted:** 2026-08-25T18:56:34.875Z
+- 🕒 **Posted:** 2026-08-17T15:52:59.834Z
 
-### [Deployment Strategist - USMC](https://jobs.ashbyhq.com/code-metal/8694ee02-6f3c-45c8-9269-3156b3bca92f) — Code Metal
-- 📍 **Location:** Washington, District of Columbia, United States
-- **Work mode:** Telecommute eligible
-- **Job type:** Full Time
-- 🕒 **Posted:** 2026-08-20T21:01:59.491Z
-
-### [Data Analyst, Technical Operations](https://job-boards.greenhouse.io/diligentrobotics/jobs/7976676003) — Diligent Robotics
-- 📍 **Location:** United States
+### [AI Deployment Strategist](https://jobs.ashbyhq.com/freehand/fe8baee3-b6c4-42a7-849d-467cbd72bad7) — Freehand
+- 📍 **Location:** India or United States
 - **Work mode:** Remote in-state eligible
 - **Job type:** Full Time
-- 🕒 **Posted:** 2026-08-25T19:44:48.000Z
+- 🕒 **Posted:** 2026-07-31T09:04:20.459Z
