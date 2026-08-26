@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-26 03:21 UTC",
+  "scraped_at": "2026-08-26 04:49 UTC",
   "total": 145,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Polar Semiconductor",
@@ -2034,20 +2034,5 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Peraton",
-      "title": "Data Operations Analyst",
-      "location": "Virginia, United States",
-      "url": "https://careers-peraton.icims.com/jobs/169995/data-operations-analyst/job?in_iframe=1",
-      "direct_url": "https://careers-peraton.icims.com/jobs/169995/data-operations-analyst/job?in_iframe=1",
-      "date_posted": "2026-08-25T04:00:00.000Z",
-      "description": "Requires 5 years of relevant analytical experience, active Secret clearance, SQL, advanced Excel, Python or R, BI visualization experience, quantitative methods, and a qualifying degree with 10–16 years of experience.",
-      "salary": "$146k–$234k/yr",
-      "job_type": "Full Time",
-      "is_remote": true,
-      "work_arrangement": "Remote in-state eligible",
-      "ats": "HiringCafe"
-    }
-  ]
+  "new_jobs": []
 }
