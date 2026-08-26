@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-26 00:47 UTC",
-  "total": 146,
-  "new_count": 2,
+  "scraped_at": "2026-08-26 03:21 UTC",
+  "total": 145,
+  "new_count": 1,
   "jobs": [
     {
       "company": "Polar Semiconductor",
@@ -438,20 +438,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Figma",
-      "title": "Strategic Program Manager, Information Security",
-      "location": "San Francisco or New York City or United States",
-      "url": "https://boards.greenhouse.io/figma/jobs/6144522004?gh_jid=6144522004",
-      "direct_url": "https://boards.greenhouse.io/figma/jobs/6144522004?gh_jid=6144522004",
-      "date_posted": "2026-08-19T21:30:55.000Z",
-      "description": "5+ years in security program management or related strategic information security roles; experience leading cross-functional programs, metrics, risk registers, frameworks, stakeholder communication, and organizational adoption.",
-      "salary": "$169k–$296k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Amentum",
       "title": "Program Security Manager",
       "location": "Omaha, Nebraska, United States",
@@ -463,6 +449,34 @@
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "JEWISH COLLABORATIVE SERVICE",
+      "title": "Nutrition & Food Security Program Manager",
+      "location": "Providence, Rhode Island, United States",
+      "url": "https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=87433&clientkey=F812373B057BB5D20B2C74592B31212E",
+      "direct_url": "https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=87433&clientkey=F812373B057BB5D20B2C74592B31212E",
+      "date_posted": "2026-08-04T00:00:00.000Z",
+      "description": "Manage community nutrition and food security programs; supervise staff and volunteers; ensure food safety and kosher compliance; monitor budgets and grant reporting; build community partnerships.",
+      "salary": "$55k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Figma",
+      "title": "Strategic Program Manager, Information Security",
+      "location": "San Francisco or New York City or United States",
+      "url": "https://boards.greenhouse.io/figma/jobs/6144522004?gh_jid=6144522004",
+      "direct_url": "https://boards.greenhouse.io/figma/jobs/6144522004?gh_jid=6144522004",
+      "date_posted": "2026-08-19T21:30:55.000Z",
+      "description": "5+ years in security program management or related strategic information security roles; experience leading cross-functional programs, metrics, risk registers, frameworks, stakeholder communication, and organizational adoption.",
+      "salary": "$169k–$296k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "Telecommute eligible",
       "ats": "HiringCafe"
     },
     {
@@ -522,20 +536,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Unissant",
-      "title": "Program Manager",
-      "location": "Washington, District of Columbia, United States",
-      "url": "https://unissant.applicantpro.com/jobs/4166412",
-      "direct_url": "https://unissant.applicantpro.com/jobs/4166412",
-      "date_posted": "2026-08-04T00:00:00.000Z",
-      "description": "8+ years program/project management experience supporting federal or national security programs; Bachelor's required; PMP/PgMP/Agile preferred; ability to obtain security clearance.",
-      "salary": "$143k–$229k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "F5",
       "title": "Security Technical Program Manager",
       "location": "Seattle, Washington, United States",
@@ -550,6 +550,20 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Unissant",
+      "title": "Program Manager",
+      "location": "Washington, District of Columbia, United States",
+      "url": "https://unissant.applicantpro.com/jobs/4166412",
+      "direct_url": "https://unissant.applicantpro.com/jobs/4166412",
+      "date_posted": "2026-08-04T00:00:00.000Z",
+      "description": "8+ years program/project management experience supporting federal or national security programs; Bachelor's required; PMP/PgMP/Agile preferred; ability to obtain security clearance.",
+      "salary": "$143k–$229k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Modern Technology Solutions, Inc.",
       "title": "Program Manager",
       "location": "Creech Air Force Base or Indian Springs or Las Vegas",
@@ -558,6 +572,20 @@
       "date_posted": "2026-08-12T18:52:14.000Z",
       "description": "14+ years of experience, including 5+ years in program management; qualifying degree; Secret clearance and ability to obtain TS SCI/SAP; U.S. citizenship; leadership, acquisition, troubleshooting, and technical program management skills.",
       "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Tarian",
+      "title": "Security Program Manager (Taser)",
+      "location": "Richmond, Virginia, United States",
+      "url": "https://careers.hss-us.com/jobs/23646?lang=en-us",
+      "direct_url": "https://careers.hss-us.com/jobs/23646?lang=en-us",
+      "date_posted": "2026-07-28T02:31:59.000Z",
+      "description": "Lead healthcare security program management, supervise security teams, develop policies/training, manage budgets, ensure regulatory compliance, and handle investigations; requires driver license and ability to obtain armed/TASER credentials.",
+      "salary": "$103k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -592,20 +620,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Tarian",
-      "title": "Security Program Manager (Taser)",
-      "location": "Richmond, Virginia, United States",
-      "url": "https://careers.hss-us.com/jobs/23646?lang=en-us",
-      "direct_url": "https://careers.hss-us.com/jobs/23646?lang=en-us",
-      "date_posted": "2026-07-28T02:31:59.000Z",
-      "description": "Lead healthcare security program management, supervise security teams, develop policies/training, manage budgets, ensure regulatory compliance, and handle investigations; requires driver license and ability to obtain armed/TASER credentials.",
-      "salary": "$103k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Akima, LLC",
       "title": "Security Program Analyst II",
       "location": "Rosslyn, Virginia, United States",
@@ -634,31 +648,17 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "StoneX Group",
-      "title": "Program Manager",
-      "location": "Birmingham, Alabama, United States",
-      "url": "https://careers-stonex.icims.com/jobs/15585/job?utm_source=hiringcafe_integration&iis=Job%20Board&iisn=HiringCafe",
-      "direct_url": "https://careers-stonex.icims.com/jobs/15585/job?utm_source=hiringcafe_integration&iis=Job%20Board&iisn=HiringCafe",
-      "date_posted": "2026-08-03T13:58:00.000Z",
-      "description": "Program manager with 7+ years delivering large, cross-geography securities operations programs; knowledge of post-trade lifecycle; professional program/project qualification preferred; experience with large budgets and vendor/technical delivery.",
-      "salary": "$125k–$170k/yr",
+      "company": "Pinterest",
+      "title": "Staff Technical Program Manager, Security",
+      "location": "San Francisco or United States",
+      "url": "https://www.pinterestcareers.com/jobs/7494650/staff-technical-program-manager-security/",
+      "direct_url": "https://www.pinterestcareers.com/jobs/7494650/staff-technical-program-manager-security/",
+      "date_posted": "2026-08-10T12:00:00.000Z",
+      "description": "10+ years technical program management, 5+ years information security/risk/compliance, 5+ years big data/cloud, technical judgment, GenAI workflow expertise, and a technical bachelor's degree or equivalent.",
+      "salary": "$146k–$300k/yr",
       "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Graham Technologies",
-      "title": "Program Manager",
-      "location": "Norfolk, Virginia, United States",
-      "url": "https://grahamtech.isolvedhire.com/jobs/1844047",
-      "direct_url": "https://grahamtech.isolvedhire.com/jobs/1844047",
-      "date_posted": "2026-08-17T00:00:00.000Z",
-      "description": "Requires 10+ years of IT experience, 5+ years managing complex IT programs, a bachelor's degree, multidisciplinary team leadership, federal IT program experience, and ability to satisfy government security requirements.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
+      "is_remote": true,
+      "work_arrangement": "Remote in-state eligible",
       "ats": "HiringCafe"
     },
     {
@@ -676,17 +676,17 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Pinterest",
-      "title": "Staff Technical Program Manager, Security",
-      "location": "San Francisco or United States",
-      "url": "https://www.pinterestcareers.com/jobs/7494650/staff-technical-program-manager-security/",
-      "direct_url": "https://www.pinterestcareers.com/jobs/7494650/staff-technical-program-manager-security/",
-      "date_posted": "2026-08-10T12:00:00.000Z",
-      "description": "10+ years technical program management, 5+ years information security/risk/compliance, 5+ years big data/cloud, technical judgment, GenAI workflow expertise, and a technical bachelor's degree or equivalent.",
-      "salary": "$146k–$300k/yr",
+      "company": "StoneX Group",
+      "title": "Program Manager",
+      "location": "Birmingham, Alabama, United States",
+      "url": "https://careers-stonex.icims.com/jobs/15585/job?utm_source=hiringcafe_integration&iis=Job%20Board&iisn=HiringCafe",
+      "direct_url": "https://careers-stonex.icims.com/jobs/15585/job?utm_source=hiringcafe_integration&iis=Job%20Board&iisn=HiringCafe",
+      "date_posted": "2026-08-03T13:58:00.000Z",
+      "description": "Program manager with 7+ years delivering large, cross-geography securities operations programs; knowledge of post-trade lifecycle; professional program/project qualification preferred; experience with large budgets and vendor/technical delivery.",
+      "salary": "$125k–$170k/yr",
       "job_type": "Full Time",
-      "is_remote": true,
-      "work_arrangement": "Remote in-state eligible",
+      "is_remote": false,
+      "work_arrangement": "Telecommute eligible",
       "ats": "HiringCafe"
     },
     {
@@ -872,20 +872,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "ZeroFox",
-      "title": "Intelligence Analyst - ZSAT",
-      "location": "United States",
-      "url": "https://jobs.workable.com/view/qUN1M7DWnVBd5xvax25tib/remote-intelligence-analyst---zsat-in-united-states-at-zerofox",
-      "direct_url": "https://jobs.workable.com/view/qUN1M7DWnVBd5xvax25tib/remote-intelligence-analyst---zsat-in-united-states-at-zerofox",
-      "date_posted": "2026-08-18T14:55:37.608Z",
-      "description": "Requires 2–3 years in open-source or social media research or investigations, analytical and reporting skills, online evidence collection, investigative tools, Google Suite, and strong written and oral communication.",
-      "salary": "$65k–$80k/yr",
-      "job_type": "Full Time",
-      "is_remote": true,
-      "work_arrangement": "Remote in-state eligible",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "ZeroFOX",
       "title": "Intelligence Analyst - ZSAT",
       "location": "United States",
@@ -897,6 +883,20 @@
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "ZeroFox",
+      "title": "Intelligence Analyst - ZSAT",
+      "location": "United States",
+      "url": "https://jobs.workable.com/view/qUN1M7DWnVBd5xvax25tib/remote-intelligence-analyst---zsat-in-united-states-at-zerofox",
+      "direct_url": "https://jobs.workable.com/view/qUN1M7DWnVBd5xvax25tib/remote-intelligence-analyst---zsat-in-united-states-at-zerofox",
+      "date_posted": "2026-08-18T14:55:37.608Z",
+      "description": "Requires 2–3 years in open-source or social media research or investigations, analytical and reporting skills, online evidence collection, investigative tools, Google Suite, and strong written and oral communication.",
+      "salary": "$65k–$80k/yr",
+      "job_type": "Full Time",
+      "is_remote": true,
+      "work_arrangement": "Remote in-state eligible",
       "ats": "HiringCafe"
     },
     {
@@ -1236,20 +1236,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "RELX",
-      "title": "Implementation Manager",
-      "location": "California, United States",
-      "url": "https://relx.wd3.myworkdayjobs.com/relx/job/California/Implementation-Manager_R115644-1",
-      "direct_url": "https://relx.wd3.myworkdayjobs.com/relx/job/California/Implementation-Manager_R115644-1",
-      "date_posted": "2026-08-17T00:00:00.000Z",
-      "description": "Bachelor's degree or equivalent experience; 5+ years in project, implementation, or professional services management; customer-facing delivery, Agile, cross-functional coordination, and stakeholder management experience.",
-      "salary": "$95k–$159k/yr",
-      "job_type": "Full Time",
-      "is_remote": true,
-      "work_arrangement": "Remote in-state eligible",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "12twenty",
       "title": "Implementation Manager",
       "location": "United States",
@@ -1258,6 +1244,20 @@
       "date_posted": "2026-08-13T16:20:50.000Z",
       "description": "Requires 3–5 years in SaaS onboarding, implementation, or project management; experience managing complex multi-month projects, cloud platforms, senior stakeholders, and remote work.",
       "salary": "$75k–$85k/yr",
+      "job_type": "Full Time",
+      "is_remote": true,
+      "work_arrangement": "Remote in-state eligible",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "RELX",
+      "title": "Implementation Manager",
+      "location": "California, United States",
+      "url": "https://relx.wd3.myworkdayjobs.com/relx/job/California/Implementation-Manager_R115644-1",
+      "direct_url": "https://relx.wd3.myworkdayjobs.com/relx/job/California/Implementation-Manager_R115644-1",
+      "date_posted": "2026-08-17T00:00:00.000Z",
+      "description": "Bachelor's degree or equivalent experience; 5+ years in project, implementation, or professional services management; customer-facing delivery, Agile, cross-functional coordination, and stakeholder management experience.",
+      "salary": "$95k–$159k/yr",
       "job_type": "Full Time",
       "is_remote": true,
       "work_arrangement": "Remote in-state eligible",
@@ -1418,6 +1418,20 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "MetTel",
+      "title": "Implementation Manager ",
+      "location": "Holmdel, New Jersey, United States",
+      "url": "https://job-boards.greenhouse.io/mettel/jobs/4701397006",
+      "direct_url": "https://job-boards.greenhouse.io/mettel/jobs/4701397006",
+      "date_posted": "2026-07-30T23:18:38.000Z",
+      "description": "Bachelor's degree,5+ years in software implementation/project management or related client-facing roles,experience leading complex projects,strong customer-facing communication and organizational skills.",
+      "salary": "$100k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Uptick",
       "title": "Implementation Manager",
       "location": "Denver or Denver",
@@ -1443,20 +1457,6 @@
       "job_type": "Full Time",
       "is_remote": true,
       "work_arrangement": "Remote in-state eligible",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "MetTel",
-      "title": "Implementation Manager ",
-      "location": "Holmdel, New Jersey, United States",
-      "url": "https://job-boards.greenhouse.io/mettel/jobs/4701397006",
-      "direct_url": "https://job-boards.greenhouse.io/mettel/jobs/4701397006",
-      "date_posted": "2026-07-30T23:18:38.000Z",
-      "description": "Bachelor's degree,5+ years in software implementation/project management or related client-facing roles,experience leading complex projects,strong customer-facing communication and organizational skills.",
-      "salary": "$100k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
       "ats": "HiringCafe"
     },
     {
@@ -1586,20 +1586,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Mosaic",
-      "title": "Deployment Strategist",
-      "location": "New York City, New York, United States",
-      "url": "https://jobs.ashbyhq.com/mosaic/14b240bf-7bbe-4460-af8f-d1b5553e0f44",
-      "direct_url": "https://jobs.ashbyhq.com/mosaic/14b240bf-7bbe-4460-af8f-d1b5553e0f44",
-      "date_posted": "2026-08-17T15:52:59.834Z",
-      "description": "Requires 1–3 years in private equity, investment banking, or related finance; financial modeling and valuation fluency; analytical thinking; executive-level communication; and technical curiosity.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Seekr",
       "title": "Deployment Strategist ",
       "location": "Austin or Reston",
@@ -1642,6 +1628,20 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Specter",
+      "title": "Founding Deployment Strategist",
+      "location": "San Francisco, California, United States",
+      "url": "https://jobs.ashbyhq.com/specter/a9403bf6-29f8-4627-94ee-a9714f4d546e",
+      "direct_url": "https://jobs.ashbyhq.com/specter/a9403bf6-29f8-4627-94ee-a9714f4d546e",
+      "date_posted": "2026-08-16T22:30:43.467Z",
+      "description": "Experience navigating enterprise accounts from pilots to expansions, earning engineers' trust, influencing products, distilling complex ideas, and working directly with customers in the field.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Code Metal",
       "title": "Deployment Strategist - USMC",
       "location": "Washington, District of Columbia, United States",
@@ -1678,20 +1678,6 @@
       "date_posted": "2026-08-20T17:43:06.726Z",
       "description": "Requires 3–6 years running enterprise programs in consulting, implementation, or product management; product and technical judgment, high agency, executive communication, and ability to manage multiple engagements.",
       "salary": "$160k–$220k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Specter",
-      "title": "Founding Deployment Strategist",
-      "location": "San Francisco, California, United States",
-      "url": "https://jobs.ashbyhq.com/specter/a9403bf6-29f8-4627-94ee-a9714f4d546e",
-      "direct_url": "https://jobs.ashbyhq.com/specter/a9403bf6-29f8-4627-94ee-a9714f4d546e",
-      "date_posted": "2026-08-16T22:30:43.467Z",
-      "description": "Experience navigating enterprise accounts from pilots to expansions, earning engineers' trust, influencing products, distilling complex ideas, and working directly with customers in the field.",
-      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -1807,6 +1793,20 @@
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Peraton",
+      "title": "Data Operations Analyst",
+      "location": "Virginia, United States",
+      "url": "https://careers-peraton.icims.com/jobs/169995/data-operations-analyst/job?in_iframe=1",
+      "direct_url": "https://careers-peraton.icims.com/jobs/169995/data-operations-analyst/job?in_iframe=1",
+      "date_posted": "2026-08-25T04:00:00.000Z",
+      "description": "Requires 5 years of relevant analytical experience, active Secret clearance, SQL, advanced Excel, Python or R, BI visualization experience, quantitative methods, and a qualifying degree with 10–16 years of experience.",
+      "salary": "$146k–$234k/yr",
+      "job_type": "Full Time",
+      "is_remote": true,
+      "work_arrangement": "Remote in-state eligible",
       "ats": "HiringCafe"
     },
     {
@@ -1950,20 +1950,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Pacific Gas And Electric Company",
-      "title": "Expert, Operations Data Analyst",
-      "location": "Oakland or Dublin",
-      "url": "https://careers.pge.com/job/Oakland-Expert%2C-Operations-Data-Analyst-CA-94612/1422060400/",
-      "direct_url": "https://careers.pge.com/job/Oakland-Expert%2C-Operations-Data-Analyst-CA-94612/1422060400/",
-      "date_posted": "2026-08-21T00:00:00.000Z",
-      "description": "BA/BS or equivalent experience and 6 years of related experience required. Advanced Excel/Access, SQL, Oracle or Business Objects, UNIX shell programming, SAS, and programming language skills desired.",
-      "salary": "$126k–$200k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "KBR",
       "title": "Operations Research Analyst / Data Scientist",
       "location": "Colorado Springs or Peterson Air Force Base",
@@ -1978,6 +1964,20 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Pacific Gas And Electric Company",
+      "title": "Expert, Operations Data Analyst",
+      "location": "Oakland or Dublin",
+      "url": "https://careers.pge.com/job/Oakland-Expert%2C-Operations-Data-Analyst-CA-94612/1422060400/",
+      "direct_url": "https://careers.pge.com/job/Oakland-Expert%2C-Operations-Data-Analyst-CA-94612/1422060400/",
+      "date_posted": "2026-08-21T00:00:00.000Z",
+      "description": "BA/BS or equivalent experience and 6 years of related experience required. Advanced Excel/Access, SQL, Oracle or Business Objects, UNIX shell programming, SAS, and programming language skills desired.",
+      "salary": "$126k–$200k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "Telecommute eligible",
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Booz Allen Hamilton",
       "title": "Sales and Partnership Operations Data Analyst",
       "location": "McLean, Virginia, United States",
@@ -1989,20 +1989,6 @@
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Rothman Orthopaedics",
-      "title": "Healthcare Operations Data Analyst",
-      "location": "Philadelphia, Pennsylvania, United States",
-      "url": "https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=394670&clientkey=B3BFE0FCB1C2DE96A8E64C52854BF6BA",
-      "direct_url": "https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=394670&clientkey=B3BFE0FCB1C2DE96A8E64C52854BF6BA",
-      "date_posted": "2026-07-30T00:00:00.000Z",
-      "description": "Bachelor's in a quantitative field,2+ years healthcare or operations analytics experience,advanced Microsoft Excel,strong analytical and problem-solving skills; experience with Tableau/PowerBI,SQL,Python or R preferred.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
       "ats": "HiringCafe"
     },
     {
@@ -2050,28 +2036,14 @@
   ],
   "new_jobs": [
     {
-      "company": "Mosaic",
-      "title": "Deployment Strategist",
-      "location": "New York City, New York, United States",
-      "url": "https://jobs.ashbyhq.com/mosaic/14b240bf-7bbe-4460-af8f-d1b5553e0f44",
-      "direct_url": "https://jobs.ashbyhq.com/mosaic/14b240bf-7bbe-4460-af8f-d1b5553e0f44",
-      "date_posted": "2026-08-17T15:52:59.834Z",
-      "description": "Requires 1–3 years in private equity, investment banking, or related finance; financial modeling and valuation fluency; analytical thinking; executive-level communication; and technical curiosity.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Freehand",
-      "title": "AI Deployment Strategist",
-      "location": "India or United States",
-      "url": "https://jobs.ashbyhq.com/freehand/fe8baee3-b6c4-42a7-849d-467cbd72bad7",
-      "direct_url": "https://jobs.ashbyhq.com/freehand/fe8baee3-b6c4-42a7-849d-467cbd72bad7",
-      "date_posted": "2026-07-31T09:04:20.459Z",
-      "description": "6–15 years in enterprise software implementation, solution architecture, consulting or delivery; Bachelor's required; experience with ERP/TMS/spend management; strong customer partnership and execution skills.",
-      "salary": "",
+      "company": "Peraton",
+      "title": "Data Operations Analyst",
+      "location": "Virginia, United States",
+      "url": "https://careers-peraton.icims.com/jobs/169995/data-operations-analyst/job?in_iframe=1",
+      "direct_url": "https://careers-peraton.icims.com/jobs/169995/data-operations-analyst/job?in_iframe=1",
+      "date_posted": "2026-08-25T04:00:00.000Z",
+      "description": "Requires 5 years of relevant analytical experience, active Secret clearance, SQL, advanced Excel, Python or R, BI visualization experience, quantitative methods, and a qualifying degree with 10–16 years of experience.",
+      "salary": "$146k–$234k/yr",
       "job_type": "Full Time",
       "is_remote": true,
       "work_arrangement": "Remote in-state eligible",
