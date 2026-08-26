@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "description": "Scoring profile for Megan Drown's security, intelligence, investigations, risk, program management, strategy, operations, and data-analysis search.",
+  "settings": {
+    "title_multiplier": 3,
+    "body_multiplier": 1,
+    "score_multiplier": 1.6,
+    "generic_cap": 35,
+    "standout_threshold": 60
+  },
+  "fit_terms": [
+    { "pattern": "\\b(corporate|physical|global|regional|event|venue) security\\b|\\bsecurity (manager|operations|assurance|consulting|program|partner|advisor)\\b", "weight": 14 },
+    { "pattern": "\\bintelligence (analyst|analysis|operations|manager)\\b|\\boperational intelligence\\b|\\bopen.source intelligence\\b|\\bOSINT\\b", "weight": 14 },
+    { "pattern": "\\b(investigations?|investigative research|due diligence|background investigations?|online investigations?)\\b", "weight": 12 },
+    { "pattern": "\\b(crisis management|incident management|emergency management|workforce resilience|business continuity(?: planning)?|BCP)\\b", "weight": 12 },
+    { "pattern": "\\b(risk assessment|risk management|threat assessment|threat intelligence|protective intelligence|travel risk management)\\b", "weight": 11 },
+    { "pattern": "\\b(program|project|portfolio) (manager|management|lead|delivery)\\b|\\bPMO\\b", "weight": 11 },
+    { "pattern": "\\b(strategy and operations|strategy & operations|business operations|operational strategy|deployment strategist)\\b", "weight": 10 },
+    { "pattern": "\\b(stakeholder management|cross.functional leadership|vendor management|managed services|client management|account management)\\b", "weight": 9 },
+    { "pattern": "\\b(opportunity scoping|solution design|RFP support|business development|revenue growth|go.to.market)\\b", "weight": 8 },
+    { "pattern": "\\b(data analyst|data analysis|analytics|SQL|Python|data pipelines?)\\b", "weight": 8 },
+    { "pattern": "\\b(trust and safety|trust & safety|integrity operations|governance|compliance|security intelligence and assistance)\\b", "weight": 9 },
+    { "pattern": "\\b(site security assessment|security planning|escalation planning|operational readiness|quality assurance)\\b", "weight": 9 },
+    { "pattern": "\\b(Middle East|MENA|Dubai|Gulf Cooperation Council|GCC)\\b", "weight": 5 },
+    { "pattern": "\\b(Arabic|international relations|geopolitical|global operations)\\b", "weight": 4 }
+  ],
+  "signature_terms": [
+    "\\bsecurity (operations|assurance|consulting|program|partner|manager)\\b",
+    "\\bintelligence (analysis|analyst|operations|manager)\\b|\\bOSINT\\b",
+    "\\b(crisis management|workforce resilience|business continuity|travel risk management)\\b",
+    "\\b(program|project) (manager|management|delivery)\\b",
+    "\\b(investigations?|due diligence|risk assessment|threat assessment)\\b",
+    "\\b(strategy and operations|business operations|deployment strategist)\\b"
+  ],
+  "poor_fit_terms": [
+    { "pattern": "\\b(intern|internship|apprentice|trainee|entry.level|junior)\\b", "penalty": 30 },
+    { "pattern": "\\b(software engineer|full.stack|front.end|back.end|DevOps|site reliability engineer|mobile developer)\\b", "penalty": 25 },
+    { "pattern": "\\b(civil|mechanical|electrical|chemical) engineer\\b|\\bconstruction manager\\b", "penalty": 24 },
+    { "pattern": "\\b(nurse|physician|medical assistant|therapist|pharmacist|clinical research)\\b", "penalty": 30 },
+    { "pattern": "\\b(laboratory technician|chemist|toxicologist|biologist|microbiologist)\\b", "penalty": 24 },
+    { "pattern": "\\b(retail associate|warehouse associate|delivery driver|food service|customer service representative)\\b", "penalty": 30 },
+    { "pattern": "\\b(penetration tester|malware analyst|SOC analyst|security engineer|application security|cloud security engineer)\\b", "penalty": 18 },
+    { "pattern": "\\b(account executive|sales representative|sales development representative|recruiter)\\b", "penalty": 18 }
+  ]
+}
