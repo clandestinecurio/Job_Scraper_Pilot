@@ -1,5 +1,5 @@
 # ☕ HiringCafe — Megan's Strategy, Security & Operations Roles
-*Last updated: 2026-08-29 19:54 UTC*
+*Last updated: 2026-08-30 01:36 UTC*
 
 **0 new role(s)** since last run · 150 total in last 30d
 
