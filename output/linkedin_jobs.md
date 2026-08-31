@@ -1,149 +1,177 @@
 # 🔥 LinkedIn — Megan's Strategy, Security & Operations Roles
-*Last updated: 2026-08-30 22:51 UTC*
+*Last updated: 2026-08-31 01:40 UTC*
 
-**34 new role(s)** since last run · 34 total in last 1h
+**41 new role(s)** since last run · 41 total in last 1h
 
-### [Jr. Project Manager](https://www.linkedin.com/jobs/view/4459743718/) — Insight Global
-- 📍 **Location:** Longueuil, Quebec, Canada
-- 💰 **Salary:** $20.00/hr - CA$25.00/hr
-- 🕒 **Posted:** 2026-08-30
+### [Project Manager (eDiscovery)](https://www.linkedin.com/jobs/view/4385938203/) — Two Point Consulting
+- 📍 **Location:** United States
+- 🕒 **Posted:** 2026-08-31
 
-### [Project Manager](https://www.linkedin.com/jobs/view/4458870270/) — onsemi
-- 📍 **Location:** Brno, South Moravia, Czechia
-- 🕒 **Posted:** 2026-08-30
+### [IT Project Manager](https://www.linkedin.com/jobs/view/4459754824/) — Egotechworld
+- 📍 **Location:** Geneva, Geneva, Switzerland
+- 🕒 **Posted:** 2026-08-31
 
-### [Project Manager - SFMC](https://www.linkedin.com/jobs/view/4458629765/) — Collabera
-- 📍 **Location:** Mettawa, IL
-- 💰 **Salary:** $45.00/hr - $50.00/hr
-- 🕒 **Posted:** 2026-08-30
+### [Project Manager - SatComs](https://www.linkedin.com/jobs/view/4461026736/) — Women in Tech
+- 📍 **Location:** Bristol, England, United Kingdom
+- 🕒 **Posted:** 2026-08-31
 
-### [Program Manager (Full-time)](https://www.linkedin.com/jobs/view/4461028326/) — US Joint Activities
-- 📍 **Location:** Baltimore, MD
-- 🕒 **Posted:** 2026-08-30
+### [Small Grants Program Manager](https://www.linkedin.com/jobs/view/4459765000/) — Micronesia Conservation Trust
+- 📍 **Location:** Chuuk, Federated States of Micronesia
+- 🕒 **Posted:** 2026-08-31
 
-### [Embedded Project Manager – Project Assignment - Memphis](https://www.linkedin.com/jobs/view/4458871257/) — sprEADing Hope
-- 📍 **Location:** Memphis, TN
-- 🕒 **Posted:** 2026-08-30
+### [Project Manager - English + Chinese Speaker](https://www.linkedin.com/jobs/view/4456863053/) — BCC GLOBAL
+- 📍 **Location:** Seoul, South Korea
+- 🕒 **Posted:** 2026-08-31
 
-### [Embedded Project Manager – Project Assignment - Cary](https://www.linkedin.com/jobs/view/4458851448/) — sprEADing Hope
-- 📍 **Location:** Cary, NC
-- 🕒 **Posted:** 2026-08-30
+### [Installation Project Manager - Rocky Mountains](https://www.linkedin.com/jobs/view/4461021779/) — United Imaging - North America
+- 📍 **Location:** United States
+- 🕒 **Posted:** 2026-08-31
 
-### [Facility Support Alternate Project Manager](https://www.linkedin.com/jobs/view/4459753625/) — ISN
-- 📍 **Location:** Birmingham, AL
-- 🕒 **Posted:** 2026-08-30
-
-### [Senior Technical Program Manager, Intelligent Automation](https://www.linkedin.com/jobs/view/4459753627/) — Jobgether
-- 📍 **Location:** Canada
-- 💰 **Salary:** $110,000–$150,000 USD
-- 🕒 **Posted:** 2026-08-30
-
-### [Program Manager 2 - Data Reporting and Accreditation (Bauer College)](https://www.linkedin.com/jobs/view/4460525121/) — University of Houston
+### [Security Project Manager](https://www.linkedin.com/jobs/view/4461033768/) — NCS Network Cabling Services, Inc.
 - 📍 **Location:** Houston, TX
-- 🕒 **Posted:** 2026-08-30
+- 🕒 **Posted:** 2026-08-31
 
-### [Platform Campaigns Project Manager – TikTok Shop (Third Party Associate)](https://www.linkedin.com/jobs/view/4459740780/) — TikTok
-- 📍 **Location:** London, England, United Kingdom
-- 🕒 **Posted:** 2026-08-30
+### [Program Manager - Alabama Forestry Accelerator](https://www.linkedin.com/jobs/view/4459747865/) — Venture Capital Careers
+- 📍 **Location:** Dothan, AL
+- 💰 **Salary:** $60,000 - $70,000
+- 🕒 **Posted:** 2026-08-31
 
-### [Project Manager & Planner Engineer](https://www.linkedin.com/jobs/view/4461021384/) — TEMPO ARCHITECTS
-- 📍 **Location:** Qesm 1st 6 October, Al Jizah, Egypt
-- 🕒 **Posted:** 2026-08-30
+### [Project Manager - Water/Wastewater](https://www.linkedin.com/jobs/view/4459748951/) — ConsultANZ Civil Engineering, Construction, Surveying Recruitment
+- 📍 **Location:** Brisbane, Queensland, Australia
+- 💰 **Salary:** $170K – $210K
+- 🕒 **Posted:** 2026-08-31
 
-### [Senior Technical Program Manager, Intelligent Automation](https://www.linkedin.com/jobs/view/4459750641/) — Jobgether
-- 📍 **Location:** United States
-- 💰 **Salary:** $110,000–$150,000 USD
-- 🕒 **Posted:** 2026-08-30
+### [Business Strategy Analyst](https://www.linkedin.com/jobs/view/4461021790/) — PriceEasy AI
+- 📍 **Location:** Houston, TX
+- 💰 **Salary:** $85,000.00/yr - $95,000.00/yr
+- 🕒 **Posted:** 2026-08-31
 
-### [Cyber Security Analyst, Entry Level](https://www.linkedin.com/jobs/view/4459738779/) — Jobright.ai
-- 📍 **Location:** United Kingdom
-- 🕒 **Posted:** 2026-08-30
-
-### [Campus Security Manager](https://www.linkedin.com/jobs/view/4461028346/) — Securitas Nederland
+### [Market Intelligence Analyst](https://www.linkedin.com/jobs/view/4461015939/) — Promindelta
 - 📍 **Location:** Time, Rogaland, Norway
+- 🕒 **Posted:** 2026-08-31
+
+### [Research Analyst](https://www.linkedin.com/jobs/view/4441560179/) — Kharon
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $68,000.00/yr - $78,000.00/yr
+- 🕒 **Posted:** 2026-08-31
+
+### [CYBER SECURITY ANALYST L4](https://www.linkedin.com/jobs/view/4461038006/) — Wipro
+- 📍 **Location:** Bengaluru, Karnataka, India
+- 🕒 **Posted:** 2026-08-31
+
+### [Travel Security Manager](https://www.linkedin.com/jobs/view/4461018789/) — Deloitte
+- 📍 **Location:** Hermitage, TN
+- 🕒 **Posted:** 2026-08-31
+
+### [Business Analyst](https://www.linkedin.com/jobs/view/4461021824/) — GamblingCareers.com
+- 📍 **Location:** Barcelona, Catalonia, Spain
+- 🕒 **Posted:** 2026-08-31
+
+### [Sr eDiscovery Project Manager](https://www.linkedin.com/jobs/view/4403660060/) — Two Point Consulting
+- 📍 **Location:** New York City Metropolitan Area
+- 🕒 **Posted:** 2026-08-31
+
+### [Project Manager – SAP ERP DATA](https://www.linkedin.com/jobs/view/4459742998/) — Sciens Building Solutions
+- 📍 **Location:** United States
+- 🕒 **Posted:** 2026-08-31
+
+### [Senior ERP Program Manager](https://www.linkedin.com/jobs/view/4459755761/) — Sciens Building Solutions
+- 📍 **Location:** United States
+- 🕒 **Posted:** 2026-08-31
+
+### [Deputy Program Manager / Operations Lead (Remote) - Clearance Required](https://www.linkedin.com/jobs/view/4447558543/) — LMI
+- 📍 **Location:** United States
+- 💰 **Salary:** $145,000 - 245,000
+- 🕒 **Posted:** 2026-08-31
+
+### [Sr eDiscovery Project Manager](https://www.linkedin.com/jobs/view/4452992807/) — Two Point Consulting
+- 📍 **Location:** Washington, DC
+- 🕒 **Posted:** 2026-08-31
+
+### [Cyber Security Analyst](https://www.linkedin.com/jobs/view/4461016903/) — FetchJobs.co
+- 📍 **Location:** United States
+- 🕒 **Posted:** 2026-08-31
+
+### [Architect (Facility Assessments Program Manager)](https://www.linkedin.com/jobs/view/4457528960/) — Architect of the Capitol
+- 📍 **Location:** Washington, DC
+- 🕒 **Posted:** 2026-08-31
+
+### [Project Manager](https://www.linkedin.com/jobs/view/4461030573/) — Swooped
+- 📍 **Location:** United States
+- 💰 **Salary:** $85,000.00/yr - $115,000.00/yr
 - 🕒 **Posted:** 2026-08-30
 
-### [Cloud Security Analyst, Entry Level](https://www.linkedin.com/jobs/view/4459739826/) — Jobright.ai
-- 📍 **Location:** Canada
+### [Project Manager](https://www.linkedin.com/jobs/view/4459325702/) — Talently
+- 📍 **Location:** Jacksonville, FL
+- 💰 **Salary:** $80,000.00/yr - $120,000.00/yr
 - 🕒 **Posted:** 2026-08-30
 
-### [Site Security Manager](https://www.linkedin.com/jobs/view/4461037312/) — Securitas Nederland
-- 📍 **Location:** Time, Rogaland, Norway
+### [Staff Technical Program Manager](https://www.linkedin.com/jobs/view/4458280692/) — Talently
+- 📍 **Location:** Dallas, TX
+- 💰 **Salary:** $175,000.00/yr - $200,000.00/yr
 - 🕒 **Posted:** 2026-08-30
 
-### [Sr. Project Manager - Environmental Remediation](https://www.linkedin.com/jobs/view/4459736837/) — Cape Environmental Management Inc
-- 📍 **Location:** Byram, NJ
+### [Senior Program Manager, Supply Chain](https://www.linkedin.com/jobs/view/4458859461/) — Leonardo DRS
+- 📍 **Location:** Fitchburg, MA
+- 💰 **Salary:** $114,725- $178,111
 - 🕒 **Posted:** 2026-08-30
 
-### [Data Center Project Manager](https://www.linkedin.com/jobs/view/4459745705/) — Insight Global
-- 📍 **Location:** Phoenix, AZ
-- 💰 **Salary:** $60.00/hr - $70.00/hr
-- 🕒 **Posted:** 2026-08-30
-
-### [Business Analyst](https://www.linkedin.com/jobs/view/4459745716/) — Algo8 AI
-- 📍 **Location:** Mysore, Karnataka, India
-- 🕒 **Posted:** 2026-08-30
-
-### [Business Operations Analyst](https://www.linkedin.com/jobs/view/4461027384/) — Skyne Beauty
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $80,000 to $110,000
-- 🕒 **Posted:** 2026-08-30
-
-### [Senior Business Analyst, Operations](https://www.linkedin.com/jobs/view/4459731838/) — DSV - Global Transport and Logistics
-- 📍 **Location:** Fort Worth, TX
-- 💰 **Salary:** $90,000.00 – $100,000.00
-- 🕒 **Posted:** 2026-08-30
-
-### [Business Analyst](https://www.linkedin.com/jobs/view/4461027382/) — We Do Group
-- 📍 **Location:** London Area, United Kingdom
-- 🕒 **Posted:** 2026-08-30
-
-### [Data Analyst / Data Science Specialist (m/w/d)](https://www.linkedin.com/jobs/view/4461022378/) — Molkerei Gropper GmbH & Co. KG
-- 📍 **Location:** Bissingen, Bavaria, Germany
-- 🕒 **Posted:** 2026-08-30
-
-### [Operations Analyst, Entry Level](https://www.linkedin.com/jobs/view/4459738772/) — Jobright.ai
+### [Business Operations Manager](https://www.linkedin.com/jobs/view/4461035525/) — Swooped
 - 📍 **Location:** United States
 - 🕒 **Posted:** 2026-08-30
 
-### [Product Operations Analyst](https://www.linkedin.com/jobs/view/4459731806/) — Jobgether
-- 📍 **Location:** India
+### [Business Analyst](https://www.linkedin.com/jobs/view/4459746966/) — Shopperbeats
+- 📍 **Location:** Greater Vadodara Area
 - 🕒 **Posted:** 2026-08-30
 
-### [Business Intelligence Analyst](https://www.linkedin.com/jobs/view/4459748742/) — Jobgether
-- 📍 **Location:** Canada
+### [Business Analyst](https://www.linkedin.com/jobs/view/4461018689/) — Kaderabotim.bg
+- 📍 **Location:** Sofia, Sofia City, Bulgaria
 - 🕒 **Posted:** 2026-08-30
 
-### [Business Analyst, Entry Level](https://www.linkedin.com/jobs/view/4459744728/) — Jobright.ai
-- 📍 **Location:** United Kingdom
+### [Senior Data Analyst, Cybersecurity](https://www.linkedin.com/jobs/view/4461014927/) — Kaderabotim.bg
+- 📍 **Location:** Plovdiv, Plovdiv, Bulgaria
 - 🕒 **Posted:** 2026-08-30
 
-### [Data Analyst](https://www.linkedin.com/jobs/view/4461022414/) — We Do Group
-- 📍 **Location:** London Area, United Kingdom
+### [Data Analyst](https://www.linkedin.com/jobs/view/4461035569/) — Kaderabotim.bg
+- 📍 **Location:** Plovdiv, Plovdiv, Bulgaria
 - 🕒 **Posted:** 2026-08-30
 
-### [Data Analyst, Mid Level](https://www.linkedin.com/jobs/view/4459748748/) — Jobright.ai
-- 📍 **Location:** United States
+### [Senior Data Analyst (Angular)](https://www.linkedin.com/jobs/view/4461015774/) — Kaderabotim.bg
+- 📍 **Location:** Plovdiv, Plovdiv, Bulgaria
 - 🕒 **Posted:** 2026-08-30
 
-### [Data Analyst, New Grad](https://www.linkedin.com/jobs/view/4459752630/) — Jobright.ai
-- 📍 **Location:** United States
+### [Lead Data Analyst (Node.js)](https://www.linkedin.com/jobs/view/4461017722/) — Kaderabotim.bg
+- 📍 **Location:** Plovdiv, Plovdiv, Bulgaria
 - 🕒 **Posted:** 2026-08-30
 
-### [Embedded Project Manager – Project Assignment - Parsippany](https://www.linkedin.com/jobs/view/4458858334/) — sprEADing Hope
-- 📍 **Location:** Troy Hills, NJ
+### [Data Analyst (Node.js)](https://www.linkedin.com/jobs/view/4461025607/) — Kaderabotim.bg
+- 📍 **Location:** Sofia, Sofia City, Bulgaria
 - 🕒 **Posted:** 2026-08-30
 
-### [Senior Social Media Project Manager](https://www.linkedin.com/jobs/view/4459745742/) — Jobgether
-- 📍 **Location:** France
+### [Data Analyst (Java)](https://www.linkedin.com/jobs/view/4461031542/) — Kaderabotim.bg
+- 📍 **Location:** Sofia, Sofia City, Bulgaria
 - 🕒 **Posted:** 2026-08-30
 
-### [Associate Project Manager, Compliance](https://www.linkedin.com/jobs/view/4458695252/) — Stryker
-- 📍 **Location:** United States
-- 💰 **Salary:** $89,300 - $148,800 USD
+### [Digital Trust and Safety Analyst with Arabic and English](https://www.linkedin.com/jobs/view/4461023642/) — Kaderabotim.bg
+- 📍 **Location:** Sofia, Sofia City, Bulgaria
 - 🕒 **Posted:** 2026-08-30
 
-### [Project Manager (Multi-Family Construction)](https://www.linkedin.com/jobs/view/4461024450/) — Castellan Real Estate Partners
-- 📍 **Location:** Belmont, CA
-- 💰 **Salary:** $190,000.00/yr - $190,000.00/yr
+### [Project Manager (3 month contract / FTC)](https://www.linkedin.com/jobs/view/4459745909/) — Sourced IT Recruitment
+- 📍 **Location:** Christchurch, Canterbury, New Zealand
+- 🕒 **Posted:** 2026-08-30
+
+### [Data Analyst (AWS)](https://www.linkedin.com/jobs/view/4461015791/) — Kaderabotim.bg
+- 📍 **Location:** Sofia, Sofia City, Bulgaria
+- 🕒 **Posted:** 2026-08-30
+
+### [Data Analyst (Python)](https://www.linkedin.com/jobs/view/4461035578/) — Kaderabotim.bg
+- 📍 **Location:** Veliko Tarnovo, Veliko Turnovo, Bulgaria
+- 🕒 **Posted:** 2026-08-30
+
+### [Data Analyst (SQL)](https://www.linkedin.com/jobs/view/4461032560/) — Kaderabotim.bg
+- 📍 **Location:** Plovdiv, Plovdiv, Bulgaria
+- 🕒 **Posted:** 2026-08-30
+
+### [Quantitative Analyst | Quantitative Research Analyst](https://www.linkedin.com/jobs/view/4458852470/) — Microbiology-Learn
+- 📍 **Location:** Sydney, New South Wales, Australia
 - 🕒 **Posted:** 2026-08-30
