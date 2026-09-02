@@ -1,5 +1,5 @@
 # 🔎 Google Jobs — Megan's Strategy, Security & Operations Roles
-*Last updated: 2026-08-30 08:00 UTC*
+*Last updated: 2026-09-02 05:25 UTC*
 
 **0 new role(s)** since last run · 4 total in last 24h
 
