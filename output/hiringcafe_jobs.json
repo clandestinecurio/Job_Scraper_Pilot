@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-09-02 20:29 UTC",
+  "scraped_at": "2026-09-03 06:02 UTC",
   "total": 20,
-  "new_count": 6,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Polar Semiconductor",
@@ -284,90 +284,5 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Lam Research",
-      "title": "Program/Project Manager 4",
-      "location": "Fremont or California",
-      "url": "https://lamresearch.eightfold.ai/careers/job/1099555401117",
-      "direct_url": "https://lamresearch.eightfold.ai/careers/job/1099555401117",
-      "date_posted": "2026-08-14T15:55:51.000Z",
-      "description": "Bachelor’s degree with 10+ years or master’s degree with 8+ years; 10+ years in project or program management, cross-functional coordination, stakeholder influence, analytics, and strong communication skills.",
-      "salary": "$92k–$211k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "UL Solutions",
-      "title": "Project Manager / Program Manager",
-      "location": "Northbrook or São Paulo or Bangalore or Toronto or Raleigh or Austin or Poland or Mexico City",
-      "url": "https://fa-eups-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/ULSolutionsCareers/requisitions/job/10571",
-      "direct_url": "https://fa-eups-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/ULSolutionsCareers/requisitions/job/10571",
-      "date_posted": "2026-09-01T14:22:00.000Z",
-      "description": "Bachelor's degree in computer science, information technology, business, or related field; more than 4 years of project management experience; proficiency with project management tools; PMP, PRINCE2, or Agile certification preferred.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "KBR",
-      "title": "Project/Program Manager",
-      "location": "Albuquerque, New Mexico, United States",
-      "url": "https://kbr.wd5.myworkdayjobs.com/kbr_careers/job/Albuquerque-New-Mexico/Project-Program-Manager_R2129152",
-      "direct_url": "https://kbr.wd5.myworkdayjobs.com/kbr_careers/job/Albuquerque-New-Mexico/Project-Program-Manager_R2129152",
-      "date_posted": "2026-09-01T00:00:00.000Z",
-      "description": "Bachelor’s degree required; 5–10 years of DoD or related project management experience; active DoD TS/SCI and SAP-eligible clearance; weapon systems expertise, analytical, communication, collaboration, and organizational skills.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Booz Allen Hamilton",
-      "title": "Program and Project Manager",
-      "location": "Warren, Michigan, United States",
-      "url": "https://careers.boozallen.com/jobs/JobDetail/Warren-Program-and-Project-Manager-R0247459/129176",
-      "direct_url": "https://careers.boozallen.com/jobs/JobDetail/Warren-Program-and-Project-Manager-R0247459/129176",
-      "date_posted": "2026-08-20T12:00:00.000Z",
-      "description": "15+ years in Army, ground vehicle, C5ISR, or embedded systems program/project management; bachelor's degree; Secret clearance eligibility; cost, schedule, performance, risk, and stakeholder management experience.",
-      "salary": "$78k–$176k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Parsons",
-      "title": "Project Manager/Program Director",
-      "location": "Oakland or United States",
-      "url": "https://parsons.wd5.myworkdayjobs.com/search/job/US---CA-Oakland/Project-Manager-Program-Director_R185585",
-      "direct_url": "https://parsons.wd5.myworkdayjobs.com/search/job/US---CA-Oakland/Project-Manager-Program-Director_R185585",
-      "date_posted": "2026-08-31T00:00:00.000Z",
-      "description": "Civil engineering or related degree, 20+ years of related experience, five years as a consultant contract/project manager, transportation project expertise, and PE registration preferred.",
-      "salary": "$158k–$284k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Booz Allen Hamilton",
-      "title": "Program and Project Manager",
-      "location": "Warren, Michigan, United States",
-      "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Warren-MI/Program-and-Project-Manager_R0247459",
-      "direct_url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Warren-MI/Program-and-Project-Manager_R0247459",
-      "date_posted": "2026-08-20T00:00:00.000Z",
-      "description": "15+ years managing Army, ground vehicle, C5ISR, or embedded systems programs; ground vehicle development or integration experience; cost, schedule, performance, and risk management; bachelor's degree; ability to obtain Secret clearance.",
-      "salary": "$78k–$176k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    }
-  ]
+  "new_jobs": []
 }
