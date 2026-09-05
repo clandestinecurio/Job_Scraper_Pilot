@@ -1,246 +1,220 @@
 # 🟦 Indeed — Megan's Strategy, Security & Operations Roles
-*Last updated: 2026-09-04 23:51 UTC*
+*Last updated: 2026-09-05 01:52 UTC*
 
-**37 new role(s)** since last run · 119 total in last 24h
+**33 new role(s)** since last run · 128 total in last 24h
 
-### [Project Manager (ESS USMS)](https://www.indeed.com/viewjob?jk=fe36c7f47d931a27) — Versar, Inc.
+### [Senior Recruiting Program Manager](https://www.indeed.com/viewjob?jk=da91efecd64053d8) — Included Health
 - 📍 **Location:** Remote, US
-- 💰 **Salary:** $100k–$120k/yr
+- 💰 **Salary:** $128k–$168k/yr
 - **Work mode:** Remote in-state eligible
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-04
 
-### [EverCommerce Payments - Senior Project Manager (Remote US)](https://www.indeed.com/viewjob?jk=953c332de7f36b6b) — Evercommerce
+### [Program Manager, Technology](https://www.indeed.com/viewjob?jk=0913f3c795ddd472) — Ziply Fiber
 - 📍 **Location:** Remote, US
+- 💰 **Salary:** $105k–$155k/yr
+- **Work mode:** Remote in-state eligible
+- 🕒 **Posted:** 2026-09-04
+
+### [Senior Program Manager, High Volume Recruiting](https://www.indeed.com/viewjob?jk=0c00b447f220d12f) — Included Health
+- 📍 **Location:** Remote, US
+- 💰 **Salary:** $128k–$168k/yr
+- **Work mode:** Remote in-state eligible
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-04
+
+### [Cybersecurity Assessment Data Analyst](https://www.indeed.com/viewjob?jk=0bbe9a25374f016c) — CACI International
+- 📍 **Location:** Remote, US
+- 💰 **Salary:** $90k–$190k/yr
+- **Work mode:** Remote in-state eligible
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-04
+
+### [Temporary Animal Cruelty Intelligence Analyst](https://www.indeed.com/viewjob?jk=cda31ff19b6d4381) — ASPCA
+- 📍 **Location:** Remote, US
+- **Work mode:** Remote in-state eligible
+- **Job type:** parttime
+- 🕒 **Posted:** 2026-09-04
+
+### [Principal Business Analyst, Fraud](https://www.indeed.com/viewjob?jk=07284b4192c927b3) — Mission Lane
+- 📍 **Location:** Remote, US
+- 💰 **Salary:** $118k–$135k/yr
+- **Work mode:** Remote in-state eligible
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-04
+
+### [Business Analyst / Researcher / Operations Specialist — AI Model Evaluation](https://www.indeed.com/viewjob?jk=24a0dc2bc9dd94fa) — Unknown
+- 📍 **Location:** Remote, US
+- **Work mode:** Remote in-state eligible
+- 🕒 **Posted:** 2026-05-24
+
+### [Principal Program Manager, Frame.io](https://www.indeed.com/viewjob?jk=f360ef1924224601) — Adobe
+- 📍 **Location:** New York, NY, US
+- 💰 **Salary:** $146k–$277k/yr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-04
+
+### [Product Risk Program Manager, Evidencing and Monitoring](https://www.indeed.com/viewjob?jk=26fd47dc2d7aad48) — Meta
+- 📍 **Location:** New York, NY, US
+- 💰 **Salary:** $153k–$209k/yr
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-09-02
+
+### [Program Manager, Security Risk Program](https://www.indeed.com/viewjob?jk=c1f98d02688fd9c6) — Meta
+- 📍 **Location:** New York, NY, US
+- 💰 **Salary:** $153k–$209k/yr
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-09-02
+
+### [Senior Data Business Analyst](https://www.indeed.com/viewjob?jk=15886a60026bacc0) — Sky Zone
+- 📍 **Location:** New York, NY, US
 - 💰 **Salary:** $100k–$110k/yr
 - **Work mode:** Remote in-state eligible
+- **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-04
 
-### [Project Manager](https://www.indeed.com/viewjob?jk=cbf7f6d1f05d3ccd) — CBX Solutions
-- 📍 **Location:** Remote, US
+### [Business Operations Analyst](https://www.indeed.com/viewjob?jk=9da5126a67a0c1cd) — SAIC
+- 📍 **Location:** Chantilly, VA, US
+- 💰 **Salary:** $120k–$160k/yr
 - **Work mode:** Remote in-state eligible
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-04
 
-### [Intelligent Transportation Systems Engineer ITS / Senior Project Manager](https://www.indeed.com/viewjob?jk=fd4f791f6b8218af) — GFT
-- 📍 **Location:** New York, NY, US
-- 💰 **Salary:** $155k–$210k/yr
+### [Project Manager (GC)](https://www.indeed.com/viewjob?jk=4ef6489c7c98cc92) — NEW DOMINION CONSTRUCTION INC
+- 📍 **Location:** Dumfries, VA, US
+- 💰 **Salary:** $95k–$130k/yr
 - **Work mode:** Remote in-state eligible
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-04
 
-### [Project Manager, Nuclear Contract Manufacturing](https://www.indeed.com/viewjob?jk=175095ef9d81b447) — Cardinal Health
-- 📍 **Location:** East Rutherford, NJ, US
-- 💰 **Salary:** $81k–$104k/yr
+### [Senior IT Operations Analyst](https://www.indeed.com/viewjob?jk=6ec5afb4366b2c88) — ArcSource Group
+- 📍 **Location:** Columbia, MD, US
 - **Work mode:** Remote in-state eligible
-- 🕒 **Posted:** 2026-09-04
-
-### [Senior Technical Program Manager - Quantum Computing, Amazon Braket](https://www.indeed.com/viewjob?jk=1d251621cb1cf5c6) — Amazon Web Services
-- 📍 **Location:** New York, NY, US
-- 💰 **Salary:** $149k–$221k/yr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2025-11-06
-
-### [Performance Improvement Operations Analyst – Ambulatory Care Network – Columbia](https://www.indeed.com/viewjob?jk=59a407abcdc10723) — NewYork-Presbyterian Hospital
-- 📍 **Location:** New York, NY, US
-- 💰 **Salary:** $74k–$111k/yr
-- **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-04
 
-### [Math, Accounting, Computer Science, Data Analyst Background Wanted — $80,000/Year](https://www.indeed.com/viewjob?jk=aacba7920338df85) — Royal Maintenance Group
-- 📍 **Location:** Hoboken, NJ, US
+### [Senior Program Manager](https://www.indeed.com/viewjob?jk=8d618ed7dcefe58a) — Unknown
+- 📍 **Location:** Ashburn, VA, US
+- **Work mode:** Remote in-state eligible
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-04
+
+### [Program Manager, NMVTIS CA/ LE/ JSI](https://www.indeed.com/viewjob?jk=cdbd84cdf481d57d) — Unknown
+- 📍 **Location:** Arlington, VA, US
+- 💰 **Salary:** $127k–$185k/yr
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-04
 
-### [QA Lead and Data Analyst support for BSA/AML technology](https://www.indeed.com/viewjob?jk=70d559162bb93b29) — SSI
-- 📍 **Location:** New York, NY, US
-- 💰 **Salary:** $50–$55/hr
-- **Work mode:** Remote in-state eligible
-- **Job type:** contract
+### [Program Manager, NMVTIS CA/ LE/ JSI](https://www.indeed.com/viewjob?jk=1ba1b9533791fcce) — Unknown
+- 📍 **Location:** Arlington, VA, US
+- 💰 **Salary:** $127k–$185k/yr
+- **Work mode:** On-site
+- **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-04
 
-### [Project Manager REMOTE](https://www.indeed.com/viewjob?jk=950ca328cf702b83) — E Logic
+### [IDIQ Program Manager](https://www.indeed.com/viewjob?jk=2f640739d4449794) — Pivot Path Solutions
+- 📍 **Location:** Gaithersburg, MD, US
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-04
+
+### [Program Manager: Community School (Marley Elementary)](https://www.indeed.com/viewjob?jk=5a725a8cef3dcfb7) — Anne Arundel County Public Schools
+- 📍 **Location:** Glen Burnie, MD, US
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-04
+
+### [Product Risk Program Manager, Evidencing and Monitoring](https://www.indeed.com/viewjob?jk=20cd2283091b6e54) — Meta
 - 📍 **Location:** Washington, DC, US
-- **Work mode:** Remote in-state eligible
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-04
-
-### [Project Manager, Nuclear Contract Manufacturing](https://www.indeed.com/viewjob?jk=6e3af213c4cf5a21) — Cardinal Health
-- 📍 **Location:** Beltsville, MD, US
-- 💰 **Salary:** $81k–$104k/yr
-- **Work mode:** Remote in-state eligible
-- 🕒 **Posted:** 2026-09-04
-
-### [Scientific Program Manager Vi](https://www.indeed.com/viewjob?jk=ad5720398f2cee96) — Axle
-- 📍 **Location:** Rockville, MD, US
-- 💰 **Salary:** $150k–$160k/yr
+- 💰 **Salary:** $153k–$209k/yr
 - **Work mode:** On-site
-- 🕒 **Posted:** 2026-09-04
+- 🕒 **Posted:** 2026-09-02
 
-### [Contractor Assistant Program Manager - (Washington, D.C.)](https://www.indeed.com/viewjob?jk=1730e649a1af9f5e) — Serco
+### [Program Manager, Security Risk Program](https://www.indeed.com/viewjob?jk=77f57f551ee82a53) — Meta
 - 📍 **Location:** Washington, DC, US
-- 💰 **Salary:** $87k–$141k/yr
+- 💰 **Salary:** $153k–$209k/yr
 - **Work mode:** On-site
-- **Job type:** fulltime, contract
-- 🕒 **Posted:** 2026-09-04
+- 🕒 **Posted:** 2026-09-02
 
-### [Cybersecurity – Information System Security Manager (ISSM)](https://www.indeed.com/viewjob?jk=1e75f47ecbc20e70) — Boeing
-- 📍 **Location:** Herndon, VA, US
-- 💰 **Salary:** $140k–$190k/yr
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-09-04
-
-### [Technical Project Manager](https://www.indeed.com/viewjob?jk=860294fff5bc99f4) — Peraton
-- 📍 **Location:** Herndon, VA, US
-- 💰 **Salary:** $135k–$216k/yr
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-09-04
-
-### [Senior Project Manager](https://www.indeed.com/viewjob?jk=9837325f5d64c465) — SS8 Networks
+### [Senior Program Manager IC](https://www.indeed.com/viewjob?jk=c6d0059f56158c88) — dcode
 - 📍 **Location:** Washington, DC, US
-- 💰 **Salary:** $115k–$150k/yr
+- 💰 **Salary:** $116k–$152k/yr
 - **Work mode:** On-site
+- **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-04
 
-### [Lead Business Analyst – Environmental Data Integration](https://www.indeed.com/viewjob?jk=749273f84e94c53f) — Peraton
+### [Senior Data Business Analyst](https://www.indeed.com/viewjob?jk=3641201d84b70fca) — Sky Zone
 - 📍 **Location:** Washington, DC, US
-- 💰 **Salary:** $86k–$138k/yr
-- **Work mode:** Remote in-state eligible
-- 🕒 **Posted:** 2026-09-04
-
-### [Project Manager, Office of Transformation](https://www.indeed.com/viewjob?jk=b573011801040a26) — NPR
-- 📍 **Location:** Washington, DC, US
-- 💰 **Salary:** $97k–$105k/yr
+- 💰 **Salary:** $100k–$110k/yr
 - **Work mode:** Remote in-state eligible
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-04
 
-### [Facilities Management/Business Analyst](https://www.indeed.com/viewjob?jk=a2ada36fb7362566) — MANTECH
-- 📍 **Location:** Fort Detrick, MD, US
+### [Technical Business Analyst](https://www.indeed.com/viewjob?jk=3bf63d97675e2c80) — Everforth ECS
+- 📍 **Location:** Arlington, VA, US
+- 💰 **Salary:** $120k–$140k/yr
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-09-04
+
+### [Business Analyst/Product Owner](https://www.indeed.com/viewjob?jk=04b57138ac62b276) — Guidehouse
+- 📍 **Location:** McLean, VA, US
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-04
 
-### [Scientific Program Analyst](https://www.indeed.com/viewjob?jk=a199f45071e7a0ba) — Axle
-- 📍 **Location:** Rockville, MD, US
-- 💰 **Salary:** $110k–$115k/yr
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-09-04
-
-### [Scientific Program Analyst](https://www.indeed.com/viewjob?jk=02a8566dafa53ffa) — Axle
-- 📍 **Location:** Rockville, MD, US
-- 💰 **Salary:** $110k–$115k/yr
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-09-04
-
-### [Business Analyst](https://www.indeed.com/viewjob?jk=013dcc75c5f456dc) — Techpoint llc
-- 📍 **Location:** Falls Church, VA, US
-- 💰 **Salary:** $58k–$62k/yr
-- **Work mode:** On-site
-- **Job type:** fulltime, contract
-- 🕒 **Posted:** 2026-09-04
-
-### [Operations Research Analyst, Senior](https://www.indeed.com/viewjob?jk=90cfd5ac72de6eb3) — Booz Allen Hamilton
-- 📍 **Location:** Fort Meade, MD, US
-- 💰 **Salary:** $69k–$158k/yr
+### [Project Manager - Housing Element Services](https://www.indeed.com/viewjob?jk=85cbe0a167c36ccc) — BKF Engineers
+- 📍 **Location:** Los Angeles, CA, US
+- 💰 **Salary:** $140k–$171k/yr
 - **Work mode:** Remote in-state eligible
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-04
 
-### [Junior Cybersecurity Business Analyst](https://www.indeed.com/viewjob?jk=007367d1e4b97b02) — Blu Omega LLC
-- 📍 **Location:** Rockville, MD, US
-- 💰 **Salary:** $55k–$68k/yr
-- **Work mode:** Remote in-state eligible
-- **Job type:** contract
-- 🕒 **Posted:** 2026-09-04
-
-### [Security Analyst](https://www.indeed.com/viewjob?jk=d0180c51a1fbb5bd) — Nakupuna Companies
-- 📍 **Location:** Alexandria, VA, US
-- 💰 **Salary:** $70k–$106k/yr
+### [Implementation Manager - Tech & Vendor Integrations](https://www.indeed.com/viewjob?jk=ce0be8af460a3b33) — Alignment Health
+- 📍 **Location:** Orange, CA, US
+- 💰 **Salary:** $99k–$148k/yr
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-04
 
-### [Project Manager, Nuclear Contract Manufacturing](https://www.indeed.com/viewjob?jk=7c368ef296cc6b0d) — Cardinal Health
-- 📍 **Location:** Van Nuys, CA, US
-- 💰 **Salary:** $81k–$104k/yr
-- **Work mode:** Remote in-state eligible
-- 🕒 **Posted:** 2026-09-04
-
-### [Sustainable Operations Program Manager](https://www.indeed.com/viewjob?jk=0568ed83ed327d42) — NBCUniversal
-- 📍 **Location:** Universal City, CA, US
-- 💰 **Salary:** $110k–$120k/yr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-04
-
-### [Supply Chain Project Manager (Site)](https://www.indeed.com/viewjob?jk=ba29c15f7a64e382) — Safran
-- 📍 **Location:** Garden Grove, CA, US
-- 💰 **Salary:** $86k–$135k/yr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-04
-
-### [Cybersecurity Analyst](https://www.indeed.com/viewjob?jk=d610ce19d543c512) — Skechers
-- 📍 **Location:** Manhattan Beach, CA, US
-- 💰 **Salary:** $90k–$120k/yr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-04
-
-### [Marketing Program Manager V](https://www.indeed.com/viewjob?jk=0cf58e7b89f24548) — Kaiser Permanente
-- 📍 **Location:** Pasadena, CA, US
-- 💰 **Salary:** $148k–$191k/yr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-04
-
-### [Program Manager, Senior](https://www.indeed.com/viewjob?jk=f8b65135964717ed) — Global Software Resources
-- 📍 **Location:** Oakland, CA, US
-- **Work mode:** Remote in-state eligible
-- **Job type:** contract
-- 🕒 **Posted:** 2026-09-04
-
-### [Senior Program Manager](https://www.indeed.com/viewjob?jk=2e9760f3ee94bf04) — Benchmark
-- 📍 **Location:** Concord, CA, US
-- 💰 **Salary:** $140k–$210k/yr
+### [Project Manager - Housing Element Services](https://www.indeed.com/viewjob?jk=c0917d134bb637f1) — BKF Engineers
+- 📍 **Location:** Pleasanton, CA, US
+- 💰 **Salary:** $140k–$171k/yr
 - **Work mode:** Remote in-state eligible
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-08-18
-
-### [Staff Program Manager, Sales Motion & Operations](https://www.indeed.com/viewjob?jk=734c876dff53483d) — Tesla
-- 📍 **Location:** Palo Alto, CA, US
-- 💰 **Salary:** $108k–$198k/yr
-- **Work mode:** On-site
-- **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-04
 
-### [AI-Native Business Operations Manager](https://www.indeed.com/viewjob?jk=22a6ef75747ef5d5) — NVIDIA
-- 📍 **Location:** Santa Clara, CA, US
-- 💰 **Salary:** $104k–$167k/yr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-04
-
-### [NPI Eng Program Manager, Amazon Devices Reverse Logistics](https://www.indeed.com/viewjob?jk=40366c5c46ab93cc) — Amazon.com
-- 📍 **Location:** Sunnyvale, CA, US
-- 💰 **Salary:** $149k–$201k/yr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-07-31
-
-### [Project Manager National Accounts](https://www.indeed.com/viewjob?jk=d8159bda52bbb368) — Johnson Controls
-- 📍 **Location:** San Leandro, CA, US
-- 💰 **Salary:** $106k–$159k/yr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-04
-
-### [Pricing Operations Analyst](https://www.indeed.com/viewjob?jk=46e256543b61da1a) — Intuitive (Intuitive Surgical)
-- 📍 **Location:** Sunnyvale, CA, US
-- 💰 **Salary:** $93k–$149k/yr
+### [Project Manager - Housing Element Services](https://www.indeed.com/viewjob?jk=f52caae2bfaa468d) — BKF Engineers
+- 📍 **Location:** San Jose, CA, US
+- 💰 **Salary:** $140k–$171k/yr
 - **Work mode:** Remote in-state eligible
+- **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-04
+
+### [Project Manager - Housing Element Services](https://www.indeed.com/viewjob?jk=f3fb2b66f807ebd3) — BKF Engineers
+- 📍 **Location:** San Francisco, CA, US
+- 💰 **Salary:** $140k–$171k/yr
+- **Work mode:** Remote in-state eligible
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-04
+
+### [Project Manager - Housing Element Services](https://www.indeed.com/viewjob?jk=b8bbca1530cac314) — BKF Engineers
+- 📍 **Location:** Walnut Creek, CA, US
+- 💰 **Salary:** $140k–$171k/yr
+- **Work mode:** Remote in-state eligible
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-04
+
+### [Project Manager - Housing Element Services](https://www.indeed.com/viewjob?jk=60df1cc01ef6fcf1) — BKF Engineers
+- 📍 **Location:** Redwood City, CA, US
+- 💰 **Salary:** $140k–$171k/yr
+- **Work mode:** Remote in-state eligible
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-04
+
+### [Program Manager, Security Risk Program](https://www.indeed.com/viewjob?jk=be0d5b41b21e4cf6) — Meta
+- 📍 **Location:** Menlo Park, CA, US
+- 💰 **Salary:** $153k–$209k/yr
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-09-02
