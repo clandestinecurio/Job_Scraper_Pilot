@@ -1,16 +1,25 @@
 # 🟦 Indeed — Megan's Strategy, Security & Operations Roles
-*Last updated: 2026-09-05 23:00 UTC*
+*Last updated: 2026-09-06 00:24 UTC*
 
-**2 new role(s)** since last run · 78 total in last 24h
+**3 new role(s)** since last run · 70 total in last 24h
 
-### [Program Analyst](https://www.indeed.com/viewjob?jk=30a348258d09daa3) — General Dynamics Information Technology
-- 📍 **Location:** Falls Church, VA, US
-- 💰 **Salary:** $97k–$131k/yr
+### [IT Program Manager](https://www.indeed.com/viewjob?jk=d8a6af1e28c9aceb) — NAOVI
+- 📍 **Location:** Tysons, VA, US
+- 💰 **Salary:** $90k–$170k/yr
 - **Work mode:** On-site
+- **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-05
 
-### [Cyber Security Analyst](https://www.indeed.com/viewjob?jk=f00d10c8121a3ec9) — General Dynamics Information Technology
-- 📍 **Location:** Falls Church, VA, US
-- 💰 **Salary:** $128k–$173k/yr
+### [Contractor Assistant Program Manager - (Washington, D.C.)](https://www.indeed.com/viewjob?jk=3b3f8505b5747f09) — Serco
+- 📍 **Location:** Washington, DC, US
+- 💰 **Salary:** $87k–$141k/yr
 - **Work mode:** On-site
+- **Job type:** fulltime, contract
+- 🕒 **Posted:** 2026-09-04
+
+### [Senior Human Capital Data Analyst](https://www.indeed.com/viewjob?jk=3175052d1b99f13a) — NAOVI
+- 📍 **Location:** McLean, VA, US
+- 💰 **Salary:** $80k–$160k/yr
+- **Work mode:** On-site
+- **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-05
