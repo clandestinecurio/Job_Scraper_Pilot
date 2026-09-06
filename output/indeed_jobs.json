@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-09-06 22:50 UTC",
+  "scraped_at": "2026-09-06 23:54 UTC",
   "total": 12,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Trianz",
@@ -220,24 +220,5 @@
       "ats": "Indeed"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Vision Solution LLC",
-      "title": "Project Manager",
-      "location": "Brooklyn, NY, US",
-      "url": "https://www.indeed.com/viewjob?jk=7bd03e28e274e14f",
-      "direct_url": "http://www.indeed.com/job/project-manager-7bd03e28e274e14f",
-      "company_url": "https://www.indeed.com/cmp/Vision-Solution-LLC",
-      "date_posted": "2026-09-06",
-      "description": "**PROJECT MANAGER\\-PROJECT WILL START IN JANUARY 2027**\n\nJob is located in located in Brooklyn, NY. **This is a onsite position.** We are looking for a Business Analyst to join our team and help us grow. The ideal candidate will have a passion for technology and be able to work independently and with minimal supervision. **POSITION WILL START IN NOVEMBER. ONLY SERIOUS INQUIRIES, Must provide the references**\n\n**Duties and Responsibilities:**\n\n**Tasks \\& Duties**\n\n**Develop comprehensive project management plans and system documentation**\n\n**Develops operational and installation procedures for communication systems, hardware, network, security, storage and software and lead the planning and implementation of project.**\n\n**Develops guidelines and upgrade techniques of new operational procedures for the support of databases and facilitate the definition of project scope, goals and deliverables.**\n\n**Define project tasks and resource requirements.**\n\n**Develop comprehensive project management plans.**\n\n**Manage project execution from start through completion**\n\n**Develops and prepares documents for the general design of solutions that meet system and security requirements and manage project resource allocation.**\n\n**Develops specifications for databases, communication systems, hardware, network, security, storage and plan and schedule project timelines.**\n\n**Develops structured diagrams for the specifications of databases and track project deliverables using appropriate tools.**\n\n**Provide direction and support to project team.**\n\n**Develops, compiles, maintains and documents configurations of the following: databases, servers, computers, security and network monitor systems, packaged programs, macros, utilities and manage project execution from start through completion.**\n\n**Provide management reporting and information dissemination**\n\nConstantly monitor and report on progress of the project to all stakeholders. Provide general programming assistance to other programmers/projects as may be needed.\n\n**Present reports defining project progress, problems, and solutions. Help technical support staff when they are unable to resolve a program, database, or IT issue by themselves.**\n\n**Publish project meeting agendas and minutes from discussions.**\n\n**Provide management reporting and information dissemination.**\n\n**Provide project quality assurance**\n\n**Develop quality assurance metrics to measure outputs. Provide general programming assistance to other programmers/projects as may be needed.**\n\n**Implement and manage project changes and interventions to achieve project outputs.** Ensure all projects changes meets the developed quality assurance metrics before it is released to the user community.\n\n**Provide project quality assurance**\n\nRequired Skills\n\n* Minimum 4 Years Experience in overseeing small scaled, non\\-complex projects, comprised of a small number of deliverables and/or a small number of phases\n* Minimum 4 Years Typically coordinates and delegates the assignments for the consultant project staff numbering up to 10\\.\n* Minimum 4 Years Focal point of contact for Issuing Entity regarding project status, meetings, reporting requirements, scope changes, and issues and concerns raised by consultant staff or Issuing Entity\n* Minimum 4 Years Experience designing 3 tiered applications\n\nEducation and Experience: Bachelor’s degree in Business, Information Technology, Computer Science or related field or equivalent work experience required; Master’s degree preferred. PMP Certification\n\nCompensation: Competitive salary based on experience and education level, commensurate with skills and ability level, including a bonus opportunity based on performance.\n\nBenefits: No Benefits\n\nJob Types: Contract, Full\\-time\n\nPay: $89,188\\.72 \\- $130,000\\.00 per year\n\nBenefits:\n\n* Health insurance\n\nCompensation Package:\n\n* 1099 contract\n\nExperience:\n\n* Project Development: 4 years (Preferred)\n\nWork Location: In person",
-      "salary": "$89k–$130k/yr",
-      "salary_source": "direct_data",
-      "salary_currency": "USD",
-      "job_type": "fulltime, contract",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "emails": "",
-      "ats": "Indeed"
-    }
-  ]
+  "new_jobs": []
 }
