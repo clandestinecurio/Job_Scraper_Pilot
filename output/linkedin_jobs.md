@@ -1,189 +1,158 @@
 # 🔥 LinkedIn — Megan's Strategy, Security & Operations Roles
-*Last updated: 2026-09-13 00:13 UTC*
+*Last updated: 2026-09-13 02:29 UTC*
 
-**41 new role(s)** since last run · 41 total in last 1h
+**37 new role(s)** since last run · 37 total in last 1h
 
-### [Technical Program Manager](https://www.linkedin.com/jobs/view/4464717165/) — TalentHop
+### [Remote Project Manager](https://www.linkedin.com/jobs/view/4466740242/) — Kitchen Tune-Up Franchise System
 - 📍 **Location:** United States
-- 💰 **Salary:** $87,100 to $108,900 USD
-- 🕒 **Posted:** 2026-09-12
+- 🕒 **Posted:** 2026-09-13
 
-### [Associate Project Manager - Remote](https://www.linkedin.com/jobs/view/4460625038/) — Stryker
-- 📍 **Location:** Columbia, SC
-- 💰 **Salary:** $69,500 - $110,900 USD
-- 🕒 **Posted:** 2026-09-12
+### [Program Manager](https://www.linkedin.com/jobs/view/4466738279/) — FetchJobs.co
+- 📍 **Location:** India
+- 🕒 **Posted:** 2026-09-13
 
-### [Senior Technical Project Manager](https://www.linkedin.com/jobs/view/4465432244/) — BrightLeaf Group Inc
-- 📍 **Location:** Austin, Texas Metropolitan Area
-- 🕒 **Posted:** 2026-09-12
-
-### [Associate Project Manager - Remote](https://www.linkedin.com/jobs/view/4460602945/) — Stryker
-- 📍 **Location:** Charlotte, NC
-- 💰 **Salary:** $69,500 - $110,900 USD
-- 🕒 **Posted:** 2026-09-12
-
-### [Implementation Manager - Moveworks](https://www.linkedin.com/jobs/view/4464730117/) — TalentHop
+### [Client Project Manager and Administrative Specialist](https://www.linkedin.com/jobs/view/4465454032/) — CatholicJobs.com
 - 📍 **Location:** United States
-- 💰 **Salary:** $116,400 to $192,100,
-- 🕒 **Posted:** 2026-09-12
+- 🕒 **Posted:** 2026-09-13
 
-### [Project Manager](https://www.linkedin.com/jobs/view/4466743067/) — ABB
-- 📍 **Location:** Kaohsiung City, Kaohsiung City, Taiwan
-- 🕒 **Posted:** 2026-09-12
+### [Technical Project Manager](https://www.linkedin.com/jobs/view/4464918925/) — Silicon Quantum Computing
+- 📍 **Location:** Sydney, New South Wales, Australia
+- 🕒 **Posted:** 2026-09-13
 
-### [Product Strategist | Digital Products & AI](https://www.linkedin.com/jobs/view/4465444168/) — PA Consulting
-- 📍 **Location:** Charlotte, NC
-- 🕒 **Posted:** 2026-09-12
+### [Stone - Project Manager, San Antonio, TX](https://www.linkedin.com/jobs/view/4465466008/) — BearCom
+- 📍 **Location:** Deer Park, TX
+- 🕒 **Posted:** 2026-09-13
 
-### [Program Manager](https://www.linkedin.com/jobs/view/4445500216/) — Cialfo
-- 📍 **Location:** Delhi, India
-- 🕒 **Posted:** 2026-09-12
+### [Project Manager](https://www.linkedin.com/jobs/view/4466746267/) — Urrly
+- 📍 **Location:** Cincinnati Metropolitan Area
+- 💰 **Salary:** $100,000.00/yr - $130,000.00/yr
+- 🕒 **Posted:** 2026-09-13
 
-### [Senior Program Manager](https://www.linkedin.com/jobs/view/4464716115/) — TalentHop
-- 📍 **Location:** United States
-- 💰 **Salary:** $120,000—$140,000 USD
-- 🕒 **Posted:** 2026-09-12
+### [Project Manager – Change & IT](https://www.linkedin.com/jobs/view/4465449058/) — SussexDigital
+- 📍 **Location:** Brighton, England, United Kingdom
+- 🕒 **Posted:** 2026-09-13
 
-### [SR PROGRAM MANAGER- MARKETING PMO TRANSFORMATION](https://www.linkedin.com/jobs/view/4464725076/) — TalentHop
-- 📍 **Location:** United States
-- 💰 **Salary:** $132,232 - $176,310
-- 🕒 **Posted:** 2026-09-12
+### [Slot Game Project Manager](https://www.linkedin.com/jobs/view/4465433329/) — SharpStakes
+- 📍 **Location:** Greater Toronto Area, Canada
+- 🕒 **Posted:** 2026-09-13
 
-### [Technical program manager](https://www.linkedin.com/jobs/view/4466738087/) — JobCrexa
-- 📍 **Location:** Bengaluru East, Karnataka, India
-- 🕒 **Posted:** 2026-09-12
+### [Program Manager – Energy Storage Systems](https://www.linkedin.com/jobs/view/4465440280/) — Qcells North America
+- 📍 **Location:** Teaneck, NJ
+- 💰 **Salary:** $140,000.00/yr - $180,000.00/yr
+- 🕒 **Posted:** 2026-09-13
 
-### [Materials Program Manager](https://www.linkedin.com/jobs/view/4452280335/) — Applied Materials South East Asia
+### [Project Manager Material Development (m/f/d)*](https://www.linkedin.com/jobs/view/4465458142/) — SCHOTT
+- 📍 **Location:** Mainz, Rhineland-Palatinate, Germany
+- 🕒 **Posted:** 2026-09-13
+
+### [Senior Technical Program Manager, Leo Customer Terminals](https://www.linkedin.com/jobs/view/4466748158/) — Amazon
+- 📍 **Location:** Redmond, WA
+- 🕒 **Posted:** 2026-09-13
+
+### [PROJECT MANAGER](https://www.linkedin.com/jobs/view/4464724180/) — Lum Chang Building Contractors Pte Ltd
 - 📍 **Location:** Singapore, Singapore
-- 🕒 **Posted:** 2026-09-12
+- 🕒 **Posted:** 2026-09-13
 
-### [Talent Pool - IS -  Project manager / Program Manager / Project/Program Lead /  Senior Project Manager](https://www.linkedin.com/jobs/view/4431715856/) — ABB
-- 📍 **Location:** Bengaluru East, Karnataka, India
-- 🕒 **Posted:** 2026-09-12
+### [Program Manager - YACAP](https://www.linkedin.com/jobs/view/4466734203/) — Community Healthcare Network
+- 📍 **Location:** Brooklyn, NY
+- 💰 **Salary:** $69,497.00/yr - $78,185.00/yr
+- 🕒 **Posted:** 2026-09-13
 
-### [Lead IT Project Manager](https://www.linkedin.com/jobs/view/4466755035/) — McKesson
-- 📍 **Location:** Richmond, VA
-- 💰 **Salary:** $138,800 - $231,300
-- 🕒 **Posted:** 2026-09-12
+### [Technical Program Manager, Stores Application Security](https://www.linkedin.com/jobs/view/4466724059/) — Amazon
+- 📍 **Location:** Bengaluru, Karnataka, India
+- 🕒 **Posted:** 2026-09-13
 
-### [Lead IT Project Manager](https://www.linkedin.com/jobs/view/4466755034/) — McKesson
-- 📍 **Location:** Irving, TX
-- 💰 **Salary:** $138,800 - $231,300
-- 🕒 **Posted:** 2026-09-12
+### [Program Manager, Health Justice Mobile](https://www.linkedin.com/jobs/view/4466741187/) — Community Healthcare Network
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-09-13
 
-### [Healthcare Engineer (Project Manager)](https://www.linkedin.com/jobs/view/4444214424/) — U.S. Department of Veterans Affairs
-- 📍 **Location:** Kansas City, MO
-- 💰 **Salary:** $99,402.00/yr - $129,225.00/yr
-- 🕒 **Posted:** 2026-09-12
+### [Program Manager – Energy Storage Systems](https://www.linkedin.com/jobs/view/4465430349/) — Qcells North America
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $140,000.00/yr - $180,000.00/yr
+- 🕒 **Posted:** 2026-09-13
 
-### [Trade Compliance Program Manager](https://www.linkedin.com/jobs/view/4465446124/) — Husky Technologies
-- 📍 **Location:** Milton, VT
-- 🕒 **Posted:** 2026-09-12
+### [(Senior) Project Manager Strategic Development China (m/w/d)*](https://www.linkedin.com/jobs/view/4465454119/) — SCHOTT
+- 📍 **Location:** Mainz, Rhineland-Palatinate, Germany
+- 🕒 **Posted:** 2026-09-13
 
-### [Sr. Program Manager](https://www.linkedin.com/jobs/view/4464726104/) — TalentHop
+### [Senior Project Manager](https://www.linkedin.com/jobs/view/4466749255/) — GamblingCareers.com
+- 📍 **Location:** London, England, United Kingdom
+- 🕒 **Posted:** 2026-09-13
+
+### [Function/Business Analyst](https://www.linkedin.com/jobs/view/4466754139/) — NTT DATA Europe & Latam
+- 📍 **Location:** Naples, Campania, Italy
+- 🕒 **Posted:** 2026-09-13
+
+### [(Senior) Project Manager Strategic Development (m/w/d)*](https://www.linkedin.com/jobs/view/4465463007/) — SCHOTT
+- 📍 **Location:** Mainz, Rhineland-Palatinate, Germany
+- 🕒 **Posted:** 2026-09-13
+
+### [IT Business Analyst III](https://www.linkedin.com/jobs/view/4465454122/) — Innova Solutions
+- 📍 **Location:** Charlotte, NC
+- 💰 **Salary:** $250-$1,000 per referral
+- 🕒 **Posted:** 2026-09-13
+
+### [Business analyst](https://www.linkedin.com/jobs/view/4465438281/) — Bending Spoons
+- 📍 **Location:** London, England, United Kingdom
+- 🕒 **Posted:** 2026-09-13
+
+### [BUSINESS ANALYST L4](https://www.linkedin.com/jobs/view/4466750191/) — Wipro
+- 📍 **Location:** Pune Division, Maharashtra, India
+- 🕒 **Posted:** 2026-09-13
+
+### [Business analyst](https://www.linkedin.com/jobs/view/4465439278/) — Bending Spoons
+- 📍 **Location:** Madrid, Community of Madrid, Spain
+- 🕒 **Posted:** 2026-09-13
+
+### [Business analyst](https://www.linkedin.com/jobs/view/4465425388/) — Bending Spoons
+- 📍 **Location:** Barcelona, Catalonia, Spain
+- 🕒 **Posted:** 2026-09-13
+
+### [Business analyst](https://www.linkedin.com/jobs/view/4465435313/) — Bending Spoons
+- 📍 **Location:** Poland
+- 🕒 **Posted:** 2026-09-13
+
+### [Business analyst](https://www.linkedin.com/jobs/view/4465451052/) — Bending Spoons
+- 📍 **Location:** Warsaw, Mazowieckie, Poland
+- 🕒 **Posted:** 2026-09-13
+
+### [Business analyst](https://www.linkedin.com/jobs/view/4465449047/) — Bending Spoons
+- 📍 **Location:** Paris, Île-de-France, France
+- 🕒 **Posted:** 2026-09-13
+
+### [Business analyst](https://www.linkedin.com/jobs/view/4465431307/) — Bending Spoons
+- 📍 **Location:** Spain
+- 🕒 **Posted:** 2026-09-13
+
+### [DATA ANALYST L3](https://www.linkedin.com/jobs/view/4466743210/) — Wipro
+- 📍 **Location:** Bengaluru, Karnataka, India
+- 🕒 **Posted:** 2026-09-13
+
+### [LEAD DATA ANALYST L1](https://www.linkedin.com/jobs/view/4466749188/) — Wipro
+- 📍 **Location:** Bengaluru, Karnataka, India
+- 🕒 **Posted:** 2026-09-13
+
+### [Data Analyst](https://www.linkedin.com/jobs/view/4464716175/) — Success Recruitments
+- 📍 **Location:** Texas, United States
+- 🕒 **Posted:** 2026-09-13
+
+### [Business Analyst](https://www.linkedin.com/jobs/view/4466739277/) — FetchJobs.co
 - 📍 **Location:** United States
-- 💰 **Salary:** $157,500—$177,300 USD
-- 🕒 **Posted:** 2026-09-12
+- 🕒 **Posted:** 2026-09-13
 
-### [Program Manager - Enterprise Transformation](https://www.linkedin.com/jobs/view/4464733116/) — TalentHop
+### [Global Technology Summer Analyst 2027 - Cybersecurity Analyst](https://www.linkedin.com/jobs/view/4465433314/) — Bank of America
+- 📍 **Location:** Denver Metropolitan Area
+- 🕒 **Posted:** 2026-09-13
+
+### [Data Analyst](https://www.linkedin.com/jobs/view/4466750255/) — FetchJobs.co
+- 📍 **Location:** India
+- 🕒 **Posted:** 2026-09-13
+
+### [Construction Management - Data Analyst](https://www.linkedin.com/jobs/view/4465430265/) — Gryps
+- 📍 **Location:** New York, United States
+- 🕒 **Posted:** 2026-09-13
+
+### [Sr. Technical Program Manager](https://www.linkedin.com/jobs/view/4465436270/) — Qcells North America
 - 📍 **Location:** United States
-- 🕒 **Posted:** 2026-09-12
-
-### [Associate Project Manager - Remote](https://www.linkedin.com/jobs/view/4460611639/) — Stryker
-- 📍 **Location:** Fort Lauderdale, FL
-- 💰 **Salary:** $69,500 - $110,900 USD
-- 🕒 **Posted:** 2026-09-12
-
-### [Associate Project Manager - Remote](https://www.linkedin.com/jobs/view/4460619122/) — Stryker
-- 📍 **Location:** Virginia Beach, VA
-- 💰 **Salary:** $69,500 - $110,900 USD
-- 🕒 **Posted:** 2026-09-12
-
-### [Associate Project Manager - Remote](https://www.linkedin.com/jobs/view/4460617162/) — Stryker
-- 📍 **Location:** Nashville, TN
-- 💰 **Salary:** $69,500 - $110,900 USD
-- 🕒 **Posted:** 2026-09-12
-
-### [Project Manager Electrical - TOGO](https://www.linkedin.com/jobs/view/4466736073/) — ICC Contractors
-- 📍 **Location:** Beirut Governorate, Lebanon
-- 🕒 **Posted:** 2026-09-12
-
-### [IT Business Analyst](https://www.linkedin.com/jobs/view/4465442199/) — NexTech Solutions
-- 📍 **Location:** Memphis, TN
-- 🕒 **Posted:** 2026-09-12
-
-### [Research Analyst, Data Operations](https://www.linkedin.com/jobs/view/4460741160/) — Kharon
-- 📍 **Location:** Washington, DC
-- 💰 **Salary:** $68,000.00/yr - $78,000.00/yr
-- 🕒 **Posted:** 2026-09-12
-
-### [Security Analyst, Entry Level](https://www.linkedin.com/jobs/view/4465425313/) — Jobright.ai
-- 📍 **Location:** Canada
-- 🕒 **Posted:** 2026-09-12
-
-### [Data Analyst, Mid Level](https://www.linkedin.com/jobs/view/4465423395/) — Jobright.ai
-- 📍 **Location:** United Kingdom
-- 🕒 **Posted:** 2026-09-12
-
-### [26-27 Accountability and Data Reporting: Data Analyst, Accountability and Research](https://www.linkedin.com/jobs/view/4465434230/) — Aurora Public Schools
-- 📍 **Location:** Aurora, CO
-- 🕒 **Posted:** 2026-09-12
-
-### [Operations Analyst - Entry to Mid Level](https://www.linkedin.com/jobs/view/4464732104/) — NIMechE UNILAG SF
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-09-12
-
-### [340B Program Analyst](https://www.linkedin.com/jobs/view/4466732071/) — Baptist Health
-- 📍 **Location:** Little Rock, AR
-- 🕒 **Posted:** 2026-09-12
-
-### [Sr. Business Analyst, Global Cyber Security](https://www.linkedin.com/jobs/view/4466748092/) — Carnival Corporation
-- 📍 **Location:** Miami, FL
-- 🕒 **Posted:** 2026-09-12
-
-### [ERP Business Analyst](https://www.linkedin.com/jobs/view/4465432260/) — Husky Technologies
-- 📍 **Location:** Bolton, Ontario, Canada
-- 💰 **Salary:** $95,000 - $120,000
-- 🕒 **Posted:** 2026-09-12
-
-### [Data Analyst III - Data Analytics & Reporting - 100% remote](https://www.linkedin.com/jobs/view/4464715152/) — TalentHop
-- 📍 **Location:** United States
-- 💰 **Salary:** $4,801.16 to $6,281.33 monthly
-- 🕒 **Posted:** 2026-09-12
-
-### [Experienced Data Analyst](https://www.linkedin.com/jobs/view/4464732097/) — TalentHop
-- 📍 **Location:** United States
-- 💰 **Salary:** $81,100.00 to $115,900.00 per year
-- 🕒 **Posted:** 2026-09-12
-
-### [Data Analyst, Growth Analytics — Entry Level](https://www.linkedin.com/jobs/view/4465433232/) — Jobright.ai
-- 📍 **Location:** Canada
-- 🕒 **Posted:** 2026-09-12
-
-### [Data Analyst, Senior Level](https://www.linkedin.com/jobs/view/4465435243/) — Jobright.ai
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-09-12
-
-### [Associate Project Manager - Remote](https://www.linkedin.com/jobs/view/4460620130/) — Stryker
-- 📍 **Location:** Atlanta, GA
-- 💰 **Salary:** $69,500 - $110,900 USD
-- 🕒 **Posted:** 2026-09-12
-
-### [Senior Program Manager, Pricing and Packaging](https://www.linkedin.com/jobs/view/4464733122/) — TalentHop
-- 📍 **Location:** United States
-- 💰 **Salary:** $128,200 to $202,900 USD
-- 🕒 **Posted:** 2026-09-12
-
-### [Senior Web Program Manager](https://www.linkedin.com/jobs/view/4464725114/) — TalentHop
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-09-12
-
-### [Program Manager, Provider Communications - Telecommute](https://www.linkedin.com/jobs/view/4464711146/) — TalentHop
-- 📍 **Location:** United States
-- 💰 **Salary:** $91,700 to $163,700 annually
-- 🕒 **Posted:** 2026-09-12
-
-### [Staff Program Manager](https://www.linkedin.com/jobs/view/4464721106/) — TalentHop
-- 📍 **Location:** United States
-- 💰 **Salary:** $115,100 to $169,200 USD
-- 🕒 **Posted:** 2026-09-12
+- 💰 **Salary:** $160,000.00/yr - $200,000.00/yr
+- 🕒 **Posted:** 2026-09-13
