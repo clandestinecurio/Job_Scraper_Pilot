@@ -1,162 +1,204 @@
 # 🔥 LinkedIn — Megan's Strategy, Security & Operations Roles
-*Last updated: 2026-09-13 22:03 UTC*
+*Last updated: 2026-09-14 00:38 UTC*
 
-**38 new role(s)** since last run · 38 total in last 1h
+**46 new role(s)** since last run · 46 total in last 1h
 
-### [General Program Manager](https://www.linkedin.com/jobs/view/4461735817/) — AnsibleHealth
-- 📍 **Location:** Philippines
+### [Associate Project Manager - Remote](https://www.linkedin.com/jobs/view/4460625038/) — Stryker
+- 📍 **Location:** Columbia, SC
+- 💰 **Salary:** $69,500 - $110,900 USD
 - 🕒 **Posted:** 2026-09-13
 
-### [Project Manager](https://www.linkedin.com/jobs/view/4464745670/) — Haystack
-- 📍 **Location:** United States
+### [Associate Project Manager - Remote](https://www.linkedin.com/jobs/view/4460602945/) — Stryker
+- 📍 **Location:** Charlotte, NC
+- 💰 **Salary:** $69,500 - $110,900 USD
 - 🕒 **Posted:** 2026-09-13
 
-### [Transformation Project Manager, Payroll & Employee Lifecycle at ABB Robotics (Temporary role, 1 year)](https://www.linkedin.com/jobs/view/4466798422/) — ABB
-- 📍 **Location:** Poland
+### [Infrastructure Technical Project Delivery Manager](https://www.linkedin.com/jobs/view/4463811169/) — Experis UK
+- 📍 **Location:** Sheffield, England, United Kingdom
 - 🕒 **Posted:** 2026-09-13
 
-### [Senior Project Manager](https://www.linkedin.com/jobs/view/4464749731/) — Haystack
-- 📍 **Location:** Munich, Bavaria, Germany
+### [Project Manager](https://www.linkedin.com/jobs/view/4464736914/) — NSW Department of Primary Industries and Regional Development
+- 📍 **Location:** Wollongong, New South Wales, Australia
+- 💰 **Salary:** $133,348 to $146,945
 - 🕒 **Posted:** 2026-09-13
 
-### [Project Manager Battery Storage Systems (BESS) (m/w/d)](https://www.linkedin.com/jobs/view/4466780832/) — Power You Solutions GmbH
-- 📍 **Location:** Power, MT
+### [Technical Project Manager - #26687](https://www.linkedin.com/jobs/view/4466316270/) — Blue Chip Talent
+- 📍 **Location:** Ann Arbor, MI
 - 🕒 **Posted:** 2026-09-13
 
-### [Sr Project Manager-Transmission & Substation](https://www.linkedin.com/jobs/view/4411817030/) — Exelon
-- 📍 **Location:** Villa Park, IL
-- 💰 **Salary:** $250K to $15
+### [Senior Project Manager](https://www.linkedin.com/jobs/view/4455244379/) — Tate
+- 📍 **Location:** Parramatta, New South Wales, Australia
 - 🕒 **Posted:** 2026-09-13
 
-### [Sr Project Manager-Transmission & Substation](https://www.linkedin.com/jobs/view/4411697209/) — ComEd
-- 📍 **Location:** Oakbrook Terrace, IL
-- 💰 **Salary:** $250K to $15
+### [Commercial Construction Senior Project Manager](https://www.linkedin.com/jobs/view/4465704015/) — Kelley Construction, Inc.
+- 📍 **Location:** Bowling Green, KY
+- 💰 **Salary:** $ 100,000.00 - $ 130,000.00
 - 🕒 **Posted:** 2026-09-13
 
-### [Project Manager - Fire Alarm Systems](https://www.linkedin.com/jobs/view/4463542587/) — Brookfield Global Recruitment Services
-- 📍 **Location:** San Antonio, Texas Metropolitan Area
+### [Commercial Healthcare Construction Senior Project Manager](https://www.linkedin.com/jobs/view/4465704014/) — Kelley Construction, Inc.
+- 📍 **Location:** Louisville, KY
+- 💰 **Salary:** $ 110,000.00 - $ 140,000.00
 - 🕒 **Posted:** 2026-09-13
 
-### [Program Manager - Mechanical Engineering](https://www.linkedin.com/jobs/view/4461684864/) — Brookfield Global Recruitment Services
-- 📍 **Location:** Dallastown, PA
+### [Salesforce Program Manager](https://www.linkedin.com/jobs/view/4465483351/) — Cox Purtell Staffing Services
+- 📍 **Location:** Brisbane, Queensland, Australia
+- 💰 **Salary:** $225,000.00/yr - A$225,000.00/yr
 - 🕒 **Posted:** 2026-09-13
 
-### [Digital Product Project Manager](https://www.linkedin.com/jobs/view/4465701126/) — Tractorbeam
+### [Senior Program Manager](https://www.linkedin.com/jobs/view/4464737844/) — Leonardo DRS
+- 📍 **Location:** Danbury, CT
+- 🕒 **Posted:** 2026-09-13
+
+### [Project Manager](https://www.linkedin.com/jobs/view/4465486306/) — Whizdom
+- 📍 **Location:** Perth, Western Australia, Australia
+- 💰 **Salary:** $100.00/yr - A$150.00/yr
+- 🕒 **Posted:** 2026-09-13
+
+### [Project Manager](https://www.linkedin.com/jobs/view/4466792722/) — ARMAM
+- 📍 **Location:** Qesm Romana, North Sinai, Egypt
+- 🕒 **Posted:** 2026-09-13
+
+### [Trade Compliance Program Manager](https://www.linkedin.com/jobs/view/4465702218/) — Husky Technologies
+- 📍 **Location:** Milton, VT
+- 🕒 **Posted:** 2026-09-13
+
+### [Technical Project Manager](https://www.linkedin.com/jobs/view/4466790689/) — JobCrexa
+- 📍 **Location:** Maharashtra, India
+- 🕒 **Posted:** 2026-09-13
+
+### [Associate Project Manager - Remote](https://www.linkedin.com/jobs/view/4460611639/) — Stryker
+- 📍 **Location:** Fort Lauderdale, FL
+- 💰 **Salary:** $69,500 - $110,900 USD
+- 🕒 **Posted:** 2026-09-13
+
+### [Project Manager](https://www.linkedin.com/jobs/view/4466789693/) — DT Infrastructure
+- 📍 **Location:** Sydney, New South Wales, Australia
+- 🕒 **Posted:** 2026-09-13
+
+### [Program Manager](https://www.linkedin.com/jobs/view/4465488295/) — Coalesce Management Consulting
+- 📍 **Location:** Ludvika, Dalarna County, Sweden
+- 🕒 **Posted:** 2026-09-13
+
+### [CSA Project Manager](https://www.linkedin.com/jobs/view/4466792725/) — LotusWorks
+- 📍 **Location:** New Albany, OH
+- 🕒 **Posted:** 2026-09-13
+
+### [Associate Project Manager - Remote](https://www.linkedin.com/jobs/view/4460617162/) — Stryker
+- 📍 **Location:** Nashville, TN
+- 💰 **Salary:** $69,500 - $110,900 USD
+- 🕒 **Posted:** 2026-09-13
+
+### [Business Analyst](https://www.linkedin.com/jobs/view/4465484347/) — Halcyon Knights
+- 📍 **Location:** Glenroy, Victoria, Australia
+- 🕒 **Posted:** 2026-09-13
+
+### [Cyber / Infrastructure Business Analyst](https://www.linkedin.com/jobs/view/4465490333/) — Agilus Work Solutions
+- 📍 **Location:** Calgary, Alberta, Canada
+- 💰 **Salary:** $80.00 - $100.00 hourly
+- 🕒 **Posted:** 2026-09-13
+
+### [Senior Data Analyst](https://www.linkedin.com/jobs/view/4465497268/) — Office for National Statistics
+- 📍 **Location:** Titchfield, England, United Kingdom
+- 🕒 **Posted:** 2026-09-13
+
+### [Security Analyst, Entry Level](https://www.linkedin.com/jobs/view/4465486322/) — Jobright.ai
+- 📍 **Location:** Canada
+- 🕒 **Posted:** 2026-09-13
+
+### [Junior Data Analyst](https://www.linkedin.com/jobs/view/4453799421/) — Morgan Stanley
 - 📍 **Location:** Dallas, TX
 - 🕒 **Posted:** 2026-09-13
 
-### [Project Manager](https://www.linkedin.com/jobs/view/4465496176/) — Kubik
-- 📍 **Location:** Odenton, MD
+### [Data Analyst](https://www.linkedin.com/jobs/view/4465700273/) — Salient Group
+- 📍 **Location:** Sydney, New South Wales, Australia
+- 💰 **Salary:** $80,000.00/yr - A$100,000.00/yr
 - 🕒 **Posted:** 2026-09-13
 
-### [Logistics Project Manager (m/f/d)](https://www.linkedin.com/jobs/view/4466790549/) — Nordex Group
-- 📍 **Location:** West Branch, IA
+### [Business Analyst in People Tribe for People Insights Squad](https://www.linkedin.com/jobs/view/4459000053/) — Danske Bank
+- 📍 **Location:** Vilnius, Vilniaus, Lithuania
 - 🕒 **Posted:** 2026-09-13
 
-### [Operations Project Manager - USA (m/f/d)](https://www.linkedin.com/jobs/view/4466785583/) — Nordex Group
-- 📍 **Location:** West Branch, IA
-- 💰 **Salary:** $108k - $122k USD
+### [Operations Analyst - Entry to Mid Level](https://www.linkedin.com/jobs/view/4465702247/) — Selflix
+- 📍 **Location:** United States
 - 🕒 **Posted:** 2026-09-13
 
-### [Cyber Security Manager](https://www.linkedin.com/jobs/view/4464747731/) — Anson McCade
-- 📍 **Location:** London Area, United Kingdom
+### [Security Operations Analyst](https://www.linkedin.com/jobs/view/4455559660/) — Zepto
+- 📍 **Location:** Australia
 - 🕒 **Posted:** 2026-09-13
 
-### [Operations Project Manager - Canada (m/f/d)](https://www.linkedin.com/jobs/view/4466785582/) — Nordex Group
-- 📍 **Location:** Montreal, Quebec, Canada
+### [Principal Business Analyst, Growth](https://www.linkedin.com/jobs/view/4379154461/) — Mission Lane
+- 📍 **Location:** United States
+- 💰 **Salary:** $118,000 - $135,000
 - 🕒 **Posted:** 2026-09-13
 
-### [Technical Project Manager](https://www.linkedin.com/jobs/view/4464757676/) — SoTalent
-- 📍 **Location:** Quantico, VA
+### [Data Analyst in Financial Data Analytics Team](https://www.linkedin.com/jobs/view/4458781987/) — Danske Bank
+- 📍 **Location:** Vilnius, Vilniaus, Lithuania
 - 🕒 **Posted:** 2026-09-13
 
-### [Project Manager](https://www.linkedin.com/jobs/view/4464751654/) — Haystack
-- 📍 **Location:** Miami, FL
-- 💰 **Salary:** $60.00/hr - $65.00/hr
+### [Data Analyst](https://www.linkedin.com/jobs/view/4465700239/) — Office for National Statistics
+- 📍 **Location:** Titchfield, England, United Kingdom
 - 🕒 **Posted:** 2026-09-13
 
-### [Project Manager - Physical Security System Installations](https://www.linkedin.com/jobs/view/4463541524/) — Brookfield Global Recruitment Services
-- 📍 **Location:** San Antonio, Texas Metropolitan Area
+### [Data Analyst](https://www.linkedin.com/jobs/view/4464743802/) — Healthdirect Australia
+- 📍 **Location:** Millers Point, New South Wales, Australia
 - 🕒 **Posted:** 2026-09-13
 
-### [Logistics Project Manager (m/f/d)](https://www.linkedin.com/jobs/view/4467002470/) — Nordex Group
-- 📍 **Location:** Chicago, IL
+### [AML Business Analyst II](https://www.linkedin.com/jobs/view/4443157770/) — Robertson & Company Ltd.
+- 📍 **Location:** Toronto, Ontario, Canada
 - 🕒 **Posted:** 2026-09-13
 
-### [Business Analyst & Development](https://www.linkedin.com/jobs/view/4466790489/) — LIXIL
-- 📍 **Location:** Jakarta, Indonesia
+### [Junior Operations Data Analyst Forecasting - AFR](https://www.linkedin.com/jobs/view/4465498233/) — Glovo
+- 📍 **Location:** Barcelona, Catalonia, Spain
 - 🕒 **Posted:** 2026-09-13
 
-### [Intelligence Analyst](https://www.linkedin.com/jobs/view/4467003371/) — US Army Medical Department (AMEDD)
-- 📍 **Location:** San Antonio, TX
+### [DMS LOG | Air Freight Operations Analyst | Operations (Europe)](https://www.linkedin.com/jobs/view/4464751788/) — DMS LOGISTICS
+- 📍 **Location:** Rio de Janeiro, Rio de Janeiro, Brazil
 - 🕒 **Posted:** 2026-09-13
 
-### [Senior Data Analyst](https://www.linkedin.com/jobs/view/4464754683/) — buymie
-- 📍 **Location:** Yerevan, Yerevan, Armenia
+### [DMS LOG | Air Freight Operations Analyst | Inland (USA)](https://www.linkedin.com/jobs/view/4464751787/) — DMS LOGISTICS
+- 📍 **Location:** Rio de Janeiro, Rio de Janeiro, Brazil
 - 🕒 **Posted:** 2026-09-13
 
-### [Cybersecurity Analyst, Entry Level](https://www.linkedin.com/jobs/view/4465479308/) — Jobright.ai
+### [ERP Business Analyst](https://www.linkedin.com/jobs/view/4465487298/) — Husky Technologies
+- 📍 **Location:** Bolton, Ontario, Canada
+- 💰 **Salary:** $95,000 - $120,000
+- 🕒 **Posted:** 2026-09-13
+
+### [Data Analyst, Growth Analytics — Entry Level](https://www.linkedin.com/jobs/view/4465485315/) — Jobright.ai
+- 📍 **Location:** United States
+- 🕒 **Posted:** 2026-09-13
+
+### [Data Analyst, Growth Analytics — Entry Level](https://www.linkedin.com/jobs/view/4465480415/) — Jobright.ai
 - 📍 **Location:** Canada
 - 🕒 **Posted:** 2026-09-13
 
-### [Data Analyst, New Grad](https://www.linkedin.com/jobs/view/4465499134/) — Jobright.ai
+### [Data Analyst (H/F/X)](https://www.linkedin.com/jobs/view/4466796686/) — Kolecto
+- 📍 **Location:** Paris, Île-de-France, France
+- 🕒 **Posted:** 2026-09-13
+
+### [Data Analyst, Product Insights — New Grad](https://www.linkedin.com/jobs/view/4465494311/) — Jobright.ai
 - 📍 **Location:** Canada
 - 🕒 **Posted:** 2026-09-13
 
-### [Data Analyst](https://www.linkedin.com/jobs/view/4467001260/) — FetchJobs.co
+### [Junior Business Controller/ Business Analyst/ Sales and Logistics Analyst (m/w/d)](https://www.linkedin.com/jobs/view/4465496291/) — CHEFS CULINAR
+- 📍 **Location:** Neubrandenburg, Mecklenburg-West Pomerania, Germany
+- 🕒 **Posted:** 2026-09-13
+
+### [Business Analyst](https://www.linkedin.com/jobs/view/4466799674/) — Mainfreight Europe
+- 📍 **Location:** Pruszków, Mazowieckie, Poland
+- 🕒 **Posted:** 2026-09-13
+
+### [Associate Project Manager - Remote](https://www.linkedin.com/jobs/view/4460619122/) — Stryker
+- 📍 **Location:** Virginia Beach, VA
+- 💰 **Salary:** $69,500 - $110,900 USD
+- 🕒 **Posted:** 2026-09-13
+
+### [Associate Project Manager - Remote](https://www.linkedin.com/jobs/view/4460620130/) — Stryker
+- 📍 **Location:** Atlanta, GA
+- 💰 **Salary:** $69,500 - $110,900 USD
+- 🕒 **Posted:** 2026-09-13
+
+### [Associate Project Manager - Remote](https://www.linkedin.com/jobs/view/4461332968/) — Stryker
 - 📍 **Location:** United States
-- 🕒 **Posted:** 2026-09-13
-
-### [Cyber Security Analyst, Entry Level](https://www.linkedin.com/jobs/view/4465483274/) — Jobright.ai
-- 📍 **Location:** United Kingdom
-- 🕒 **Posted:** 2026-09-13
-
-### [Security Analyst, Entry Level](https://www.linkedin.com/jobs/view/4465486219/) — Jobright.ai
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-09-13
-
-### [Cloud Security Analyst, Entry Level](https://www.linkedin.com/jobs/view/4465483272/) — Jobright.ai
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-09-13
-
-### [Finance Project Manager](https://www.linkedin.com/jobs/view/4461265891/) — TekWissen ®
-- 📍 **Location:** Montreal, Quebec, Canada
-- 💰 **Salary:** $569.00/hr - $569.00/hr
-- 🕒 **Posted:** 2026-09-13
-
-### [Operations Analyst, Entry Level](https://www.linkedin.com/jobs/view/4465488227/) — Jobright.ai
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-09-13
-
-### [Business Analyst Junior - Rubro Seguros](https://www.linkedin.com/jobs/view/4466799412/) — Táctica Consultores
-- 📍 **Location:** Santiago, Santiago Metropolitan Region, Chile
-- 🕒 **Posted:** 2026-09-13
-
-### [Business Analyst, Entry Level](https://www.linkedin.com/jobs/view/4465492138/) — Jobright.ai
-- 📍 **Location:** Canada
-- 🕒 **Posted:** 2026-09-13
-
-### [Business Analyst SIRH](https://www.linkedin.com/jobs/view/4464754694/) — LabelVie
-- 📍 **Location:** Casablanca, Casablanca-Settat, Morocco
-- 🕒 **Posted:** 2026-09-13
-
-### [Global Sustainability Data Analyst & Developer – Data, Tools & Methods](https://www.linkedin.com/jobs/view/4464735720/) — ABB
-- 📍 **Location:** Västerås, Västmanland County, Sweden
-- 🕒 **Posted:** 2026-09-13
-
-### [Data Analyst, Mid Level](https://www.linkedin.com/jobs/view/4465491212/) — Jobright.ai
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-09-13
-
-### [Data Analyst, New Grad](https://www.linkedin.com/jobs/view/4465480317/) — Jobright.ai
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-09-13
-
-### [Deputy Program Manager, Technical TS/SCI with Poly REQUIRED](https://www.linkedin.com/jobs/view/4466794549/) — govconcareershub.com
-- 📍 **Location:** Arlington, VA
-- 💰 **Salary:** $127,500 - $127,500 USD
-- 🕒 **Posted:** 2026-09-13
-
-### [Project Manager - Trade Show](https://www.linkedin.com/jobs/view/4465484256/) — Kubik
-- 📍 **Location:** Washington, DC
+- 💰 **Salary:** $69,500 - $110,900 USD
 - 🕒 **Posted:** 2026-09-13
