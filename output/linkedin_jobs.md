@@ -1,158 +1,130 @@
 # 🔥 LinkedIn — Megan's Strategy, Security & Operations Roles
-*Last updated: 2026-09-19 22:26 UTC*
+*Last updated: 2026-09-20 00:49 UTC*
 
-**36 new role(s)** since last run · 36 total in last 1h
+**30 new role(s)** since last run · 30 total in last 1h
 
-### [Program Manager, Performance and Talent Planning](https://www.linkedin.com/jobs/view/4455562667/) — Stripe
-- 📍 **Location:** United States
-- 💰 **Salary:** $129,400 - $194,200
+### [Senior Biospecimen Project Manager](https://www.linkedin.com/jobs/view/4427662102/) — LabConnect
+- 📍 **Location:** Johnson City, TN
 - 🕒 **Posted:** 2026-09-19
 
-### [IT Project Manager - SCM Warehousing (m/f/d)](https://www.linkedin.com/jobs/view/4467304106/) — Knauf Deutschland
-- 📍 **Location:** Kitzingen, Bavaria, Germany
+### [Senior Project Manager, Green Building Certifications](https://www.linkedin.com/jobs/view/4468025797/) — Earth Advantage
+- 📍 **Location:** Oregon, United States
+- 💰 **Salary:** $78,000 - $103,000
 - 🕒 **Posted:** 2026-09-19
 
-### [Principal Program Manager](https://www.linkedin.com/jobs/view/4469565124/) — MAGMAS
-- 📍 **Location:** Marlow, England, United Kingdom
+### [Project Manager](https://www.linkedin.com/jobs/view/4469550939/) — ABB
+- 📍 **Location:** Kaohsiung City, Kaohsiung City, Taiwan
 - 🕒 **Posted:** 2026-09-19
 
-### [SCM Program Manager NPI & Poursuits](https://www.linkedin.com/jobs/view/4467307094/) — Eaton
-- 📍 **Location:** Montrottier, Auvergne-Rhône-Alpes, France
+### [Project Manager](https://www.linkedin.com/jobs/view/4468094774/) — Neste
+- 📍 **Location:** Porvoo, Uusimaa, Finland
 - 🕒 **Posted:** 2026-09-19
 
-### [SAP S/4HANA Techno-Functional Project Manager](https://www.linkedin.com/jobs/view/4464121873/) — Quantum Integrators
-- 📍 **Location:** Bridgewater, NJ
+### [Senior Data Analyst / Analytics Consultant (Finland, multiple locations)](https://www.linkedin.com/jobs/view/4463451162/) — Greenstep
+- 📍 **Location:** Rovaniemi, Lapland, Finland
 - 🕒 **Posted:** 2026-09-19
 
-### [IT  Project Manager – Banking Technology](https://www.linkedin.com/jobs/view/4468402571/) — Employvision Inc.
-- 📍 **Location:** Morristown, NJ
+### [Senior Data Analyst / Analytics Consultant (Finland, multiple locations)](https://www.linkedin.com/jobs/view/4463465095/) — Greenstep
+- 📍 **Location:** Lahti, Päijät-Häme, Finland
 - 🕒 **Posted:** 2026-09-19
 
-### [Project Manager](https://www.linkedin.com/jobs/view/4469546866/) — ICS, Inc (Industrial Contract Services)
-- 📍 **Location:** Grand Forks, ND
-- 💰 **Salary:** $70,000-130,000
+### [Program Manager](https://www.linkedin.com/jobs/view/4462430488/) — Marotta Controls
+- 📍 **Location:** Parsippany, NJ
+- 💰 **Salary:** $130,000 - $170,000/year
 - 🕒 **Posted:** 2026-09-19
 
-### [Bilingual Business Analyst, NG9-1-1](https://www.linkedin.com/jobs/view/4469558255/) — Esri Canada
-- 📍 **Location:** Toronto, Ontario, Canada
+### [Stage Assistant Technical Project Manager / DevOps — Bras droit opérationnel RiLy — Skhirat.](https://www.linkedin.com/jobs/view/4469567128/) — S B SOLUTIONS MA
+- 📍 **Location:** Skhirat, Rabat-Salé-Kénitra, Morocco
 - 🕒 **Posted:** 2026-09-19
 
-### [Project Manager](https://www.linkedin.com/jobs/view/4469552887/) — North Point Technology
-- 📍 **Location:** Maumee, OH
-- 🕒 **Posted:** 2026-09-19
-
-### [Project Manager](https://www.linkedin.com/jobs/view/4469559206/) — Actalent
-- 📍 **Location:** Burnaby, British Columbia, Canada
-- 💰 **Salary:** $43.00 - $53.00/hr
-- 🕒 **Posted:** 2026-09-19
-
-### [PMO- Project Manager](https://www.linkedin.com/jobs/view/4468410440/) — Michael Page
-- 📍 **Location:** Hyderabad, Telangana, India
-- 🕒 **Posted:** 2026-09-19
-
-### [IT Analyst Applications (Disaster Recovery Operations Analyst II)](https://www.linkedin.com/jobs/view/4469551858/) — Caterpillar Inc.
-- 📍 **Location:** Bengaluru East, Karnataka, India
-- 🕒 **Posted:** 2026-09-19
-
-### [Authorizations and Claims Analytics Solutions Business Insights and Data Analyst III](https://www.linkedin.com/jobs/view/4466245140/) — L.A. Care Health Plan
-- 📍 **Location:** Los Angeles, CA
-- 🕒 **Posted:** 2026-09-19
-
-### [Data Analyst](https://www.linkedin.com/jobs/view/4468414216/) — Spait Infotech
-- 📍 **Location:** Canada
-- 🕒 **Posted:** 2026-09-19
-
-### [Data Analyst, Mid Level](https://www.linkedin.com/jobs/view/4468407455/) — Jobright.ai
-- 📍 **Location:** Canada
-- 🕒 **Posted:** 2026-09-19
-
-### [Senior Operations Research Analyst](https://www.linkedin.com/jobs/view/4469547879/) — CATHEXIS
-- 📍 **Location:** Washington, VA
-- 💰 **Salary:** $120,000.00/yr - $160,000.00/yr
-- 🕒 **Posted:** 2026-09-19
-
-### [Care Delivery Analytics Data Analyst III](https://www.linkedin.com/jobs/view/4468857896/) — L.A. Care Health Plan
-- 📍 **Location:** Los Angeles, CA
-- 🕒 **Posted:** 2026-09-19
-
-### [Cyber Security Analyst, Entry Level](https://www.linkedin.com/jobs/view/4468405554/) — Jobright.ai
-- 📍 **Location:** United Kingdom
-- 🕒 **Posted:** 2026-09-19
-
-### [Security Analyst, Entry Level](https://www.linkedin.com/jobs/view/4468412398/) — Jobright.ai
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-09-19
-
-### [IT Analyst Applications (Disaster Recovery Operations Analyst I)](https://www.linkedin.com/jobs/view/4469565131/) — Caterpillar Inc.
-- 📍 **Location:** Bengaluru East, Karnataka, India
-- 🕒 **Posted:** 2026-09-19
-
-### [Program Analyst](https://www.linkedin.com/jobs/view/4466998298/) — TAMARACK Technologies, Inc.
-- 📍 **Location:** Fredericksburg, VA
-- 💰 **Salary:** $70,000.00/yr - $76,000.00/yr
-- 🕒 **Posted:** 2026-09-19
-
-### [Cloud Security Analyst, Entry Level](https://www.linkedin.com/jobs/view/4468410427/) — Jobright.ai
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-09-19
-
-### [Operations Analyst, Entry Level](https://www.linkedin.com/jobs/view/4468409396/) — Jobright.ai
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-09-19
-
-### [Data Analyst, Sr - Cancer and Blood Disorders Center](https://www.linkedin.com/jobs/view/4469547828/) — Seattle Children's
-- 📍 **Location:** Seattle, WA
-- 💰 **Salary:** $118,174.00 - $177,262.00 per year
-- 🕒 **Posted:** 2026-09-19
-
-### [Sr Commercial Operations Analyst](https://www.linkedin.com/jobs/view/4448040925/) — Connected Cannabis Co.
-- 📍 **Location:** California, United States
-- 💰 **Salary:** $110,000.00 - $130,000.00 annually
-- 🕒 **Posted:** 2026-09-19
-
-### [Senior Business Analyst](https://www.linkedin.com/jobs/view/4465845320/) — Ameriprise Financial Services, LLC
-- 📍 **Location:** Ulhasnagar, Maharashtra, India
-- 🕒 **Posted:** 2026-09-19
-
-### [Facilities Operations Analyst](https://www.linkedin.com/jobs/view/4466997263/) — TAMARACK Technologies, Inc.
-- 📍 **Location:** Fredericksburg, VA
-- 💰 **Salary:** $70,000.00/yr - $76,000.00/yr
-- 🕒 **Posted:** 2026-09-19
-
-### [Business Analyst, Entry Level](https://www.linkedin.com/jobs/view/4468097667/) — Jobright.ai
-- 📍 **Location:** Canada
-- 🕒 **Posted:** 2026-09-19
-
-### [Data Analyst, Mid Level](https://www.linkedin.com/jobs/view/4468091902/) — Jobright.ai
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-09-19
-
-### [Data Analyst, New Grad](https://www.linkedin.com/jobs/view/4468410432/) — Jobright.ai
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-09-19
-
-### [Business Analyst, Entry Level](https://www.linkedin.com/jobs/view/4468405559/) — Jobright.ai
-- 📍 **Location:** United Kingdom
-- 🕒 **Posted:** 2026-09-19
-
-### [Data Analyst, Business Intelligence — Entry Level](https://www.linkedin.com/jobs/view/4468403606/) — Jobright.ai
-- 📍 **Location:** United Kingdom
-- 🕒 **Posted:** 2026-09-19
-
-### [Senior Operations/Policy Research Analyst](https://www.linkedin.com/jobs/view/4469556832/) — CATHEXIS
-- 📍 **Location:** Tysons Corner, VA
-- 💰 **Salary:** $120,000.00/yr - $155,000.00/yr
-- 🕒 **Posted:** 2026-09-19
-
-### [Duty Security Manager](https://www.linkedin.com/jobs/view/4469554747/) — MAGMAS
-- 📍 **Location:** London, England, United Kingdom
-- 🕒 **Posted:** 2026-09-19
-
-### [Assistant Project Manager](https://www.linkedin.com/jobs/view/4468402579/) — SBG Builders
-- 📍 **Location:** San Clemente, CA
-- 💰 **Salary:** $75,000 to $90,000 per year
-- 🕒 **Posted:** 2026-09-19
-
-### [Health Insurance Sales Operations Analyst](https://www.linkedin.com/jobs/view/4469553868/) — Gusto
+### [Senior Staff Program Manager, Creator Partnerships](https://www.linkedin.com/jobs/view/4468400718/) — Discord
 - 📍 **Location:** San Francisco Bay Area
+- 💰 **Salary:** $256,000 to $288,000
+- 🕒 **Posted:** 2026-09-19
+
+### [Trade Compliance Program Manager](https://www.linkedin.com/jobs/view/4468406615/) — Husky Technologies
+- 📍 **Location:** Milton, VT
+- 🕒 **Posted:** 2026-09-19
+
+### [PROJECT MANAGER](https://www.linkedin.com/jobs/view/4468413386/) — GMO-Z.com RUNSYSTEM JSC.
+- 📍 **Location:** Hanoi, Hanoi, Vietnam
+- 🕒 **Posted:** 2026-09-19
+
+### [Senior Project Manager](https://www.linkedin.com/jobs/view/4469570090/) — Cambrex
+- 📍 **Location:** Charles City, IA
+- 🕒 **Posted:** 2026-09-19
+
+### [Project Manager](https://www.linkedin.com/jobs/view/4468093850/) — EcoCosm, Inc.
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-09-19
+
+### [Project Manager](https://www.linkedin.com/jobs/view/4466994410/) — Global Blue by Shift4
+- 📍 **Location:** Riyadh, Saudi Arabia
+- 🕒 **Posted:** 2026-09-19
+
+### [Project Manager](https://www.linkedin.com/jobs/view/4466994152/) — Creative Stands
+- 📍 **Location:** Dubai, Dubai, United Arab Emirates
+- 🕒 **Posted:** 2026-09-19
+
+### [Commercial Construction Senior Project Manager](https://www.linkedin.com/jobs/view/4468410560/) — Kelley Construction, Inc.
+- 📍 **Location:** Bowling Green, KY
+- 💰 **Salary:** $ 100,000.00 - $ 130,000.00
+- 🕒 **Posted:** 2026-09-19
+
+### [BUSINESS ANALYST LEADER](https://www.linkedin.com/jobs/view/4468404620/) — GMO-Z.com RUNSYSTEM JSC.
+- 📍 **Location:** Hanoi, Hanoi, Vietnam
+- 🕒 **Posted:** 2026-09-19
+
+### [CỘNG TÁC VIÊN BUSINESS ANALYST LEADER](https://www.linkedin.com/jobs/view/4468405620/) — GMO-Z.com RUNSYSTEM JSC.
+- 📍 **Location:** Hanoi, Hanoi, Vietnam
+- 🕒 **Posted:** 2026-09-19
+
+### [Sr Business Analyst – ServiceNow](https://www.linkedin.com/jobs/view/4468410516/) — iBeris Software Solutions
+- 📍 **Location:** Chennai, Tamil Nadu, India
+- 🕒 **Posted:** 2026-09-19
+
+### [Business Analyst](https://www.linkedin.com/jobs/view/4466993438/) — Edon Management
+- 📍 **Location:** Calgary, Alberta, Canada
+- 🕒 **Posted:** 2026-09-19
+
+### [Senior Payer Contracting Data Analyst](https://www.linkedin.com/jobs/view/4468406654/) — Scripps Health
+- 📍 **Location:** San Diego, CA
+- 💰 **Salary:** $51.66-$74.92/hour
+- 🕒 **Posted:** 2026-09-19
+
+### [340B Program Analyst](https://www.linkedin.com/jobs/view/4469550945/) — Baptist Health
+- 📍 **Location:** Little Rock, AR
+- 🕒 **Posted:** 2026-09-19
+
+### [ERP Business Analyst](https://www.linkedin.com/jobs/view/4468093837/) — Husky Technologies
+- 📍 **Location:** Bolton, Ontario, Canada
+- 💰 **Salary:** $95,000 - $120,000
+- 🕒 **Posted:** 2026-09-19
+
+### [BUSINESS ANALYST (BANK/ERP Odoo/Fintech/Bảo hiểm)](https://www.linkedin.com/jobs/view/4468407513/) — GMO-Z.com RUNSYSTEM JSC.
+- 📍 **Location:** Hanoi, Hanoi, Vietnam
+- 🕒 **Posted:** 2026-09-19
+
+### [CỘNG TÁC VIÊN BUSINESS ANALYST (MIDDLE)](https://www.linkedin.com/jobs/view/4468407512/) — GMO-Z.com RUNSYSTEM JSC.
+- 📍 **Location:** Hanoi, Hanoi, Vietnam
+- 🕒 **Posted:** 2026-09-19
+
+### [Data Analyst, New Grad](https://www.linkedin.com/jobs/view/4468405629/) — Jobright.ai
+- 📍 **Location:** United States
+- 🕒 **Posted:** 2026-09-19
+
+### [Data Analyst, Growth Analytics — Entry Level](https://www.linkedin.com/jobs/view/4468096731/) — Jobright.ai
+- 📍 **Location:** Canada
+- 🕒 **Posted:** 2026-09-19
+
+### [Data Analyst, Senior Level](https://www.linkedin.com/jobs/view/4468095778/) — Jobright.ai
+- 📍 **Location:** United States
+- 🕒 **Posted:** 2026-09-19
+
+### [Business Analyst – Sales Operations, Sales Incentive Process](https://www.linkedin.com/jobs/view/4469573060/) — Rockwell Automation
+- 📍 **Location:** Mexico City, Mexico
+- 🕒 **Posted:** 2026-09-19
+
+### [IT Operations Analyst - FinTech - £40,000-£50,000 + Bonus](https://www.linkedin.com/jobs/view/4467304249/) — Hunter Bond
+- 📍 **Location:** London Area, United Kingdom
 - 🕒 **Posted:** 2026-09-19
