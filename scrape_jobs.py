@@ -2536,12 +2536,12 @@ def _dedupe_master_jobs(jobs: list[dict]) -> tuple[list[dict], int, int]:
 
     merged = enriched = 0
 
-   def index_job(job: dict) -> None:
-        for url in _job_urls(job):
-            url_index[url] = job
-            ident = _job_identity(url)
-            if ident:
-                id_index[ident] = job
+def index_job(job: dict) -> None:
+    for url in _job_urls(job):
+        url_index[url] = job
+        ident = _job_identity(url)
+        if ident:
+            id_index[ident] = job
 
     for job in jobs:
         url = job.get("url")
