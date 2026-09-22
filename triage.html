@@ -553,6 +553,11 @@
   <button type="button" class="act" id="bulk-clear">Clear</button>
 </div>
 <div class="jobs" id="jobs"></div>
+<div style="display:flex;justify-content:center;margin:20px 0">
+  <button type="button" class="iconbtn" id="load-more" hidden>
+    Load more
+  </button>
+</div>
 
 <footer class="about-tool" aria-label="About this tool">
   <strong>About this tool:</strong> Job Scraper + Triage Dashboard uses GitHub Actions and
@@ -608,6 +613,8 @@
   const selectedUrls = new Set();
   let focusedUrl = '';
   let RENDERED = [];
+  const PAGE_SIZE = 50;
+  let visibleLimit = PAGE_SIZE;
 
   // ---------- Theme ----------
   const THEME_KEY = 'jobTriage:theme';
@@ -1844,12 +1851,16 @@
   }
 
   function renderJobs() {
-    const el = $('jobs'), info = $('rank-info');
+    const el = $('jobs');
+    const info = $('rank-info');
+    const loadMore = $('load-more');
     // Map focus: the map is always visible in the summary grid; this view just
     // hides the list so the map becomes the primary workspace.
     if (viewMode === 'map') {
       RENDERED = visibleJobs();
-      el.hidden = true; info.hidden = true;
+      el.hidden = true; 
+      info.hidden = true;
+      loadMore.hidden = true;
       renderMap();
       updateBulkBar();
       return;
@@ -1872,11 +1883,18 @@
     } else {
       info.hidden = true;
     }
+    const totalJobs = jobs.length;
+    jobs = jobs.slice(0, visibleLimit);
     RENDERED = jobs;
+
+    loadMore.hidden = jobs.length >= totalJobs;
+    loadMore.textContent = `Load more (${jobs.length} of ${totalJobs})`;
+    
     if (!focusedUrl && jobs.length) focusedUrl = jobs[0].url;
     if (focusedUrl && !jobs.some(j => j.url === focusedUrl)) focusedUrl = jobs[0]?.url || '';
 
     if (!jobs.length) {
+      loadMore.hidden = true;
       el.innerHTML = '<div class="empty">No jobs match the current filters.</div>';
       updateBulkBar();
       return;
@@ -2137,6 +2155,7 @@
 
   let DEDUPE_INPUT = null;
   function renderAll() {
+    visibleLimit = PAGE_SIZE;
     // Filtering and triage actions do not change the jobs array. Reuse the
     // deduplicated view until a refresh replaces that array.
     if (DEDUPE_INPUT !== state.jobs) {
@@ -2566,6 +2585,12 @@
   $('view-browse').onclick = () => setView('browse');
   $('view-rank').onclick = () => setView('rank');
   $('view-map').onclick = () => setView('map');
+  
+  $('load-more').onclick = () => {
+    visibleLimit += PAGE_SIZE;
+    renderJobs();
+  };
+
   $('sort-controls').addEventListener('click', e => {
     const btn = e.target.closest('[data-sort]');
     if (btn) setSortMode(btn.dataset.sort);
@@ -2617,9 +2642,12 @@
     renderAll();
   });
 
+  let searchTimer;
+
   $('search').addEventListener('input', e => {
     filters.q = e.target.value;
-    renderAll();   // facet badges now count `q`, so refresh the pill bars too
+    clearTimeout(searchTimer);
+    searchTimer = setTimeout(() => renderAll(), 250);
   });
 
   $('clear-filters').onclick = () => {
