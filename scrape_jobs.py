@@ -2558,19 +2558,18 @@ def _merge_into_all_jobs(new_jobs: list) -> int:
     kept = [j for j in entries if j.get("first_seen", stamp) >= cutoff]
     kept.sort(key=lambda j: j.get("first_seen", ""), reverse=True)
 
-  tmp_path = f"{path}.tmp"
-  with open(tmp_path, "w", encoding="utf-8") as f:
-    json.dump(
-        {"updated_at": now.strftime("%Y-%m-%d %H:%M UTC"), "jobs": kept},
-        f,
-        separators=(",", ":"),
-        ensure_ascii=False,
-    )
-    f.flush()
-    os.fsync(f.fileno())
+    tmp_path = f"{path}.tmp"
+    with open(tmp_path, "w", encoding="utf-8") as f:
+        json.dump(
+            {"updated_at": now.strftime("%Y-%m-%d %H:%M UTC"), "jobs": kept},
+            f,
+            separators=(",", ":"),
+            ensure_ascii=False,
+        )
+        f.flush()
+        os.fsync(f.fileno())
 
-  os.replace(tmp_path, path)
-
+    os.replace(tmp_path, path)
     print(
         f"all_jobs.json: +{added} new, {enriched} enriched, "
         f"{merged_existing + merged_new} duplicate(s) merged, "
