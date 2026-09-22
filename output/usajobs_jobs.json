@@ -1,330 +1,285 @@
 {
-  "scraped_at": "2026-08-17 00:24 UTC",
-  "total": 44,
-  "new_count": 44,
+  "scraped_at": "2026-09-22 20:07 UTC",
+  "total": 41,
+  "new_count": 36,
   "jobs": [
     {
-      "company": "Office of Chief of Space Operations",
-      "title": "Team Lead Acquisition Program Manager, SAIO",
-      "location": "Colorado Springs, Colorado",
-      "url": "https://www.usajobs.gov/job/880719500",
-      "date_posted": "2026-08-14",
-      "salary": "Starting at $129,096 Per year (NH 4)",
+      "company": "Defense Contract Management Agency",
+      "title": "Program Manager (Integrator)",
+      "location": "Huntsville, Alabama",
+      "url": "https://www.usajobs.gov/job/885781000",
+      "date_posted": "2026-09-22",
+      "salary": "Starting at $110,847 Per year (GS 13)",
       "ats": "USAJOBS"
     },
     {
-      "company": "Deputy Assistant Secretary for Information and Technology",
-      "title": "Supervisory IT Program Manager",
-      "location": "Salt Lake City, Utah",
-      "url": "https://www.usajobs.gov/job/880628500",
-      "date_posted": "2026-08-14",
-      "salary": "Starting at $126,384 Per year (GS 15)",
+      "company": "U.S. Army Corps of Engineers",
+      "title": "Program Manager (Multi-Purpose Operations Project)",
+      "location": "Westalton, Missouri",
+      "url": "https://www.usajobs.gov/job/885739800",
+      "date_posted": "2026-09-22",
+      "salary": "Starting at $128,967 Per year (NH 4)",
       "ats": "USAJOBS"
     },
     {
-      "company": "Department of Education Headquarters",
-      "title": "IT Program Manager",
+      "company": "Defense Threat Reduction Agency",
+      "title": "OPERATIONS RESEARCH ANALYST",
+      "location": "Fort Belvoir, Virginia",
+      "url": "https://www.usajobs.gov/job/885700000",
+      "date_posted": "2026-09-22",
+      "salary": "Starting at $143,913 Per year (GS 14)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "Office of the Secretary",
+      "title": "Management and Program Analyst",
       "location": "Washington, District of Columbia",
-      "url": "https://www.usajobs.gov/job/880605200",
-      "date_posted": "2026-08-14",
+      "url": "https://www.usajobs.gov/job/885693400",
+      "date_posted": "2026-09-22",
+      "salary": "Starting at $102,415 Per year (GS 12)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "Missile Defense Agency",
+      "title": "Supervisory Program Manager",
+      "location": "Redstone Arsenal, Alabama",
+      "url": "https://www.usajobs.gov/job/885677900",
+      "date_posted": "2026-09-22",
+      "salary": "Starting at $130,987 Per year (NH 4)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "Department of Energy Headquarters",
+      "title": "Program Manager",
+      "location": "Carlsbad, New Mexico",
+      "url": "https://www.usajobs.gov/job/885568800",
+      "date_posted": "2026-09-22",
+      "salary": "Starting at $147,945 Per year (GS 15)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "Office of the Secretary of Labor",
+      "title": "Enterprise Program Manager",
+      "location": "Washington, District of Columbia",
+      "url": "https://www.usajobs.gov/job/885577300",
+      "date_posted": "2026-09-22",
       "salary": "Starting at $169,279 Per year (GS 15)",
       "ats": "USAJOBS"
     },
     {
-      "company": "National Nuclear Security Administration",
-      "title": "Program Manager New Ship Design",
-      "location": "Washington, District of Columbia",
-      "url": "https://www.usajobs.gov/job/880465500",
-      "date_posted": "2026-08-14",
-      "salary": "Starting at $199,172 Per year (ES 00)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Commander, Naval Information Warfare Systems Command (NAVWARSYSCOM)",
-      "title": "SUPERVISORY IT PROGRAM MANAGER",
-      "location": "Arlington, Virginia",
-      "url": "https://www.usajobs.gov/job/880537000",
-      "date_posted": "2026-08-14",
-      "salary": "Starting at $143,913 Per year (DP 4)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Commander, Naval Information Warfare Systems Command (NAVWARSYSCOM)",
-      "title": "SUPERVISORY IT PROGRAM MANAGER",
-      "location": "Washington Navy Yard, District of Columbia",
-      "url": "https://www.usajobs.gov/job/880537100",
-      "date_posted": "2026-08-14",
-      "salary": "Starting at $143,913 Per year (DP 4)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Department of Defense Headquarters",
-      "title": "Management Analyst (Program Manager)",
-      "location": "Hickam AFB, Hawaii",
-      "url": "https://www.usajobs.gov/job/880367500",
-      "date_posted": "2026-08-14",
-      "salary": "Starting at $111,119 Per year (GS 13)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Joint Activities",
-      "title": "Supervisory Program Manager (Oversight)",
-      "location": "Fort Meade, Maryland",
-      "url": "https://www.usajobs.gov/job/880350700",
-      "date_posted": "2026-08-14",
-      "salary": "Starting at $169,279 Per year (GG 15)",
+      "company": "Air Force Materiel Command",
+      "title": "Project Manager (Architect) - DIRECT HIRE AUTHORITY",
+      "location": "Wright-Patterson AFB, Ohio",
+      "url": "https://www.usajobs.gov/job/885721700",
+      "date_posted": "2026-09-22",
+      "salary": "Starting at $92,841 Per year (NH 3)",
       "ats": "USAJOBS"
     },
     {
       "company": "Department of the Air Force Headquarters",
-      "title": "MANAGEMENT AND PROGRAM ANALYST",
+      "title": "PROJECT MANAGER",
+      "location": "Fort Belvoir, Virginia",
+      "url": "https://www.usajobs.gov/job/885235000",
+      "date_posted": "2026-09-21",
+      "salary": "Starting at $121,785 Per year (GG 13)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "Department of the Air Force Headquarters",
+      "title": "PROJECT MANAGER",
+      "location": "Fort Belvoir, Virginia",
+      "url": "https://www.usajobs.gov/job/885436400",
+      "date_posted": "2026-09-21",
+      "salary": "Starting at $121,785 Per year (GG 13)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "Federal Emergency Management Agency",
+      "title": "Supervisory Program Specialist (Project Manager)",
+      "location": "Cambridge, Massachusetts",
+      "url": "https://www.usajobs.gov/job/884680600",
+      "date_posted": "2026-09-21",
+      "salary": "Starting at $120,548 Per year (GS 13)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "National Air and Space Intelligence Center",
+      "title": "PROGRAM ANALYST",
+      "location": "Wright-Patterson AFB, Ohio",
+      "url": "https://www.usajobs.gov/job/885358900",
+      "date_posted": "2026-09-18",
+      "salary": "Starting at $110,401 Per year (GG 13)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "Air Force Materiel Command",
+      "title": "MECHANICAL ENGINEER (PROJECT MANAGER) - DIRECT HIRE AUTHORITY",
+      "location": "Wright-Patterson AFB, Ohio",
+      "url": "https://www.usajobs.gov/job/885313500",
+      "date_posted": "2026-09-18",
+      "salary": "Starting at $92,841 Per year (NH 3)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "Drug Enforcement Administration",
+      "title": "IT Project Manager (APPSW)",
       "location": "Arlington, Virginia",
-      "url": "https://www.usajobs.gov/job/880534500",
-      "date_posted": "2026-08-14",
-      "salary": "Starting at $143,913 Per year (GG 14)",
+      "url": "https://www.usajobs.gov/job/885305500",
+      "date_posted": "2026-09-18",
+      "salary": "Starting at $143,913 Per year (GS 14)",
       "ats": "USAJOBS"
     },
     {
-      "company": "Military Treatment Facilities under DHA",
-      "title": "Program Analyst (Medical Expense and Performance Reporting System)",
-      "location": "Andrews AFB, Maryland",
-      "url": "https://www.usajobs.gov/job/880348800",
-      "date_posted": "2026-08-14",
-      "salary": "Starting at $85,447 Per year (GS 11)",
+      "company": "Naval Facilities Engineering Systems Command",
+      "title": "INTERDISCIPLINARY ENGINEER/ARCHITECT (PROJECT MANAGER)",
+      "location": "San Diego, California",
+      "url": "https://www.usajobs.gov/job/884937500",
+      "date_posted": "2026-09-17",
+      "salary": "Starting at $102,246 Per year (GS 12)",
       "ats": "USAJOBS"
     },
     {
-      "company": "Naval Sea Systems Command",
-      "title": "TECHNICAL PROJECT MANAGER (TECHNICIAN)",
-      "location": "Indian Head, Maryland",
-      "url": "https://www.usajobs.gov/job/880467800",
-      "date_posted": "2026-08-14",
-      "salary": "Starting at $121,785 Per year (NT 5)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Food Safety and Inspection Service",
-      "title": "Program Analyst",
-      "location": "Urbandale, Iowa",
-      "url": "https://www.usajobs.gov/job/880328300",
-      "date_posted": "2026-08-12",
-      "salary": "Starting at $126,797 Per year (GS 14)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Organization of the Joint Chiefs of Staff",
-      "title": "IT PROJECT MANAGER",
-      "location": "Pentagon, Arlington, Virginia",
-      "url": "https://www.usajobs.gov/job/880223600",
-      "date_posted": "2026-08-12",
-      "salary": "Starting at $121,785 Per year (GS 13)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Defense Finance and Accounting Service",
-      "title": "IT PROJECT MANAGER (INFOSEC)",
-      "location": "Indianapolis, Indiana",
-      "url": "https://www.usajobs.gov/job/880078700",
-      "date_posted": "2026-08-12",
-      "salary": "Starting at $111,065 Per year (GS 13)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Federal Highway Administration",
-      "title": "Program Manager (Program Development Director) (Open to both U.S. Citizens and Federal Employees)",
-      "location": "Austin, Texas",
-      "url": "https://www.usajobs.gov/job/880133600",
-      "date_posted": "2026-08-12",
-      "salary": "Starting at $129,311 Per year (GS 14)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Office of the Secretary of the Interior",
-      "title": "Supervisory Wildland Firefighter (Helicopter Program Manager) - Direct Hiring Authority",
-      "location": "El Portal, California",
-      "url": "https://www.usajobs.gov/job/880027700",
-      "date_posted": "2026-08-10",
-      "salary": "Starting at $73,199 Per year (GW 9)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "U.S. Coast Guard",
-      "title": "Lead Environmental Program Manager",
-      "location": "Warrenton, Oregon",
-      "url": "https://www.usajobs.gov/job/879733700",
-      "date_posted": "2026-08-07",
-      "salary": "Starting at $89,508 Per year (GS 12)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Bureau of Land Management",
-      "title": "Management and Program Analyst",
-      "location": "Washington, District of Columbia",
-      "url": "https://www.usajobs.gov/job/880745200",
-      "date_posted": "2026-08-14",
-      "salary": "Starting at $102,415 Per year (GS 12-13)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "National Park Service",
-      "title": "Field Unit Local Authority (FUL) - Management and Program Analyst",
-      "location": "Saint John Island, Virgin Islands",
-      "url": "https://www.usajobs.gov/job/880389200",
-      "date_posted": "2026-08-13",
-      "salary": "Starting at $61,722 Per year (GS 9)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Farm Service Agency",
-      "title": "County Program Analyst",
-      "location": "Appleton, Wisconsin",
-      "url": "https://www.usajobs.gov/job/880055100",
-      "date_posted": "2026-08-13",
-      "salary": "Starting at $40,736 Per year (CO 5-9)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Missile Defense Agency",
-      "title": "Program Analyst",
-      "location": "Redstone Arsenal, Alabama",
-      "url": "https://www.usajobs.gov/job/880494900",
-      "date_posted": "2026-08-13",
-      "salary": "Starting at $130,987 Per year (NH 4)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Missile Defense Agency",
+      "company": "Transportation Security Administration",
       "title": "Supervisory Program Analyst",
-      "location": "Redstone Arsenal, Alabama",
-      "url": "https://www.usajobs.gov/job/880323300",
-      "date_posted": "2026-08-12",
-      "salary": "Starting at $130,987 Per year (NH 4)",
+      "location": "Herndon, Virginia",
+      "url": "https://www.usajobs.gov/job/885431900",
+      "date_posted": "2026-09-22",
+      "salary": "Starting at $143,913 Per year (SV J)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "Immigration and Customs Enforcement",
+      "title": "U.S. Customs and Border Protection Program Analyst (O-4 Billet) Non-Supervisory",
+      "location": "Salt Lake City, Utah",
+      "url": "https://www.usajobs.gov/job/885537600",
+      "date_posted": "2026-09-22",
+      "salary": "Starting at $1 Per year (CC 4)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "Department of Education Headquarters",
+      "title": "Supervisory Management and Program Analyst, GS-0343-14 FPL GS-14 (DE)",
+      "location": "Washington, District of Columbia",
+      "url": "https://www.usajobs.gov/job/885406600",
+      "date_posted": "2026-09-21",
+      "salary": "Starting at $143,913 Per year (GS 14)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "Office of the Secretary of Defense",
+      "title": "Management & Program Analyst",
+      "location": "Alexandria, Virginia",
+      "url": "https://www.usajobs.gov/job/885174000",
+      "date_posted": "2026-09-21",
+      "salary": "Starting at $143,913 Per year (NH 4)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "Commander, Navy Installations Command",
+      "title": "Regional MWR Program Manager",
+      "location": "Naples, Italy",
+      "url": "https://www.usajobs.gov/job/885298300",
+      "date_posted": "2026-09-21",
+      "salary": "Starting at $90,925 Per year (NF 5)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "Interior, Bureau of Indian Affairs",
+      "title": "Program Analyst",
+      "location": "New Town, North Dakota",
+      "url": "https://www.usajobs.gov/job/885243600",
+      "date_posted": "2026-09-17",
+      "salary": "Starting at $50,460 Per year (GS 7-9)",
       "ats": "USAJOBS"
     },
     {
       "company": "Veterans Health Administration",
       "title": "Program Analyst (Informatics)",
-      "location": "Long Beach, California",
-      "url": "https://www.usajobs.gov/job/880129500",
-      "date_posted": "2026-08-12",
-      "salary": "Starting at $71,957 Per year (GS 9-12)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Missile Defense Agency",
-      "title": "Program Analyst",
-      "location": "Redstone Arsenal, Alabama",
-      "url": "https://www.usajobs.gov/job/879940000",
-      "date_posted": "2026-08-10",
-      "salary": "Starting at $93,216 Per year (NH 3)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Office of the Secretary of the Interior",
-      "title": "Management and Program Analyst (Wildland Fire - Incident Business)",
-      "location": "Boise, Idaho",
-      "url": "https://www.usajobs.gov/job/879931800",
-      "date_posted": "2026-08-10",
-      "salary": "Starting at $106,437 Per year (GS 13)",
+      "location": "Iowa City, Iowa",
+      "url": "https://www.usajobs.gov/job/885206800",
+      "date_posted": "2026-09-17",
+      "salary": "Starting at $61,722 Per year (GS 9-12)",
       "ats": "USAJOBS"
     },
     {
       "company": "U.S. Marine Corps",
-      "title": "PERF & SPORT DATA ANALYST NF4",
-      "location": "Oceanside, California",
-      "url": "https://www.usajobs.gov/job/879860200",
-      "date_posted": "2026-08-07",
-      "salary": "Starting at $85,300 Per year (NF 4)",
+      "title": "PROGRAM ANALYST",
+      "location": "Stafford, Virginia",
+      "url": "https://www.usajobs.gov/job/885128200",
+      "date_posted": "2026-09-17",
+      "salary": "Starting at $102,415 Per year (NH 3)",
       "ats": "USAJOBS"
     },
     {
-      "company": "Office of the Secretary of the Interior",
-      "title": "Management and Program Analyst (Wildland Fire)",
-      "location": "Hines, Oregon",
-      "url": "https://www.usajobs.gov/job/879753700",
-      "date_posted": "2026-08-07",
-      "salary": "Starting at $61,722 Per year (GS 9)",
+      "company": "Organization of the Joint Chiefs of Staff",
+      "title": "MANAGEMENT AND PROGRAM ANALYST (CAPABILITY DEVELOPMENT)",
+      "location": "Pentagon, Arlington, Virginia",
+      "url": "https://www.usajobs.gov/job/885107500",
+      "date_posted": "2026-09-17",
+      "salary": "Starting at $143,913 Per year (GS 14)",
       "ats": "USAJOBS"
     },
     {
-      "company": "Farm Production and Conservation (FPAC) Business Center",
-      "title": "Management and Program Analyst",
-      "location": "Kansas City, Missouri",
-      "url": "https://www.usajobs.gov/job/879359200",
-      "date_posted": "2026-08-07",
-      "salary": "Starting at $76,463 Per year (GS 12-13)",
+      "company": "Defense Information Systems Agency",
+      "title": "MANAGEMENT AND PROGRAM ANALYST",
+      "location": "Pentagon, Arlington, Virginia",
+      "url": "https://www.usajobs.gov/job/884803300",
+      "date_posted": "2026-09-17",
+      "salary": "Starting at $102,415 Per year (GG 12)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "Farm Service Agency",
+      "title": "COUNTY PROGRAM ANALYST",
+      "location": "Chesterfield, South Carolina",
+      "url": "https://www.usajobs.gov/job/884758700",
+      "date_posted": "2026-09-17",
+      "salary": "Starting at $40,736 Per year (CO 5-9)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "Administrative Office of the U.S. Courts",
+      "title": "Supervisory Program Analyst",
+      "location": "Washington, District of Columbia",
+      "url": "https://www.usajobs.gov/job/884853500",
+      "date_posted": "2026-09-16",
+      "salary": "Starting at $121,785 Per year (AD 00)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "Joint Activities",
+      "title": "Management and Program Analyst (Workforce Development)",
+      "location": "Fort Meade, Maryland",
+      "url": "https://www.usajobs.gov/job/883779200",
+      "date_posted": "2026-09-14",
+      "salary": "Starting at $121,785 Per year (GG 13)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "Naval Sea Systems Command",
+      "title": "PROGRAM ANALYST",
+      "location": "Naval Base, Norfolk, Virginia",
+      "url": "https://www.usajobs.gov/job/884050200",
+      "date_posted": "2026-09-10",
+      "salary": "Starting at $90,838 Per year (NH 3)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "Immigration and Customs Enforcement",
+      "title": "Program Analyst, Health Operations Unit (O-5 Billet) Non-Supervisory",
+      "location": "Phoenix, Arizona",
+      "url": "https://www.usajobs.gov/job/882701800",
+      "date_posted": "2026-08-31",
+      "salary": "Starting at $1 Per year (CC 5)",
       "ats": "USAJOBS"
     },
     {
       "company": "Department of Energy Headquarters",
-      "title": "Management and Program Analyst",
+      "title": "Intelligence Analyst",
       "location": "Washington, District of Columbia",
-      "url": "https://www.usajobs.gov/job/879715700",
-      "date_posted": "2026-08-07",
+      "url": "https://www.usajobs.gov/job/885761800",
+      "date_posted": "2026-09-22",
       "salary": "Starting at $143,913 Per year (GS 14)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Defense Threat Reduction Agency",
-      "title": "PROGRAM ANALYST",
-      "location": "Kirtland AFB, New Mexico",
-      "url": "https://www.usajobs.gov/job/879176700",
-      "date_posted": "2026-08-04",
-      "salary": "Starting at $62,392 Per year (GS 9-11)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Defense Threat Reduction Agency",
-      "title": "PROGRAM ANALYST",
-      "location": "Fort Belvoir, Virginia",
-      "url": "https://www.usajobs.gov/job/878583100",
-      "date_posted": "2026-07-30",
-      "salary": "Starting at $143,913 Per year (GS 14)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Air National Guard Units",
-      "title": "PROGRAM ANALYST (T32)",
-      "location": "Ellington AFB, Texas",
-      "url": "https://www.usajobs.gov/job/850937500",
-      "date_posted": "2026-07-29",
-      "salary": "Starting at $85,270 Per year (GS 11)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Air Force Materiel Command",
-      "title": "MANAGEMENT AND PROGRAM ANALYST - DIRECT HIRE AUTHORITY",
-      "location": "Lackland AFB, Texas",
-      "url": "https://www.usajobs.gov/job/877444400",
-      "date_posted": "2026-07-21",
-      "salary": "Starting at $90,823 Per year (NH 3)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Air National Guard Units",
-      "title": "PROGRAM ANALYST",
-      "location": "Camp Murray, Washington",
-      "url": "https://www.usajobs.gov/job/851975300",
-      "date_posted": "2026-01-22",
-      "salary": "Starting at $76,395 Per year (GS 10)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Office of the Director of National Intelligence",
-      "title": "Identity Intelligence Analyst",
-      "location": "McLean, Virginia",
-      "url": "https://www.usajobs.gov/job/880318800",
-      "date_posted": "2026-08-14",
-      "salary": "Starting at $102,415 Per year (GS 12)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Defense Intelligence Agency",
-      "title": "Senior Defense Intelligence Analyst (SDIA) FOR CHINA, USPACOM",
-      "location": "Pearl Harbor Naval Base, Oahu, Hawaii",
-      "url": "https://www.usajobs.gov/job/880471200",
-      "date_posted": "2026-08-10",
-      "salary": "Starting at $151,661 Per year (SL 00)",
       "ats": "USAJOBS"
     },
     {
@@ -332,35 +287,53 @@
       "title": "Cyber Threat Analyst",
       "location": "Washington, District of Columbia",
       "url": "https://www.usajobs.gov/job/722102800",
-      "date_posted": "2025-10-01",
+      "date_posted": "2026-09-01",
       "salary": "Starting at $63,940 Per year (GS 8-15)",
       "ats": "USAJOBS"
     },
     {
-      "company": "U.S. Capitol Police",
-      "title": "Supervisory Emergency Management Specialist (Airspace Security Manager)",
+      "company": "Defense Intelligence Agency",
+      "title": "Senior Defense Intelligence Analyst (SDIA) FOR CHINA, USPACOM",
+      "location": "Pearl Harbor Naval Base, Oahu, Hawaii",
+      "url": "https://www.usajobs.gov/job/885349500",
+      "date_posted": "2026-08-10",
+      "salary": "Starting at $151,661 Per year (SL 00)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "Architect of the Capitol",
+      "title": "General Engineer/Architect (Planning and Program Manager)",
       "location": "Washington, District of Columbia",
-      "url": "https://www.usajobs.gov/job/880523300",
-      "date_posted": "2026-08-13",
-      "salary": "Starting at $132,243 Per year (CP 10)",
+      "url": "https://www.usajobs.gov/job/883950900",
+      "date_posted": "2026-09-09",
+      "salary": "Starting at $121,785 Per year (GS 13)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "George C. Marshall Space Flight Center",
+      "title": "Public Notice - Operations Research Analyst (Direct Hire)",
+      "location": "Huntsville, Alabama",
+      "url": "https://www.usajobs.gov/job/885267000",
+      "date_posted": "2026-09-18",
+      "salary": "Starting at $50,835 Per year (GS 7-15)",
       "ats": "USAJOBS"
     },
     {
       "company": "ARMY TRANSPORTATION",
       "title": "Operations Research Analyst",
       "location": "Scott AFB, Illinois",
-      "url": "https://www.usajobs.gov/job/879291100",
-      "date_posted": "2026-08-04",
-      "salary": "Starting at $109,137 Per year (GS 13)",
+      "url": "https://www.usajobs.gov/job/884744600",
+      "date_posted": "2026-09-15",
+      "salary": "Starting at $128,967 Per year (GS 14)",
       "ats": "USAJOBS"
     },
     {
-      "company": "Defense Human Resources Activity",
-      "title": "OPERATIONS RESEARCH ANALYST (DATA SCIENTIST)",
-      "location": "Alexandria, Virginia",
-      "url": "https://www.usajobs.gov/job/878826100",
-      "date_posted": "2026-07-31",
-      "salary": "Starting at $102,415 Per year (GS 12)",
+      "company": "Air Force Materiel Command",
+      "title": "OPERATIONS RESEARCH ANALYST - DIRECT HIRE AUTHORITY",
+      "location": "Wright-Patterson AFB, Ohio",
+      "url": "https://www.usajobs.gov/job/883150100",
+      "date_posted": "2026-09-02",
+      "salary": "Starting at $130,461 Per year (NH 4)",
       "ats": "USAJOBS"
     },
     {
@@ -402,399 +375,327 @@
   ],
   "new_jobs": [
     {
-      "company": "Office of Chief of Space Operations",
-      "title": "Team Lead Acquisition Program Manager, SAIO",
-      "location": "Colorado Springs, Colorado",
-      "url": "https://www.usajobs.gov/job/880719500",
-      "date_posted": "2026-08-14",
-      "salary": "Starting at $129,096 Per year (NH 4)",
+      "company": "Defense Contract Management Agency",
+      "title": "Program Manager (Integrator)",
+      "location": "Huntsville, Alabama",
+      "url": "https://www.usajobs.gov/job/885781000",
+      "date_posted": "2026-09-22",
+      "salary": "Starting at $110,847 Per year (GS 13)",
       "ats": "USAJOBS"
     },
     {
-      "company": "Deputy Assistant Secretary for Information and Technology",
-      "title": "Supervisory IT Program Manager",
-      "location": "Salt Lake City, Utah",
-      "url": "https://www.usajobs.gov/job/880628500",
-      "date_posted": "2026-08-14",
-      "salary": "Starting at $126,384 Per year (GS 15)",
+      "company": "U.S. Army Corps of Engineers",
+      "title": "Program Manager (Multi-Purpose Operations Project)",
+      "location": "Westalton, Missouri",
+      "url": "https://www.usajobs.gov/job/885739800",
+      "date_posted": "2026-09-22",
+      "salary": "Starting at $128,967 Per year (NH 4)",
       "ats": "USAJOBS"
     },
     {
-      "company": "Department of Education Headquarters",
-      "title": "IT Program Manager",
+      "company": "Defense Threat Reduction Agency",
+      "title": "OPERATIONS RESEARCH ANALYST",
+      "location": "Fort Belvoir, Virginia",
+      "url": "https://www.usajobs.gov/job/885700000",
+      "date_posted": "2026-09-22",
+      "salary": "Starting at $143,913 Per year (GS 14)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "Office of the Secretary",
+      "title": "Management and Program Analyst",
       "location": "Washington, District of Columbia",
-      "url": "https://www.usajobs.gov/job/880605200",
-      "date_posted": "2026-08-14",
+      "url": "https://www.usajobs.gov/job/885693400",
+      "date_posted": "2026-09-22",
+      "salary": "Starting at $102,415 Per year (GS 12)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "Missile Defense Agency",
+      "title": "Supervisory Program Manager",
+      "location": "Redstone Arsenal, Alabama",
+      "url": "https://www.usajobs.gov/job/885677900",
+      "date_posted": "2026-09-22",
+      "salary": "Starting at $130,987 Per year (NH 4)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "Department of Energy Headquarters",
+      "title": "Program Manager",
+      "location": "Carlsbad, New Mexico",
+      "url": "https://www.usajobs.gov/job/885568800",
+      "date_posted": "2026-09-22",
+      "salary": "Starting at $147,945 Per year (GS 15)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "Office of the Secretary of Labor",
+      "title": "Enterprise Program Manager",
+      "location": "Washington, District of Columbia",
+      "url": "https://www.usajobs.gov/job/885577300",
+      "date_posted": "2026-09-22",
       "salary": "Starting at $169,279 Per year (GS 15)",
       "ats": "USAJOBS"
     },
     {
-      "company": "National Nuclear Security Administration",
-      "title": "Program Manager New Ship Design",
-      "location": "Washington, District of Columbia",
-      "url": "https://www.usajobs.gov/job/880465500",
-      "date_posted": "2026-08-14",
-      "salary": "Starting at $199,172 Per year (ES 00)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Commander, Naval Information Warfare Systems Command (NAVWARSYSCOM)",
-      "title": "SUPERVISORY IT PROGRAM MANAGER",
-      "location": "Arlington, Virginia",
-      "url": "https://www.usajobs.gov/job/880537000",
-      "date_posted": "2026-08-14",
-      "salary": "Starting at $143,913 Per year (DP 4)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Commander, Naval Information Warfare Systems Command (NAVWARSYSCOM)",
-      "title": "SUPERVISORY IT PROGRAM MANAGER",
-      "location": "Washington Navy Yard, District of Columbia",
-      "url": "https://www.usajobs.gov/job/880537100",
-      "date_posted": "2026-08-14",
-      "salary": "Starting at $143,913 Per year (DP 4)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Department of Defense Headquarters",
-      "title": "Management Analyst (Program Manager)",
-      "location": "Hickam AFB, Hawaii",
-      "url": "https://www.usajobs.gov/job/880367500",
-      "date_posted": "2026-08-14",
-      "salary": "Starting at $111,119 Per year (GS 13)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Joint Activities",
-      "title": "Supervisory Program Manager (Oversight)",
-      "location": "Fort Meade, Maryland",
-      "url": "https://www.usajobs.gov/job/880350700",
-      "date_posted": "2026-08-14",
-      "salary": "Starting at $169,279 Per year (GG 15)",
+      "company": "Air Force Materiel Command",
+      "title": "Project Manager (Architect) - DIRECT HIRE AUTHORITY",
+      "location": "Wright-Patterson AFB, Ohio",
+      "url": "https://www.usajobs.gov/job/885721700",
+      "date_posted": "2026-09-22",
+      "salary": "Starting at $92,841 Per year (NH 3)",
       "ats": "USAJOBS"
     },
     {
       "company": "Department of the Air Force Headquarters",
-      "title": "MANAGEMENT AND PROGRAM ANALYST",
+      "title": "PROJECT MANAGER",
+      "location": "Fort Belvoir, Virginia",
+      "url": "https://www.usajobs.gov/job/885235000",
+      "date_posted": "2026-09-21",
+      "salary": "Starting at $121,785 Per year (GG 13)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "Department of the Air Force Headquarters",
+      "title": "PROJECT MANAGER",
+      "location": "Fort Belvoir, Virginia",
+      "url": "https://www.usajobs.gov/job/885436400",
+      "date_posted": "2026-09-21",
+      "salary": "Starting at $121,785 Per year (GG 13)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "Federal Emergency Management Agency",
+      "title": "Supervisory Program Specialist (Project Manager)",
+      "location": "Cambridge, Massachusetts",
+      "url": "https://www.usajobs.gov/job/884680600",
+      "date_posted": "2026-09-21",
+      "salary": "Starting at $120,548 Per year (GS 13)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "National Air and Space Intelligence Center",
+      "title": "PROGRAM ANALYST",
+      "location": "Wright-Patterson AFB, Ohio",
+      "url": "https://www.usajobs.gov/job/885358900",
+      "date_posted": "2026-09-18",
+      "salary": "Starting at $110,401 Per year (GG 13)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "Air Force Materiel Command",
+      "title": "MECHANICAL ENGINEER (PROJECT MANAGER) - DIRECT HIRE AUTHORITY",
+      "location": "Wright-Patterson AFB, Ohio",
+      "url": "https://www.usajobs.gov/job/885313500",
+      "date_posted": "2026-09-18",
+      "salary": "Starting at $92,841 Per year (NH 3)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "Drug Enforcement Administration",
+      "title": "IT Project Manager (APPSW)",
       "location": "Arlington, Virginia",
-      "url": "https://www.usajobs.gov/job/880534500",
-      "date_posted": "2026-08-14",
-      "salary": "Starting at $143,913 Per year (GG 14)",
+      "url": "https://www.usajobs.gov/job/885305500",
+      "date_posted": "2026-09-18",
+      "salary": "Starting at $143,913 Per year (GS 14)",
       "ats": "USAJOBS"
     },
     {
-      "company": "Military Treatment Facilities under DHA",
-      "title": "Program Analyst (Medical Expense and Performance Reporting System)",
-      "location": "Andrews AFB, Maryland",
-      "url": "https://www.usajobs.gov/job/880348800",
-      "date_posted": "2026-08-14",
-      "salary": "Starting at $85,447 Per year (GS 11)",
+      "company": "Naval Facilities Engineering Systems Command",
+      "title": "INTERDISCIPLINARY ENGINEER/ARCHITECT (PROJECT MANAGER)",
+      "location": "San Diego, California",
+      "url": "https://www.usajobs.gov/job/884937500",
+      "date_posted": "2026-09-17",
+      "salary": "Starting at $102,246 Per year (GS 12)",
       "ats": "USAJOBS"
     },
     {
-      "company": "Naval Sea Systems Command",
-      "title": "TECHNICAL PROJECT MANAGER (TECHNICIAN)",
-      "location": "Indian Head, Maryland",
-      "url": "https://www.usajobs.gov/job/880467800",
-      "date_posted": "2026-08-14",
-      "salary": "Starting at $121,785 Per year (NT 5)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Food Safety and Inspection Service",
-      "title": "Program Analyst",
-      "location": "Urbandale, Iowa",
-      "url": "https://www.usajobs.gov/job/880328300",
-      "date_posted": "2026-08-12",
-      "salary": "Starting at $126,797 Per year (GS 14)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Organization of the Joint Chiefs of Staff",
-      "title": "IT PROJECT MANAGER",
-      "location": "Pentagon, Arlington, Virginia",
-      "url": "https://www.usajobs.gov/job/880223600",
-      "date_posted": "2026-08-12",
-      "salary": "Starting at $121,785 Per year (GS 13)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Defense Finance and Accounting Service",
-      "title": "IT PROJECT MANAGER (INFOSEC)",
-      "location": "Indianapolis, Indiana",
-      "url": "https://www.usajobs.gov/job/880078700",
-      "date_posted": "2026-08-12",
-      "salary": "Starting at $111,065 Per year (GS 13)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Federal Highway Administration",
-      "title": "Program Manager (Program Development Director) (Open to both U.S. Citizens and Federal Employees)",
-      "location": "Austin, Texas",
-      "url": "https://www.usajobs.gov/job/880133600",
-      "date_posted": "2026-08-12",
-      "salary": "Starting at $129,311 Per year (GS 14)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Office of the Secretary of the Interior",
-      "title": "Supervisory Wildland Firefighter (Helicopter Program Manager) - Direct Hiring Authority",
-      "location": "El Portal, California",
-      "url": "https://www.usajobs.gov/job/880027700",
-      "date_posted": "2026-08-10",
-      "salary": "Starting at $73,199 Per year (GW 9)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "U.S. Coast Guard",
-      "title": "Lead Environmental Program Manager",
-      "location": "Warrenton, Oregon",
-      "url": "https://www.usajobs.gov/job/879733700",
-      "date_posted": "2026-08-07",
-      "salary": "Starting at $89,508 Per year (GS 12)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Bureau of Land Management",
-      "title": "Management and Program Analyst",
-      "location": "Washington, District of Columbia",
-      "url": "https://www.usajobs.gov/job/880745200",
-      "date_posted": "2026-08-14",
-      "salary": "Starting at $102,415 Per year (GS 12-13)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "National Park Service",
-      "title": "Field Unit Local Authority (FUL) - Management and Program Analyst",
-      "location": "Saint John Island, Virgin Islands",
-      "url": "https://www.usajobs.gov/job/880389200",
-      "date_posted": "2026-08-13",
-      "salary": "Starting at $61,722 Per year (GS 9)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Farm Service Agency",
-      "title": "County Program Analyst",
-      "location": "Appleton, Wisconsin",
-      "url": "https://www.usajobs.gov/job/880055100",
-      "date_posted": "2026-08-13",
-      "salary": "Starting at $40,736 Per year (CO 5-9)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Missile Defense Agency",
-      "title": "Program Analyst",
-      "location": "Redstone Arsenal, Alabama",
-      "url": "https://www.usajobs.gov/job/880494900",
-      "date_posted": "2026-08-13",
-      "salary": "Starting at $130,987 Per year (NH 4)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Missile Defense Agency",
+      "company": "Transportation Security Administration",
       "title": "Supervisory Program Analyst",
-      "location": "Redstone Arsenal, Alabama",
-      "url": "https://www.usajobs.gov/job/880323300",
-      "date_posted": "2026-08-12",
-      "salary": "Starting at $130,987 Per year (NH 4)",
+      "location": "Herndon, Virginia",
+      "url": "https://www.usajobs.gov/job/885431900",
+      "date_posted": "2026-09-22",
+      "salary": "Starting at $143,913 Per year (SV J)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "Immigration and Customs Enforcement",
+      "title": "U.S. Customs and Border Protection Program Analyst (O-4 Billet) Non-Supervisory",
+      "location": "Salt Lake City, Utah",
+      "url": "https://www.usajobs.gov/job/885537600",
+      "date_posted": "2026-09-22",
+      "salary": "Starting at $1 Per year (CC 4)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "Department of Education Headquarters",
+      "title": "Supervisory Management and Program Analyst, GS-0343-14 FPL GS-14 (DE)",
+      "location": "Washington, District of Columbia",
+      "url": "https://www.usajobs.gov/job/885406600",
+      "date_posted": "2026-09-21",
+      "salary": "Starting at $143,913 Per year (GS 14)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "Office of the Secretary of Defense",
+      "title": "Management & Program Analyst",
+      "location": "Alexandria, Virginia",
+      "url": "https://www.usajobs.gov/job/885174000",
+      "date_posted": "2026-09-21",
+      "salary": "Starting at $143,913 Per year (NH 4)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "Commander, Navy Installations Command",
+      "title": "Regional MWR Program Manager",
+      "location": "Naples, Italy",
+      "url": "https://www.usajobs.gov/job/885298300",
+      "date_posted": "2026-09-21",
+      "salary": "Starting at $90,925 Per year (NF 5)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "Interior, Bureau of Indian Affairs",
+      "title": "Program Analyst",
+      "location": "New Town, North Dakota",
+      "url": "https://www.usajobs.gov/job/885243600",
+      "date_posted": "2026-09-17",
+      "salary": "Starting at $50,460 Per year (GS 7-9)",
       "ats": "USAJOBS"
     },
     {
       "company": "Veterans Health Administration",
       "title": "Program Analyst (Informatics)",
-      "location": "Long Beach, California",
-      "url": "https://www.usajobs.gov/job/880129500",
-      "date_posted": "2026-08-12",
-      "salary": "Starting at $71,957 Per year (GS 9-12)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Missile Defense Agency",
-      "title": "Program Analyst",
-      "location": "Redstone Arsenal, Alabama",
-      "url": "https://www.usajobs.gov/job/879940000",
-      "date_posted": "2026-08-10",
-      "salary": "Starting at $93,216 Per year (NH 3)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Office of the Secretary of the Interior",
-      "title": "Management and Program Analyst (Wildland Fire - Incident Business)",
-      "location": "Boise, Idaho",
-      "url": "https://www.usajobs.gov/job/879931800",
-      "date_posted": "2026-08-10",
-      "salary": "Starting at $106,437 Per year (GS 13)",
+      "location": "Iowa City, Iowa",
+      "url": "https://www.usajobs.gov/job/885206800",
+      "date_posted": "2026-09-17",
+      "salary": "Starting at $61,722 Per year (GS 9-12)",
       "ats": "USAJOBS"
     },
     {
       "company": "U.S. Marine Corps",
-      "title": "PERF & SPORT DATA ANALYST NF4",
-      "location": "Oceanside, California",
-      "url": "https://www.usajobs.gov/job/879860200",
-      "date_posted": "2026-08-07",
-      "salary": "Starting at $85,300 Per year (NF 4)",
+      "title": "PROGRAM ANALYST",
+      "location": "Stafford, Virginia",
+      "url": "https://www.usajobs.gov/job/885128200",
+      "date_posted": "2026-09-17",
+      "salary": "Starting at $102,415 Per year (NH 3)",
       "ats": "USAJOBS"
     },
     {
-      "company": "Office of the Secretary of the Interior",
-      "title": "Management and Program Analyst (Wildland Fire)",
-      "location": "Hines, Oregon",
-      "url": "https://www.usajobs.gov/job/879753700",
-      "date_posted": "2026-08-07",
-      "salary": "Starting at $61,722 Per year (GS 9)",
+      "company": "Organization of the Joint Chiefs of Staff",
+      "title": "MANAGEMENT AND PROGRAM ANALYST (CAPABILITY DEVELOPMENT)",
+      "location": "Pentagon, Arlington, Virginia",
+      "url": "https://www.usajobs.gov/job/885107500",
+      "date_posted": "2026-09-17",
+      "salary": "Starting at $143,913 Per year (GS 14)",
       "ats": "USAJOBS"
     },
     {
-      "company": "Farm Production and Conservation (FPAC) Business Center",
-      "title": "Management and Program Analyst",
-      "location": "Kansas City, Missouri",
-      "url": "https://www.usajobs.gov/job/879359200",
-      "date_posted": "2026-08-07",
-      "salary": "Starting at $76,463 Per year (GS 12-13)",
+      "company": "Defense Information Systems Agency",
+      "title": "MANAGEMENT AND PROGRAM ANALYST",
+      "location": "Pentagon, Arlington, Virginia",
+      "url": "https://www.usajobs.gov/job/884803300",
+      "date_posted": "2026-09-17",
+      "salary": "Starting at $102,415 Per year (GG 12)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "Farm Service Agency",
+      "title": "COUNTY PROGRAM ANALYST",
+      "location": "Chesterfield, South Carolina",
+      "url": "https://www.usajobs.gov/job/884758700",
+      "date_posted": "2026-09-17",
+      "salary": "Starting at $40,736 Per year (CO 5-9)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "Administrative Office of the U.S. Courts",
+      "title": "Supervisory Program Analyst",
+      "location": "Washington, District of Columbia",
+      "url": "https://www.usajobs.gov/job/884853500",
+      "date_posted": "2026-09-16",
+      "salary": "Starting at $121,785 Per year (AD 00)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "Joint Activities",
+      "title": "Management and Program Analyst (Workforce Development)",
+      "location": "Fort Meade, Maryland",
+      "url": "https://www.usajobs.gov/job/883779200",
+      "date_posted": "2026-09-14",
+      "salary": "Starting at $121,785 Per year (GG 13)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "Naval Sea Systems Command",
+      "title": "PROGRAM ANALYST",
+      "location": "Naval Base, Norfolk, Virginia",
+      "url": "https://www.usajobs.gov/job/884050200",
+      "date_posted": "2026-09-10",
+      "salary": "Starting at $90,838 Per year (NH 3)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "Immigration and Customs Enforcement",
+      "title": "Program Analyst, Health Operations Unit (O-5 Billet) Non-Supervisory",
+      "location": "Phoenix, Arizona",
+      "url": "https://www.usajobs.gov/job/882701800",
+      "date_posted": "2026-08-31",
+      "salary": "Starting at $1 Per year (CC 5)",
       "ats": "USAJOBS"
     },
     {
       "company": "Department of Energy Headquarters",
-      "title": "Management and Program Analyst",
+      "title": "Intelligence Analyst",
       "location": "Washington, District of Columbia",
-      "url": "https://www.usajobs.gov/job/879715700",
-      "date_posted": "2026-08-07",
+      "url": "https://www.usajobs.gov/job/885761800",
+      "date_posted": "2026-09-22",
       "salary": "Starting at $143,913 Per year (GS 14)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Defense Threat Reduction Agency",
-      "title": "PROGRAM ANALYST",
-      "location": "Kirtland AFB, New Mexico",
-      "url": "https://www.usajobs.gov/job/879176700",
-      "date_posted": "2026-08-04",
-      "salary": "Starting at $62,392 Per year (GS 9-11)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Defense Threat Reduction Agency",
-      "title": "PROGRAM ANALYST",
-      "location": "Fort Belvoir, Virginia",
-      "url": "https://www.usajobs.gov/job/878583100",
-      "date_posted": "2026-07-30",
-      "salary": "Starting at $143,913 Per year (GS 14)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Air National Guard Units",
-      "title": "PROGRAM ANALYST (T32)",
-      "location": "Ellington AFB, Texas",
-      "url": "https://www.usajobs.gov/job/850937500",
-      "date_posted": "2026-07-29",
-      "salary": "Starting at $85,270 Per year (GS 11)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Air Force Materiel Command",
-      "title": "MANAGEMENT AND PROGRAM ANALYST - DIRECT HIRE AUTHORITY",
-      "location": "Lackland AFB, Texas",
-      "url": "https://www.usajobs.gov/job/877444400",
-      "date_posted": "2026-07-21",
-      "salary": "Starting at $90,823 Per year (NH 3)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Air National Guard Units",
-      "title": "PROGRAM ANALYST",
-      "location": "Camp Murray, Washington",
-      "url": "https://www.usajobs.gov/job/851975300",
-      "date_posted": "2026-01-22",
-      "salary": "Starting at $76,395 Per year (GS 10)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Office of the Director of National Intelligence",
-      "title": "Identity Intelligence Analyst",
-      "location": "McLean, Virginia",
-      "url": "https://www.usajobs.gov/job/880318800",
-      "date_posted": "2026-08-14",
-      "salary": "Starting at $102,415 Per year (GS 12)",
       "ats": "USAJOBS"
     },
     {
       "company": "Defense Intelligence Agency",
       "title": "Senior Defense Intelligence Analyst (SDIA) FOR CHINA, USPACOM",
       "location": "Pearl Harbor Naval Base, Oahu, Hawaii",
-      "url": "https://www.usajobs.gov/job/880471200",
+      "url": "https://www.usajobs.gov/job/885349500",
       "date_posted": "2026-08-10",
       "salary": "Starting at $151,661 Per year (SL 00)",
       "ats": "USAJOBS"
     },
     {
-      "company": "Central Intelligence Agency",
-      "title": "Cyber Threat Analyst",
+      "company": "Architect of the Capitol",
+      "title": "General Engineer/Architect (Planning and Program Manager)",
       "location": "Washington, District of Columbia",
-      "url": "https://www.usajobs.gov/job/722102800",
-      "date_posted": "2025-10-01",
-      "salary": "Starting at $63,940 Per year (GS 8-15)",
+      "url": "https://www.usajobs.gov/job/883950900",
+      "date_posted": "2026-09-09",
+      "salary": "Starting at $121,785 Per year (GS 13)",
       "ats": "USAJOBS"
     },
     {
-      "company": "U.S. Capitol Police",
-      "title": "Supervisory Emergency Management Specialist (Airspace Security Manager)",
-      "location": "Washington, District of Columbia",
-      "url": "https://www.usajobs.gov/job/880523300",
-      "date_posted": "2026-08-13",
-      "salary": "Starting at $132,243 Per year (CP 10)",
+      "company": "George C. Marshall Space Flight Center",
+      "title": "Public Notice - Operations Research Analyst (Direct Hire)",
+      "location": "Huntsville, Alabama",
+      "url": "https://www.usajobs.gov/job/885267000",
+      "date_posted": "2026-09-18",
+      "salary": "Starting at $50,835 Per year (GS 7-15)",
       "ats": "USAJOBS"
     },
     {
       "company": "ARMY TRANSPORTATION",
       "title": "Operations Research Analyst",
       "location": "Scott AFB, Illinois",
-      "url": "https://www.usajobs.gov/job/879291100",
-      "date_posted": "2026-08-04",
-      "salary": "Starting at $109,137 Per year (GS 13)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Defense Human Resources Activity",
-      "title": "OPERATIONS RESEARCH ANALYST (DATA SCIENTIST)",
-      "location": "Alexandria, Virginia",
-      "url": "https://www.usajobs.gov/job/878826100",
-      "date_posted": "2026-07-31",
-      "salary": "Starting at $102,415 Per year (GS 12)",
+      "url": "https://www.usajobs.gov/job/884744600",
+      "date_posted": "2026-09-15",
+      "salary": "Starting at $128,967 Per year (GS 14)",
       "ats": "USAJOBS"
     },
     {
       "company": "Air Force Materiel Command",
-      "title": "OPERATIONS RESEARCH ANALYST-DIRECT HIRE AUTHORITY",
+      "title": "OPERATIONS RESEARCH ANALYST - DIRECT HIRE AUTHORITY",
       "location": "Wright-Patterson AFB, Ohio",
-      "url": "https://www.usajobs.gov/job/871229900",
-      "date_posted": "2026-06-01",
-      "salary": "Starting at $92,841 Per year (NH 3)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Immediate Office of the Chief of Naval Operations",
-      "title": "INTERDISCIPLINARY GENERAL ENGINEER/OPERATIONS RESEARCH ANALYST",
-      "location": "Naval Base, Norfolk, Virginia",
-      "url": "https://www.usajobs.gov/job/865002200",
-      "date_posted": "2026-04-14",
-      "salary": "Starting at $108,019 Per year (GS 13)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Air Force Civilian Career Training",
-      "title": "OPERATIONS RESEARCH ANALYST",
-      "location": "Los Angeles County, California",
-      "url": "https://www.usajobs.gov/job/850125300",
-      "date_posted": "2025-10-01",
-      "salary": "Starting at $49,960 Per year (GS 7-9)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Air Force Civilian Career Training",
-      "title": "OPERATIONS RESEARCH ANALYST",
-      "location": "Gunter AFB, Alabama",
-      "url": "https://www.usajobs.gov/job/846734800",
-      "date_posted": "2025-09-29",
-      "salary": "Starting at $49,960 Per year (GS 7-9)",
+      "url": "https://www.usajobs.gov/job/883150100",
+      "date_posted": "2026-09-02",
+      "salary": "Starting at $130,461 Per year (NH 4)",
       "ats": "USAJOBS"
     }
   ]

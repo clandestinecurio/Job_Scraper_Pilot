@@ -1,224 +1,184 @@
 # 🇺🇸 USAJOBS — Federal Megan's Strategy, Security & Operations Roles
-*Last updated: 2026-08-17 00:24 UTC*
+*Last updated: 2026-09-22 20:07 UTC*
 
-**44 new role(s)** since last run · 44 total in current USAJOBS postings
+**36 new role(s)** since last run · 41 total in current USAJOBS postings
 
-### [Team Lead Acquisition Program Manager, SAIO](https://www.usajobs.gov/job/880719500) — Office of Chief of Space Operations
-- 📍 **Location:** Colorado Springs, Colorado
-- 💰 **Salary:** Starting at $129,096 Per year (NH 4)
-- 🕒 **Posted:** 2026-08-14
+### [Program Manager (Integrator)](https://www.usajobs.gov/job/885781000) — Defense Contract Management Agency
+- 📍 **Location:** Huntsville, Alabama
+- 💰 **Salary:** Starting at $110,847 Per year (GS 13)
+- 🕒 **Posted:** 2026-09-22
 
-### [Supervisory IT Program Manager](https://www.usajobs.gov/job/880628500) — Deputy Assistant Secretary for Information and Technology
-- 📍 **Location:** Salt Lake City, Utah
-- 💰 **Salary:** Starting at $126,384 Per year (GS 15)
-- 🕒 **Posted:** 2026-08-14
+### [Program Manager (Multi-Purpose Operations Project)](https://www.usajobs.gov/job/885739800) — U.S. Army Corps of Engineers
+- 📍 **Location:** Westalton, Missouri
+- 💰 **Salary:** Starting at $128,967 Per year (NH 4)
+- 🕒 **Posted:** 2026-09-22
 
-### [IT Program Manager](https://www.usajobs.gov/job/880605200) — Department of Education Headquarters
-- 📍 **Location:** Washington, District of Columbia
-- 💰 **Salary:** Starting at $169,279 Per year (GS 15)
-- 🕒 **Posted:** 2026-08-14
-
-### [Program Manager New Ship Design](https://www.usajobs.gov/job/880465500) — National Nuclear Security Administration
-- 📍 **Location:** Washington, District of Columbia
-- 💰 **Salary:** Starting at $199,172 Per year (ES 00)
-- 🕒 **Posted:** 2026-08-14
-
-### [SUPERVISORY IT PROGRAM MANAGER](https://www.usajobs.gov/job/880537000) — Commander, Naval Information Warfare Systems Command (NAVWARSYSCOM)
-- 📍 **Location:** Arlington, Virginia
-- 💰 **Salary:** Starting at $143,913 Per year (DP 4)
-- 🕒 **Posted:** 2026-08-14
-
-### [SUPERVISORY IT PROGRAM MANAGER](https://www.usajobs.gov/job/880537100) — Commander, Naval Information Warfare Systems Command (NAVWARSYSCOM)
-- 📍 **Location:** Washington Navy Yard, District of Columbia
-- 💰 **Salary:** Starting at $143,913 Per year (DP 4)
-- 🕒 **Posted:** 2026-08-14
-
-### [Management Analyst (Program Manager)](https://www.usajobs.gov/job/880367500) — Department of Defense Headquarters
-- 📍 **Location:** Hickam AFB, Hawaii
-- 💰 **Salary:** Starting at $111,119 Per year (GS 13)
-- 🕒 **Posted:** 2026-08-14
-
-### [Supervisory Program Manager (Oversight)](https://www.usajobs.gov/job/880350700) — Joint Activities
-- 📍 **Location:** Fort Meade, Maryland
-- 💰 **Salary:** Starting at $169,279 Per year (GG 15)
-- 🕒 **Posted:** 2026-08-14
-
-### [MANAGEMENT AND PROGRAM ANALYST](https://www.usajobs.gov/job/880534500) — Department of the Air Force Headquarters
-- 📍 **Location:** Arlington, Virginia
-- 💰 **Salary:** Starting at $143,913 Per year (GG 14)
-- 🕒 **Posted:** 2026-08-14
-
-### [Program Analyst (Medical Expense and Performance Reporting System)](https://www.usajobs.gov/job/880348800) — Military Treatment Facilities under DHA
-- 📍 **Location:** Andrews AFB, Maryland
-- 💰 **Salary:** Starting at $85,447 Per year (GS 11)
-- 🕒 **Posted:** 2026-08-14
-
-### [TECHNICAL PROJECT MANAGER (TECHNICIAN)](https://www.usajobs.gov/job/880467800) — Naval Sea Systems Command
-- 📍 **Location:** Indian Head, Maryland
-- 💰 **Salary:** Starting at $121,785 Per year (NT 5)
-- 🕒 **Posted:** 2026-08-14
-
-### [Program Analyst](https://www.usajobs.gov/job/880328300) — Food Safety and Inspection Service
-- 📍 **Location:** Urbandale, Iowa
-- 💰 **Salary:** Starting at $126,797 Per year (GS 14)
-- 🕒 **Posted:** 2026-08-12
-
-### [IT PROJECT MANAGER](https://www.usajobs.gov/job/880223600) — Organization of the Joint Chiefs of Staff
-- 📍 **Location:** Pentagon, Arlington, Virginia
-- 💰 **Salary:** Starting at $121,785 Per year (GS 13)
-- 🕒 **Posted:** 2026-08-12
-
-### [IT PROJECT MANAGER (INFOSEC)](https://www.usajobs.gov/job/880078700) — Defense Finance and Accounting Service
-- 📍 **Location:** Indianapolis, Indiana
-- 💰 **Salary:** Starting at $111,065 Per year (GS 13)
-- 🕒 **Posted:** 2026-08-12
-
-### [Program Manager (Program Development Director) (Open to both U.S. Citizens and Federal Employees)](https://www.usajobs.gov/job/880133600) — Federal Highway Administration
-- 📍 **Location:** Austin, Texas
-- 💰 **Salary:** Starting at $129,311 Per year (GS 14)
-- 🕒 **Posted:** 2026-08-12
-
-### [Supervisory Wildland Firefighter (Helicopter Program Manager) - Direct Hiring Authority](https://www.usajobs.gov/job/880027700) — Office of the Secretary of the Interior
-- 📍 **Location:** El Portal, California
-- 💰 **Salary:** Starting at $73,199 Per year (GW 9)
-- 🕒 **Posted:** 2026-08-10
-
-### [Lead Environmental Program Manager](https://www.usajobs.gov/job/879733700) — U.S. Coast Guard
-- 📍 **Location:** Warrenton, Oregon
-- 💰 **Salary:** Starting at $89,508 Per year (GS 12)
-- 🕒 **Posted:** 2026-08-07
-
-### [Management and Program Analyst](https://www.usajobs.gov/job/880745200) — Bureau of Land Management
-- 📍 **Location:** Washington, District of Columbia
-- 💰 **Salary:** Starting at $102,415 Per year (GS 12-13)
-- 🕒 **Posted:** 2026-08-14
-
-### [Field Unit Local Authority (FUL) - Management and Program Analyst](https://www.usajobs.gov/job/880389200) — National Park Service
-- 📍 **Location:** Saint John Island, Virgin Islands
-- 💰 **Salary:** Starting at $61,722 Per year (GS 9)
-- 🕒 **Posted:** 2026-08-13
-
-### [County Program Analyst](https://www.usajobs.gov/job/880055100) — Farm Service Agency
-- 📍 **Location:** Appleton, Wisconsin
-- 💰 **Salary:** Starting at $40,736 Per year (CO 5-9)
-- 🕒 **Posted:** 2026-08-13
-
-### [Program Analyst](https://www.usajobs.gov/job/880494900) — Missile Defense Agency
-- 📍 **Location:** Redstone Arsenal, Alabama
-- 💰 **Salary:** Starting at $130,987 Per year (NH 4)
-- 🕒 **Posted:** 2026-08-13
-
-### [Supervisory Program Analyst](https://www.usajobs.gov/job/880323300) — Missile Defense Agency
-- 📍 **Location:** Redstone Arsenal, Alabama
-- 💰 **Salary:** Starting at $130,987 Per year (NH 4)
-- 🕒 **Posted:** 2026-08-12
-
-### [Program Analyst (Informatics)](https://www.usajobs.gov/job/880129500) — Veterans Health Administration
-- 📍 **Location:** Long Beach, California
-- 💰 **Salary:** Starting at $71,957 Per year (GS 9-12)
-- 🕒 **Posted:** 2026-08-12
-
-### [Program Analyst](https://www.usajobs.gov/job/879940000) — Missile Defense Agency
-- 📍 **Location:** Redstone Arsenal, Alabama
-- 💰 **Salary:** Starting at $93,216 Per year (NH 3)
-- 🕒 **Posted:** 2026-08-10
-
-### [Management and Program Analyst (Wildland Fire - Incident Business)](https://www.usajobs.gov/job/879931800) — Office of the Secretary of the Interior
-- 📍 **Location:** Boise, Idaho
-- 💰 **Salary:** Starting at $106,437 Per year (GS 13)
-- 🕒 **Posted:** 2026-08-10
-
-### [PERF & SPORT DATA ANALYST NF4](https://www.usajobs.gov/job/879860200) — U.S. Marine Corps
-- 📍 **Location:** Oceanside, California
-- 💰 **Salary:** Starting at $85,300 Per year (NF 4)
-- 🕒 **Posted:** 2026-08-07
-
-### [Management and Program Analyst (Wildland Fire)](https://www.usajobs.gov/job/879753700) — Office of the Secretary of the Interior
-- 📍 **Location:** Hines, Oregon
-- 💰 **Salary:** Starting at $61,722 Per year (GS 9)
-- 🕒 **Posted:** 2026-08-07
-
-### [Management and Program Analyst](https://www.usajobs.gov/job/879359200) — Farm Production and Conservation (FPAC) Business Center
-- 📍 **Location:** Kansas City, Missouri
-- 💰 **Salary:** Starting at $76,463 Per year (GS 12-13)
-- 🕒 **Posted:** 2026-08-07
-
-### [Management and Program Analyst](https://www.usajobs.gov/job/879715700) — Department of Energy Headquarters
-- 📍 **Location:** Washington, District of Columbia
-- 💰 **Salary:** Starting at $143,913 Per year (GS 14)
-- 🕒 **Posted:** 2026-08-07
-
-### [PROGRAM ANALYST](https://www.usajobs.gov/job/879176700) — Defense Threat Reduction Agency
-- 📍 **Location:** Kirtland AFB, New Mexico
-- 💰 **Salary:** Starting at $62,392 Per year (GS 9-11)
-- 🕒 **Posted:** 2026-08-04
-
-### [PROGRAM ANALYST](https://www.usajobs.gov/job/878583100) — Defense Threat Reduction Agency
+### [OPERATIONS RESEARCH ANALYST](https://www.usajobs.gov/job/885700000) — Defense Threat Reduction Agency
 - 📍 **Location:** Fort Belvoir, Virginia
 - 💰 **Salary:** Starting at $143,913 Per year (GS 14)
-- 🕒 **Posted:** 2026-07-30
+- 🕒 **Posted:** 2026-09-22
 
-### [PROGRAM ANALYST (T32)](https://www.usajobs.gov/job/850937500) — Air National Guard Units
-- 📍 **Location:** Ellington AFB, Texas
-- 💰 **Salary:** Starting at $85,270 Per year (GS 11)
-- 🕒 **Posted:** 2026-07-29
-
-### [MANAGEMENT AND PROGRAM ANALYST - DIRECT HIRE AUTHORITY](https://www.usajobs.gov/job/877444400) — Air Force Materiel Command
-- 📍 **Location:** Lackland AFB, Texas
-- 💰 **Salary:** Starting at $90,823 Per year (NH 3)
-- 🕒 **Posted:** 2026-07-21
-
-### [PROGRAM ANALYST](https://www.usajobs.gov/job/851975300) — Air National Guard Units
-- 📍 **Location:** Camp Murray, Washington
-- 💰 **Salary:** Starting at $76,395 Per year (GS 10)
-- 🕒 **Posted:** 2026-01-22
-
-### [Identity Intelligence Analyst](https://www.usajobs.gov/job/880318800) — Office of the Director of National Intelligence
-- 📍 **Location:** McLean, Virginia
+### [Management and Program Analyst](https://www.usajobs.gov/job/885693400) — Office of the Secretary
+- 📍 **Location:** Washington, District of Columbia
 - 💰 **Salary:** Starting at $102,415 Per year (GS 12)
-- 🕒 **Posted:** 2026-08-14
+- 🕒 **Posted:** 2026-09-22
 
-### [Senior Defense Intelligence Analyst (SDIA) FOR CHINA, USPACOM](https://www.usajobs.gov/job/880471200) — Defense Intelligence Agency
+### [Supervisory Program Manager](https://www.usajobs.gov/job/885677900) — Missile Defense Agency
+- 📍 **Location:** Redstone Arsenal, Alabama
+- 💰 **Salary:** Starting at $130,987 Per year (NH 4)
+- 🕒 **Posted:** 2026-09-22
+
+### [Program Manager](https://www.usajobs.gov/job/885568800) — Department of Energy Headquarters
+- 📍 **Location:** Carlsbad, New Mexico
+- 💰 **Salary:** Starting at $147,945 Per year (GS 15)
+- 🕒 **Posted:** 2026-09-22
+
+### [Enterprise Program Manager](https://www.usajobs.gov/job/885577300) — Office of the Secretary of Labor
+- 📍 **Location:** Washington, District of Columbia
+- 💰 **Salary:** Starting at $169,279 Per year (GS 15)
+- 🕒 **Posted:** 2026-09-22
+
+### [Project Manager (Architect) - DIRECT HIRE AUTHORITY](https://www.usajobs.gov/job/885721700) — Air Force Materiel Command
+- 📍 **Location:** Wright-Patterson AFB, Ohio
+- 💰 **Salary:** Starting at $92,841 Per year (NH 3)
+- 🕒 **Posted:** 2026-09-22
+
+### [PROJECT MANAGER](https://www.usajobs.gov/job/885235000) — Department of the Air Force Headquarters
+- 📍 **Location:** Fort Belvoir, Virginia
+- 💰 **Salary:** Starting at $121,785 Per year (GG 13)
+- 🕒 **Posted:** 2026-09-21
+
+### [PROJECT MANAGER](https://www.usajobs.gov/job/885436400) — Department of the Air Force Headquarters
+- 📍 **Location:** Fort Belvoir, Virginia
+- 💰 **Salary:** Starting at $121,785 Per year (GG 13)
+- 🕒 **Posted:** 2026-09-21
+
+### [Supervisory Program Specialist (Project Manager)](https://www.usajobs.gov/job/884680600) — Federal Emergency Management Agency
+- 📍 **Location:** Cambridge, Massachusetts
+- 💰 **Salary:** Starting at $120,548 Per year (GS 13)
+- 🕒 **Posted:** 2026-09-21
+
+### [PROGRAM ANALYST](https://www.usajobs.gov/job/885358900) — National Air and Space Intelligence Center
+- 📍 **Location:** Wright-Patterson AFB, Ohio
+- 💰 **Salary:** Starting at $110,401 Per year (GG 13)
+- 🕒 **Posted:** 2026-09-18
+
+### [MECHANICAL ENGINEER (PROJECT MANAGER) - DIRECT HIRE AUTHORITY](https://www.usajobs.gov/job/885313500) — Air Force Materiel Command
+- 📍 **Location:** Wright-Patterson AFB, Ohio
+- 💰 **Salary:** Starting at $92,841 Per year (NH 3)
+- 🕒 **Posted:** 2026-09-18
+
+### [IT Project Manager (APPSW)](https://www.usajobs.gov/job/885305500) — Drug Enforcement Administration
+- 📍 **Location:** Arlington, Virginia
+- 💰 **Salary:** Starting at $143,913 Per year (GS 14)
+- 🕒 **Posted:** 2026-09-18
+
+### [INTERDISCIPLINARY ENGINEER/ARCHITECT (PROJECT MANAGER)](https://www.usajobs.gov/job/884937500) — Naval Facilities Engineering Systems Command
+- 📍 **Location:** San Diego, California
+- 💰 **Salary:** Starting at $102,246 Per year (GS 12)
+- 🕒 **Posted:** 2026-09-17
+
+### [Supervisory Program Analyst](https://www.usajobs.gov/job/885431900) — Transportation Security Administration
+- 📍 **Location:** Herndon, Virginia
+- 💰 **Salary:** Starting at $143,913 Per year (SV J)
+- 🕒 **Posted:** 2026-09-22
+
+### [U.S. Customs and Border Protection Program Analyst (O-4 Billet) Non-Supervisory](https://www.usajobs.gov/job/885537600) — Immigration and Customs Enforcement
+- 📍 **Location:** Salt Lake City, Utah
+- 💰 **Salary:** Starting at $1 Per year (CC 4)
+- 🕒 **Posted:** 2026-09-22
+
+### [Supervisory Management and Program Analyst, GS-0343-14 FPL GS-14 (DE)](https://www.usajobs.gov/job/885406600) — Department of Education Headquarters
+- 📍 **Location:** Washington, District of Columbia
+- 💰 **Salary:** Starting at $143,913 Per year (GS 14)
+- 🕒 **Posted:** 2026-09-21
+
+### [Management & Program Analyst](https://www.usajobs.gov/job/885174000) — Office of the Secretary of Defense
+- 📍 **Location:** Alexandria, Virginia
+- 💰 **Salary:** Starting at $143,913 Per year (NH 4)
+- 🕒 **Posted:** 2026-09-21
+
+### [Regional MWR Program Manager](https://www.usajobs.gov/job/885298300) — Commander, Navy Installations Command
+- 📍 **Location:** Naples, Italy
+- 💰 **Salary:** Starting at $90,925 Per year (NF 5)
+- 🕒 **Posted:** 2026-09-21
+
+### [Program Analyst](https://www.usajobs.gov/job/885243600) — Interior, Bureau of Indian Affairs
+- 📍 **Location:** New Town, North Dakota
+- 💰 **Salary:** Starting at $50,460 Per year (GS 7-9)
+- 🕒 **Posted:** 2026-09-17
+
+### [Program Analyst (Informatics)](https://www.usajobs.gov/job/885206800) — Veterans Health Administration
+- 📍 **Location:** Iowa City, Iowa
+- 💰 **Salary:** Starting at $61,722 Per year (GS 9-12)
+- 🕒 **Posted:** 2026-09-17
+
+### [PROGRAM ANALYST](https://www.usajobs.gov/job/885128200) — U.S. Marine Corps
+- 📍 **Location:** Stafford, Virginia
+- 💰 **Salary:** Starting at $102,415 Per year (NH 3)
+- 🕒 **Posted:** 2026-09-17
+
+### [MANAGEMENT AND PROGRAM ANALYST (CAPABILITY DEVELOPMENT)](https://www.usajobs.gov/job/885107500) — Organization of the Joint Chiefs of Staff
+- 📍 **Location:** Pentagon, Arlington, Virginia
+- 💰 **Salary:** Starting at $143,913 Per year (GS 14)
+- 🕒 **Posted:** 2026-09-17
+
+### [MANAGEMENT AND PROGRAM ANALYST](https://www.usajobs.gov/job/884803300) — Defense Information Systems Agency
+- 📍 **Location:** Pentagon, Arlington, Virginia
+- 💰 **Salary:** Starting at $102,415 Per year (GG 12)
+- 🕒 **Posted:** 2026-09-17
+
+### [COUNTY PROGRAM ANALYST](https://www.usajobs.gov/job/884758700) — Farm Service Agency
+- 📍 **Location:** Chesterfield, South Carolina
+- 💰 **Salary:** Starting at $40,736 Per year (CO 5-9)
+- 🕒 **Posted:** 2026-09-17
+
+### [Supervisory Program Analyst](https://www.usajobs.gov/job/884853500) — Administrative Office of the U.S. Courts
+- 📍 **Location:** Washington, District of Columbia
+- 💰 **Salary:** Starting at $121,785 Per year (AD 00)
+- 🕒 **Posted:** 2026-09-16
+
+### [Management and Program Analyst (Workforce Development)](https://www.usajobs.gov/job/883779200) — Joint Activities
+- 📍 **Location:** Fort Meade, Maryland
+- 💰 **Salary:** Starting at $121,785 Per year (GG 13)
+- 🕒 **Posted:** 2026-09-14
+
+### [PROGRAM ANALYST](https://www.usajobs.gov/job/884050200) — Naval Sea Systems Command
+- 📍 **Location:** Naval Base, Norfolk, Virginia
+- 💰 **Salary:** Starting at $90,838 Per year (NH 3)
+- 🕒 **Posted:** 2026-09-10
+
+### [Program Analyst, Health Operations Unit (O-5 Billet) Non-Supervisory](https://www.usajobs.gov/job/882701800) — Immigration and Customs Enforcement
+- 📍 **Location:** Phoenix, Arizona
+- 💰 **Salary:** Starting at $1 Per year (CC 5)
+- 🕒 **Posted:** 2026-08-31
+
+### [Intelligence Analyst](https://www.usajobs.gov/job/885761800) — Department of Energy Headquarters
+- 📍 **Location:** Washington, District of Columbia
+- 💰 **Salary:** Starting at $143,913 Per year (GS 14)
+- 🕒 **Posted:** 2026-09-22
+
+### [Senior Defense Intelligence Analyst (SDIA) FOR CHINA, USPACOM](https://www.usajobs.gov/job/885349500) — Defense Intelligence Agency
 - 📍 **Location:** Pearl Harbor Naval Base, Oahu, Hawaii
 - 💰 **Salary:** Starting at $151,661 Per year (SL 00)
 - 🕒 **Posted:** 2026-08-10
 
-### [Cyber Threat Analyst](https://www.usajobs.gov/job/722102800) — Central Intelligence Agency
+### [General Engineer/Architect (Planning and Program Manager)](https://www.usajobs.gov/job/883950900) — Architect of the Capitol
 - 📍 **Location:** Washington, District of Columbia
-- 💰 **Salary:** Starting at $63,940 Per year (GS 8-15)
-- 🕒 **Posted:** 2025-10-01
+- 💰 **Salary:** Starting at $121,785 Per year (GS 13)
+- 🕒 **Posted:** 2026-09-09
 
-### [Supervisory Emergency Management Specialist (Airspace Security Manager)](https://www.usajobs.gov/job/880523300) — U.S. Capitol Police
-- 📍 **Location:** Washington, District of Columbia
-- 💰 **Salary:** Starting at $132,243 Per year (CP 10)
-- 🕒 **Posted:** 2026-08-13
+### [Public Notice - Operations Research Analyst (Direct Hire)](https://www.usajobs.gov/job/885267000) — George C. Marshall Space Flight Center
+- 📍 **Location:** Huntsville, Alabama
+- 💰 **Salary:** Starting at $50,835 Per year (GS 7-15)
+- 🕒 **Posted:** 2026-09-18
 
-### [Operations Research Analyst](https://www.usajobs.gov/job/879291100) — ARMY TRANSPORTATION
+### [Operations Research Analyst](https://www.usajobs.gov/job/884744600) — ARMY TRANSPORTATION
 - 📍 **Location:** Scott AFB, Illinois
-- 💰 **Salary:** Starting at $109,137 Per year (GS 13)
-- 🕒 **Posted:** 2026-08-04
+- 💰 **Salary:** Starting at $128,967 Per year (GS 14)
+- 🕒 **Posted:** 2026-09-15
 
-### [OPERATIONS RESEARCH ANALYST (DATA SCIENTIST)](https://www.usajobs.gov/job/878826100) — Defense Human Resources Activity
-- 📍 **Location:** Alexandria, Virginia
-- 💰 **Salary:** Starting at $102,415 Per year (GS 12)
-- 🕒 **Posted:** 2026-07-31
-
-### [OPERATIONS RESEARCH ANALYST-DIRECT HIRE AUTHORITY](https://www.usajobs.gov/job/871229900) — Air Force Materiel Command
+### [OPERATIONS RESEARCH ANALYST - DIRECT HIRE AUTHORITY](https://www.usajobs.gov/job/883150100) — Air Force Materiel Command
 - 📍 **Location:** Wright-Patterson AFB, Ohio
-- 💰 **Salary:** Starting at $92,841 Per year (NH 3)
-- 🕒 **Posted:** 2026-06-01
-
-### [INTERDISCIPLINARY GENERAL ENGINEER/OPERATIONS RESEARCH ANALYST](https://www.usajobs.gov/job/865002200) — Immediate Office of the Chief of Naval Operations
-- 📍 **Location:** Naval Base, Norfolk, Virginia
-- 💰 **Salary:** Starting at $108,019 Per year (GS 13)
-- 🕒 **Posted:** 2026-04-14
-
-### [OPERATIONS RESEARCH ANALYST](https://www.usajobs.gov/job/850125300) — Air Force Civilian Career Training
-- 📍 **Location:** Los Angeles County, California
-- 💰 **Salary:** Starting at $49,960 Per year (GS 7-9)
-- 🕒 **Posted:** 2025-10-01
-
-### [OPERATIONS RESEARCH ANALYST](https://www.usajobs.gov/job/846734800) — Air Force Civilian Career Training
-- 📍 **Location:** Gunter AFB, Alabama
-- 💰 **Salary:** Starting at $49,960 Per year (GS 7-9)
-- 🕒 **Posted:** 2025-09-29
+- 💰 **Salary:** Starting at $130,461 Per year (NH 4)
+- 🕒 **Posted:** 2026-09-02
