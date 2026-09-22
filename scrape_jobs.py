@@ -2447,35 +2447,137 @@ def _merge_duplicate_job(existing: dict, incoming: dict) -> int:
         existing["duplicate_urls"] = sorted(dupes)
     return enriched
 
+def _company_candidate_keys(company: str) -> set[str]:
+    """Create inexpensive lookup keys while preserving company-match behavior."""
+    norm = _norm_company(company)
+    if not norm:
+        return set()
+
+    # Token keys match companies such as "Amazon" and
+    # "Amazon Web Services."
+    keys = {f"token:{token}" for token in norm.split()}
+
+    # Five-character keys preserve substring matches such as abbreviated or
+    # concatenated company-name variants.
+    compact = norm.replace(" ", "")
+    if len(compact) >= 5:
+        keys.update(
+            f"gram:{compact[i:i + 5]}"
+            for i in range(len(compact) - 4)
+        )
+
+    return keys
+
+
+def _index_job_candidate(
+    job: dict,
+    position: int,
+    company_index: dict[str, set[int]],
+    title_index: dict[str, set[int]],
+) -> None:
+    """Add one retained job to the company and title candidate indexes."""
+    for key in _company_candidate_keys(job.get("company", "")):
+        company_index.setdefault(key, set()).add(position)
+
+    for token in set(_title_tokens(job.get("title", ""))):
+        title_index.setdefault(token, set()).add(position)
+
+
+def _candidate_positions(
+    job: dict,
+    company_index: dict[str, set[int]],
+    title_index: dict[str, set[int]],
+) -> list[int]:
+    """Return records that could pass both company and title matching."""
+    company_positions: set[int] = set()
+
+    for key in _company_candidate_keys(job.get("company", "")):
+        company_positions.update(company_index.get(key, ()))
+
+    if not company_positions:
+        return []
+
+    title_positions: set[int] = set()
+
+    for token in set(_title_tokens(job.get("title", ""))):
+        title_positions.update(title_index.get(token, ()))
+
+    return sorted(company_positions & title_positions)
+
+def _find_content_duplicate(
+    job: dict,
+    entries: list[dict],
+    company_index: dict[str, set[int]],
+    title_index: dict[str, set[int]],
+) -> dict | None:
+    """Apply the full duplicate test only to plausible indexed candidates."""
+    for position in _candidate_positions(
+        job,
+        company_index,
+        title_index,
+    ):
+        candidate = entries[position]
+
+        if _same_job(candidate, job):
+            return candidate
+
+    return None
 
 def _dedupe_master_jobs(jobs: list[dict]) -> tuple[list[dict], int, int]:
     kept: list[dict] = []
+    
+    # Exact URL and source-ID matches remain the fastest lookup path.
     url_index: dict[str, dict] = {}
     id_index: dict[str, dict] = {}
+
+    # These indexes narrow fuzzy/content matching to plausible candidates.
+    company_index: dict[str, set[int]] = {}
+    title_index: dict[str, set[int]] = {}
+
     merged = enriched = 0
 
-    def index_job(job: dict):
+   def index_job(job: dict) -> None:
         for url in _job_urls(job):
             url_index[url] = job
+
             ident = _job_identity(url)
             if ident:
                 id_index[ident] = job
 
-    for job in jobs:
+  for job in jobs:
         url = job.get("url")
         ident = _job_identity(url or "")
-        existing = (url_index.get(url) if url else None) or (id_index.get(ident) if ident else None)
+
+        existing = (
+            (url_index.get(url) if url else None)
+            or (id_index.get(ident) if ident else None)
+        )
+
         if existing is None:
-            existing = next((candidate for candidate in kept if _same_job(candidate, job)), None)
+            existing = _find_content_duplicate(
+                job,
+                kept,
+                company_index,
+                title_index,
+            )
         if existing is None:
+            position = len(kept)
             kept.append(job)
+
             index_job(job)
+            _index_job_candidate(
+                job,
+                position,
+                company_index,
+                title_index,
+            )
             continue
+
         enriched += _merge_duplicate_job(existing, job)
         index_job(existing)
         merged += 1
-    return kept, merged, enriched
 
+    return kept, merged, enriched
 
 def _load_prev_jobs(json_path: str) -> list[dict]:
     """Read the `jobs` list from a previously-saved jobs JSON (empty if missing)."""
@@ -2523,6 +2625,8 @@ def _merge_into_all_jobs(new_jobs: list) -> int:
     entries, merged_existing, enriched_existing = _dedupe_master_jobs(master)
     url_index: dict[str, dict] = {}
     id_index: dict[str, dict] = {}
+    company_index: dict[str, set[int]] = {}
+    title_index: dict[str, set[int]] = {}
 
     def index_entry(entry: dict):
         for u in _job_urls(entry):
@@ -2531,8 +2635,9 @@ def _merge_into_all_jobs(new_jobs: list) -> int:
             if ident:
                 id_index[ident] = entry
 
-    for entry in entries:
-        index_entry(entry)
+  for position, entry in enumerate(entries):
+    index_entry(entry)
+    _index_job_candidate(entry, position, company_index, title_index)
 
     added = 0
     enriched = enriched_existing
@@ -2542,13 +2647,26 @@ def _merge_into_all_jobs(new_jobs: list) -> int:
         ident = _job_identity(url or "")
         existing = (url_index.get(url) if url else None) or (id_index.get(ident) if ident else None)
         if existing is None:
-            existing = next((entry for entry in entries if _same_job(entry, j)), None)
+            existing = _find_content_duplicate(
+                j,
+                entries,
+                company_index,
+                title_index,
+            )
         if existing is None and url:
             entry = dict(j)
             entry["first_seen"] = stamp
+            position = len(entries)
             entries.append(entry)
             index_entry(entry)
+            _index_job_candidate(
+                entry,
+                position,
+                company_index,
+                title_index,
+            )
             added += 1
+            
         elif existing is not None:
             enriched += _merge_duplicate_job(existing, j)
             index_entry(existing)
