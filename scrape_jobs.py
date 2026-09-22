@@ -2634,9 +2634,9 @@ def _merge_into_all_jobs(new_jobs: list) -> int:
             if ident:
                 id_index[ident] = entry
 
-  for position, entry in enumerate(entries):
-    index_entry(entry)
-    _index_job_candidate(entry, position, company_index, title_index)
+    for position, entry in enumerate(entries):
+        index_entry(entry)
+        _index_job_candidate(entry, position, company_index, title_index)
 
     added = 0
     enriched = enriched_existing
