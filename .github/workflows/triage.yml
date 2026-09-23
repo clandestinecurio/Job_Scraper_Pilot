@@ -10,6 +10,17 @@ on:
     - cron: "0 9 * * *"
 
   workflow_dispatch:
+    inputs:
+      limit:
+        description: "Maximum jobs to score in this run"
+        required: false
+        default: "10"
+        type: string
+      since_days:
+        description: "Only score jobs first seen in the last N days"
+        required: false
+        default: "7"
+        type: string
 
 concurrency:
   group: job-scraper-commit-push
@@ -18,6 +29,9 @@ concurrency:
 jobs:
   triage:
     name: Score new roles vs candidate profile
+    # Scheduled AI scoring is opt-in because it incurs API cost. Manual runs
+    # remain available for small validation batches before enabling the cron.
+    if: github.event_name == 'workflow_dispatch' || vars.ENABLE_AI_TRIAGE == 'true'
     runs-on: ubuntu-latest
 
     permissions:
@@ -25,10 +39,10 @@ jobs:
 
     steps:
       - name: Checkout repo
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
 
       - name: Set up Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v7
         with:
           python-version: "3.11"
 
@@ -43,7 +57,13 @@ jobs:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           CANDIDATE_PROFILE: ${{ secrets.CANDIDATE_PROFILE }}
           CANDIDATE_RESUME: ${{ secrets.CANDIDATE_RESUME }}
-        run: python triage_agent.py --limit 300
+          TRIAGE_LIMIT: ${{ github.event.inputs.limit || vars.TRIAGE_LIMIT || '50' }}
+          TRIAGE_SINCE_DAYS: ${{ github.event.inputs.since_days || vars.TRIAGE_SINCE_DAYS || '14' }}
+        run: |
+          python triage_agent.py \
+            --limit "$TRIAGE_LIMIT" \
+            --since "$TRIAGE_SINCE_DAYS" \
+            --max-consecutive-errors 5
 
       - name: Commit scores to repo
         if: vars.ENABLE_DATA_COMMITS == 'true'

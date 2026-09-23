@@ -31,6 +31,10 @@ All 18 workflows live in `.github/workflows/`. Pattern:
 | Item | Where to set | Required? |
 |------|-------------|-----------|
 | `ENABLE_DATA_COMMITS=true` | Settings → Secrets and variables → Actions → **Variables** tab | **Yes** |
+| `ENABLE_AI_TRIAGE=true` | Enables scheduled paid AI scoring; manual validation runs do not require it | Optional |
+| `TRIAGE_LIMIT` / `TRIAGE_SINCE_DAYS` | Scheduled AI cost/recency controls (defaults: 50 / 14) | Optional |
+| `ENABLE_GLASSDOOR_WATCHER=true` | Enables scheduled Glassdoor runs | Optional |
+| `ENABLE_ZIPRECRUITER_WATCHER=true` | Enables scheduled ZipRecruiter runs | Optional |
 | Workflow permissions: Read+write | Settings → Actions → General → Workflow permissions | **Yes** |
 | GitHub Pages: main branch, / root | Settings → Pages | Yes (for dashboard) |
 | `PUSHOVER_TOKEN` + `PUSHOVER_USER` secrets | Settings → Secrets | Optional |
@@ -51,6 +55,7 @@ Verify everything is configured:
 
 ### Run a scraper locally
 ```bash
+# Use Python 3.11; JobSpy's NumPy 1.26.3 pin is incompatible with Python 3.14.
 pip install -r requirements.txt        # only for Indeed/Glassdoor/ZipRecruiter/Google
 python scrape_jobs.py --linkedin-only
 python scrape_jobs.py --indeed-only
