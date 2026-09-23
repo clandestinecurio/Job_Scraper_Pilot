@@ -1,62 +1,116 @@
 {
-  "scraped_at": "2026-08-26 18:21 UTC",
-  "total": 4,
-  "new_count": 2,
+  "scraped_at": "2026-09-23 13:53 UTC",
+  "total": 6,
+  "new_count": 6,
   "jobs": [
     {
-      "company": "Housing Authority of the City of Los Angeles",
-      "title": "Project Manager",
-      "location": "Los Angeles, CA",
-      "url": "https://www.governmentjobs.com/jobs/5454706-0/project-manager",
-      "date_posted": "",
-      "salary": "$118,240.00 - $146,286.40 Annually",
-      "ats": "NEOGOV"
-    },
-    {
-      "company": "City of Oakland",
-      "title": "Project Manager II (SC-CeaseFire)",
-      "location": "Oakland, CA",
-      "url": "https://www.governmentjobs.com/jobs/5432702-0/project-manager-ii-sc-ceasefire",
-      "date_posted": "",
-      "salary": "$172,963.68 - $212,374.44 Annually",
-      "ats": "NEOGOV"
-    },
-    {
-      "company": "Los Angeles County Metropolitan Transportation Authority (CA)",
-      "title": "PROJECT MANAGER (TRANSIT AMBASSADOR PROGRAM)",
-      "location": "Los Angeles, CA",
-      "url": "https://www.governmentjobs.com/jobs/5445975-0/project-manager-transit-ambassador-program",
-      "date_posted": "",
-      "salary": "$109,470.40 - $164,195.20 Annually",
-      "ats": "NEOGOV"
-    },
-    {
       "company": "AC Transit",
-      "title": "Program Manager (Regulatory Compliance)",
+      "title": "Project Manager II (Capital Projects)",
       "location": "Downtown Oakland, CA",
-      "url": "https://www.governmentjobs.com/jobs/5449461-0/program-manager-regulatory-compliance",
+      "url": "https://www.governmentjobs.com/jobs/5434702-0/project-manager-ii-capital-projects",
       "date_posted": "",
-      "salary": "$156,059.00 - $186,365.00 Annually",
+      "salary": "$144,503.00 - $172,570.00 Annually",
+      "ats": "NEOGOV"
+    },
+    {
+      "company": "City of Berkeley",
+      "title": "Program Manager II",
+      "location": "Berkeley, CA",
+      "url": "https://www.governmentjobs.com/jobs/5467445-0/program-manager-ii",
+      "date_posted": "",
+      "salary": "$152,532.43 - $184,582.11 Annually",
+      "ats": "NEOGOV"
+    },
+    {
+      "company": "County of Santa Clara",
+      "title": "Program Manager III - Vietnamese American Service Center",
+      "location": "San Jose Metropolitan Area, CA",
+      "url": "https://www.governmentjobs.com/jobs/5436326-0/program-manager-iii-vietnamese-american-service-center",
+      "date_posted": "",
+      "salary": "$162,745.44 - $197,855.84 Annually",
+      "ats": "NEOGOV"
+    },
+    {
+      "company": "City of Berkeley",
+      "title": "Information Security Manager",
+      "location": "Berkeley, CA",
+      "url": "https://www.governmentjobs.com/jobs/5443375-0/information-security-manager",
+      "date_posted": "",
+      "salary": "$175,978.82 - $216,054.80 Annually",
+      "ats": "NEOGOV"
+    },
+    {
+      "company": "County of San Mateo",
+      "title": "County Facilities Security Manager (Open)",
+      "location": "County of San Mateo, CA",
+      "url": "https://www.governmentjobs.com/jobs/5483958-0/county-facilities-security-manager-open",
+      "date_posted": "",
+      "salary": "$140,462.40 - $175,510.40 Annually",
+      "ats": "NEOGOV"
+    },
+    {
+      "company": "City of San Jose",
+      "title": "Enterprise Principal Technology Analyst (Cybersecurity Operations Manager)",
+      "location": "San Jose",
+      "url": "https://www.governmentjobs.com/jobs/5482105-0/enterprise-principal-technology-analyst-cybersecurity-operations-manager",
+      "date_posted": "",
+      "salary": "$163,035.60 - $198,525.60 Annually",
       "ats": "NEOGOV"
     }
   ],
   "new_jobs": [
     {
-      "company": "Los Angeles County Metropolitan Transportation Authority (CA)",
-      "title": "PROJECT MANAGER (TRANSIT AMBASSADOR PROGRAM)",
-      "location": "Los Angeles, CA",
-      "url": "https://www.governmentjobs.com/jobs/5445975-0/project-manager-transit-ambassador-program",
+      "company": "AC Transit",
+      "title": "Project Manager II (Capital Projects)",
+      "location": "Downtown Oakland, CA",
+      "url": "https://www.governmentjobs.com/jobs/5434702-0/project-manager-ii-capital-projects",
       "date_posted": "",
-      "salary": "$109,470.40 - $164,195.20 Annually",
+      "salary": "$144,503.00 - $172,570.00 Annually",
       "ats": "NEOGOV"
     },
     {
-      "company": "AC Transit",
-      "title": "Program Manager (Regulatory Compliance)",
-      "location": "Downtown Oakland, CA",
-      "url": "https://www.governmentjobs.com/jobs/5449461-0/program-manager-regulatory-compliance",
+      "company": "City of Berkeley",
+      "title": "Program Manager II",
+      "location": "Berkeley, CA",
+      "url": "https://www.governmentjobs.com/jobs/5467445-0/program-manager-ii",
       "date_posted": "",
-      "salary": "$156,059.00 - $186,365.00 Annually",
+      "salary": "$152,532.43 - $184,582.11 Annually",
+      "ats": "NEOGOV"
+    },
+    {
+      "company": "County of Santa Clara",
+      "title": "Program Manager III - Vietnamese American Service Center",
+      "location": "San Jose Metropolitan Area, CA",
+      "url": "https://www.governmentjobs.com/jobs/5436326-0/program-manager-iii-vietnamese-american-service-center",
+      "date_posted": "",
+      "salary": "$162,745.44 - $197,855.84 Annually",
+      "ats": "NEOGOV"
+    },
+    {
+      "company": "City of Berkeley",
+      "title": "Information Security Manager",
+      "location": "Berkeley, CA",
+      "url": "https://www.governmentjobs.com/jobs/5443375-0/information-security-manager",
+      "date_posted": "",
+      "salary": "$175,978.82 - $216,054.80 Annually",
+      "ats": "NEOGOV"
+    },
+    {
+      "company": "County of San Mateo",
+      "title": "County Facilities Security Manager (Open)",
+      "location": "County of San Mateo, CA",
+      "url": "https://www.governmentjobs.com/jobs/5483958-0/county-facilities-security-manager-open",
+      "date_posted": "",
+      "salary": "$140,462.40 - $175,510.40 Annually",
+      "ats": "NEOGOV"
+    },
+    {
+      "company": "City of San Jose",
+      "title": "Enterprise Principal Technology Analyst (Cybersecurity Operations Manager)",
+      "location": "San Jose",
+      "url": "https://www.governmentjobs.com/jobs/5482105-0/enterprise-principal-technology-analyst-cybersecurity-operations-manager",
+      "date_posted": "",
+      "salary": "$163,035.60 - $198,525.60 Annually",
       "ats": "NEOGOV"
     }
   ]

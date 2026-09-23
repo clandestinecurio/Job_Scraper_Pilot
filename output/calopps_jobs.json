@@ -1,8 +1,26 @@
 {
-  "scraped_at": "2026-08-26 18:36 UTC",
-  "total": 3,
-  "new_count": 0,
+  "scraped_at": "2026-09-23 13:54 UTC",
+  "total": 5,
+  "new_count": 2,
   "jobs": [
+    {
+      "company": "Golden Gate Bridge Highway And Transportation District",
+      "title": "Program Manager, Electronic Revenue Operations",
+      "location": "San Francisco/Peninsula",
+      "url": "https://www.calopps.org/golden-gate-bridge-highway-and-transportation-district/job-20773767",
+      "date_posted": "",
+      "salary": "$168,292.80-$203,257.60",
+      "ats": "CalOpps"
+    },
+    {
+      "company": "Midpeninsula Regional Open Space District",
+      "title": "Conservation Grazing Program Manager",
+      "location": "South Bay",
+      "url": "https://www.calopps.org/midpeninsula-regional-open-space-district/job-20772033",
+      "date_posted": "",
+      "salary": "$133,233.00-$166,419.00 Annually",
+      "ats": "CalOpps"
+    },
     {
       "company": "Alameda County Transportation Commission",
       "title": "Senior Program Analyst- Programming",
@@ -31,5 +49,24 @@
       "ats": "CalOpps"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "Golden Gate Bridge Highway And Transportation District",
+      "title": "Program Manager, Electronic Revenue Operations",
+      "location": "San Francisco/Peninsula",
+      "url": "https://www.calopps.org/golden-gate-bridge-highway-and-transportation-district/job-20773767",
+      "date_posted": "",
+      "salary": "$168,292.80-$203,257.60",
+      "ats": "CalOpps"
+    },
+    {
+      "company": "Midpeninsula Regional Open Space District",
+      "title": "Conservation Grazing Program Manager",
+      "location": "South Bay",
+      "url": "https://www.calopps.org/midpeninsula-regional-open-space-district/job-20772033",
+      "date_posted": "",
+      "salary": "$133,233.00-$166,419.00 Annually",
+      "ats": "CalOpps"
+    }
+  ]
 }
