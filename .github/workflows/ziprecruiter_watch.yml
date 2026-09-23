@@ -1,7 +1,9 @@
 name: ZipRecruiter Watcher
 
 on:
-  # JobSpy-backed ZipRecruiter pass, offset from LinkedIn/Indeed/Glassdoor.
+  # JobSpy-backed ZipRecruiter pass. Scheduled runs are opt-in with
+  # repository Variable ENABLE_ZIPRECRUITER_WATCHER=true because the board
+  # commonly rate-limits shared CI addresses.
   schedule:
     - cron: "27 16-23,0-3 * * *"
   workflow_dispatch:
@@ -19,6 +21,7 @@ concurrency:
 jobs:
   scrape:
     name: ZipRecruiter scrape
+    if: github.event_name == 'workflow_dispatch' || vars.ENABLE_ZIPRECRUITER_WATCHER == 'true'
     runs-on: ubuntu-latest
 
     permissions:
@@ -26,10 +29,10 @@ jobs:
 
     steps:
       - name: Checkout repo
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
 
       - name: Set up Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v7
         with:
           python-version: "3.11"
           cache: pip

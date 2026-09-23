@@ -121,7 +121,7 @@ Without these secrets, notifications are simply off and everything else works.
 
 ## Step 7 — AI résumé fit-scoring (optional, advanced)
 
-`triage_agent.py` can score each role against your résumé with the [**Claude API**](https://www.anthropic.com/api) (paid, \~pennies/run). It needs an `ANTHROPIC_API_KEY` secret plus your profile/résumé in secrets. Entirely optional — leave the `triage.yml` / `evals.yml` workflows **disabled** if you don't use it (**Actions → workflow → ⋯ → Disable**).
+`triage_agent.py` can score each role against your résumé with the [**Claude API**](https://www.anthropic.com/api) (paid). It needs an `ANTHROPIC_API_KEY` secret plus your profile/résumé in secrets. Entirely optional: deterministic dashboard scoring continues to work without it. Scheduled AI runs require repository Variable `ENABLE_AI_TRIAGE=true`; manual runs remain available for small validation batches. Optional `TRIAGE_LIMIT` and `TRIAGE_SINCE_DAYS` variables control scheduled cost and recency (defaults: 50 jobs from the last 14 days).
 
 ### Turning sources on / off
 
@@ -129,9 +129,11 @@ Each source is a workflow in [`.github/workflows/`](.github/workflows). To stop 
 
 Glassdoor is currently treated as an opt-in scheduled source because it is prone to upstream blocking and location-parse failures from shared GitHub Actions IPs. Manual **Run workflow** still works for testing. To schedule it, add repository Variable `ENABLE_GLASSDOOR_WATCHER=true`.
 
+ZipRecruiter is also opt-in because it frequently rate-limits shared CI addresses. Manual **Run workflow** remains available; schedule it only after a successful test by adding repository Variable `ENABLE_ZIPRECRUITER_WATCHER=true`.
+
 ### Running locally {#running-locally}
 
-Optional — only if you want to test scrapes on your own machine. Needs [**Python 3.11+**](https://www.python.org/downloads/):
+Optional — only if you want to test scrapes on your own machine. Use [**Python 3.11**](https://www.python.org/downloads/) for parity with GitHub Actions. The current JobSpy dependency pins NumPy 1.26.3, which does not provide a Python 3.14 Windows wheel.
 
 ``` bash
 python scrape_jobs.py --linkedin-only      # standard library only
@@ -461,6 +463,8 @@ Output format:
 | `CANDIDATE_RESUME` | Resume / CV text (kept out of the public repo) |
 
 Paste your CV text into `CANDIDATE_RESUME`. Without these secrets, leave `triage.yml` and `evals.yml` disabled (Actions → ⋯ → Disable workflow) — the scrapers and dashboard work fully without them; `scores.json` is optional.
+
+Before enabling the nightly schedule, fund the API account and run a manual 10-job / 7-day validation batch. The agent stops after five consecutive failures and exits nonzero so exhausted credits or invalid requests cannot masquerade as a successful scoring run.
 
 > Note: `eval_triage.py` still contains the original ML-candidate golden cases. They only matter if you run the triage agent; rewrite them for your domain (or keep `evals.yml` disabled) once you've finalized your profile.
 

@@ -378,6 +378,18 @@ def parse_verdict(raw: str) -> dict | None:
     return obj
 
 
+def safe_error_detail(exc: Exception, limit: int = 300) -> str:
+    """Return a useful log message without risking credential disclosure."""
+    detail = re.sub(r"sk-ant-[A-Za-z0-9_-]+", "[redacted-api-key]", str(exc))
+    detail = re.sub(
+        r"(?i)(api[_ -]?key\s*[:=]\s*)\S+",
+        r"\1[redacted]",
+        detail,
+    )
+    detail = " ".join(detail.split()) or "no error detail provided"
+    return detail[:limit]
+
+
 # ---------------------------------------------------------------------------
 # Main loop
 # ---------------------------------------------------------------------------
@@ -389,6 +401,8 @@ def main() -> int:
     ap.add_argument("--since", type=int, default=0,
                     help="only roles first_seen in the last N days (0 = all unscored)")
     ap.add_argument("--model", default=DEFAULT_MODEL, help="model id for the API path")
+    ap.add_argument("--max-consecutive-errors", type=int, default=5,
+                    help="abort after this many consecutive model/parse failures")
     ap.add_argument("--from-files", action="store_true",
                     help="read the live per-source snapshots instead of all_jobs.json")
     ap.add_argument("--dry-run", action="store_true", help="report only; write nothing")
@@ -455,9 +469,12 @@ def main() -> int:
 
     static_prefix = build_static_prefix(profile, resume)
     redact_tokens = private_tokens(profile, resume)
-    jd_read = jd_meta = errors = 0
+    jd_read = jd_meta = errors = successes = attempted = 0
+    consecutive_errors = 0
+    aborted = False
 
     for i, job in enumerate(batch, 1):
+        attempted += 1
         jd_text = "" if args.no_jd else fetch_jd(job)
         prompt = build_job_prompt(job, jd_text)
         label = f"[{i}/{len(batch)}] {job.get('title', '')[:48]} @ {job.get('company', '')[:24]}"
@@ -466,12 +483,24 @@ def main() -> int:
             verdict = parse_verdict(raw)
         except Exception as e:
             verdict = None
-            print(f"  ⚠️  {label}: {type(e).__name__}")
+            error_type = type(e).__name__
+            error_detail = safe_error_detail(e)
+            print(f"  ⚠️  {label}: {error_type}: {error_detail}")
+        else:
+            error_type = "ResponseParseError" if verdict is None else ""
+            error_detail = "model response was not valid verdict JSON" if verdict is None else ""
+            if verdict is None:
+                print(f"  ⚠️  {label}: {error_type}: {error_detail}")
         if verdict is None:
             verdict = {"score": 0, "verdict": "error", "role_family": "other",
                        "seniority_fit": "", "why": "model call or parse failed",
-                       "flags": [], "outreach_opener": ""}
+                       "flags": [], "outreach_opener": "",
+                       "error_type": error_type, "error_message": error_detail}
             errors += 1
+            consecutive_errors += 1
+        else:
+            successes += 1
+            consecutive_errors = 0
         redact_private(verdict, redact_tokens)
         verdict["jd"] = "read" if jd_text else "metadata-only"
         jd_read += bool(jd_text)
@@ -487,13 +516,26 @@ def main() -> int:
         })
         with open(SCORES_PATH, "w") as f:
             json.dump(data, f, separators=(",", ":"))  # compact: dashboard fetches this
+
+        if (args.max_consecutive_errors > 0
+                and consecutive_errors >= args.max_consecutive_errors):
+            print(
+                f"\n❌ Aborting after {consecutive_errors} consecutive scoring failures; "
+                "check the first error above before retrying."
+            )
+            aborted = True
+            break
         time.sleep(0.2)  # be gentle on rate limits / the local CLI
 
-    remaining = len(unscored) - len(batch)
-    print(f"\n✅ scored {len(batch)} of {len(unscored)} unscored "
+    remaining = len(unscored) - attempted
+    status = "✅" if errors == 0 else "⚠️"
+    print(f"\n{status} attempted {attempted} of {len(unscored)} unscored: "
+          f"{successes} scored, {errors} errors "
           f"({len(scores)} total in scores.json; {jd_read} jd-read, "
-          f"{jd_meta} metadata-only, {errors} errors)"
+          f"{jd_meta} metadata-only)"
           + (f" — raise --limit to cover the remaining {remaining}" if remaining else ""))
+    if aborted or (attempted and successes == 0):
+        return 1
     return 0
 
 

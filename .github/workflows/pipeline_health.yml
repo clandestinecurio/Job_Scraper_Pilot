@@ -1,0 +1,26 @@
+name: Pipeline Health Tests
+
+on:
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v7
+
+      - name: Set up Python
+        uses: actions/setup-python@v7
+        with:
+          python-version: "3.11"
+
+      - name: Compile Python sources
+        run: python -m py_compile scrape_jobs.py triage_agent.py
+
+      - name: Run resilience tests
+        run: python -m unittest discover -s tests -v

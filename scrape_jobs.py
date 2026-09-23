@@ -124,6 +124,15 @@ KEYWORDS = _cfg("keywords.include", [])
 REQUEST_DELAY = 0.3
 # LinkedIn needs a longer inter-request gap; jitter is added at call sites
 LINKEDIN_REQUEST_DELAY = 3.0
+# JobSpy boards are more aggressive about blocking repeated automated queries.
+JOBSPY_REQUEST_DELAY = float(_cfg("jobspy.request_delay_seconds", 1.5))
+JOBSPY_MAX_INITIAL_EMPTY_QUERIES = int(
+    _cfg("jobspy.max_initial_empty_queries", 12)
+)
+
+
+class SourceUnavailableError(RuntimeError):
+    """Raised when a source produced no usable data because it was unavailable."""
 
 # Biotech digest should only contain reliably fresh roles.
 FRESH_JOB_LOOKBACK = timedelta(hours=24)
@@ -786,6 +795,20 @@ def _jobspy_user_agent():
         raw = os.environ.get("JOBSPY_USER_AGENT", "")
     return str(raw or "").strip() or None
 
+
+def _jobspy_country(value) -> str:
+    """Normalize common config aliases to country names accepted by JobSpy."""
+    country = str(value or "USA").strip().lower()
+    return {
+        "us": "usa",
+        "united states": "usa",
+        "united states of america": "usa",
+        "gb": "uk",
+        "great britain": "uk",
+        "england": "uk",
+        "uae": "united arab emirates",
+    }.get(country, country)
+
 # jobspy returns the full JD (markdown) for many boards. We keep a trimmed copy
 # in source JSONs and all_jobs.json so the dashboard, deterministic scorer, and
 # optional triage agent can judge roles from the actual description instead of
@@ -898,16 +921,21 @@ def _scrape_jobspy_board(*, label: str, site_name: str, geos: list, terms: list,
     try:
         from jobspy import scrape_jobs as jobspy_scrape
     except ImportError:
-        print(f"  ⚠️  python-jobspy not installed; skipping {label}")
-        return []
+        raise SourceUnavailableError(
+            f"python-jobspy is not installed; cannot scrape {label}"
+        )
 
     jobs_by_id: dict[str, dict] = {}
     ok_terms = 0
     errored_terms = 0
     raw_rows = 0
+    attempted_terms = 0
+    consecutive_no_data = 0
+    stopped_early = False
     for geo in geos:
       for term in terms:
-        time.sleep(REQUEST_DELAY)  # throttle: back-to-back calls invite blocking on CI IPs
+        attempted_terms += 1
+        time.sleep(JOBSPY_REQUEST_DELAY + random.uniform(0, 0.5))
         try:
             # JobSpy gotcha: hours_old / is_remote / job_type / easy_apply
             # are mutually exclusive — only one may be set, or the time filter
@@ -918,7 +946,7 @@ def _scrape_jobspy_board(*, label: str, site_name: str, geos: list, terms: list,
                 location=geo.get("location", ""),
                 results_wanted=results_wanted,
                 hours_old=hours_old,
-                country_indeed=geo.get("country", "USA"),
+                country_indeed=_jobspy_country(geo.get("country", "USA")),
                 enforce_annual_salary=False,
                 proxies=_jobspy_proxies(),
                 user_agent=_jobspy_user_agent(),
@@ -926,29 +954,42 @@ def _scrape_jobspy_board(*, label: str, site_name: str, geos: list, terms: list,
             )
         except Exception as e:
             errored_terms += 1
-            print(f"  ⚠️  {label} ({geo['location']} · {term!r}): {e}")
-            continue
-        ok_terms += 1
-        raw_rows += _ingest_jobspy_df(df, label=label, jobs_by_id=jobs_by_id)
+            consecutive_no_data += 1
+            print(f"  ⚠️  {label} ({geo.get('location', '')} · {term!r}): {e}")
+        else:
+            ok_terms += 1
+            term_rows = _ingest_jobspy_df(df, label=label, jobs_by_id=jobs_by_id)
+            raw_rows += term_rows
+            consecutive_no_data = 0 if term_rows else consecutive_no_data + 1
+
+        if (raw_rows == 0
+                and JOBSPY_MAX_INITIAL_EMPTY_QUERIES > 0
+                and consecutive_no_data >= JOBSPY_MAX_INITIAL_EMPTY_QUERIES):
+            print(
+                f"  ⛔ {label}: stopping after {consecutive_no_data} consecutive "
+                "queries produced no data"
+            )
+            stopped_early = True
+            break
+      if stopped_early:
+          break
     jobs = list(jobs_by_id.values())
     print(
-        f"  📊 {label}: {len(geos)}×{len(terms)} queries → "
+        f"  📊 {label}: {attempted_terms}/{len(geos) * len(terms)} queries → "
         f"{ok_terms} ok / {errored_terms} errored · {raw_rows} raw, {len(jobs)} matched"
     )
 
     # Block guard: zero rows pulled across every term means the board gave us no data
     # — a hard block (calls raised) or a soft block (empty frames). This is NOT the
     # same as "rows returned but none matched our keywords" (raw_rows > 0, jobs == []),
-    # which is a legitimate empty result. On a no-data run, reuse the previous results
-    # so we don't clobber the dedupe baseline (and the dashboard's source column) with
-    # an empty file; the saver then reports 0 new (all already seen).
+    # which is a legitimate empty result. Fail without invoking the saver so existing
+    # source output and the cumulative master remain unchanged.
     if raw_rows == 0:
         prev = _load_prev_jobs(os.path.join(OUTPUT_DIR, f"{prev_basename}.json"))
-        print(
-            f"  ⛔ {label} returned 0 rows across all terms (likely blocked); "
-            f"preserving previous {len(prev)} result(s)"
+        raise SourceUnavailableError(
+            f"{label} returned 0 rows (blocked or unavailable); "
+            f"left the previous {len(prev)} result(s) unchanged"
         )
-        return prev
 
     return jobs
 
@@ -2181,11 +2222,13 @@ def scrape_csucareers_recent() -> list:
     print(f"  ✅ CSU Careers: {len(jobs)} on-target role(s) (from {raw_rows} listed)")
     if not complete:
         prev = _load_prev_jobs(os.path.join(OUTPUT_DIR, "csucareers_jobs.json"))
+        merged = {j.get("url"): j for j in prev if j.get("url")}
+        merged.update({j.get("url"): j for j in jobs if j.get("url")})
         print(
-            f"  ⛔ CSU Careers scan incomplete; preserving previous "
-            f"{len(prev)} result(s)"
+            f"  ⚠️  CSU Careers scan incomplete; merged {len(jobs)} partial "
+            f"result(s) with {len(prev)} previous result(s)"
         )
-        return prev
+        return list(merged.values())
     if not jobs and (raw_rows == 0 or not reached):
         return _load_prev_jobs(os.path.join(OUTPUT_DIR, "csucareers_jobs.json"))
     return jobs
@@ -2990,33 +3033,90 @@ def save_results(jobs: list):
 # Main
 # ---------------------------------------------------------------------------
 
+_SOURCE_FLAGS = (
+    "--indeed-only", "--indeed-backfill",
+    "--glassdoor-only", "--glassdoor-backfill",
+    "--ziprecruiter-only", "--ziprecruiter-backfill",
+    "--google-jobs-only", "--google-jobs-backfill",
+    "--hiringcafe-only", "--hiringcafe-backfill",
+    "--linkedin-only", "--linkedin-backfill",
+    "--calcareers-only", "--usajobs-only",
+    "--governmentjobs-only", "--governmentjobs-backfill",
+    "--calopps-only", "--csucareers-only", "--biotech-only",
+    "--priority-backfill",
+)
+
+
+def _print_cli_help() -> None:
+    print("Usage: python scrape_jobs.py [SOURCE_FLAG]")
+    print("\nRun exactly one source-specific watcher:")
+    for flag in _SOURCE_FLAGS:
+        print(f"  {flag}")
+    print("\nWith no flag, runs the legacy direct-ATS sweep.")
+
+
+def _run_guarded_source(scrape_fn, save_fn) -> int:
+    """Run a source without overwriting good output when it is unavailable."""
+    try:
+        jobs = scrape_fn()
+    except SourceUnavailableError as exc:
+        print(f"  ❌ {exc}")
+        return 2
+    save_fn(jobs)
+    return 0
+
+
 if __name__ == "__main__":
-    if "--indeed-only" in sys.argv:
-        save_indeed_results(scrape_indeed_recent())
+    if any(arg in {"-h", "--help"} for arg in sys.argv[1:]):
+        _print_cli_help()
         sys.exit(0)
+
+    unknown_flags = [
+        arg for arg in sys.argv[1:]
+        if arg.startswith("-") and arg not in _SOURCE_FLAGS
+    ]
+    if unknown_flags:
+        print(f"❌ Unknown option(s): {', '.join(unknown_flags)}")
+        print("Run `python scrape_jobs.py --help` for supported options.")
+        sys.exit(2)
+
+    selected_sources = [flag for flag in _SOURCE_FLAGS if flag in sys.argv[1:]]
+    if len(selected_sources) > 1:
+        print(f"❌ Choose exactly one source option; received: "
+              f"{', '.join(selected_sources)}")
+        sys.exit(2)
+
+    if "--indeed-only" in sys.argv:
+        sys.exit(_run_guarded_source(scrape_indeed_recent, save_indeed_results))
 
     if "--indeed-backfill" in sys.argv:
         print(f"🔁 Indeed backfill (last {INDEED_BACKFILL_DAYS} days)…")
-        save_indeed_results(scrape_indeed_recent(hours_old=INDEED_BACKFILL_DAYS * 24))
-        sys.exit(0)
+        sys.exit(_run_guarded_source(
+            lambda: scrape_indeed_recent(hours_old=INDEED_BACKFILL_DAYS * 24),
+            save_indeed_results,
+        ))
 
     if "--glassdoor-only" in sys.argv:
-        save_glassdoor_results(scrape_glassdoor_recent())
-        sys.exit(0)
+        sys.exit(_run_guarded_source(scrape_glassdoor_recent, save_glassdoor_results))
 
     if "--glassdoor-backfill" in sys.argv:
         print(f"🔁 Glassdoor backfill (last {GLASSDOOR_BACKFILL_DAYS} days)…")
-        save_glassdoor_results(scrape_glassdoor_recent(hours_old=GLASSDOOR_BACKFILL_DAYS * 24))
-        sys.exit(0)
+        sys.exit(_run_guarded_source(
+            lambda: scrape_glassdoor_recent(hours_old=GLASSDOOR_BACKFILL_DAYS * 24),
+            save_glassdoor_results,
+        ))
 
     if "--ziprecruiter-only" in sys.argv:
-        save_ziprecruiter_results(scrape_ziprecruiter_recent())
-        sys.exit(0)
+        sys.exit(_run_guarded_source(
+            scrape_ziprecruiter_recent, save_ziprecruiter_results
+        ))
 
     if "--ziprecruiter-backfill" in sys.argv:
         print(f"🔁 ZipRecruiter backfill (last {ZIPRECRUITER_BACKFILL_DAYS} days)…")
-        save_ziprecruiter_results(scrape_ziprecruiter_recent(hours_old=ZIPRECRUITER_BACKFILL_DAYS * 24))
-        sys.exit(0)
+        sys.exit(_run_guarded_source(
+            lambda: scrape_ziprecruiter_recent(hours_old=ZIPRECRUITER_BACKFILL_DAYS * 24),
+            save_ziprecruiter_results,
+        ))
 
     if "--google-jobs-only" in sys.argv:
         save_google_jobs_results(scrape_google_jobs_recent())
