@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-09-24 20:10 UTC",
-  "total": 6,
-  "new_count": 6,
+  "scraped_at": "2026-09-26 19:29 UTC",
+  "total": 7,
+  "new_count": 1,
   "jobs": [
     {
       "company": "California State University",
@@ -74,77 +74,29 @@
       "description": "",
       "salary": "",
       "ats": "CSUCareers"
+    },
+    {
+      "company": "California State University",
+      "title": "Lead Financial/Operations Analyst",
+      "location": "Northridge",
+      "url": "https://csucareers.calstate.edu/en-us/job/558581/lead-financialoperations-analyst",
+      "direct_url": "https://csucareers.calstate.edu/en-us/job/558581/lead-financialoperations-analyst",
+      "date_posted": "",
+      "closing_date": "",
+      "description": "",
+      "salary": "",
+      "ats": "CSUCareers"
     }
   ],
   "new_jobs": [
     {
       "company": "California State University",
-      "title": "IT Business Operations Manager",
-      "location": "San José",
-      "url": "https://csucareers.calstate.edu/en-us/job/561156/it-business-operations-manager",
-      "direct_url": "https://csucareers.calstate.edu/en-us/job/561156/it-business-operations-manager",
+      "title": "Lead Financial/Operations Analyst",
+      "location": "Northridge",
+      "url": "https://csucareers.calstate.edu/en-us/job/558581/lead-financialoperations-analyst",
+      "direct_url": "https://csucareers.calstate.edu/en-us/job/558581/lead-financialoperations-analyst",
       "date_posted": "",
       "closing_date": "",
-      "description": "",
-      "salary": "",
-      "ats": "CSUCareers"
-    },
-    {
-      "company": "California State University",
-      "title": "Campus Planner and Project Manager - (Administrator II) - Capital Project Management",
-      "location": "San Francisco",
-      "url": "https://csucareers.calstate.edu/en-us/job/562512/campus-planner-and-project-manager-administrator-ii-capital-project-management",
-      "direct_url": "https://csucareers.calstate.edu/en-us/job/562512/campus-planner-and-project-manager-administrator-ii-capital-project-management",
-      "date_posted": "",
-      "closing_date": "",
-      "description": "",
-      "salary": "",
-      "ats": "CSUCareers"
-    },
-    {
-      "company": "California State University",
-      "title": "Information Security Analyst II",
-      "location": "Chico",
-      "url": "https://csucareers.calstate.edu/en-us/job/562153/information-security-analyst-ii",
-      "direct_url": "https://csucareers.calstate.edu/en-us/job/562153/information-security-analyst-ii",
-      "date_posted": "",
-      "closing_date": "",
-      "description": "",
-      "salary": "",
-      "ats": "CSUCareers"
-    },
-    {
-      "company": "California State University",
-      "title": "Academic Program Analyst",
-      "location": "Channel Islands",
-      "url": "https://csucareers.calstate.edu/en-us/job/561394/academic-program-analyst",
-      "direct_url": "https://csucareers.calstate.edu/en-us/job/561394/academic-program-analyst",
-      "date_posted": "",
-      "closing_date": "",
-      "description": "",
-      "salary": "",
-      "ats": "CSUCareers"
-    },
-    {
-      "company": "California State University",
-      "title": "OTP Budget & Operations Analyst",
-      "location": "Channel Islands",
-      "url": "https://csucareers.calstate.edu/en-us/job/562120/otp-budget-operations-analyst",
-      "direct_url": "https://csucareers.calstate.edu/en-us/job/562120/otp-budget-operations-analyst",
-      "date_posted": "",
-      "closing_date": "2026-09-26",
-      "description": "",
-      "salary": "",
-      "ats": "CSUCareers"
-    },
-    {
-      "company": "California State University",
-      "title": "Administration and Business Operations Manager, CPaCE",
-      "location": "Long Beach",
-      "url": "https://csucareers.calstate.edu/en-us/job/561791/administration-and-business-operations-manager-cpace",
-      "direct_url": "https://csucareers.calstate.edu/en-us/job/561791/administration-and-business-operations-manager-cpace",
-      "date_posted": "",
-      "closing_date": "2026-10-02",
       "description": "",
       "salary": "",
       "ats": "CSUCareers"
