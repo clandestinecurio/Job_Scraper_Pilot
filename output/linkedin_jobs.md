@@ -1,150 +1,134 @@
 # 🔥 LinkedIn — Megan's Strategy, Security & Operations Roles
-*Last updated: 2026-09-27 01:12 UTC*
+*Last updated: 2026-09-27 07:09 UTC*
 
-**34 new role(s)** since last run · 34 total in last 1h
+**31 new role(s)** since last run · 32 total in last 1h
 
-### [Engineering Project Manager - Industrial Design](https://www.linkedin.com/jobs/view/4471066771/) — Kiewit
-- 📍 **Location:** Lone Tree, CO
-- 🕒 **Posted:** 2026-09-27
-
-### [Technical Project/Program Manager I](https://www.linkedin.com/jobs/view/4470584114/) — Astreya
-- 📍 **Location:** Hyderabad, Telangana, India
-- 🕒 **Posted:** 2026-09-27
-
-### [Project Manager - Space and Satellite Communications](https://www.linkedin.com/jobs/view/4472414394/) — Women in Tech
-- 📍 **Location:** Leatherhead, England, United Kingdom
-- 🕒 **Posted:** 2026-09-27
-
-### [Project Manager](https://www.linkedin.com/jobs/view/4470578230/) — Swivel Marketing
-- 📍 **Location:** Kampala, Central Region, Uganda
-- 🕒 **Posted:** 2026-09-27
-
-### [Sr. Technical Infrastructure Program Manager, Data Center Planning & Delivery](https://www.linkedin.com/jobs/view/4472406884/) — Amazon Web Services (AWS)
-- 📍 **Location:** Seattle, WA
-- 🕒 **Posted:** 2026-09-27
-
-### [Staff Technical Program Manager (R5791)](https://www.linkedin.com/jobs/view/4472409755/) — Shield AI
-- 📍 **Location:** Dallas, TX
-- 💰 **Salary:** $150,000 - $230,000
-- 🕒 **Posted:** 2026-09-27
-
-### [Surface Ship Maintenance Project Manager](https://www.linkedin.com/jobs/view/4472424010/) — Serco
-- 📍 **Location:** Everett, WA
-- 🕒 **Posted:** 2026-09-27
-
-### [Sr. Technical Infrastructure Program Manager, Data Center Planning & Delivery](https://www.linkedin.com/jobs/view/4472413479/) — Amazon Web Services (AWS)
-- 📍 **Location:** Fairless Hills, PA
-- 🕒 **Posted:** 2026-09-27
-
-### [CYBER SECURITY ANALYST L4](https://www.linkedin.com/jobs/view/4472415295/) — Wipro
-- 📍 **Location:** Hyderabad, Telangana, India
-- 🕒 **Posted:** 2026-09-27
-
-### [Mgr 3, Hlth Care/TB Program Manager](https://www.linkedin.com/jobs/view/4467124609/) — Georgia Department of Public Health
-- 📍 **Location:** Atlanta, GA
-- 🕒 **Posted:** 2026-09-27
-
-### [ASSOCIATE BUSINESS ANALYST](https://www.linkedin.com/jobs/view/4471076323/) — GE Solucions
-- 📍 **Location:** Karachi Division, Sindh, Pakistan
-- 🕒 **Posted:** 2026-09-27
-
-### [DATA ANALYST L4](https://www.linkedin.com/jobs/view/4472419176/) — Wipro
-- 📍 **Location:** Bengaluru, Karnataka, India
-- 🕒 **Posted:** 2026-09-27
-
-### [CYBER SECURITY ANALYST L3](https://www.linkedin.com/jobs/view/4472423034/) — Wipro
-- 📍 **Location:** Mumbai Metropolitan Region
-- 🕒 **Posted:** 2026-09-27
-
-### [Data Analyst | $45/hr | Remote](https://www.linkedin.com/jobs/view/4471071471/) — The Ai Training Company
-- 📍 **Location:** Chennai, Tamil Nadu, India
-- 🕒 **Posted:** 2026-09-27
-
-### [Credit Research Analyst](https://www.linkedin.com/jobs/view/4472408802/) — Flexiple
-- 📍 **Location:** India
-- 🕒 **Posted:** 2026-09-27
-
-### [CYBER SECURITY ANALYST L4](https://www.linkedin.com/jobs/view/4472411626/) — Wipro
-- 📍 **Location:** Pune Division, Maharashtra, India
-- 🕒 **Posted:** 2026-09-27
-
-### [CYBER SECURITY ANALYST L4](https://www.linkedin.com/jobs/view/4472422080/) — Wipro
-- 📍 **Location:** Bengaluru, Karnataka, India
-- 🕒 **Posted:** 2026-09-27
-
-### [Senior Salesforce Administrator and Business Analyst](https://www.linkedin.com/jobs/view/4472407903/) — NTEN
+### [Project Manager I - Sponsor Dedicated - Patient Engagement and Co-Design](https://www.linkedin.com/jobs/view/4471152729/) — Syneos Health
 - 📍 **Location:** United States
 - 🕒 **Posted:** 2026-09-27
 
-### [DATA ANALYST L4](https://www.linkedin.com/jobs/view/4472426008/) — Wipro
+### [Senior Civil Engineering Project Manager](https://www.linkedin.com/jobs/view/4472428606/) — CME Associates
+- 📍 **Location:** Minneapolis, MN
+- 💰 **Salary:** $140,000-$175,000 annually
+- 🕒 **Posted:** 2026-09-27
+
+### [Senior Civil Engineering Project Manager](https://www.linkedin.com/jobs/view/4472437132/) — CME Associates
+- 📍 **Location:** Portland, OR
+- 💰 **Salary:** $140,000-$170,000 annually
+- 🕒 **Posted:** 2026-09-27
+
+### [CEI Project Manager](https://www.linkedin.com/jobs/view/4472438095/) — HMB Professional Engineers, LLC
+- 📍 **Location:** Murfreesboro, TN
+- 🕒 **Posted:** 2026-09-27
+
+### [Technical Project Manager](https://www.linkedin.com/jobs/view/4470904993/) — Alice (Formerly ActiveFence)
+- 📍 **Location:** Ramat Gan, Tel Aviv District, Israel
+- 🕒 **Posted:** 2026-09-27
+
+### [Business & Digital Project Manager](https://www.linkedin.com/jobs/view/4470575957/) — Omnitech S.A.
+- 📍 **Location:** Athens, Attiki, Greece
+- 🕒 **Posted:** 2026-09-27
+
+### [Justice System Program Manager, Bangladesh](https://www.linkedin.com/jobs/view/4461051616/) — International Justice Mission
+- 📍 **Location:** Dhaka, Bangladesh
+- 🕒 **Posted:** 2026-09-27
+
+### [Project Manager (Saudi Nationals)](https://www.linkedin.com/jobs/view/4472432504/) — Jasara Program Management Company
+- 📍 **Location:** Riyadh, Riyadh, Saudi Arabia
+- 🕒 **Posted:** 2026-09-27
+
+### [Business Analyst – Veeva Vault](https://www.linkedin.com/jobs/view/4471083565/) — Talentgigs
+- 📍 **Location:** Hyderabad, Telangana, India
+- 🕒 **Posted:** 2026-09-27
+
+### [TDM Program Manager](https://www.linkedin.com/jobs/view/4472429542/) — CME Associates
+- 📍 **Location:** Austin, TX
+- 💰 **Salary:** $80,000-$100,000 annually
+- 🕒 **Posted:** 2026-09-27
+
+### [Technology Project Manager](https://www.linkedin.com/jobs/view/4471087399/) — abra
+- 📍 **Location:** Center District, Israel
+- 🕒 **Posted:** 2026-09-27
+
+### [Project Manager- Construction (For Anwar Landmark Limited) - Job ID : 1537354](https://www.linkedin.com/jobs/view/4470599000/) — Bdjobs.com
+- 📍 **Location:** Dhaka, Bangladesh
+- 🕒 **Posted:** 2026-09-27
+
+### [R&D Project Manager (m/w/d)](https://www.linkedin.com/jobs/view/4471079732/) — Vantive
+- 📍 **Location:** Hechingen, Baden-Württemberg, Germany
+- 🕒 **Posted:** 2026-09-27
+
+### [Technology Project Manager](https://www.linkedin.com/jobs/view/4472436242/) — abra
+- 📍 **Location:** Tel Aviv District, Israel
+- 🕒 **Posted:** 2026-09-27
+
+### [Project Manager - California](https://www.linkedin.com/jobs/view/4470581817/) — DEPCOM Power, Inc
+- 📍 **Location:** Holtville, CA
+- 💰 **Salary:** $160k - $225k
+- 🕒 **Posted:** 2026-09-27
+
+### [Assistant Project Manager](https://www.linkedin.com/jobs/view/4471085413/) — UdyamEdge
+- 📍 **Location:** Raipur, Chhattisgarh, India
+- 🕒 **Posted:** 2026-09-27
+
+### [Project Manager](https://www.linkedin.com/jobs/view/4470597254/) — Concept Project Management
+- 📍 **Location:** Bucharest, Romania
+- 🕒 **Posted:** 2026-09-27
+
+### [Civil Engineering Project Manager](https://www.linkedin.com/jobs/view/4472426658/) — CME Associates
+- 📍 **Location:** Sheboygan, WI
+- 🕒 **Posted:** 2026-09-27
+
+### [Senior Project Manager - Municipal](https://www.linkedin.com/jobs/view/4472424612/) — CME Associates
+- 📍 **Location:** Rockford, IL
+- 🕒 **Posted:** 2026-09-27
+
+### [Threat Intelligence Analyst](https://www.linkedin.com/jobs/view/4440009094/) — Alice (Formerly ActiveFence)
+- 📍 **Location:** England, United Kingdom
+- 🕒 **Posted:** 2026-09-27
+
+### [Fraud Threat Analyst](https://www.linkedin.com/jobs/view/4460880761/) — Alice (Formerly ActiveFence)
+- 📍 **Location:** England, United Kingdom
+- 🕒 **Posted:** 2026-09-27
+
+### [Project Manager](https://www.linkedin.com/jobs/view/4470598125/) — MONEYGUARD
+- 📍 **Location:** Surat, Gujarat, India
+- 🕒 **Posted:** 2026-09-27
+
+### [Economic Research Analyst (RA) - Summer 2027](https://www.linkedin.com/jobs/view/4461241846/) — Federal Reserve Bank of Atlanta
+- 📍 **Location:** Atlanta, GA
+- 🕒 **Posted:** 2026-09-27
+
+### [Business Analyst - Digital Assets (DD447B7)](https://www.linkedin.com/jobs/view/4472430600/) — Referment
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $70,000.00/yr - $100,000.00/yr
+- 🕒 **Posted:** 2026-09-27
+
+### [Master Data Management Business Analyst-3](https://www.linkedin.com/jobs/view/4471088379/) — Vantive
 - 📍 **Location:** Bengaluru, Karnataka, India
 - 🕒 **Posted:** 2026-09-27
 
-### [Senior IT Project Manager (NSGS)](https://www.linkedin.com/jobs/view/4472426118/) — GovCIO
-- 📍 **Location:** Alexandria, VA
-- 💰 **Salary:** USD $140,000.00 - USD $180,000.00 /Yr
+### [Data Analyst](https://www.linkedin.com/jobs/view/4471092198/) — GenesectAi
+- 📍 **Location:** India
 - 🕒 **Posted:** 2026-09-27
 
-### [Sr. Technical Infrastructure Program Manager, Data Center Planning & Delivery](https://www.linkedin.com/jobs/view/4472411602/) — Amazon Web Services (AWS)
-- 📍 **Location:** Herndon, VA
+### [Business Analyst - Tax](https://www.linkedin.com/jobs/view/4398492374/) — Adecco
+- 📍 **Location:** Warsaw, Mazowieckie, Poland
 - 🕒 **Posted:** 2026-09-27
 
-### [Data Analyst](https://www.linkedin.com/jobs/view/4471081255/) — Assent Advisory Group
-- 📍 **Location:** Arlington, VA
+### [Wastewater Treatment Project Manager](https://www.linkedin.com/jobs/view/4472438056/) — CME Associates
+- 📍 **Location:** New Haven, CT
 - 🕒 **Posted:** 2026-09-27
 
-### [Data Analyst](https://www.linkedin.com/jobs/view/4471074462/) — Assent Advisory Group
-- 📍 **Location:** Quantico, VA
-- 💰 **Salary:** $70,000 - $120,000
+### [Surface Ship Maintenance Project Manager](https://www.linkedin.com/jobs/view/4472430605/) — Serco
+- 📍 **Location:** Pearl City, HI
 - 🕒 **Posted:** 2026-09-27
 
-### [Project Manager](https://www.linkedin.com/jobs/view/4472427099/) — Vanir
-- 📍 **Location:** Los Angeles County, CA
-- 💰 **Salary:** USD $90,500.00 - USD $135,000.00 /Yr
+### [Business Analyst Consultant (Energy)](https://www.linkedin.com/jobs/view/4472260476/) — Project Brains
+- 📍 **Location:** London Area, United Kingdom
 - 🕒 **Posted:** 2026-09-27
 
-### [Assistant Project Manager](https://www.linkedin.com/jobs/view/4472418320/) — Vanir
-- 📍 **Location:** Los Angeles County, CA
-- 💰 **Salary:** USD $80,500.00 - USD $120,000.00 /Yr
+### [Project Manager](https://www.linkedin.com/jobs/view/4471088383/) — Qcells North America
+- 📍 **Location:** Irvine, CA
+- 💰 **Salary:** $90,000.00/yr - $120,000.00/yr
 - 🕒 **Posted:** 2026-09-27
-
-### [MEP Senior Project Manager](https://www.linkedin.com/jobs/view/4472414359/) — T5 Data Centers
-- 📍 **Location:** Or Akiva, Haifa District, Israel
-- 🕒 **Posted:** 2026-09-26
-
-### [SMB Implementation Manager](https://www.linkedin.com/jobs/view/4472422024/) — Rippling
-- 📍 **Location:** Bengaluru, Karnataka, India
-- 🕒 **Posted:** 2026-09-26
-
-### [Technical Program Manager - TS/SCI](https://www.linkedin.com/jobs/view/4472413470/) — Spry Methods, Inc.
-- 📍 **Location:** Linthicum, MD
-- 💰 **Salary:** $200,000.00/yr - $210,000.00/yr
-- 🕒 **Posted:** 2026-09-26
-
-### [Cybersecurity Program Manager - TS/SCI](https://www.linkedin.com/jobs/view/4472400966/) — Spry Methods, Inc.
-- 📍 **Location:** Linthicum, MD
-- 💰 **Salary:** $200,000.00/yr - $210,000.00/yr
-- 🕒 **Posted:** 2026-09-26
-
-### [Technical Program Manager - TS/SCI](https://www.linkedin.com/jobs/view/4472416177/) — Spry Methods, Inc.
-- 📍 **Location:** Linthicum, MD
-- 💰 **Salary:** $210,000.00/yr - $225,000.00/yr
-- 🕒 **Posted:** 2026-09-26
-
-### [Enterprise Architect Program Manager - TS/SCI](https://www.linkedin.com/jobs/view/4472420140/) — Spry Methods, Inc.
-- 📍 **Location:** Linthicum, MD
-- 💰 **Salary:** $210,000.00/yr - $225,000.00/yr
-- 🕒 **Posted:** 2026-09-26
-
-### [IT Program Manager - TS/SCI](https://www.linkedin.com/jobs/view/4472413476/) — Spry Methods, Inc.
-- 📍 **Location:** Linthicum, MD
-- 💰 **Salary:** $200,000.00/yr - $210,000.00/yr
-- 🕒 **Posted:** 2026-09-26
-
-### [Treasury ALM Senior Data Analyst, Assistant Manager](https://www.linkedin.com/jobs/view/4468245940/) — State Street
-- 📍 **Location:** Bengaluru, Karnataka, India
-- 🕒 **Posted:** 2026-09-26
-
-### [US Equity Research Analyst](https://www.linkedin.com/jobs/view/4471065798/) — BIT Official
-- 📍 **Location:** Hong Kong, Hong Kong SAR
-- 🕒 **Posted:** 2026-09-26
