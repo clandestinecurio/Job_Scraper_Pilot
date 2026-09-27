@@ -1,17 +1,8 @@
 {
-  "scraped_at": "2026-09-23 13:53 UTC",
-  "total": 6,
-  "new_count": 6,
+  "scraped_at": "2026-09-27 19:48 UTC",
+  "total": 3,
+  "new_count": 1,
   "jobs": [
-    {
-      "company": "AC Transit",
-      "title": "Project Manager II (Capital Projects)",
-      "location": "Downtown Oakland, CA",
-      "url": "https://www.governmentjobs.com/jobs/5434702-0/project-manager-ii-capital-projects",
-      "date_posted": "",
-      "salary": "$144,503.00 - $172,570.00 Annually",
-      "ats": "NEOGOV"
-    },
     {
       "company": "City of Berkeley",
       "title": "Program Manager II",
@@ -31,86 +22,23 @@
       "ats": "NEOGOV"
     },
     {
-      "company": "City of Berkeley",
-      "title": "Information Security Manager",
-      "location": "Berkeley, CA",
-      "url": "https://www.governmentjobs.com/jobs/5443375-0/information-security-manager",
+      "company": "County Of Maui",
+      "title": "Research Analyst (SR-22)",
+      "location": "Maui County (various), HI",
+      "url": "https://www.governmentjobs.com/jobs/5491971-0/research-analyst-sr-22",
       "date_posted": "",
-      "salary": "$175,978.82 - $216,054.80 Annually",
-      "ats": "NEOGOV"
-    },
-    {
-      "company": "County of San Mateo",
-      "title": "County Facilities Security Manager (Open)",
-      "location": "County of San Mateo, CA",
-      "url": "https://www.governmentjobs.com/jobs/5483958-0/county-facilities-security-manager-open",
-      "date_posted": "",
-      "salary": "$140,462.40 - $175,510.40 Annually",
-      "ats": "NEOGOV"
-    },
-    {
-      "company": "City of San Jose",
-      "title": "Enterprise Principal Technology Analyst (Cybersecurity Operations Manager)",
-      "location": "San Jose",
-      "url": "https://www.governmentjobs.com/jobs/5482105-0/enterprise-principal-technology-analyst-cybersecurity-operations-manager",
-      "date_posted": "",
-      "salary": "$163,035.60 - $198,525.60 Annually",
+      "salary": "",
       "ats": "NEOGOV"
     }
   ],
   "new_jobs": [
     {
-      "company": "AC Transit",
-      "title": "Project Manager II (Capital Projects)",
-      "location": "Downtown Oakland, CA",
-      "url": "https://www.governmentjobs.com/jobs/5434702-0/project-manager-ii-capital-projects",
+      "company": "County Of Maui",
+      "title": "Research Analyst (SR-22)",
+      "location": "Maui County (various), HI",
+      "url": "https://www.governmentjobs.com/jobs/5491971-0/research-analyst-sr-22",
       "date_posted": "",
-      "salary": "$144,503.00 - $172,570.00 Annually",
-      "ats": "NEOGOV"
-    },
-    {
-      "company": "City of Berkeley",
-      "title": "Program Manager II",
-      "location": "Berkeley, CA",
-      "url": "https://www.governmentjobs.com/jobs/5467445-0/program-manager-ii",
-      "date_posted": "",
-      "salary": "$152,532.43 - $184,582.11 Annually",
-      "ats": "NEOGOV"
-    },
-    {
-      "company": "County of Santa Clara",
-      "title": "Program Manager III - Vietnamese American Service Center",
-      "location": "San Jose Metropolitan Area, CA",
-      "url": "https://www.governmentjobs.com/jobs/5436326-0/program-manager-iii-vietnamese-american-service-center",
-      "date_posted": "",
-      "salary": "$162,745.44 - $197,855.84 Annually",
-      "ats": "NEOGOV"
-    },
-    {
-      "company": "City of Berkeley",
-      "title": "Information Security Manager",
-      "location": "Berkeley, CA",
-      "url": "https://www.governmentjobs.com/jobs/5443375-0/information-security-manager",
-      "date_posted": "",
-      "salary": "$175,978.82 - $216,054.80 Annually",
-      "ats": "NEOGOV"
-    },
-    {
-      "company": "County of San Mateo",
-      "title": "County Facilities Security Manager (Open)",
-      "location": "County of San Mateo, CA",
-      "url": "https://www.governmentjobs.com/jobs/5483958-0/county-facilities-security-manager-open",
-      "date_posted": "",
-      "salary": "$140,462.40 - $175,510.40 Annually",
-      "ats": "NEOGOV"
-    },
-    {
-      "company": "City of San Jose",
-      "title": "Enterprise Principal Technology Analyst (Cybersecurity Operations Manager)",
-      "location": "San Jose",
-      "url": "https://www.governmentjobs.com/jobs/5482105-0/enterprise-principal-technology-analyst-cybersecurity-operations-manager",
-      "date_posted": "",
-      "salary": "$163,035.60 - $198,525.60 Annually",
+      "salary": "",
       "ats": "NEOGOV"
     }
   ]
