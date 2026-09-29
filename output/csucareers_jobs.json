@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-09-28 22:18 UTC",
+  "scraped_at": "2026-09-29 21:03 UTC",
   "total": 8,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "California State University",
@@ -100,18 +100,5 @@
       "ats": "CSUCareers"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "California State University",
-      "title": "Business Analyst",
-      "location": "San José",
-      "url": "https://csucareers.calstate.edu/en-us/job/561162/business-analyst",
-      "direct_url": "https://csucareers.calstate.edu/en-us/job/561162/business-analyst",
-      "date_posted": "",
-      "closing_date": "",
-      "description": "",
-      "salary": "",
-      "ats": "CSUCareers"
-    }
-  ]
+  "new_jobs": []
 }
