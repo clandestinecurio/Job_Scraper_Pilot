@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-09-28 22:13 UTC",
-  "total": 5,
-  "new_count": 3,
+  "scraped_at": "2026-10-02 20:52 UTC",
+  "total": 6,
+  "new_count": 1,
   "jobs": [
     {
       "company": "City of Berkeley",
@@ -47,34 +47,25 @@
       "date_posted": "",
       "salary": "$163,035.60 - $198,525.60 Annually",
       "ats": "NEOGOV"
+    },
+    {
+      "company": "County Of Maui",
+      "title": "Research Analyst (SR-22)",
+      "location": "Maui County (various), HI",
+      "url": "https://www.governmentjobs.com/jobs/5491971-0/research-analyst-sr-22",
+      "date_posted": "",
+      "salary": "",
+      "ats": "NEOGOV"
     }
   ],
   "new_jobs": [
     {
-      "company": "City of Berkeley",
-      "title": "Information Security Manager",
-      "location": "Berkeley, CA",
-      "url": "https://www.governmentjobs.com/jobs/5443375-0/information-security-manager",
+      "company": "County Of Maui",
+      "title": "Research Analyst (SR-22)",
+      "location": "Maui County (various), HI",
+      "url": "https://www.governmentjobs.com/jobs/5491971-0/research-analyst-sr-22",
       "date_posted": "",
-      "salary": "$175,978.82 - $216,054.80 Annually",
-      "ats": "NEOGOV"
-    },
-    {
-      "company": "County of San Mateo",
-      "title": "County Facilities Security Manager (Open)",
-      "location": "County of San Mateo, CA",
-      "url": "https://www.governmentjobs.com/jobs/5483958-0/county-facilities-security-manager-open",
-      "date_posted": "",
-      "salary": "$140,462.40 - $175,510.40 Annually",
-      "ats": "NEOGOV"
-    },
-    {
-      "company": "City of San Jose",
-      "title": "Enterprise Principal Technology Analyst (Cybersecurity Operations Manager)",
-      "location": "San Jose",
-      "url": "https://www.governmentjobs.com/jobs/5482105-0/enterprise-principal-technology-analyst-cybersecurity-operations-manager",
-      "date_posted": "",
-      "salary": "$163,035.60 - $198,525.60 Annually",
+      "salary": "",
       "ats": "NEOGOV"
     }
   ]
