@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-10-01 21:20 UTC",
-  "total": 8,
-  "new_count": 0,
+  "scraped_at": "2026-10-02 20:59 UTC",
+  "total": 9,
+  "new_count": 1,
   "jobs": [
     {
       "company": "California State University",
@@ -98,7 +98,32 @@
       "description": "",
       "salary": "",
       "ats": "CSUCareers"
+    },
+    {
+      "company": "California State University",
+      "title": "Program Analyst, CAR/W",
+      "location": "Chancellor's Office",
+      "url": "https://csucareers.calstate.edu/en-us/job/562839/program-analyst-carw",
+      "direct_url": "https://csucareers.calstate.edu/en-us/job/562839/program-analyst-carw",
+      "date_posted": "",
+      "closing_date": "",
+      "description": "",
+      "salary": "",
+      "ats": "CSUCareers"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "California State University",
+      "title": "Program Analyst, CAR/W",
+      "location": "Chancellor's Office",
+      "url": "https://csucareers.calstate.edu/en-us/job/562839/program-analyst-carw",
+      "direct_url": "https://csucareers.calstate.edu/en-us/job/562839/program-analyst-carw",
+      "date_posted": "",
+      "closing_date": "",
+      "description": "",
+      "salary": "",
+      "ats": "CSUCareers"
+    }
+  ]
 }
