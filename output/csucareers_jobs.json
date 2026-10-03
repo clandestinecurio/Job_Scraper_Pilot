@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-02 20:59 UTC",
-  "total": 9,
+  "scraped_at": "2026-10-03 19:30 UTC",
+  "total": 10,
   "new_count": 1,
   "jobs": [
     {
@@ -110,15 +110,27 @@
       "description": "",
       "salary": "",
       "ats": "CSUCareers"
+    },
+    {
+      "company": "California State University",
+      "title": "Research Cybersecurity Analyst (Information Security Analyst III)",
+      "location": "San Diego",
+      "url": "https://csucareers.calstate.edu/en-us/job/562498/research-cybersecurity-analyst-information-security-analyst-iii",
+      "direct_url": "https://csucareers.calstate.edu/en-us/job/562498/research-cybersecurity-analyst-information-security-analyst-iii",
+      "date_posted": "",
+      "closing_date": "",
+      "description": "",
+      "salary": "",
+      "ats": "CSUCareers"
     }
   ],
   "new_jobs": [
     {
       "company": "California State University",
-      "title": "Program Analyst, CAR/W",
-      "location": "Chancellor's Office",
-      "url": "https://csucareers.calstate.edu/en-us/job/562839/program-analyst-carw",
-      "direct_url": "https://csucareers.calstate.edu/en-us/job/562839/program-analyst-carw",
+      "title": "Research Cybersecurity Analyst (Information Security Analyst III)",
+      "location": "San Diego",
+      "url": "https://csucareers.calstate.edu/en-us/job/562498/research-cybersecurity-analyst-information-security-analyst-iii",
+      "direct_url": "https://csucareers.calstate.edu/en-us/job/562498/research-cybersecurity-analyst-information-security-analyst-iii",
       "date_posted": "",
       "closing_date": "",
       "description": "",

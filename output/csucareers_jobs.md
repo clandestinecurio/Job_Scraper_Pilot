@@ -1,7 +1,7 @@
 # 🎓 CSU Careers — California State University Megan's Strategy, Security & Operations Roles
-*Last updated: 2026-10-02 20:59 UTC*
+*Last updated: 2026-10-03 19:30 UTC*
 
-**1 new role(s)** since last run · 9 total in current CSU Careers postings
+**1 new role(s)** since last run · 10 total in current CSU Careers postings
 
-### [Program Analyst, CAR/W](https://csucareers.calstate.edu/en-us/job/562839/program-analyst-carw) — California State University
-- 📍 **Location:** Chancellor's Office
+### [Research Cybersecurity Analyst (Information Security Analyst III)](https://csucareers.calstate.edu/en-us/job/562498/research-cybersecurity-analyst-information-security-analyst-iii) — California State University
+- 📍 **Location:** San Diego
