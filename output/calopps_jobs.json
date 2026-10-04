@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-10-02 20:53 UTC",
+  "scraped_at": "2026-10-04 19:43 UTC",
   "total": 7,
-  "new_count": 2,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Tri City Mental Health Authority",
@@ -67,24 +67,5 @@
       "ats": "CalOpps"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Tri City Mental Health Authority",
-      "title": "Program Manager – Quality Improvement",
-      "location": "Los Angeles Area",
-      "url": "https://www.calopps.org/tri-city-mental-health-authority/job-20780938",
-      "date_posted": "",
-      "salary": "$126,701.95-$161,707.29 Annually",
-      "ats": "CalOpps"
-    },
-    {
-      "company": "San Mateo County",
-      "title": "County Facilities Security Manager (Open)",
-      "location": "San Francisco/Peninsula",
-      "url": "https://www.calopps.org/san-mateo-county/job-20780657",
-      "date_posted": "",
-      "salary": "$140,462.40-$175,510.40 Annually",
-      "ats": "CalOpps"
-    }
-  ]
+  "new_jobs": []
 }

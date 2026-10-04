@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-10-02 20:52 UTC",
+  "scraped_at": "2026-10-04 19:42 UTC",
   "total": 6,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "City of Berkeley",
@@ -58,15 +58,5 @@
       "ats": "NEOGOV"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "County Of Maui",
-      "title": "Research Analyst (SR-22)",
-      "location": "Maui County (various), HI",
-      "url": "https://www.governmentjobs.com/jobs/5491971-0/research-analyst-sr-22",
-      "date_posted": "",
-      "salary": "",
-      "ats": "NEOGOV"
-    }
-  ]
+  "new_jobs": []
 }
