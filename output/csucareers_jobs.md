@@ -1,6 +1,7 @@
 # 🎓 CSU Careers — California State University Megan's Strategy, Security & Operations Roles
-*Last updated: 2026-10-04 19:50 UTC*
+*Last updated: 2026-10-05 22:56 UTC*
 
-**0 new role(s)** since last run · 10 total in current CSU Careers postings
+**1 new role(s)** since last run · 11 total in current CSU Careers postings
 
-No new CSU Careers roles since the last run.
+### [Assistant Project Manager- Facilities Management and Development](https://csucareers.calstate.edu/en-us/job/562662/assistant-project-manager-facilities-management-and-development) — California State University
+- 📍 **Location:** Cal Poly - Solano Campus (Vallejo)

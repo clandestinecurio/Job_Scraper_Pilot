@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-10-04 19:50 UTC",
-  "total": 10,
-  "new_count": 0,
+  "scraped_at": "2026-10-05 22:56 UTC",
+  "total": 11,
+  "new_count": 1,
   "jobs": [
     {
       "company": "California State University",
@@ -122,7 +122,32 @@
       "description": "",
       "salary": "",
       "ats": "CSUCareers"
+    },
+    {
+      "company": "California State University",
+      "title": "Assistant Project Manager- Facilities Management and Development",
+      "location": "Cal Poly - Solano Campus (Vallejo)",
+      "url": "https://csucareers.calstate.edu/en-us/job/562662/assistant-project-manager-facilities-management-and-development",
+      "direct_url": "https://csucareers.calstate.edu/en-us/job/562662/assistant-project-manager-facilities-management-and-development",
+      "date_posted": "",
+      "closing_date": "",
+      "description": "",
+      "salary": "",
+      "ats": "CSUCareers"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "California State University",
+      "title": "Assistant Project Manager- Facilities Management and Development",
+      "location": "Cal Poly - Solano Campus (Vallejo)",
+      "url": "https://csucareers.calstate.edu/en-us/job/562662/assistant-project-manager-facilities-management-and-development",
+      "direct_url": "https://csucareers.calstate.edu/en-us/job/562662/assistant-project-manager-facilities-management-and-development",
+      "date_posted": "",
+      "closing_date": "",
+      "description": "",
+      "salary": "",
+      "ats": "CSUCareers"
+    }
+  ]
 }
