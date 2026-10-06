@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-05 22:56 UTC",
-  "total": 11,
+  "scraped_at": "2026-10-06 21:16 UTC",
+  "total": 12,
   "new_count": 1,
   "jobs": [
     {
@@ -134,15 +134,27 @@
       "description": "",
       "salary": "",
       "ats": "CSUCareers"
+    },
+    {
+      "company": "California State University",
+      "title": "Athletics Financial Operations Analyst",
+      "location": "Bakersfield",
+      "url": "https://csucareers.calstate.edu/en-us/job/562899/athletics-financial-operations-analyst",
+      "direct_url": "https://csucareers.calstate.edu/en-us/job/562899/athletics-financial-operations-analyst",
+      "date_posted": "",
+      "closing_date": "",
+      "description": "",
+      "salary": "",
+      "ats": "CSUCareers"
     }
   ],
   "new_jobs": [
     {
       "company": "California State University",
-      "title": "Assistant Project Manager- Facilities Management and Development",
-      "location": "Cal Poly - Solano Campus (Vallejo)",
-      "url": "https://csucareers.calstate.edu/en-us/job/562662/assistant-project-manager-facilities-management-and-development",
-      "direct_url": "https://csucareers.calstate.edu/en-us/job/562662/assistant-project-manager-facilities-management-and-development",
+      "title": "Athletics Financial Operations Analyst",
+      "location": "Bakersfield",
+      "url": "https://csucareers.calstate.edu/en-us/job/562899/athletics-financial-operations-analyst",
+      "direct_url": "https://csucareers.calstate.edu/en-us/job/562899/athletics-financial-operations-analyst",
       "date_posted": "",
       "closing_date": "",
       "description": "",
