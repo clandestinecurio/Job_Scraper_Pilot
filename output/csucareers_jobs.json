@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-06 21:16 UTC",
-  "total": 12,
+  "scraped_at": "2026-10-07 21:34 UTC",
+  "total": 13,
   "new_count": 1,
   "jobs": [
     {
@@ -146,15 +146,27 @@
       "description": "",
       "salary": "",
       "ats": "CSUCareers"
+    },
+    {
+      "company": "California State University",
+      "title": "Business Intelligence Analyst - University Housing",
+      "location": "Cal Poly - San Luis Obispo Campus",
+      "url": "https://csucareers.calstate.edu/en-us/job/561301/business-intelligence-analyst-university-housing",
+      "direct_url": "https://csucareers.calstate.edu/en-us/job/561301/business-intelligence-analyst-university-housing",
+      "date_posted": "",
+      "closing_date": "",
+      "description": "",
+      "salary": "",
+      "ats": "CSUCareers"
     }
   ],
   "new_jobs": [
     {
       "company": "California State University",
-      "title": "Athletics Financial Operations Analyst",
-      "location": "Bakersfield",
-      "url": "https://csucareers.calstate.edu/en-us/job/562899/athletics-financial-operations-analyst",
-      "direct_url": "https://csucareers.calstate.edu/en-us/job/562899/athletics-financial-operations-analyst",
+      "title": "Business Intelligence Analyst - University Housing",
+      "location": "Cal Poly - San Luis Obispo Campus",
+      "url": "https://csucareers.calstate.edu/en-us/job/561301/business-intelligence-analyst-university-housing",
+      "direct_url": "https://csucareers.calstate.edu/en-us/job/561301/business-intelligence-analyst-university-housing",
       "date_posted": "",
       "closing_date": "",
       "description": "",
