@@ -1,8 +1,35 @@
 {
-  "scraped_at": "2026-10-04 19:43 UTC",
-  "total": 7,
-  "new_count": 0,
+  "scraped_at": "2026-10-09 20:59 UTC",
+  "total": 9,
+  "new_count": 3,
   "jobs": [
+    {
+      "company": "San Mateo County Transit District Samtrans",
+      "title": "Senior Project Manager",
+      "location": "San Francisco/Peninsula",
+      "url": "https://www.calopps.org/san-mateo-county-transit-district-samtrans/job-20783609",
+      "date_posted": "",
+      "salary": "$157,814.00-$220,939.00 Annually",
+      "ats": "CalOpps"
+    },
+    {
+      "company": "San Mateo County Transit District Samtrans",
+      "title": "Project Manager II",
+      "location": "San Francisco/Peninsula",
+      "url": "https://www.calopps.org/san-mateo-county-transit-district-samtrans/job-20783258",
+      "date_posted": "",
+      "salary": "$143,142.00-$200,398.00 Annually",
+      "ats": "CalOpps"
+    },
+    {
+      "company": "Pacifica",
+      "title": "Project Manager",
+      "location": "San Francisco/Peninsula",
+      "url": "https://www.calopps.org/pacifica/job-20782759",
+      "date_posted": "",
+      "salary": "$40.00-$50.00 Hourly",
+      "ats": "CalOpps"
+    },
     {
       "company": "Tri City Mental Health Authority",
       "title": "Program Manager – Quality Improvement",
@@ -10,15 +37,6 @@
       "url": "https://www.calopps.org/tri-city-mental-health-authority/job-20780938",
       "date_posted": "",
       "salary": "$126,701.95-$161,707.29 Annually",
-      "ats": "CalOpps"
-    },
-    {
-      "company": "San Mateo County",
-      "title": "County Facilities Security Manager (Open)",
-      "location": "San Francisco/Peninsula",
-      "url": "https://www.calopps.org/san-mateo-county/job-20780657",
-      "date_posted": "",
-      "salary": "$140,462.40-$175,510.40 Annually",
       "ats": "CalOpps"
     },
     {
@@ -67,5 +85,33 @@
       "ats": "CalOpps"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "San Mateo County Transit District Samtrans",
+      "title": "Senior Project Manager",
+      "location": "San Francisco/Peninsula",
+      "url": "https://www.calopps.org/san-mateo-county-transit-district-samtrans/job-20783609",
+      "date_posted": "",
+      "salary": "$157,814.00-$220,939.00 Annually",
+      "ats": "CalOpps"
+    },
+    {
+      "company": "San Mateo County Transit District Samtrans",
+      "title": "Project Manager II",
+      "location": "San Francisco/Peninsula",
+      "url": "https://www.calopps.org/san-mateo-county-transit-district-samtrans/job-20783258",
+      "date_posted": "",
+      "salary": "$143,142.00-$200,398.00 Annually",
+      "ats": "CalOpps"
+    },
+    {
+      "company": "Pacifica",
+      "title": "Project Manager",
+      "location": "San Francisco/Peninsula",
+      "url": "https://www.calopps.org/pacifica/job-20782759",
+      "date_posted": "",
+      "salary": "$40.00-$50.00 Hourly",
+      "ats": "CalOpps"
+    }
+  ]
 }
