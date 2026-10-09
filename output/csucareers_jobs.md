@@ -1,7 +1,10 @@
 # 🎓 CSU Careers — California State University Megan's Strategy, Security & Operations Roles
-*Last updated: 2026-10-07 21:34 UTC*
+*Last updated: 2026-10-09 21:15 UTC*
 
-**1 new role(s)** since last run · 13 total in current CSU Careers postings
+**2 new role(s)** since last run · 15 total in current CSU Careers postings
 
-### [Business Intelligence Analyst - University Housing](https://csucareers.calstate.edu/en-us/job/561301/business-intelligence-analyst-university-housing) — California State University
-- 📍 **Location:** Cal Poly - San Luis Obispo Campus
+### [Housing Operations Analyst](https://csucareers.calstate.edu/en-us/job/562774/housing-operations-analyst) — California State University
+- 📍 **Location:** Pomona
+
+### [Program Manager/Veterans Success and Research Initiatives-OAR (UEC)](https://csucareers.calstate.edu/en-us/job/563017/program-managerveterans-success-and-research-initiativesoar-uec) — California State University
+- 📍 **Location:** San Bernardino - San Bernardino Campus
