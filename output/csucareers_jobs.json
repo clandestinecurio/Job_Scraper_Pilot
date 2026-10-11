@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-10-09 21:15 UTC",
-  "total": 15,
-  "new_count": 2,
+  "scraped_at": "2026-10-11 20:34 UTC",
+  "total": 16,
+  "new_count": 1,
   "jobs": [
     {
       "company": "California State University",
@@ -182,29 +182,29 @@
       "description": "",
       "salary": "",
       "ats": "CSUCareers"
+    },
+    {
+      "company": "California State University",
+      "title": "Technical Business Analyst",
+      "location": "Dominguez Hills",
+      "url": "https://csucareers.calstate.edu/en-us/job/563076/technical-business-analyst",
+      "direct_url": "https://csucareers.calstate.edu/en-us/job/563076/technical-business-analyst",
+      "date_posted": "",
+      "closing_date": "2026-10-27",
+      "description": "",
+      "salary": "",
+      "ats": "CSUCareers"
     }
   ],
   "new_jobs": [
     {
       "company": "California State University",
-      "title": "Housing Operations Analyst",
-      "location": "Pomona",
-      "url": "https://csucareers.calstate.edu/en-us/job/562774/housing-operations-analyst",
-      "direct_url": "https://csucareers.calstate.edu/en-us/job/562774/housing-operations-analyst",
+      "title": "Technical Business Analyst",
+      "location": "Dominguez Hills",
+      "url": "https://csucareers.calstate.edu/en-us/job/563076/technical-business-analyst",
+      "direct_url": "https://csucareers.calstate.edu/en-us/job/563076/technical-business-analyst",
       "date_posted": "",
-      "closing_date": "2026-10-23",
-      "description": "",
-      "salary": "",
-      "ats": "CSUCareers"
-    },
-    {
-      "company": "California State University",
-      "title": "Program Manager/Veterans Success and Research Initiatives-OAR (UEC)",
-      "location": "San Bernardino - San Bernardino Campus",
-      "url": "https://csucareers.calstate.edu/en-us/job/563017/program-managerveterans-success-and-research-initiativesoar-uec",
-      "direct_url": "https://csucareers.calstate.edu/en-us/job/563017/program-managerveterans-success-and-research-initiativesoar-uec",
-      "date_posted": "",
-      "closing_date": "",
+      "closing_date": "2026-10-27",
       "description": "",
       "salary": "",
       "ats": "CSUCareers"
