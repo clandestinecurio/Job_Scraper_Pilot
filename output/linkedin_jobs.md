@@ -673,7 +673,8 @@
 
 ### [IT Project Manager](https://www.linkedin.com/jobs/view/4480563497/) — Cynet Systems
 - 📍 **Location:** Rosemead, CA
-- 🕒 **Posted:** 2026-10-16
+- 💰 **Salary:** $140,000 - $161,577
+- 🕒 **Posted:** 2026-10-17
 
 ### [Senior IT Technical Project Manager (Data Privacy & ONE TRUST)](https://www.linkedin.com/jobs/view/4480560927/) — Delta Computer Consulting
 - 📍 **Location:** Los Angeles Metropolitan Area
