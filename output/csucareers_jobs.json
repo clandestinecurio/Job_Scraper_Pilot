@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-10-11 20:34 UTC",
-  "total": 16,
-  "new_count": 1,
+  "scraped_at": "2026-10-21 20:22 UTC",
+  "total": 21,
+  "new_count": 5,
   "jobs": [
     {
       "company": "California State University",
@@ -194,17 +194,125 @@
       "description": "",
       "salary": "",
       "ats": "CSUCareers"
+    },
+    {
+      "company": "California State University",
+      "title": "Funds and Records Operations Analyst",
+      "location": "San José",
+      "url": "https://csucareers.calstate.edu/en-us/job/563166/funds-and-records-operations-analyst",
+      "direct_url": "https://csucareers.calstate.edu/en-us/job/563166/funds-and-records-operations-analyst",
+      "date_posted": "",
+      "closing_date": "",
+      "description": "",
+      "salary": "",
+      "ats": "CSUCareers"
+    },
+    {
+      "company": "California State University",
+      "title": "Research Analyst",
+      "location": "Los Angeles",
+      "url": "https://csucareers.calstate.edu/en-us/job/563301/research-analyst",
+      "direct_url": "https://csucareers.calstate.edu/en-us/job/563301/research-analyst",
+      "date_posted": "",
+      "closing_date": "",
+      "description": "",
+      "salary": "",
+      "ats": "CSUCareers"
+    },
+    {
+      "company": "California State University",
+      "title": "Operations Analyst",
+      "location": "Long Beach",
+      "url": "https://csucareers.calstate.edu/en-us/job/563198/operations-analyst",
+      "direct_url": "https://csucareers.calstate.edu/en-us/job/563198/operations-analyst",
+      "date_posted": "",
+      "closing_date": "2026-10-30",
+      "description": "",
+      "salary": "",
+      "ats": "CSUCareers"
+    },
+    {
+      "company": "California State University",
+      "title": "Workforce Operations Analyst (Administrative Analyst/Specialist Exempt-II)",
+      "location": "Fullerton",
+      "url": "https://csucareers.calstate.edu/en-us/job/563160/workforce-operations-analyst-administrative-analystspecialist-exemptii",
+      "direct_url": "https://csucareers.calstate.edu/en-us/job/563160/workforce-operations-analyst-administrative-analystspecialist-exemptii",
+      "date_posted": "",
+      "closing_date": "2026-10-30",
+      "description": "",
+      "salary": "",
+      "ats": "CSUCareers"
+    },
+    {
+      "company": "California State University",
+      "title": "Project Manager and Documentation Specialist",
+      "location": "San José",
+      "url": "https://csucareers.calstate.edu/en-us/job/562617/project-manager-and-documentation-specialist",
+      "direct_url": "https://csucareers.calstate.edu/en-us/job/562617/project-manager-and-documentation-specialist",
+      "date_posted": "",
+      "closing_date": "",
+      "description": "",
+      "salary": "",
+      "ats": "CSUCareers"
     }
   ],
   "new_jobs": [
     {
       "company": "California State University",
-      "title": "Technical Business Analyst",
-      "location": "Dominguez Hills",
-      "url": "https://csucareers.calstate.edu/en-us/job/563076/technical-business-analyst",
-      "direct_url": "https://csucareers.calstate.edu/en-us/job/563076/technical-business-analyst",
+      "title": "Funds and Records Operations Analyst",
+      "location": "San José",
+      "url": "https://csucareers.calstate.edu/en-us/job/563166/funds-and-records-operations-analyst",
+      "direct_url": "https://csucareers.calstate.edu/en-us/job/563166/funds-and-records-operations-analyst",
       "date_posted": "",
-      "closing_date": "2026-10-27",
+      "closing_date": "",
+      "description": "",
+      "salary": "",
+      "ats": "CSUCareers"
+    },
+    {
+      "company": "California State University",
+      "title": "Research Analyst",
+      "location": "Los Angeles",
+      "url": "https://csucareers.calstate.edu/en-us/job/563301/research-analyst",
+      "direct_url": "https://csucareers.calstate.edu/en-us/job/563301/research-analyst",
+      "date_posted": "",
+      "closing_date": "",
+      "description": "",
+      "salary": "",
+      "ats": "CSUCareers"
+    },
+    {
+      "company": "California State University",
+      "title": "Operations Analyst",
+      "location": "Long Beach",
+      "url": "https://csucareers.calstate.edu/en-us/job/563198/operations-analyst",
+      "direct_url": "https://csucareers.calstate.edu/en-us/job/563198/operations-analyst",
+      "date_posted": "",
+      "closing_date": "2026-10-30",
+      "description": "",
+      "salary": "",
+      "ats": "CSUCareers"
+    },
+    {
+      "company": "California State University",
+      "title": "Workforce Operations Analyst (Administrative Analyst/Specialist Exempt-II)",
+      "location": "Fullerton",
+      "url": "https://csucareers.calstate.edu/en-us/job/563160/workforce-operations-analyst-administrative-analystspecialist-exemptii",
+      "direct_url": "https://csucareers.calstate.edu/en-us/job/563160/workforce-operations-analyst-administrative-analystspecialist-exemptii",
+      "date_posted": "",
+      "closing_date": "2026-10-30",
+      "description": "",
+      "salary": "",
+      "ats": "CSUCareers"
+    },
+    {
+      "company": "California State University",
+      "title": "Project Manager and Documentation Specialist",
+      "location": "San José",
+      "url": "https://csucareers.calstate.edu/en-us/job/562617/project-manager-and-documentation-specialist",
+      "direct_url": "https://csucareers.calstate.edu/en-us/job/562617/project-manager-and-documentation-specialist",
+      "date_posted": "",
+      "closing_date": "",
       "description": "",
       "salary": "",
       "ats": "CSUCareers"
