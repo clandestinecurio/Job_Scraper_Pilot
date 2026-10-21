@@ -1,26 +1,63 @@
 {
-  "scraped_at": "2026-10-09 20:58 UTC",
-  "total": 2,
-  "new_count": 0,
+  "scraped_at": "2026-10-21 20:15 UTC",
+  "total": 3,
+  "new_count": 3,
   "jobs": [
     {
-      "company": "City of Berkeley",
-      "title": "Information Security Manager",
-      "location": "Berkeley, CA",
-      "url": "https://www.governmentjobs.com/jobs/5443375-0/information-security-manager",
+      "company": "San Jose State University",
+      "title": "Project Manager and Documentation Specialist",
+      "location": "San Jose, CA",
+      "url": "https://www.governmentjobs.com/jobs/152112-1/project-manager-and-documentation-specialist",
       "date_posted": "",
-      "salary": "$175,978.82 - $216,054.80 Annually",
+      "salary": "$6,927.00 - $7,352.00 Monthly",
       "ats": "NEOGOV"
     },
     {
-      "company": "County Of Maui",
-      "title": "Research Analyst (SR-22)",
-      "location": "Maui County (various), HI",
-      "url": "https://www.governmentjobs.com/jobs/5491971-0/research-analyst-sr-22",
+      "company": "County of San Mateo",
+      "title": "Intelligence Analyst - Unclassified (Open)",
+      "location": "County of San Mateo, CA",
+      "url": "https://www.governmentjobs.com/jobs/5515560-0/intelligence-analyst-unclassified-open",
       "date_posted": "",
-      "salary": "",
+      "salary": "$106,870.40 - $133,577.60 Annually",
+      "ats": "NEOGOV"
+    },
+    {
+      "company": "County of Los Angeles",
+      "title": "PREDICTIVE DATA ANALYST - EMERGENCY APPOINTMENT (HOMELESSNESS)",
+      "location": "Los Angeles County, CA",
+      "url": "https://www.governmentjobs.com/jobs/5498026-0/predictive-data-analyst-emergency-appointment-homelessness",
+      "date_posted": "",
+      "salary": "$96,353.52 - $129,847.68 Annually",
       "ats": "NEOGOV"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "San Jose State University",
+      "title": "Project Manager and Documentation Specialist",
+      "location": "San Jose, CA",
+      "url": "https://www.governmentjobs.com/jobs/152112-1/project-manager-and-documentation-specialist",
+      "date_posted": "",
+      "salary": "$6,927.00 - $7,352.00 Monthly",
+      "ats": "NEOGOV"
+    },
+    {
+      "company": "County of San Mateo",
+      "title": "Intelligence Analyst - Unclassified (Open)",
+      "location": "County of San Mateo, CA",
+      "url": "https://www.governmentjobs.com/jobs/5515560-0/intelligence-analyst-unclassified-open",
+      "date_posted": "",
+      "salary": "$106,870.40 - $133,577.60 Annually",
+      "ats": "NEOGOV"
+    },
+    {
+      "company": "County of Los Angeles",
+      "title": "PREDICTIVE DATA ANALYST - EMERGENCY APPOINTMENT (HOMELESSNESS)",
+      "location": "Los Angeles County, CA",
+      "url": "https://www.governmentjobs.com/jobs/5498026-0/predictive-data-analyst-emergency-appointment-homelessness",
+      "date_posted": "",
+      "salary": "$96,353.52 - $129,847.68 Annually",
+      "ats": "NEOGOV"
+    }
+  ]
 }
