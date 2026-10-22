@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-10-21 20:16 UTC",
-  "total": 8,
-  "new_count": 1,
+  "scraped_at": "2026-10-22 20:11 UTC",
+  "total": 7,
+  "new_count": 0,
   "jobs": [
     {
       "company": "San Mateo County",
@@ -65,26 +65,7 @@
       "date_posted": "",
       "salary": "$94.00-$121.00 Hourly",
       "ats": "CalOpps"
-    },
-    {
-      "company": "Housing Authority Of The City Of Alameda",
-      "title": "Senior Project Manager",
-      "location": "East Bay",
-      "url": "https://www.calopps.org/housing-authority-of-the-city-of-alameda/job-20741638",
-      "date_posted": "",
-      "salary": "$155,715.00-$189,267.00 Annually",
-      "ats": "CalOpps"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "San Mateo County",
-      "title": "Intelligence Analyst- Unclassified (Open)",
-      "location": "San Francisco/Peninsula",
-      "url": "https://www.calopps.org/san-mateo-county/job-20786331",
-      "date_posted": "",
-      "salary": "$106,870.40-$133,577.60 Annually",
-      "ats": "CalOpps"
-    }
-  ]
+  "new_jobs": []
 }

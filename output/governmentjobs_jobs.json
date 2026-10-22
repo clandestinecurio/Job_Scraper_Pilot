@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-10-21 20:15 UTC",
-  "total": 3,
-  "new_count": 3,
+  "scraped_at": "2026-10-22 20:11 UTC",
+  "total": 4,
+  "new_count": 2,
   "jobs": [
     {
       "company": "San Jose State University",
@@ -13,12 +13,21 @@
       "ats": "NEOGOV"
     },
     {
-      "company": "County of San Mateo",
-      "title": "Intelligence Analyst - Unclassified (Open)",
-      "location": "County of San Mateo, CA",
-      "url": "https://www.governmentjobs.com/jobs/5515560-0/intelligence-analyst-unclassified-open",
+      "company": "State Bar of California",
+      "title": "Cybersecurity Manager",
+      "location": "Los Angeles, CA ; San Francisco, CA",
+      "url": "https://www.governmentjobs.com/jobs/152106-1/cybersecurity-manager",
       "date_posted": "",
-      "salary": "$106,870.40 - $133,577.60 Annually",
+      "salary": "$135,696.00 - $180,902.00 Annually",
+      "ats": "NEOGOV"
+    },
+    {
+      "company": "San Jose State University",
+      "title": "Funds and Records Operations Analyst",
+      "location": "San Jose, CA",
+      "url": "https://www.governmentjobs.com/jobs/152508-1/funds-and-records-operations-analyst",
+      "date_posted": "",
+      "salary": "$5,709.00 - $5,940.00 Monthly",
       "ats": "NEOGOV"
     },
     {
@@ -33,30 +42,21 @@
   ],
   "new_jobs": [
     {
+      "company": "State Bar of California",
+      "title": "Cybersecurity Manager",
+      "location": "Los Angeles, CA ; San Francisco, CA",
+      "url": "https://www.governmentjobs.com/jobs/152106-1/cybersecurity-manager",
+      "date_posted": "",
+      "salary": "$135,696.00 - $180,902.00 Annually",
+      "ats": "NEOGOV"
+    },
+    {
       "company": "San Jose State University",
-      "title": "Project Manager and Documentation Specialist",
+      "title": "Funds and Records Operations Analyst",
       "location": "San Jose, CA",
-      "url": "https://www.governmentjobs.com/jobs/152112-1/project-manager-and-documentation-specialist",
+      "url": "https://www.governmentjobs.com/jobs/152508-1/funds-and-records-operations-analyst",
       "date_posted": "",
-      "salary": "$6,927.00 - $7,352.00 Monthly",
-      "ats": "NEOGOV"
-    },
-    {
-      "company": "County of San Mateo",
-      "title": "Intelligence Analyst - Unclassified (Open)",
-      "location": "County of San Mateo, CA",
-      "url": "https://www.governmentjobs.com/jobs/5515560-0/intelligence-analyst-unclassified-open",
-      "date_posted": "",
-      "salary": "$106,870.40 - $133,577.60 Annually",
-      "ats": "NEOGOV"
-    },
-    {
-      "company": "County of Los Angeles",
-      "title": "PREDICTIVE DATA ANALYST - EMERGENCY APPOINTMENT (HOMELESSNESS)",
-      "location": "Los Angeles County, CA",
-      "url": "https://www.governmentjobs.com/jobs/5498026-0/predictive-data-analyst-emergency-appointment-homelessness",
-      "date_posted": "",
-      "salary": "$96,353.52 - $129,847.68 Annually",
+      "salary": "$5,709.00 - $5,940.00 Monthly",
       "ats": "NEOGOV"
     }
   ]
