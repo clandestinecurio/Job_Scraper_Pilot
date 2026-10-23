@@ -1,48 +1,62 @@
 # 🟦 Indeed — Megan's Strategy, Security & Operations Roles
-*Last updated: 2026-10-23 01:03 UTC*
+*Last updated: 2026-10-23 06:32 UTC*
 
-**7 new role(s)** since last run · 106 total in last 24h
+**9 new role(s)** since last run · 85 total in last 24h
 
-### [Sr. Intelligence Analyst - DPRK Mission (Remote)](https://www.indeed.com/viewjob?jk=d68217f275af6068) — CrowdStrike
-- 📍 **Location:** Remote, USA
-- 💰 **Salary:** $85k–$120k/yr
-- **Work mode:** Remote in-state eligible
+### [Intelligence Data Analyst](https://www.indeed.com/viewjob?jk=d0bf8304ca5cb811) — Mayvin INC
+- 📍 **Location:** Arlington, VA, USA
+- 💰 **Salary:** $75k–$100k/yr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-23
+
+### [Program Analyst - DIRECT HIRE](https://www.indeed.com/viewjob?jk=502b03bcd83098f7) — US Federal Transit Administration
+- 📍 **Location:** Washington, DC, USA
+- 💰 **Salary:** $85k–$158k/yr
+- **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-22
 
-### [Project Manager/Owner's Representative Remote](https://www.indeed.com/viewjob?jk=2c65d6a6d9fc3a0a) — One-Line Co.
-- 📍 **Location:** Remote, USA
-- 💰 **Salary:** $150k–$225k/yr
-- **Work mode:** Remote in-state eligible
+### [Management and Program Analyst](https://www.indeed.com/viewjob?jk=f43b785983b92157) — US Bureau of Industry and Security
+- 📍 **Location:** Washington, DC, USA
+- 💰 **Salary:** $144k–$187k/yr
+- **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-22
 
-### [Data Analyst](https://www.indeed.com/viewjob?jk=5aaa32eb75446dc5) — NexRep
-- 📍 **Location:** Portland, ME, USA
-- **Work mode:** Remote in-state eligible
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-22
-
-### [Project Manager](https://uk.indeed.com/viewjob?jk=1d34c9b7f90cbc85) — Mace Group
+### [Talent Program Manager](https://uk.indeed.com/viewjob?jk=38886a1649e20da1) — Palantir Technologies
 - 📍 **Location:** London, ENG, UK
 - **Work mode:** On-site
 - **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-23
+
+### [Project Manager](https://uk.indeed.com/viewjob?jk=3ac5c36a0c6476c8) — ISS World
+- 📍 **Location:** Reading, ENG, UK
+- **Work mode:** On-site
 - 🕒 **Posted:** 2026-10-22
 
-### [Senior Commercial and Consumer Business Analyst](https://uk.indeed.com/viewjob?jk=87e817af038bd824) — COS
-- 📍 **Location:** London, ENG, UK
+### [Acquisition Security Analyst](https://www.indeed.com/viewjob?jk=3998f6f8af81e412) — MANTECH
+- 📍 **Location:** Los Angeles, CA, USA
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-23
+
+### [Stage - Business Analyst](https://fr.indeed.com/viewjob?jk=9a202882ced052d7) — Groupe Rocher
+- 📍 **Location:** Issy-les-Moulineaux, A8, France
+- **Work mode:** On-site
+- **Job type:** internship
+- 🕒 **Posted:** 2026-10-22
+
+### [Program Manager - Privacy and Compliance](https://www.indeed.com/viewjob?jk=301ed45c8d2c1f15) — Keurig Dr Pepper
+- 📍 **Location:** Emeryville, CA, USA
+- 💰 **Salary:** $97k–$130k/yr
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-22
 
-### [Retail IT Operations Business Analyst](https://www.indeed.com/viewjob?jk=b1ff73413a9e951e) — Skechers
-- 📍 **Location:** Manhattan Beach, CA, USA
-- 💰 **Salary:** $120k–$140k/yr
+### [Business Analyst](https://www.indeed.com/viewjob?jk=8275c39e62a61bd8) — Rudra Technologies Inc.
+- 📍 **Location:** Foster City, CA, USA
+- 💰 **Salary:** $50–$70/hr
 - **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-22
-
-### [Data Analyst Pilotage économique A2P (F/H)](https://fr.indeed.com/viewjob?jk=02de8c3125ee5813) — AXA / France
-- 📍 **Location:** Nanterre, A8, France
-- **Work mode:** On-site
+- **Job type:** contract
 - 🕒 **Posted:** 2026-10-22
