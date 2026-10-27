@@ -1,564 +1,637 @@
 # 🔥 LinkedIn — Megan's Strategy, Security & Operations Roles
-*Last updated: 2026-10-26 21:58 UTC*
+*Last updated: 2026-10-27 02:25 UTC*
 
-**126 new role(s)** since last run · 126 total in last 1h
+**143 new role(s)** since last run · 144 total in last 1h
 
-### [Remote Project Manager - Energy and Mobility Solutions](https://www.linkedin.com/jobs/view/4481476926/) — TechFlow, Inc.
-- 📍 **Location:** Fayetteville, NC
-- 🕒 **Posted:** 2026-10-26
+### [Web Dev Project Manager](https://www.linkedin.com/jobs/view/4480185373/) — Mediboost
+- 📍 **Location:** Lebanon
+- 🕒 **Posted:** 2026-10-27
 
-### [Business Project Manager](https://www.linkedin.com/jobs/view/4479060917/) — RBox International Solutions Inc.
-- 📍 **Location:** National Capital Region, Philippines
-- 🕒 **Posted:** 2026-10-26
+### [Web Dev Project Manager](https://www.linkedin.com/jobs/view/4480186616/) — Mediboost
+- 📍 **Location:** South Africa
+- 🕒 **Posted:** 2026-10-27
 
-### [Technical Project Manager (Software Development)](https://www.linkedin.com/jobs/view/4483724848/) — Aishi Labs
-- 📍 **Location:** Colombia
-- 🕒 **Posted:** 2026-10-26
+### [Project Manager](https://www.linkedin.com/jobs/view/4483771524/) — MediaNews Group
+- 📍 **Location:** Denver, CO
+- 💰 **Salary:** $100,000 - $125,000
+- 🕒 **Posted:** 2026-10-27
 
-### [Remote Project Manager - Energy and Mobility Solutions](https://www.linkedin.com/jobs/view/4481486509/) — TechFlow, Inc.
-- 📍 **Location:** Arvada, CO
-- 🕒 **Posted:** 2026-10-26
+### [Senior NetSuite Project Manager](https://www.linkedin.com/jobs/view/4483765776/) — Ryz Labs
+- 📍 **Location:** Argentina
+- 🕒 **Posted:** 2026-10-27
 
-### [Remote Senior SMP Project Manager (Industrial Construction)](https://www.linkedin.com/jobs/view/4481491181/) — Great Basin Industrial
-- 📍 **Location:** Miami, FL
-- 🕒 **Posted:** 2026-10-26
+### [Project Manager - Rebar](https://www.linkedin.com/jobs/view/4483773558/) — White Cap
+- 📍 **Location:** Fort Pierce, FL
+- 🕒 **Posted:** 2026-10-27
 
-### [Remote AWS Project Manager](https://www.linkedin.com/jobs/view/4481478947/) — NeuraFlash
-- 📍 **Location:** Greensboro, NC
-- 💰 **Salary:** $94,400 to $266,300 USD
-- 🕒 **Posted:** 2026-10-26
-
-### [Remote Senior SMP Project Manager (Industrial Construction)](https://www.linkedin.com/jobs/view/4481473995/) — Great Basin Industrial
-- 📍 **Location:** Fullerton, CA
-- 🕒 **Posted:** 2026-10-26
-
-### [Remote AWS Project Manager](https://www.linkedin.com/jobs/view/4481484613/) — NeuraFlash
-- 📍 **Location:** Vancouver, WA
-- 💰 **Salary:** $94,400 to $266,300 USD
-- 🕒 **Posted:** 2026-10-26
-
-### [Sr. Project Manager](https://www.linkedin.com/jobs/view/4483246492/) — ELLKAY
-- 📍 **Location:** India
-- 🕒 **Posted:** 2026-10-26
-
-### [Remote Project Manager - South Central](https://www.linkedin.com/jobs/view/4481495103/) — Meteor Education
-- 📍 **Location:** New Orleans, LA
-- 💰 **Salary:** $75,000 - $80,000 annually
-- 🕒 **Posted:** 2026-10-26
-
-### [Remote Project Manager - South Central](https://www.linkedin.com/jobs/view/4481497046/) — Meteor Education
-- 📍 **Location:** Plano, TX
-- 💰 **Salary:** $75,000 - $80,000 annually
-- 🕒 **Posted:** 2026-10-26
-
-### [SAP BRIM Technical Project Manager / Support Lead -Remote (Canada)](https://www.linkedin.com/jobs/view/4483255373/) — Yochana
-- 📍 **Location:** Canada
-- 🕒 **Posted:** 2026-10-26
-
-### [Senior Project Manager - Oncology (Hybrid)](https://www.linkedin.com/jobs/view/4483738100/) — Coalition of Cancer Cooperative Groups
-- 📍 **Location:** Philadelphia, PA
-- 💰 **Salary:** $140,000.00/yr - $160,000.00/yr
-- 🕒 **Posted:** 2026-10-26
-
-### [Learning Project Manager](https://www.linkedin.com/jobs/view/4483244527/) — Clarity Consultants
+### [Commissioning Program Manager](https://www.linkedin.com/jobs/view/4483285323/) — CEQEL Critical Commissioning, LLC
 - 📍 **Location:** United States
-- 💰 **Salary:** $72.00 to $78.00 per hour
-- 🕒 **Posted:** 2026-10-26
+- 🕒 **Posted:** 2026-10-27
 
-### [Project Manager – Level II](https://www.linkedin.com/jobs/view/4483242661/) — People Integra (A Business Integra Group Company)
-- 📍 **Location:** Oklahoma City, OK
-- 🕒 **Posted:** 2026-10-26
-
-### [SAP project/program manager -- Hybrid -- Only W2 Profiles](https://www.linkedin.com/jobs/view/4481491371/) — Trebecon LLC
-- 📍 **Location:** Reno, NV
-- 🕒 **Posted:** 2026-10-26
-
-### [Sr. Program Manager, Construction](https://www.linkedin.com/jobs/view/4481496167/) — Quest Diagnostics
-- 📍 **Location:** Houston, TX
-- 🕒 **Posted:** 2026-10-26
-
-### [Project Manager - PMO (Level II+)](https://www.linkedin.com/jobs/view/4483264056/) — RibbitZ LLC
-- 📍 **Location:** Oklahoma City, OK
-- 🕒 **Posted:** 2026-10-26
-
-### [Senior Information Technology Program Manager](https://www.linkedin.com/jobs/view/4483164232/) — RBox International Solutions Inc.
-- 📍 **Location:** Pasig, National Capital Region, Philippines
-- 🕒 **Posted:** 2026-10-26
-
-### [Program Manager](https://www.linkedin.com/jobs/view/4483263002/) — Empire Life
-- 📍 **Location:** Ontario, Canada
-- 🕒 **Posted:** 2026-10-26
-
-### [Senior Project Manager](https://www.linkedin.com/jobs/view/4481487583/) — TalentHop
+### [Program Manager - Defense Tech](https://www.linkedin.com/jobs/view/4483240429/) — Everfox
 - 📍 **Location:** United States
-- 🕒 **Posted:** 2026-10-26
+- 💰 **Salary:** $166,300.00-210,400.00
+- 🕒 **Posted:** 2026-10-27
 
-### [Network Project Manager - III -  # 26-21340](https://www.linkedin.com/jobs/view/4483245529/) — US Tech Solutions
-- 📍 **Location:** Albany, NY
-- 💰 **Salary:** $55.00/hr - $60.00/hr
-- 🕒 **Posted:** 2026-10-26
+### [Program Manager, Preferred Communities](https://www.linkedin.com/jobs/view/4483758865/) — HIAS
+- 📍 **Location:** Utica-Rome Area
+- 💰 **Salary:** $75,000-90,000
+- 🕒 **Posted:** 2026-10-27
 
-### [Sustainer Program Manager](https://www.linkedin.com/jobs/view/4483706549/) — Paralyzed Veterans of America (PVA)
-- 📍 **Location:** Washington, DC
-- 💰 **Salary:** $60,000.00/yr - $80,000.00/yr
-- 🕒 **Posted:** 2026-10-26
+### [Implementation Manager - Grants (Remote)](https://www.linkedin.com/jobs/view/4483778341/) — Euna Solutions
+- 📍 **Location:** Nevada, MO
+- 🕒 **Posted:** 2026-10-27
 
-### [Technical Program Manager](https://www.linkedin.com/jobs/view/4483260201/) — Insight Global
-- 📍 **Location:** Santa Clara County, CA
-- 💰 **Salary:** $70.00/hr - $90.00/hr
-- 🕒 **Posted:** 2026-10-26
-
-### [Remote Salesforce Project Manager](https://www.linkedin.com/jobs/view/4481484541/) — NeuraFlash
-- 📍 **Location:** Carlsbad, CA
-- 💰 **Salary:** $94,400 to $266,300 USD
-- 🕒 **Posted:** 2026-10-26
-
-### [Remote Salesforce Project Manager](https://www.linkedin.com/jobs/view/4481483589/) — NeuraFlash
-- 📍 **Location:** Omaha, NE
-- 🕒 **Posted:** 2026-10-26
-
-### [Technical Program Manager, Gemini Post-Training (Physical Engineering)](https://www.linkedin.com/jobs/view/4483255282/) — Google
-- 📍 **Location:** Mountain View, CA
-- 💰 **Salary:** $192000 - $278000
-- 🕒 **Posted:** 2026-10-26
-
-### [Program manager expert(W2)](https://www.linkedin.com/jobs/view/4483239849/) — Intime Infotech Inc
-- 📍 **Location:** San Ramon, CA
-- 🕒 **Posted:** 2026-10-26
-
-### [SAP BRIM With Technical Project Manager](https://www.linkedin.com/jobs/view/4483737174/) — Raas Infotek
-- 📍 **Location:** Canada
-- 🕒 **Posted:** 2026-10-26
-
-### [Project Manager](https://www.linkedin.com/jobs/view/4483726885/) — System One Clinical & Science
-- 📍 **Location:** Indianapolis, IN
-- 💰 **Salary:** $65.00 - $75.90/hr
-- 🕒 **Posted:** 2026-10-26
-
-### [Senior Leadership Technical Program Manager, Infrastructure Planning and Efficiency](https://www.linkedin.com/jobs/view/4483249348/) — Google
-- 📍 **Location:** Kirkland, WA
-- 💰 **Salary:** $240000 - $333000
-- 🕒 **Posted:** 2026-10-26
-
-### [Senior Leadership Technical Program Manager, Infrastructure Planning and Efficiency](https://www.linkedin.com/jobs/view/4483261115/) — Google
-- 📍 **Location:** Sunnyvale, CA
-- 💰 **Salary:** $240000 - $333000
-- 🕒 **Posted:** 2026-10-26
-
-### [Technical Project Manager](https://www.linkedin.com/jobs/view/4457966605/) — Photon
-- 📍 **Location:** Irving, TX
-- 💰 **Salary:** $100,000.00/yr - $140,000.00/yr
-- 🕒 **Posted:** 2026-10-26
-
-### [Supply Chain Program Manager](https://www.linkedin.com/jobs/view/4481491204/) — Giga Energy
-- 📍 **Location:** Long Beach, CA
-- 🕒 **Posted:** 2026-10-26
-
-### [Program Manager - Indianapolis, IN (Onsite)](https://www.linkedin.com/jobs/view/4483262067/) — Ventures Unlimited Inc
-- 📍 **Location:** Indianapolis, IN
-- 🕒 **Posted:** 2026-10-26
-
-### [Program Manager](https://www.linkedin.com/jobs/view/4483247485/) — Abacus Service Corporation
-- 📍 **Location:** Oakland, CA
-- 💰 **Salary:** $129,000.00/yr - $168,000.00/yr
-- 🕒 **Posted:** 2026-10-26
-
-### [Technology Program Manager-Business Operations](https://www.linkedin.com/jobs/view/4481781374/) — Caterpillar Inc.
-- 📍 **Location:** Irving, TX
-- 💰 **Salary:** $128,470.00 - $192,710.00
-- 🕒 **Posted:** 2026-10-26
-
-### [Senior Project Manager](https://www.linkedin.com/jobs/view/4481489392/) — Thermo Systems
-- 📍 **Location:** Richmond, VA
-- 💰 **Salary:** $125,000– $185,000 Annually
-- 🕒 **Posted:** 2026-10-26
-
-### [SAP BRIM Technical Project Manager / Support Lead](https://www.linkedin.com/jobs/view/4483726836/) — Raas Infotek
-- 📍 **Location:** Canada
-- 🕒 **Posted:** 2026-10-26
-
-### [Sr. Project/Program Manager](https://www.linkedin.com/jobs/view/4483240719/) — NexTech Solutions
-- 📍 **Location:** Collierville, TN
-- 🕒 **Posted:** 2026-10-26
-
-### [Security Manager (Construction)](https://www.linkedin.com/jobs/view/4481483770/) — PACT
-- 📍 **Location:** Mississauga, Ontario, Canada
-- 🕒 **Posted:** 2026-10-26
-
-### [Program Manager](https://www.linkedin.com/jobs/view/4483260204/) — LTM
-- 📍 **Location:** Mississauga, Ontario, Canada
-- 🕒 **Posted:** 2026-10-26
-
-### [Program Manager-Retail Banking](https://www.linkedin.com/jobs/view/4483730749/) — TekStaff IT Solutions
-- 📍 **Location:** Toronto, Ontario, Canada
-- 🕒 **Posted:** 2026-10-26
-
-### [Project Manager/Delivery Manager](https://www.linkedin.com/jobs/view/4483723764/) — ENGIE Polska
-- 📍 **Location:** Katowice, Śląskie, Poland
-- 🕒 **Posted:** 2026-10-26
-
-### [Project Manager](https://www.linkedin.com/jobs/view/4483734300/) — Unlimited Technology, Inc.
-- 📍 **Location:** San Jose, CA
-- 💰 **Salary:** $125,000 USD - $135,000 USD
-- 🕒 **Posted:** 2026-10-26
-
-### [Physical Security Project Manager: 26-02889](https://www.linkedin.com/jobs/view/4470995883/) — Akraya, Inc.
-- 📍 **Location:** Oakland, CA
-- 💰 **Salary:** $70 to $75/hour
-- 🕒 **Posted:** 2026-10-26
-
-### [Project Manager - Remote (LATAM)](https://www.linkedin.com/jobs/view/4483251283/) — Connect Tech+Talent
-- 📍 **Location:** Ecuador
-- 🕒 **Posted:** 2026-10-26
-
-### [Senior IT Project Manager](https://www.linkedin.com/jobs/view/4481475988/) — Encore Technologies
-- 📍 **Location:** Cincinnati Metropolitan Area
-- 🕒 **Posted:** 2026-10-26
-
-### [Senior Project Manager](https://www.linkedin.com/jobs/view/4483734305/) — Vaco by Highspring
-- 📍 **Location:** Winnipeg, Manitoba, Canada
-- 💰 **Salary:** $80.00/hr - CA$100.00/hr
-- 🕒 **Posted:** 2026-10-26
-
-### [Project Manager – Hazardous Materials / Occupational Hygiene](https://www.linkedin.com/jobs/view/4483727805/) — Skyline Recruitment Ltd
-- 📍 **Location:** Greater Toronto Area, Canada
-- 💰 **Salary:** $75,000.00/yr - CA$100,000.00/yr
-- 🕒 **Posted:** 2026-10-26
-
-### [Implementation Manager](https://www.linkedin.com/jobs/view/4481487457/) — TalentHop
+### [Lead Principal Technical Program Manager](https://www.linkedin.com/jobs/view/4481812757/) — Oracle
 - 📍 **Location:** United States
-- 🕒 **Posted:** 2026-10-26
+- 💰 **Salary:** $116,600 - $264,100 per year
+- 🕒 **Posted:** 2026-10-27
 
-### [Project Manager TI](https://www.linkedin.com/jobs/view/4483261094/) — Ticketmaster México
-- 📍 **Location:** Iztacalco, Mexico City, Mexico
-- 🕒 **Posted:** 2026-10-26
+### [Senior Project Manager](https://www.linkedin.com/jobs/view/4479892978/) — APTIM
+- 📍 **Location:** Dallas, TX
+- 💰 **Salary:** $140K to $170K per year
+- 🕒 **Posted:** 2026-10-27
 
-### [Senior ITS Project Manager](https://www.linkedin.com/jobs/view/4483257072/) — HDR
-- 📍 **Location:** Raleigh, NC
-- 🕒 **Posted:** 2026-10-26
+### [Principal Technical Program Manager, Ring Video Platform](https://www.linkedin.com/jobs/view/4483777594/) — Ring
+- 📍 **Location:** Cambridge, England, United Kingdom
+- 🕒 **Posted:** 2026-10-27
 
-### [Project Manager - (NA) Pressure Management (Manufacturing)](https://www.linkedin.com/jobs/view/4483724011/) — Emerson
-- 📍 **Location:** Stafford, TX
-- 🕒 **Posted:** 2026-10-26
+### [Sr. Program Manager, Salesforce Success Central (SFSC)](https://www.linkedin.com/jobs/view/4483775687/) — Amazon Web Services (AWS)
+- 📍 **Location:** Seattle, WA
+- 🕒 **Posted:** 2026-10-27
 
-### [Senior ITS Project Manager](https://www.linkedin.com/jobs/view/4483242495/) — HDR
-- 📍 **Location:** Charlotte, NC
-- 🕒 **Posted:** 2026-10-26
+### [Senior Technical Program Manager - LLM Safety](https://www.linkedin.com/jobs/view/4483274524/) — NVIDIA
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-10-27
 
-### [Remote Salesforce Project Manager](https://www.linkedin.com/jobs/view/4481482584/) — NeuraFlash
-- 📍 **Location:** Cincinnati, OH
-- 💰 **Salary:** $94,400 to $266,300 USD
-- 🕒 **Posted:** 2026-10-26
+### [Sr Program Manager](https://www.linkedin.com/jobs/view/4483281384/) — Philips
+- 📍 **Location:** Alajuela, Alajuela, Costa Rica
+- 🕒 **Posted:** 2026-10-27
 
-### [Ecommerce Project Manager](https://www.linkedin.com/jobs/view/4481485411/) — Zynex Vision
-- 📍 **Location:** Karachi East District, Sindh, Pakistan
-- 🕒 **Posted:** 2026-10-26
+### [Technical Program Manager II, AWS SMGS Ops, IDEAS](https://www.linkedin.com/jobs/view/4483775709/) — Amazon Web Services (AWS)
+- 📍 **Location:** Austin, TX
+- 🕒 **Posted:** 2026-10-27
 
-### [Restoration Project Manager](https://www.linkedin.com/jobs/view/4483733459/) — SERVPRO of Vacaville / Dixon
-- 📍 **Location:** Auburn, New South Wales, Australia
-- 🕒 **Posted:** 2026-10-26
+### [Technical Program Manager II, AWS SMGS Ops, IDEAS](https://www.linkedin.com/jobs/view/4483770863/) — Amazon Web Services (AWS)
+- 📍 **Location:** Arlington, VA
+- 🕒 **Posted:** 2026-10-27
 
-### [Senior Technical Business Analyst - Microsoft Dynamics 365 (MSD)](https://www.linkedin.com/jobs/view/4483588099/) — Verizon
-- 📍 **Location:** Alpharetta, GA
-- 💰 **Salary:** $120,500.00 - $231,000.00
-- 🕒 **Posted:** 2026-10-26
+### [Sr. Hardware Technical Program Manager, Ring](https://www.linkedin.com/jobs/view/4483784068/) — Amazon
+- 📍 **Location:** Taipei, Taipei City, Taiwan
+- 🕒 **Posted:** 2026-10-27
 
-### [Associate Project Manager](https://www.linkedin.com/jobs/view/4481477887/) — Thermo Systems
-- 📍 **Location:** Proctor, AR
-- 💰 **Salary:** $75,000 – $115,000 Annually
-- 🕒 **Posted:** 2026-10-26
+### [Staff Technical Program Manager - Autonomous Vehicle Platform](https://www.linkedin.com/jobs/view/4483279432/) — NVIDIA
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-10-27
 
-### [[HelloConnect] Product Data Analyst (SQL/Python)](https://www.linkedin.com/jobs/view/4481497098/) — HelloConnect
-- 📍 **Location:** Metro Manila
-- 🕒 **Posted:** 2026-10-26
-
-### [Business Intelligence Analyst](https://www.linkedin.com/jobs/view/4483239746/) — Icon Solutions Group, S. A
-- 📍 **Location:** Guatemala City, Guatemala, Guatemala
-- 🕒 **Posted:** 2026-10-26
-
-### [Intelligence Analyst](https://www.linkedin.com/jobs/view/4483240766/) — Penlink
-- 📍 **Location:** Toronto, Ontario, Canada
-- 🕒 **Posted:** 2026-10-26
-
-### [Automotive Market Insights & Strategy Analyst](https://www.linkedin.com/jobs/view/4481486446/) — UAAGI
-- 📍 **Location:** Quezon City, National Capital Region, Philippines
-- 🕒 **Posted:** 2026-10-26
-
-### [Data Analyst — Insights & Reporting](https://www.linkedin.com/jobs/view/4481497072/) — Philippine Vending Corporation
-- 📍 **Location:** Pasig, National Capital Region, Philippines
-- 🕒 **Posted:** 2026-10-26
-
-### [Security Analyst](https://www.linkedin.com/jobs/view/4483745028/) — Take2 Consulting, LLC
-- 📍 **Location:** Herndon, VA
-- 💰 **Salary:** $70,000.00/yr - $100,000.00/yr
-- 🕒 **Posted:** 2026-10-26
-
-### [CYBER SECURITY ANALYST](https://www.linkedin.com/jobs/view/4483249344/) — Durham District School Board
-- 📍 **Location:** Whitby, Ontario, Canada
-- 🕒 **Posted:** 2026-10-26
-
-### [ISMS & Compliance Security Analyst - Join Bonus](https://www.linkedin.com/jobs/view/4481495147/) — transcosmos Asia Philippines Inc.
-- 📍 **Location:** Pasig, National Capital Region, Philippines
-- 🕒 **Posted:** 2026-10-26
-
-### [Research Analyst (D.C.)](https://www.linkedin.com/jobs/view/4481801089/) — Kharon
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $65,000.00/yr - $75,000.00/yr
-- 🕒 **Posted:** 2026-10-26
-
-### [Data Analyst Semi Senior](https://www.linkedin.com/jobs/view/4483736263/) — Empresa Confidencial
-- 📍 **Location:** Las Condes, Santiago Metropolitan Region, Chile
-- 🕒 **Posted:** 2026-10-26
-
-### [Data Analyst](https://www.linkedin.com/jobs/view/4481495291/) — TIBA
-- 📍 **Location:** Bogota, D.C., Capital District, Colombia
-- 🕒 **Posted:** 2026-10-26
-
-### [Project Manager – Basel Implementation](https://www.linkedin.com/jobs/view/4483244483/) — Capgemini
-- 📍 **Location:** Whippany, NJ
-- 💰 **Salary:** $105,000.00/yr - $115,000.00/yr
-- 🕒 **Posted:** 2026-10-26
-
-### [Program Manager, Trade Compliance](https://www.linkedin.com/jobs/view/4483723927/) — SPECTRAFORCE
+### [Security Technical Program Manager, Engineering Privacy & Access](https://www.linkedin.com/jobs/view/4483778633/) — Snap Inc.
 - 📍 **Location:** Bellevue, WA
-- 💰 **Salary:** $50.00/hr - $55.00/hr
-- 🕒 **Posted:** 2026-10-26
+- 💰 **Salary:** $190,000-$284,000 annually
+- 🕒 **Posted:** 2026-10-27
 
-### [Program Manager - GxP CAPA Remediation](https://www.linkedin.com/jobs/view/4483256366/) — QvalFocus Inc.
-- 📍 **Location:** Greenville, SC
-- 🕒 **Posted:** 2026-10-26
+### [Security Technical Program Manager, Engineering Privacy & Access](https://www.linkedin.com/jobs/view/4483774711/) — Snap Inc.
+- 📍 **Location:** Los Angeles, CA
+- 💰 **Salary:** $190,000-$284,000 annually
+- 🕒 **Posted:** 2026-10-27
 
-### [Investment Operations Analyst](https://www.linkedin.com/jobs/view/4483727803/) — Vaco by Highspring
+### [Technical Project Manager - Space Power Systems](https://www.linkedin.com/jobs/view/4481816660/) — Rocketdyne
+- 📍 **Location:** Los Angeles, CA
+- 💰 **Salary:** $140,000.00/yr - $210,000.00/yr
+- 🕒 **Posted:** 2026-10-27
+
+### [Sr. Generation Program Manager – TGS Long Term Service Agreements](https://www.linkedin.com/jobs/view/4480167894/) — Duke Energy Corporation
+- 📍 **Location:** Holly, NC
+- 🕒 **Posted:** 2026-10-27
+
+### [Business Operations Program Manager, Data & Automation](https://www.linkedin.com/jobs/view/4481821417/) — Oracle
+- 📍 **Location:** Nashville, TN
+- 💰 **Salary:** $102,300 - $209,500 per year
+- 🕒 **Posted:** 2026-10-27
+
+### [Senior Program Manager – Cybersecurity & NIS2](https://www.linkedin.com/jobs/view/4483757854/) — Pauwels Consulting
+- 📍 **Location:** Antwerp, Flemish Region, Belgium
+- 🕒 **Posted:** 2026-10-27
+
+### [Science Program Manager, Bulk Material Analysis](https://www.linkedin.com/jobs/view/4483281362/) — ANSTO
+- 📍 **Location:** Lucas Heights, New South Wales, Australia
+- 💰 **Salary:** $138k - $154k
+- 🕒 **Posted:** 2026-10-27
+
+### [Program Manager](https://www.linkedin.com/jobs/view/4483782185/) — Cubic Corporation
+- 📍 **Location:** Miami, FL
+- 💰 **Salary:** $114,000.00 - $130,000.00
+- 🕒 **Posted:** 2026-10-27
+
+### [Senior Project Manager](https://www.linkedin.com/jobs/view/4483768645/) — Capgemini
+- 📍 **Location:** London, England, United Kingdom
+- 🕒 **Posted:** 2026-10-27
+
+### [Regulatory Project Manager - Technology Services](https://www.linkedin.com/jobs/view/4483777489/) — Xcel Energy
+- 📍 **Location:** Denver Metropolitan Area
+- 💰 **Salary:** $97,600.00 to $138,600.00 per year
+- 🕒 **Posted:** 2026-10-27
+
+### [Program Manager](https://www.linkedin.com/jobs/view/4483775666/) — Cubic Corporation
+- 📍 **Location:** Montgomery, AL
+- 💰 **Salary:** $114,000.00 - $130,000.00
+- 🕒 **Posted:** 2026-10-27
+
+### [Program Manager](https://www.linkedin.com/jobs/view/4483783094/) — Cubic Corporation
+- 📍 **Location:** Virginia Beach, VA
+- 💰 **Salary:** $114,000.00 - $130,000.00
+- 🕒 **Posted:** 2026-10-27
+
+### [Senior IT Project Manager](https://www.linkedin.com/jobs/view/4481816610/) — Gaylor Electric, Inc.
+- 📍 **Location:** Indianapolis, IN
+- 🕒 **Posted:** 2026-10-27
+
+### [Agile Project Manager](https://www.linkedin.com/jobs/view/4481809987/) — Flowserve Corporation
+- 📍 **Location:** Irving, TX
+- 🕒 **Posted:** 2026-10-27
+
+### [Customer Education Program Manager](https://www.linkedin.com/jobs/view/4481828271/) — Deel
+- 📍 **Location:** Portugal
+- 💰 **Salary:** $34,000.00/yr - $80,000.00/yr
+- 🕒 **Posted:** 2026-10-27
+
+### [Consumer & Market Intelligence Manager](https://www.linkedin.com/jobs/view/4483766767/) — Nestlé Nespresso SA
+- 📍 **Location:** Montreal, Quebec, Canada
+- 🕒 **Posted:** 2026-10-27
+
+### [Senior Risk Intelligence Manager, GRAMI Risk Intelligence](https://www.linkedin.com/jobs/view/4483776617/) — Amazon
+- 📍 **Location:** Bellevue, WA
+- 🕒 **Posted:** 2026-10-27
+
+### [Senior Risk Intelligence Manager, GRAMI Risk Intelligence](https://www.linkedin.com/jobs/view/4483782206/) — Amazon
+- 📍 **Location:** Nashville, TN
+- 🕒 **Posted:** 2026-10-27
+
+### [Cyber Threat Operations & Intelligence Analyst](https://www.linkedin.com/jobs/view/4483728095/) — Parsons Corporation
+- 📍 **Location:** Annapolis Junction, MD
+- 💰 **Salary:** $157,500.00 - $283,500.00
+- 🕒 **Posted:** 2026-10-27
+
+### [DATA ANALYST L4](https://www.linkedin.com/jobs/view/4483772700/) — Wipro
+- 📍 **Location:** Pune Division, Maharashtra, India
+- 🕒 **Posted:** 2026-10-27
+
+### [DATA ANALYST L3](https://www.linkedin.com/jobs/view/4483774634/) — Wipro
+- 📍 **Location:** Pune Division, Maharashtra, India
+- 🕒 **Posted:** 2026-10-27
+
+### [Business Intelligence Analyst](https://www.linkedin.com/jobs/view/4481816693/) — Xceleration
+- 📍 **Location:** Charlotte, NC
+- 🕒 **Posted:** 2026-10-27
+
+### [Security Analyst (Industrial Security Analyst 3) - 30794](https://www.linkedin.com/jobs/view/4483266877/) — Mission Technologies, a division of HII
+- 📍 **Location:** Hampton, VA
+- 💰 **Salary:** $74,984.00 - $80,000.00
+- 🕒 **Posted:** 2026-10-27
+
+### [CYBER SECURITY ANALYST L3](https://www.linkedin.com/jobs/view/4483767832/) — Wipro
+- 📍 **Location:** Pune Division, Maharashtra, India
+- 🕒 **Posted:** 2026-10-27
+
+### [Security Analyst – SIEM/SOC & Vulnerability Management (w/m/d) - Jobbird.com](https://www.linkedin.com/jobs/view/4483278389/) — Jobster
+- 📍 **Location:** Alsfeld, Hesse, Germany
+- 🕒 **Posted:** 2026-10-27
+
+### [Cyber Security Analyst (Protege)](https://www.linkedin.com/jobs/view/4481824452/) — Airbus Helicopters
+- 📍 **Location:** Subang Jaya, Selangor, Malaysia
+- 🕒 **Posted:** 2026-10-27
+
+### [Operations Research Analyst (Senior)](https://www.linkedin.com/jobs/view/4483783056/) — Trinzic
+- 📍 **Location:** Vienna, VA
+- 🕒 **Posted:** 2026-10-27
+
+### [Program Manager, Listings Seller Experience](https://www.linkedin.com/jobs/view/4483766913/) — Amazon
+- 📍 **Location:** Greater São Paulo Area
+- 🕒 **Posted:** 2026-10-27
+
+### [Regulatory Project Manager - Technology Services](https://www.linkedin.com/jobs/view/4483775576/) — Xcel Energy
+- 📍 **Location:** Greater Minneapolis-St. Paul Area
+- 💰 **Salary:** $97,600.00 to $138,600.00 per year
+- 🕒 **Posted:** 2026-10-27
+
+### [Information Systems Security Manager](https://www.linkedin.com/jobs/view/4483288235/) — CAE
+- 📍 **Location:** Binghamton, NY
+- 💰 **Salary:** $129,100.00 - $161,400.00
+- 🕒 **Posted:** 2026-10-27
+
+### [Data Analyst - Cloud Financial Operations](https://www.linkedin.com/jobs/view/4483770641/) — Planet
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $114,200—$142,700 USD
+- 🕒 **Posted:** 2026-10-27
+
+### [Senior Data Analyst, GTM Analytics - Austin TX (Hybrid)](https://www.linkedin.com/jobs/view/4481981252/) — Luxury Presence
+- 📍 **Location:** Austin, TX
+- 💰 **Salary:** $145,000.00/yr - $175,000.00/yr
+- 🕒 **Posted:** 2026-10-27
+
+### [Senior Research/Data Analyst (4206029)](https://www.linkedin.com/jobs/view/4483773805/) — State of Missouri
+- 📍 **Location:** Jefferson City, MO
+- 🕒 **Posted:** 2026-10-27
+
+### [Marketing & Customer Data Analyst || Grupo Agris - Torres Vedras](https://www.linkedin.com/jobs/view/4483758927/) — Grupo Agris
+- 📍 **Location:** Lisbon, Lisbon, Portugal
+- 🕒 **Posted:** 2026-10-27
+
+### [Evaluation Data Analyst](https://www.linkedin.com/jobs/view/4483774400/) — Energy Trust of Oregon
+- 📍 **Location:** Portland, OR
+- 💰 **Salary:** $74,900 - $93,700,
+- 🕒 **Posted:** 2026-10-27
+
+### [(Hybrid) Data Analyst - WVU Institute for Community and Rural Health](https://www.linkedin.com/jobs/view/4481634133/) — West Virginia University
+- 📍 **Location:** Morgantown, WV
+- 🕒 **Posted:** 2026-10-27
+
+### [Sr. Program Manager, People Tech & Operations](https://www.linkedin.com/jobs/view/4481825366/) — Blue Origin
+- 📍 **Location:** Greater Seattle Area
+- 💰 **Salary:** $134,434.00 - $188,207.25
+- 🕒 **Posted:** 2026-10-27
+
+### [Project Manager - Enterprise Implementations](https://www.linkedin.com/jobs/view/4483786073/) — Butterfly Network, Inc.
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $70,000.00/yr - $80,000.00/yr
-- 🕒 **Posted:** 2026-10-26
+- 💰 **Salary:** $140,000 - $165,000
+- 🕒 **Posted:** 2026-10-27
 
-### [Operations Analyst (Supply Chain)](https://www.linkedin.com/jobs/view/4481493126/) — Core EnableHR
-- 📍 **Location:** Cascais, Lisbon, Portugal
-- 🕒 **Posted:** 2026-10-26
-
-### [Sr Operations Strategy Analyst](https://www.linkedin.com/jobs/view/4483727852/) — National Business Furniture
-- 📍 **Location:** Milwaukee, WI
-- 🕒 **Posted:** 2026-10-26
-
-### [EHR Business Analyst](https://www.linkedin.com/jobs/view/4483731662/) — Asterism IT Solutions LLC
-- 📍 **Location:** Oklahoma City, OK
-- 🕒 **Posted:** 2026-10-26
-
-### [Functional Analyst / Business Analyst de Finanzas + ERP](https://www.linkedin.com/jobs/view/4483735305/) — Acid Labs
-- 📍 **Location:** Monterrey, Nuevo León, Mexico
-- 🕒 **Posted:** 2026-10-26
-
-### [Data Analyst](https://www.linkedin.com/jobs/view/4481496177/) — TalentHop
+### [Global Technical Project Manager – UKG Pro (Integrations & Implementation)](https://www.linkedin.com/jobs/view/4483784184/) — KPG99 INC
 - 📍 **Location:** United States
-- 💰 **Salary:** $110,000 to $130,000,
+- 🕒 **Posted:** 2026-10-27
+
+### [Senior Business Analyst](https://www.linkedin.com/jobs/view/4481814779/) — VSP Vision Care
+- 📍 **Location:** United States
+- 💰 **Salary:** $63,000.00 - $108,675.00
+- 🕒 **Posted:** 2026-10-27
+
+### [Program Manager (Banking) - Global Markets Technology *HIRING ASAP*](https://www.linkedin.com/jobs/view/4483761984/) — TEKsystems
+- 📍 **Location:** Jersey City, NJ
+- 💰 **Salary:** $55.00/hr - $65.00/hr
+- 🕒 **Posted:** 2026-10-27
+
+### [System Engineering - Technical Program Manager](https://www.linkedin.com/jobs/view/4483782335/) — KPIT
+- 📍 **Location:** Newark, NJ
+- 🕒 **Posted:** 2026-10-27
+
+### [Project Manager](https://www.linkedin.com/jobs/view/4483787087/) — Princeton University
+- 📍 **Location:** Princeton, NJ
+- 💰 **Salary:** $95,000 to $115,000
+- 🕒 **Posted:** 2026-10-27
+
+### [Sr Supply Chain Project Manager](https://www.linkedin.com/jobs/view/4483718711/) — Federal Express Corporation
+- 📍 **Location:** United States
+- 🕒 **Posted:** 2026-10-27
+
+### [Technical Implementation Manager](https://www.linkedin.com/jobs/view/4483268839/) — Crossbeam
+- 📍 **Location:** United States
+- 🕒 **Posted:** 2026-10-27
+
+### [Deputy Project Manager - Joint Assessment and Warfighter Acceleration Team](https://www.linkedin.com/jobs/view/4483774607/) — Parsons Corporation
+- 📍 **Location:** Halawa, HI
+- 💰 **Salary:** $125,100.00 - $225,200.00
+- 🕒 **Posted:** 2026-10-27
+
+### [Project Manager, Customer Success](https://www.linkedin.com/jobs/view/4483786160/) — Swooped
+- 📍 **Location:** United States
+- 🕒 **Posted:** 2026-10-27
+
+### [Technical Project Manager](https://www.linkedin.com/jobs/view/4483771767/) — TEKsystems
+- 📍 **Location:** Honolulu, HI
+- 💰 **Salary:** $45.00/hr - $70.00/hr
+- 🕒 **Posted:** 2026-10-27
+
+### [Project Manager – Government Services & Right-of-Way (Hybrid in Detroit, MI or Washington DC)](https://www.linkedin.com/jobs/view/4483786234/) — ROWJOBS.com - Right of Way Jobs Online
+- 📍 **Location:** Washington, DC
+- 💰 **Salary:** $143,435.23 - $163,925.98
+- 🕒 **Posted:** 2026-10-27
+
+### [Program Manager, Network Convenings](https://www.linkedin.com/jobs/view/4483281464/) — Beyond100K
+- 📍 **Location:** United States
+- 💰 **Salary:** $75,000.00/yr - $85,000.00/yr
+- 🕒 **Posted:** 2026-10-27
+
+### [Senior Business Analyst](https://www.linkedin.com/jobs/view/4481817679/) — Steampunk, Inc.
+- 📍 **Location:** McLean, VA
+- 💰 **Salary:** $100,000 to $160,000
+- 🕒 **Posted:** 2026-10-27
+
+### [Program Manager](https://www.linkedin.com/jobs/view/4483783098/) — Cubic Corporation
+- 📍 **Location:** Washington, DC
+- 💰 **Salary:** $114,000.00 - $130,000.00
+- 🕒 **Posted:** 2026-10-27
+
+### [Oracle Technical Project Manager — E-Business Suite and Fusion](https://www.linkedin.com/jobs/view/4483286088/) — Tessera Labs
+- 📍 **Location:** United States
+- 💰 **Salary:** $190,000.00/yr - $220,000.00/yr
+- 🕒 **Posted:** 2026-10-27
+
+### [Project Manager](https://www.linkedin.com/jobs/view/4483777754/) — HOK
+- 📍 **Location:** Washington, DC
+- 💰 **Salary:** $105,000 - $120,000
+- 🕒 **Posted:** 2026-10-27
+
+### [Program Manager – Teacher Education Preparation (Contingent II - Grant Funded)](https://www.linkedin.com/jobs/view/4483782188/) — Bowie State University
+- 📍 **Location:** Prince George's County, MD
+- 💰 **Salary:** $90,000 - $100,000
+- 🕒 **Posted:** 2026-10-27
+
+### [Senior Business Analyst](https://www.linkedin.com/jobs/view/4481827344/) — Steampunk, Inc.
+- 📍 **Location:** McLean, VA
+- 💰 **Salary:** $100,000 to $160,000
+- 🕒 **Posted:** 2026-10-27
+
+### [Senior Business Analyst](https://www.linkedin.com/jobs/view/4481809990/) — Steampunk, Inc.
+- 📍 **Location:** McLean, VA
+- 💰 **Salary:** $100,000 to $160,000
+- 🕒 **Posted:** 2026-10-27
+
+### [Business Analyst (Financial Crimes)](https://www.linkedin.com/jobs/view/4483717678/) — TEKsystems
+- 📍 **Location:** Baltimore, MD
+- 💰 **Salary:** $60.00/hr - $70.00/hr
+- 🕒 **Posted:** 2026-10-27
+
+### [Principal Consultant Project Manager - Utility Return on Equity & Cost of Capital](https://www.linkedin.com/jobs/view/4483720630/) — Concentric Energy Advisors
+- 📍 **Location:** Washington, DC
+- 💰 **Salary:** $167,500 - $212,700,
+- 🕒 **Posted:** 2026-10-27
+
+### [Business Operations Analyst](https://www.linkedin.com/jobs/view/4481830145/) — Johns Hopkins Applied Physics Laboratory
+- 📍 **Location:** Laurel, MD
+- 💰 **Salary:** $58,700.00/yr - $146,300.00/yr
+- 🕒 **Posted:** 2026-10-27
+
+### [Senior Project Manager (Data Governance)](https://www.linkedin.com/jobs/view/4483283512/) — SRG SSR
+- 📍 **Location:** Zurich, Zurich, Switzerland
+- 🕒 **Posted:** 2026-10-27
+
+### [Senior Project Manager (Data Governance)](https://www.linkedin.com/jobs/view/4483277580/) — SRG SSR
+- 📍 **Location:** Zurich, Zurich, Switzerland
+- 🕒 **Posted:** 2026-10-27
+
+### [Senior IT Technical Project Manager (Data Privacy & ONE TRUST)](https://www.linkedin.com/jobs/view/4483146785/) — Delta Computer Consulting
+- 📍 **Location:** Los Angeles Metropolitan Area
+- 💰 **Salary:** $67.00/hr - $74.00/hr
+- 🕒 **Posted:** 2026-10-27
+
+### [Technical Project Manager – Data Integration & Systems Integration](https://www.linkedin.com/jobs/view/4483154503/) — Delta Computer Consulting
+- 📍 **Location:** Los Angeles Metropolitan Area
+- 💰 **Salary:** $74.00/hr - $81.00/hr
+- 🕒 **Posted:** 2026-10-27
+
+### [Maintenance, Operations and Quality Program Manager](https://www.linkedin.com/jobs/view/4483779952/) — Sodexo
+- 📍 **Location:** United States
+- 🕒 **Posted:** 2026-10-27
+
+### [Project Manager - Capital Construction and Tenant Improvement](https://www.linkedin.com/jobs/view/4483287352/) — Dr. Robert K. Jabs School of Business
+- 📍 **Location:** Riverside, CA
+- 🕒 **Posted:** 2026-10-27
+
+### [Senior Technical Project Manager – Enterprise Systems & Integrations](https://www.linkedin.com/jobs/view/4483153745/) — Delta Computer Consulting
+- 📍 **Location:** Los Angeles Metropolitan Area
+- 💰 **Salary:** $70.00/hr - $77.00/hr
+- 🕒 **Posted:** 2026-10-27
+
+### [Senior IT Project Manager – Consumer Digital Platforms](https://www.linkedin.com/jobs/view/4483160690/) — Delta Computer Consulting
+- 📍 **Location:** Los Angeles Metropolitan Area
+- 💰 **Salary:** $67.00/hr - $74.00/hr
+- 🕒 **Posted:** 2026-10-27
+
+### [Senior Technical IT Project Manager (Qualtrics / SurveyMonkey / Alchemer & AWS)](https://www.linkedin.com/jobs/view/4483146997/) — Delta Computer Consulting
+- 📍 **Location:** Los Angeles Metropolitan Area
+- 💰 **Salary:** $67.00 – $74.00 per hour
+- 🕒 **Posted:** 2026-10-27
+
+### [Technical Program Manager – Aerospace & Defense](https://www.linkedin.com/jobs/view/4481411022/) — Teledyne Technologies Incorporated
+- 📍 **Location:** Los Angeles, CA
+- 💰 **Salary:** $120,300.00-$160,400.00
+- 🕒 **Posted:** 2026-10-27
+
+### [Health Program Manager III, Support Services (UC)](https://www.linkedin.com/jobs/view/4483775914/) — County of Los Angeles
+- 📍 **Location:** Los Angeles County, CA
+- 🕒 **Posted:** 2026-10-27
+
+### [Sr. Privacy Project Manager](https://www.linkedin.com/jobs/view/4393549704/) — Robert Half
+- 📍 **Location:** Torrance, CA
+- 💰 **Salary:** $70.00/hr - $72.00/hr
+- 🕒 **Posted:** 2026-10-27
+
+### [Project Manager III - Advanced Electrical Systems](https://www.linkedin.com/jobs/view/4483792154/) — Quinn Company
+- 📍 **Location:** City of Industry, CA
+- 💰 **Salary:** $84,000 - $126,000
+- 🕒 **Posted:** 2026-10-27
+
+### [Dynamics 365 ERP Project Manager](https://www.linkedin.com/jobs/view/4483780775/) — Visionet Systems Inc.
+- 📍 **Location:** Los Angeles, CA
+- 🕒 **Posted:** 2026-10-27
+
+### [Senior Program Manager (Data & AI)](https://www.linkedin.com/jobs/view/4483287349/) — Finezi Inc.
+- 📍 **Location:** San Ramon, CA
+- 💰 **Salary:** $125,000.00/yr - $165,000.00/yr
+- 🕒 **Posted:** 2026-10-27
+
+### [Radio Systems IS Project Manager I](https://www.linkedin.com/jobs/view/4483788379/) — County of San Mateo
+- 📍 **Location:** San Mateo, CA
+- 💰 **Salary:** $154,856.00/yr - $193,544.00/yr
+- 🕒 **Posted:** 2026-10-27
+
+### [Multifamily Podium Project Manager - $185-225k](https://www.linkedin.com/jobs/view/4481816756/) — CyberCoders
+- 📍 **Location:** San Jose, CA
+- 💰 **Salary:** $185,000.00/yr - $215,000.00/yr
+- 🕒 **Posted:** 2026-10-27
+
+### [Sr Program Manager, AI & Data, Global Corporate Communications](https://www.linkedin.com/jobs/view/4483776841/) — Amazon
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-10-27
+
+### [Staff Technical Program Manager](https://www.linkedin.com/jobs/view/4483796147/) — XPENG
+- 📍 **Location:** Santa Clara, CA
+- 💰 **Salary:** $125,580 - $212,520,
+- 🕒 **Posted:** 2026-10-27
+
+### [Project Manager (Data Centers)](https://www.linkedin.com/jobs/view/4483767416/) — WSP in the U.S.
+- 📍 **Location:** Houston, TX
+- 💰 **Salary:** $102,200 - $182,200
 - 🕒 **Posted:** 2026-10-26
 
-### [Senior Data Analyst](https://www.linkedin.com/jobs/view/4483728822/) — EquipmentShare
-- 📍 **Location:** Columbia, MO
+### [Project Manager (Data Centers)](https://www.linkedin.com/jobs/view/4483777110/) — WSP in the U.S.
+- 📍 **Location:** Portland, OR
+- 💰 **Salary:** $102,200 - $182,200
 - 🕒 **Posted:** 2026-10-26
 
-### [Senior Data Analyst](https://www.linkedin.com/jobs/view/4483725954/) — NAM Info Inc
-- 📍 **Location:** Texas, United States
+### [Supply Chain Project Manager](https://www.linkedin.com/jobs/view/4483283165/) — Penn Medicine, University of Pennsylvania Health System
+- 📍 **Location:** Philadelphia, PA
 - 🕒 **Posted:** 2026-10-26
 
-### [Business Analyst (Product & Pricing)](https://www.linkedin.com/jobs/view/4483727738/) — FuseGlobal
+### [Operations and Integration Project Manager](https://www.linkedin.com/jobs/view/4483759455/) — Accenture Federal Services
+- 📍 **Location:** Washington, DC
+- 💰 **Salary:** $101,700—$204,400 USD
+- 🕒 **Posted:** 2026-10-26
+
+### [IM Transcend - Program Manager, Signavio](https://www.linkedin.com/jobs/view/4483719272/) — Johnson & Johnson Innovative Medicine
+- 📍 **Location:** Little Island, County Cork, Ireland
+- 🕒 **Posted:** 2026-10-26
+
+### [Project Manager](https://www.linkedin.com/jobs/view/4483774433/) — BC Children's Hospital Foundation
+- 📍 **Location:** Vancouver, British Columbia, Canada
+- 💰 **Salary:** $91,100 to $101,800
+- 🕒 **Posted:** 2026-10-26
+
+### [NPI Program Manager - Automotive Processors](https://www.linkedin.com/jobs/view/4483744927/) — NXP Semiconductors
+- 📍 **Location:** Glasgow, Scotland, United Kingdom
+- 🕒 **Posted:** 2026-10-26
+
+### [Program Manager - Secret (Remote)](https://www.linkedin.com/jobs/view/4483772414/) — VMD Corp
+- 📍 **Location:** McLean, VA
+- 🕒 **Posted:** 2026-10-26
+
+### [Project Manager IV](https://www.linkedin.com/jobs/view/4483765514/) — NextGen | GTA: A Kelly Telecom Company
+- 📍 **Location:** Chicago, IL
+- 💰 **Salary:** $90.00/yr - $115.00/yr
+- 🕒 **Posted:** 2026-10-26
+
+### [Senior Program Manager Genesys Cloud CX (f/h) — CDI de chantier](https://www.linkedin.com/jobs/view/4483774329/) — Talent Sourcing
+- 📍 **Location:** Malakoff, Île-de-France, France
+- 🕒 **Posted:** 2026-10-26
+
+### [Program Manager](https://www.linkedin.com/jobs/view/4483289000/) — Arctiq
+- 📍 **Location:** Brentwood, TN
+- 🕒 **Posted:** 2026-10-26
+
+### [IT Ambulatory Program Manager](https://www.linkedin.com/jobs/view/4483755794/) — AdventHealth
+- 📍 **Location:** Altamonte Springs, FL
+- 🕒 **Posted:** 2026-10-26
+
+### [Strategic Operations Project Manager](https://www.linkedin.com/jobs/view/4483776132/) — Vertiv
 - 📍 **Location:** St Louis, MO
 - 🕒 **Posted:** 2026-10-26
 
-### [Business Intelligence Analyst | Health Equity](https://www.linkedin.com/jobs/view/4483254271/) — OnPoint Search Consultants
-- 📍 **Location:** Los Angeles, CA
-- 💰 **Salary:** $150,000.00/yr - $165,000.00/yr
+### [Project Manager (D&S Canada) - Acquisition and Updates-EN](https://www.linkedin.com/jobs/view/4481814617/) — CAE
+- 📍 **Location:** Montreal, Quebec, Canada
 - 🕒 **Posted:** 2026-10-26
 
-### [AI Program Manager](https://www.linkedin.com/jobs/view/4483264064/) — Sunrise Systems, Inc.
-- 📍 **Location:** Oakland, CA
-- 💰 **Salary:** $129,000.00/yr - $168,000.00/yr
+### [Project Manager (D&S Canada) - Acquisition and Updates-EN](https://www.linkedin.com/jobs/view/4481829052/) — CAE
+- 📍 **Location:** Ottawa, Ontario, Canada
 - 🕒 **Posted:** 2026-10-26
 
-### [Senior Technical Program Manager](https://www.linkedin.com/jobs/view/4481480929/) — TalentHop
-- 📍 **Location:** United States
-- 💰 **Salary:** $119,600 to $215,400 per year
+### [(USA) Principal, Technical Program Manager](https://www.linkedin.com/jobs/view/4481817415/) — Walmart
+- 📍 **Location:** Bentonville, AR
+- 💰 **Salary:** $110,000.00/yr - $220,000.00/yr
 - 🕒 **Posted:** 2026-10-26
 
-### [Senior Project Manager – Transformation Projects](https://www.linkedin.com/jobs/view/4483584279/) — Torre.ai
-- 📍 **Location:** El Salvador
-- 🕒 **Posted:** 2026-10-26
-
-### [Senior Website Project Manager - US & Canada](https://www.linkedin.com/jobs/view/4481481866/) — TalentHop
-- 📍 **Location:** United States
-- 💰 **Salary:** $75,400.00 to $93,668.00
-- 🕒 **Posted:** 2026-10-26
-
-### [Senior Website Project Manager - US & Canada - US & Canada](https://www.linkedin.com/jobs/view/4481495216/) — TalentHop
-- 📍 **Location:** United States
-- 💰 **Salary:** $75,400.00 to $93,668.00
-- 🕒 **Posted:** 2026-10-26
-
-### [Sr. Project Manager](https://www.linkedin.com/jobs/view/4483238951/) — ELLKAY
-- 📍 **Location:** United States
-- 💰 **Salary:** $95,000 - $115,000
-- 🕒 **Posted:** 2026-10-26
-
-### [Epic Technical Project Manager](https://www.linkedin.com/jobs/view/4483264009/) — ELLKAY
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-10-26
-
-### [Information Technology Project Manager](https://www.linkedin.com/jobs/view/4483251385/) — Insight Global
-- 📍 **Location:** United States
-- 💰 **Salary:** $55.00/hr - $62.00/hr
-- 🕒 **Posted:** 2026-10-26
-
-### [Project Manager](https://www.linkedin.com/jobs/view/4481482738/) — Bright Power
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $75,000 - $95,000
-- 🕒 **Posted:** 2026-10-26
-
-### [Senior Project Manager - Building Restoration](https://www.linkedin.com/jobs/view/4479438065/) — CP Search LLC
-- 📍 **Location:** Nassau County, NY
-- 💰 **Salary:** $130,000.00/yr - $160,000.00/yr
-- 🕒 **Posted:** 2026-10-26
-
-### [Sr. Project Manager](https://www.linkedin.com/jobs/view/4483248414/) — ELLKAY
-- 📍 **Location:** United States
-- 💰 **Salary:** $90,000 - $110,000
-- 🕒 **Posted:** 2026-10-26
-
-### [Project Manager](https://www.linkedin.com/jobs/view/4483263005/) — Creed Staffing
-- 📍 **Location:** New York City Metropolitan Area
-- 🕒 **Posted:** 2026-10-26
-
-### [Data Analyst](https://www.linkedin.com/jobs/view/4476463229/) — Mitchell Martin Inc.
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $37.00/hr - $47.00/hr
-- 🕒 **Posted:** 2026-10-26
-
-### [Senior Project Manager - C&I](https://www.linkedin.com/jobs/view/4483239930/) — Mainspring Energy
-- 📍 **Location:** United States
-- 💰 **Salary:** $135,265.00/yr - $159,135.00/yr
-- 🕒 **Posted:** 2026-10-26
-
-### [Senior Program Manager](https://www.linkedin.com/jobs/view/4463137279/) — Nava
-- 📍 **Location:** United States
-- 💰 **Salary:** $157,500—$177,300 USD
-- 🕒 **Posted:** 2026-10-26
-
-### [Sr. Business Analyst with Oil and Gas experience](https://www.linkedin.com/jobs/view/4483746000/) — eStaff LLC
-- 📍 **Location:** United States
-- 💰 **Salary:** $65.00/hr - $70.00/hr
-- 🕒 **Posted:** 2026-10-26
-
-### [Technical Writer / Business Analyst - W2 Only](https://www.linkedin.com/jobs/view/4483729820/) — KPG99 INC
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-10-26
-
-### [Sr. Healthcare Business Analyst/Quality](https://www.linkedin.com/jobs/view/4483244509/) — ELLKAY
-- 📍 **Location:** United States
-- 💰 **Salary:** $90,000 - $100,
-- 🕒 **Posted:** 2026-10-26
-
-### [Project Manager- Remodeling Firm](https://www.linkedin.com/jobs/view/4483244533/) — Foster Remodeling Solutions, Inc.
-- 📍 **Location:** Fairfax County, VA
-- 💰 **Salary:** $70,000-$90,000 annually
-- 🕒 **Posted:** 2026-10-26
-
-### [Application Security Program Manager](https://www.linkedin.com/jobs/view/4483265117/) — Robert Half
-- 📍 **Location:** United States
-- 💰 **Salary:** $45.00/hr - $50.00/hr
-- 🕒 **Posted:** 2026-10-26
-
-### [Environmental Assistant Staff Project Manager](https://www.linkedin.com/jobs/view/4483741078/) — ECS Group of Companies
-- 📍 **Location:** Hanover, MD
-- 💰 **Salary:** $22-$26/hour
-- 🕒 **Posted:** 2026-10-26
-
-### [Senior Project Manager, Data Center Development & Construction](https://www.linkedin.com/jobs/view/4466510780/) — American Real Estate Partners (AREP)
-- 📍 **Location:** Ashburn, VA
-- 💰 **Salary:** $160,000—$190,000 USD
-- 🕒 **Posted:** 2026-10-26
-
-### [IT Program Manager - Real Estate & Facilities Technology](https://www.linkedin.com/jobs/view/4483734389/) — Randstad Digital Americas
+### [Staff Program Manager, Connected Warfare (Active Clearance)](https://www.linkedin.com/jobs/view/4483756530/) — Anduril Industries
 - 📍 **Location:** Washington, DC
+- 💰 **Salary:** $183,000—$229,000 USD
 - 🕒 **Posted:** 2026-10-26
 
-### [Project Manager - Water/Wastewater Plant Construction](https://www.linkedin.com/jobs/view/4483729829/) — System One
-- 📍 **Location:** Arlington, VA
+### [Staff Program Manager, Connected Warfare (Active Clearance)](https://www.linkedin.com/jobs/view/4483759625/) — Anduril Industries
+- 📍 **Location:** Costa Mesa, CA
+- 💰 **Salary:** $183,000—$229,000 USD
 - 🕒 **Posted:** 2026-10-26
 
-### [Project Manager - Solar Construction - Virgina](https://www.linkedin.com/jobs/view/4483241679/) — Expert Executive Recruiters (EER Global)
-- 📍 **Location:** Arlington, VA
-- 💰 **Salary:** $120,000.00/yr - $150,000.00/yr
-- 🕒 **Posted:** 2026-10-26
-
-### [Assistant Project Manager, Data Center Development & Construction](https://www.linkedin.com/jobs/view/4466507840/) — American Real Estate Partners (AREP)
-- 📍 **Location:** McLean, VA
-- 💰 **Salary:** $100,000—$135,000 USD
-- 🕒 **Posted:** 2026-10-26
-
-### [Sr. Business Intelligence Analyst](https://www.linkedin.com/jobs/view/4478298824/) — Lumen Solutions Group Inc.
-- 📍 **Location:** Reston, VA
-- 🕒 **Posted:** 2026-10-26
-
-### [Research Analyst (D.C.)](https://www.linkedin.com/jobs/view/4481803035/) — Kharon
-- 📍 **Location:** Washington, DC
-- 💰 **Salary:** $65,000.00/yr - $75,000.00/yr
-- 🕒 **Posted:** 2026-10-26
-
-### [Project Manager / Business Analyst – Corporate Technology & Workday : Quant Fund : £120-150k](https://www.linkedin.com/jobs/view/4481803037/) — Hunter Bond
-- 📍 **Location:** London Area, United Kingdom
-- 🕒 **Posted:** 2026-10-26
-
-### [Program Manager, Last Mile Retrofits (FTC), AMZL Launch & Expansion](https://www.linkedin.com/jobs/view/4483724441/) — Amazon
+### [Assistant Project Manager - Defence and Security](https://www.linkedin.com/jobs/view/4483772289/) — WSP in the UK & Ireland
 - 📍 **Location:** London, England, United Kingdom
 - 🕒 **Posted:** 2026-10-26
 
-### [Data Analyst/Scientist](https://www.linkedin.com/jobs/view/4483264127/) — Harnham
-- 📍 **Location:** Windsor, England, United Kingdom
+### [Assistant Project Manager - Defence and Security](https://www.linkedin.com/jobs/view/4483760582/) — WSP in the UK & Ireland
+- 📍 **Location:** Basingstoke, England, United Kingdom
 - 🕒 **Posted:** 2026-10-26
 
-### [Senior Project Manager - Grid Scale](https://www.linkedin.com/jobs/view/4483241801/) — Mainspring Energy
+### [Strategic Operations Manager](https://www.linkedin.com/jobs/view/4481823275/) — Gastro Health
+- 📍 **Location:** Miami, FL
+- 🕒 **Posted:** 2026-10-26
+
+### [Program Manager - Decision & Information Science](https://www.linkedin.com/jobs/view/4483758396/) — University of Houston
+- 📍 **Location:** Houston, TX
+- 🕒 **Posted:** 2026-10-26
+
+### [Project Manager Equipment III](https://www.linkedin.com/jobs/view/4483272134/) — Trane Technologies
+- 📍 **Location:** Madison, WI
+- 🕒 **Posted:** 2026-10-26
+
+### [Customer Success Operations Analyst](https://www.linkedin.com/jobs/view/4483767580/) — Global Relay
+- 📍 **Location:** Vancouver, British Columbia, Canada
+- 🕒 **Posted:** 2026-10-26
+
+### [Customer Success - Senior Project Manager](https://www.linkedin.com/jobs/view/4483777281/) — TruTechnologies
+- 📍 **Location:** Durham, NC
+- 🕒 **Posted:** 2026-10-26
+
+### [IM Transcend - Program Manager, Signavio](https://www.linkedin.com/jobs/view/4483706970/) — Johnson & Johnson Innovative Medicine
+- 📍 **Location:** Beerse, Flemish Region, Belgium
+- 🕒 **Posted:** 2026-10-26
+
+### [IT Project Manager](https://www.linkedin.com/jobs/view/4483759842/) — Guidehouse
+- 📍 **Location:** Washington, DC
+- 🕒 **Posted:** 2026-10-26
+
+### [Intelligence Analyst III](https://www.linkedin.com/jobs/view/4483757930/) — Crisis24
+- 📍 **Location:** Annapolis, MD
+- 🕒 **Posted:** 2026-10-26
+
+### [Intelligence Analyst I - Aviation](https://www.linkedin.com/jobs/view/4458195245/) — Crisis24
+- 📍 **Location:** Cape Town, Western Cape, South Africa
+- 🕒 **Posted:** 2026-10-26
+
+### [Sr Data Analyst](https://www.linkedin.com/jobs/view/4483759355/) — Target
+- 📍 **Location:** Bengaluru, Karnataka, India
+- 🕒 **Posted:** 2026-10-26
+
+### [Investment Research Analyst](https://www.linkedin.com/jobs/view/4483774286/) — Nasdaq
+- 📍 **Location:** Philadelphia, PA
+- 🕒 **Posted:** 2026-10-26
+
+### [Sr. Business Analyst - Business Banking](https://www.linkedin.com/jobs/view/4483282128/) — KeyBank
+- 📍 **Location:** Brooklyn, OH
+- 🕒 **Posted:** 2026-10-26
+
+### [Quality Compliance Program Manager](https://www.linkedin.com/jobs/view/4483760798/) — Abbott
+- 📍 **Location:** Plymouth, MN
+- 🕒 **Posted:** 2026-10-26
+
+### [Senior Program Manager, Policy and Regulatory Affairs](https://www.linkedin.com/jobs/view/4483761253/) — Remitly
+- 📍 **Location:** New Westminster, British Columbia, Canada
+- 🕒 **Posted:** 2026-10-26
+
+### [Program Manager, FSQA Standards and Governance](https://www.linkedin.com/jobs/view/4483764139/) — Boar's Head Brand
+- 📍 **Location:** Sarasota, FL
+- 🕒 **Posted:** 2026-10-26
+
+### [Global Equity Derivatives Operations Analyst II](https://www.linkedin.com/jobs/view/4483157335/) — TD Securities
+- 📍 **Location:** Toronto, Ontario, Canada
+- 🕒 **Posted:** 2026-10-26
+
+### [Sr. Business Intelligence Analyst](https://www.linkedin.com/jobs/view/4483757764/) — Honest Health
 - 📍 **Location:** United States
-- 💰 **Salary:** $135,265.00/yr - $159,135.00/yr
 - 🕒 **Posted:** 2026-10-26
 
-### [SAP Project Manager](https://www.linkedin.com/jobs/view/4482146566/) — Confidential
+### [HR Operations Analyst I](https://www.linkedin.com/jobs/view/4483764226/) — TD
+- 📍 **Location:** Toronto, Ontario, Canada
+- 🕒 **Posted:** 2026-10-26
+
+### [Customer Operations Analyst](https://www.linkedin.com/jobs/view/4483774411/) — Davidson
+- 📍 **Location:** Brisbane, Queensland, Australia
+- 🕒 **Posted:** 2026-10-26
+
+### [Equity Research Analyst — REITs](https://www.linkedin.com/jobs/view/4483769438/) — MFS Investment Management
+- 📍 **Location:** Boston, MA
+- 🕒 **Posted:** 2026-10-26
+
+### [Commercial Real Estate Program Analyst](https://www.linkedin.com/jobs/view/4483760427/) — Wells Fargo
+- 📍 **Location:** Charlotte, NC
+- 🕒 **Posted:** 2026-10-26
+
+### [Senior Program Manager, Knowledge](https://www.linkedin.com/jobs/view/4483774330/) — Rippling
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-10-26
+
+### [Project Manager (Data Centers)](https://www.linkedin.com/jobs/view/4483770343/) — WSP in the U.S.
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-10-26
+
+### [Project Manager, Creative Production & Content Operations](https://www.linkedin.com/jobs/view/4483758757/) — MANSCAPED
 - 📍 **Location:** United States
 - 🕒 **Posted:** 2026-10-26
 
-### [Project Manager – Energy Infrastructure Planning & Policy](https://www.linkedin.com/jobs/view/4483740302/) — Amerit Consulting
+### [Claims Compliance Program Manager](https://www.linkedin.com/jobs/view/4483280156/) — Devoted Health
 - 📍 **Location:** United States
-- 💰 **Salary:** $50.00/hr - $55.00/hr
-- 🕒 **Posted:** 2026-10-26
-
-### [Marketing Program Manager - Hybrid (Los Angeles)](https://www.linkedin.com/jobs/view/4481481974/) — XPRIZE
-- 📍 **Location:** Los Angeles, CA
-- 💰 **Salary:** $90,000 to $115,000
-- 🕒 **Posted:** 2026-10-26
-
-### [Project Manager III - GIS](https://www.linkedin.com/jobs/view/4480424014/) — Enterris Associates
-- 📍 **Location:** Los Angeles, CA
-- 🕒 **Posted:** 2026-10-26
-
-### [SR. Architectural Project Manager / PM - Healthcare (HCAi / OSHPD)](https://www.linkedin.com/jobs/view/4483243596/) — Bancroft Staffing Partners (BSP)
-- 📍 **Location:** Ontario, CA
-- 🕒 **Posted:** 2026-10-26
-
-### [Senior Project Manager](https://www.linkedin.com/jobs/view/4481492701/) — TalentHop
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-10-26
-
-### [Business Operations Manager - Remote](https://www.linkedin.com/jobs/view/4481493387/) — TalentHop
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-10-26
-
-### [Hardware Technical Program Manager (ME/EE) – Accessories](https://www.linkedin.com/jobs/view/4483257366/) — Cloud Security Web
-- 📍 **Location:** Mountain View, CA
-- 🕒 **Posted:** 2026-10-26
-
-### [Heavy Civil/Industrial Project Manager - Water/Wastewater](https://www.linkedin.com/jobs/view/4473464980/) — Jobot
-- 📍 **Location:** Livermore, CA
-- 🕒 **Posted:** 2026-10-26
-
-### [Program Manager](https://www.linkedin.com/jobs/view/4483743287/) — The Judge Group
-- 📍 **Location:** Mountain View, CA
 - 🕒 **Posted:** 2026-10-26
