@@ -1,31 +1,19 @@
 {
-  "scraped_at": "2026-10-22 20:06 UTC",
+  "scraped_at": "2026-10-28 21:05 UTC",
   "total": 22,
   "new_count": 0,
   "jobs": [
     {
-      "company": "Employment Development Department",
-      "title": "Project Manager",
+      "company": "Franchise Tax Board",
+      "title": "Worksite Security Project Manager",
       "location": "Sacramento County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=536143",
-      "date_posted": "2026-10-22",
-      "salary": "$3861.00 - $6276.00",
-      "ats": "CalCareers",
-      "telework": "Hybrid",
-      "job_type": "Permanent, Full Time",
-      "work_arrangement": "Telecommute eligible"
-    },
-    {
-      "company": "Department of Human Resources",
-      "title": "Senior Project Manager",
-      "location": "Sacramento County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=521655",
-      "date_posted": "2026-10-13",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=536936",
+      "date_posted": "2026-10-28",
       "salary": "$7276.00 - $9107.00",
       "ats": "CalCareers",
-      "telework": "Hybrid",
+      "telework": "In Office",
       "job_type": "Permanent, Full Time",
-      "work_arrangement": "Telecommute eligible"
+      "work_arrangement": "On-site"
     },
     {
       "company": "California Energy Commission",
@@ -40,16 +28,28 @@
       "work_arrangement": "Telecommute eligible"
     },
     {
-      "company": "Franchise Tax Board",
+      "company": "California Energy Commission",
+      "title": "Program Environmental Impact Report Project Manager",
+      "location": "Sacramento County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=536832",
+      "date_posted": "2026-10-27",
+      "salary": "$10939.00 - $13691.00",
+      "ats": "CalCareers",
+      "telework": "Hybrid",
+      "job_type": "Permanent, Full Time",
+      "work_arrangement": "Telecommute eligible"
+    },
+    {
+      "company": "Department of Fish and Wildlife",
       "title": "IT Project Manager",
       "location": "Sacramento County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=535800",
-      "date_posted": "2026-10-16",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=537017",
+      "date_posted": "2026-10-27",
       "salary": "$6513.00 - $10537.00",
       "ats": "CalCareers",
-      "telework": "In Office",
-      "job_type": "Permanent, Full Time",
-      "work_arrangement": "On-site"
+      "telework": "Hybrid",
+      "job_type": "12 Month Limited Term - Full Time",
+      "work_arrangement": "Telecommute eligible"
     },
     {
       "company": "Secretary of State",
@@ -69,18 +69,6 @@
       "location": "Sacramento County",
       "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=534436",
       "date_posted": "2026-10-21",
-      "salary": "$8625.00 - $11557.00",
-      "ats": "CalCareers",
-      "telework": "Hybrid",
-      "job_type": "Permanent, Full Time",
-      "work_arrangement": "Telecommute eligible"
-    },
-    {
-      "company": "California Health and Human Services Office of Technology and Solutions Integration",
-      "title": "Senior Project Manager",
-      "location": "Sacramento County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=535179",
-      "date_posted": "2026-10-12",
       "salary": "$8625.00 - $11557.00",
       "ats": "CalCareers",
       "telework": "Hybrid",
@@ -112,6 +100,30 @@
       "work_arrangement": "Telecommute eligible"
     },
     {
+      "company": "Employment Development Department",
+      "title": "Disability Insurance Program Manager I",
+      "location": "Fresno County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=537144",
+      "date_posted": "2026-10-28",
+      "salary": "$6525.00 - $8170.00",
+      "ats": "CalCareers",
+      "telework": "In Office",
+      "job_type": "Permanent, Full Time",
+      "work_arrangement": "On-site"
+    },
+    {
+      "company": "Employment Development Department",
+      "title": "Disability Insurance Program Manager I",
+      "location": "Sacramento County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=536610",
+      "date_posted": "2026-10-23",
+      "salary": "$6525.00 - $8170.00",
+      "ats": "CalCareers",
+      "telework": "Hybrid",
+      "job_type": "Permanent, Full Time",
+      "work_arrangement": "Telecommute eligible"
+    },
+    {
       "company": "California Correctional Health Care Services",
       "title": "Health Program Manager I - Substance Abuse Treatment Facility (SATF) in Corcoran",
       "location": "Kings County",
@@ -125,35 +137,23 @@
     },
     {
       "company": "California Correctional Health Care Services",
-      "title": "HEALTH PROGRAM MANAGER III - Avenal State Prison (ASP), Avenal",
-      "location": "Kings County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=526102",
-      "date_posted": "2026-10-21",
-      "salary": "$9572.00 - $10867.00",
+      "title": "HEALTH PROGRAM MANAGER I - California State Prison- Los Angeles County (LAC)",
+      "location": "Los Angeles County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=530314",
+      "date_posted": "2026-10-27",
+      "salary": "$7172.00 - $8910.00",
       "ats": "CalCareers",
       "telework": "In Office",
       "job_type": "12 Month Limited Term - Full Time",
       "work_arrangement": "On-site"
     },
     {
-      "company": "Department of Social Services",
-      "title": "Licensing Program Manager I (LPM I)",
-      "location": "Los Angeles County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=536367",
-      "date_posted": "2026-10-22",
-      "salary": "$7416.00 - $9213.00",
-      "ats": "CalCareers",
-      "telework": "Hybrid",
-      "job_type": "Permanent, Full Time",
-      "work_arrangement": "Telecommute eligible"
-    },
-    {
-      "company": "Department of Human Resources",
-      "title": "Personnel Program Manager",
+      "company": "California Governor's Office of Emergency Services",
+      "title": "Program Manager I",
       "location": "Sacramento County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=524331",
-      "date_posted": "2026-07-10",
-      "salary": "$9572.00 - $10867.00",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=536595",
+      "date_posted": "2026-10-27",
+      "salary": "$8230.00 - $10242.00",
       "ats": "CalCareers",
       "telework": "Hybrid",
       "job_type": "Permanent, Full Time",
@@ -184,18 +184,6 @@
       "work_arrangement": "Telecommute eligible"
     },
     {
-      "company": "State Controller's Office",
-      "title": "Lead Business Analyst",
-      "location": "Sacramento County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=535663",
-      "date_posted": "2026-10-16",
-      "salary": "$8625.00 - $11557.00",
-      "ats": "CalCareers",
-      "telework": "Hybrid",
-      "job_type": "Permanent, Full Time",
-      "work_arrangement": "Telecommute eligible"
-    },
-    {
       "company": "Department of Industrial Relations",
       "title": "Administrative and Operations Analyst",
       "location": "Sacramento County",
@@ -205,6 +193,18 @@
       "ats": "CalCareers",
       "telework": "Hybrid",
       "job_type": "12 Month Limited Term - Full Time",
+      "work_arrangement": "Telecommute eligible"
+    },
+    {
+      "company": "Governor’s Office of Land Use and Climate Innovation",
+      "title": "Executive Administrative Operations Analyst",
+      "location": "Sacramento County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=535103",
+      "date_posted": "2026-10-27",
+      "salary": "$6031.00 - $7547.00",
+      "ats": "CalCareers",
+      "telework": "Hybrid",
+      "job_type": "Permanent, Full Time",
       "work_arrangement": "Telecommute eligible"
     },
     {
@@ -232,24 +232,24 @@
       "work_arrangement": "Telecommute eligible"
     },
     {
-      "company": "Department of Insurance",
-      "title": "Research Data Analyst I",
-      "location": "Los Angeles County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=535060",
-      "date_posted": "2026-10-12",
-      "salary": "$4469.00 - $6922.00",
+      "company": "Department of Transportation",
+      "title": "Legal Operations Analyst",
+      "location": "Sacramento County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=536834",
+      "date_posted": "2026-10-27",
+      "salary": "$6031.00 - $7547.00",
       "ats": "CalCareers",
       "telework": "Hybrid",
       "job_type": "Permanent, Full Time",
       "work_arrangement": "Telecommute eligible"
     },
     {
-      "company": "Department of Health Care Access and Information",
+      "company": "Department of Justice",
       "title": "Data Analyst",
-      "location": "Sacramento County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=535268",
-      "date_posted": "2026-10-13",
-      "salary": "$3861.00 - $6464.00",
+      "location": "United States",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=536126",
+      "date_posted": "2026-10-23",
+      "salary": "$4469.00 - $6922.00",
       "ats": "CalCareers",
       "telework": "Hybrid",
       "job_type": "Permanent, Full Time",
