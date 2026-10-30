@@ -1,5 +1,5 @@
 # 🏛 CalOpps — California Local-Agency Megan's Strategy, Security & Operations Roles
-*Last updated: 2026-10-29 21:13 UTC*
+*Last updated: 2026-10-30 20:52 UTC*
 
 **0 new role(s)** since last run · 7 total in recent CalOpps postings
 
