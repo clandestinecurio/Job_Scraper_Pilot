@@ -1,15 +1,24 @@
 {
-  "scraped_at": "2026-10-30 20:51 UTC",
-  "total": 2,
-  "new_count": 0,
+  "scraped_at": "2026-11-03 21:49 UTC",
+  "total": 3,
+  "new_count": 2,
   "jobs": [
     {
-      "company": "County of San Mateo",
-      "title": "Intelligence Analyst - Unclassified (Open)",
-      "location": "County of San Mateo, CA",
-      "url": "https://www.governmentjobs.com/jobs/5515560-0/intelligence-analyst-unclassified-open",
+      "company": "State Bar of California",
+      "title": "Cybersecurity Manager",
+      "location": "Los Angeles, CA ; San Francisco, CA",
+      "url": "https://www.governmentjobs.com/jobs/152106-1/cybersecurity-manager",
       "date_posted": "",
-      "salary": "$106,870.40 - $133,577.60 Annually",
+      "salary": "$135,696.00 - $180,902.00 Annually",
+      "ats": "NEOGOV"
+    },
+    {
+      "company": "Port of Oakland",
+      "title": "AVIATION SECURITY MANAGER",
+      "location": "Oakland Airport, CA",
+      "url": "https://www.governmentjobs.com/jobs/5536550-0/aviation-security-manager",
+      "date_posted": "",
+      "salary": "$17,369.00 - $21,517.00 Monthly",
       "ats": "NEOGOV"
     },
     {
@@ -22,5 +31,24 @@
       "ats": "NEOGOV"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "State Bar of California",
+      "title": "Cybersecurity Manager",
+      "location": "Los Angeles, CA ; San Francisco, CA",
+      "url": "https://www.governmentjobs.com/jobs/152106-1/cybersecurity-manager",
+      "date_posted": "",
+      "salary": "$135,696.00 - $180,902.00 Annually",
+      "ats": "NEOGOV"
+    },
+    {
+      "company": "Port of Oakland",
+      "title": "AVIATION SECURITY MANAGER",
+      "location": "Oakland Airport, CA",
+      "url": "https://www.governmentjobs.com/jobs/5536550-0/aviation-security-manager",
+      "date_posted": "",
+      "salary": "$17,369.00 - $21,517.00 Monthly",
+      "ats": "NEOGOV"
+    }
+  ]
 }
