@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-11-03 21:58 UTC",
+  "scraped_at": "2026-11-04 22:10 UTC",
   "total": 24,
-  "new_count": 2,
+  "new_count": 0,
   "jobs": [
     {
       "company": "California State University",
@@ -292,30 +292,5 @@
       "ats": "CSUCareers"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "California State University",
-      "title": "AuD Program Analyst",
-      "location": "San José",
-      "url": "https://csucareers.calstate.edu/en-us/job/563324/aud-program-analyst",
-      "direct_url": "https://csucareers.calstate.edu/en-us/job/563324/aud-program-analyst",
-      "date_posted": "",
-      "closing_date": "",
-      "description": "",
-      "salary": "",
-      "ats": "CSUCareers"
-    },
-    {
-      "company": "California State University",
-      "title": "Athletics Business Analyst",
-      "location": "San José",
-      "url": "https://csucareers.calstate.edu/en-us/job/563386/athletics-business-analyst",
-      "direct_url": "https://csucareers.calstate.edu/en-us/job/563386/athletics-business-analyst",
-      "date_posted": "",
-      "closing_date": "",
-      "description": "",
-      "salary": "",
-      "ats": "CSUCareers"
-    }
-  ]
+  "new_jobs": []
 }
