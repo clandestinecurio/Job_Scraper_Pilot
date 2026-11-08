@@ -1,18 +1,11 @@
 # 🟦 Indeed — Megan's Strategy, Security & Operations Roles
-*Last updated: 2026-11-08 02:46 UTC*
+*Last updated: 2026-11-08 09:33 UTC*
 
-**2 new role(s)** since last run · 30 total in last 24h
+**1 new role(s)** since last run · 16 total in last 24h
 
-### [Program Manager, AI Adoption Service](https://www.indeed.com/viewjob?jk=fa9507abf56cecd0) — ECI
-- 📍 **Location:** Stamford, CT, USA
-- 💰 **Salary:** $150k–$160k/yr
-- **Work mode:** On-site
+### [SECURITY OPERATIONS MANAGER - REMOTE IN CALIFORNIA](https://www.indeed.com/viewjob?jk=d55579bf550de765) — University of California Office of the President
+- 📍 **Location:** Oakland, CA, USA
+- 💰 **Salary:** $210k–$235k/yr
+- **Work mode:** Remote in-state eligible
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-11-07
-
-### [Stage Mars 2027 - Data Analyst (F/H)](https://fr.indeed.com/viewjob?jk=47ab0779ae6aa733) — Direct Assurance
-- 📍 **Location:** Suresnes, A8, France
-- 💰 **Salary:** $880–$1949/mo
-- **Work mode:** On-site
-- **Job type:** parttime, internship
-- 🕒 **Posted:** 2026-11-07
+- 🕒 **Posted:** 2026-11-08
