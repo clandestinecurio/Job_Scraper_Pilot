@@ -1,8 +1,26 @@
 {
-  "scraped_at": "2026-11-03 21:50 UTC",
-  "total": 7,
-  "new_count": 1,
+  "scraped_at": "2026-11-08 20:31 UTC",
+  "total": 9,
+  "new_count": 2,
   "jobs": [
+    {
+      "company": "Cupertino",
+      "title": "Public Works Project Manager",
+      "location": "South Bay",
+      "url": "https://www.calopps.org/cupertino/job-20790676",
+      "date_posted": "",
+      "salary": "$0.00-$0.00",
+      "ats": "CalOpps"
+    },
+    {
+      "company": "San Jose",
+      "title": "Program Manager (Capital Improvement Program)- Environmental Services Department",
+      "location": "South Bay",
+      "url": "https://www.calopps.org/san-jose/job-20790543",
+      "date_posted": "",
+      "salary": "$134,490.72-$174,851.04 Annually",
+      "ats": "CalOpps"
+    },
     {
       "company": "San Mateo County",
       "title": "Community Program Analyst II- Aging & Disability- Commissions & Provider Svcs (Open & Promotional)",
@@ -69,12 +87,21 @@
   ],
   "new_jobs": [
     {
-      "company": "San Mateo County",
-      "title": "Community Program Analyst II- Aging & Disability- Commissions & Provider Svcs (Open & Promotional)",
-      "location": "San Francisco/Peninsula",
-      "url": "https://www.calopps.org/san-mateo-county/job-20790008",
+      "company": "Cupertino",
+      "title": "Public Works Project Manager",
+      "location": "South Bay",
+      "url": "https://www.calopps.org/cupertino/job-20790676",
       "date_posted": "",
-      "salary": "$110,136.00-$137,592.00 Annually",
+      "salary": "$0.00-$0.00",
+      "ats": "CalOpps"
+    },
+    {
+      "company": "San Jose",
+      "title": "Program Manager (Capital Improvement Program)- Environmental Services Department",
+      "location": "South Bay",
+      "url": "https://www.calopps.org/san-jose/job-20790543",
+      "date_posted": "",
+      "salary": "$134,490.72-$174,851.04 Annually",
       "ats": "CalOpps"
     }
   ]

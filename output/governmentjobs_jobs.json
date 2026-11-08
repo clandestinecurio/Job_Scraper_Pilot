@@ -1,15 +1,24 @@
 {
-  "scraped_at": "2026-11-03 21:49 UTC",
-  "total": 3,
+  "scraped_at": "2026-11-08 20:30 UTC",
+  "total": 4,
   "new_count": 2,
   "jobs": [
     {
-      "company": "State Bar of California",
-      "title": "Cybersecurity Manager",
-      "location": "Los Angeles, CA ; San Francisco, CA",
-      "url": "https://www.governmentjobs.com/jobs/152106-1/cybersecurity-manager",
+      "company": "Superior Court of California County of Los Angeles",
+      "title": "Project Manager",
+      "location": "Los Angeles, CA",
+      "url": "https://www.governmentjobs.com/jobs/5534739-0/project-manager",
       "date_posted": "",
-      "salary": "$135,696.00 - $180,902.00 Annually",
+      "salary": "$106,342.92 - $155,453.40 Annually",
+      "ats": "NEOGOV"
+    },
+    {
+      "company": "City of San Jose",
+      "title": "Program Manager (Capital Improvement Program) - Environmental Services Department",
+      "location": "San Jose",
+      "url": "https://www.governmentjobs.com/jobs/5540569-0/program-manager-capital-improvement-program-environmental-services-department",
+      "date_posted": "",
+      "salary": "$138,531.12 - $180,092.64 Annually",
       "ats": "NEOGOV"
     },
     {
@@ -33,21 +42,21 @@
   ],
   "new_jobs": [
     {
-      "company": "State Bar of California",
-      "title": "Cybersecurity Manager",
-      "location": "Los Angeles, CA ; San Francisco, CA",
-      "url": "https://www.governmentjobs.com/jobs/152106-1/cybersecurity-manager",
+      "company": "Superior Court of California County of Los Angeles",
+      "title": "Project Manager",
+      "location": "Los Angeles, CA",
+      "url": "https://www.governmentjobs.com/jobs/5534739-0/project-manager",
       "date_posted": "",
-      "salary": "$135,696.00 - $180,902.00 Annually",
+      "salary": "$106,342.92 - $155,453.40 Annually",
       "ats": "NEOGOV"
     },
     {
-      "company": "Port of Oakland",
-      "title": "AVIATION SECURITY MANAGER",
-      "location": "Oakland Airport, CA",
-      "url": "https://www.governmentjobs.com/jobs/5536550-0/aviation-security-manager",
+      "company": "City of San Jose",
+      "title": "Program Manager (Capital Improvement Program) - Environmental Services Department",
+      "location": "San Jose",
+      "url": "https://www.governmentjobs.com/jobs/5540569-0/program-manager-capital-improvement-program-environmental-services-department",
       "date_posted": "",
-      "salary": "$17,369.00 - $21,517.00 Monthly",
+      "salary": "$138,531.12 - $180,092.64 Annually",
       "ats": "NEOGOV"
     }
   ]
