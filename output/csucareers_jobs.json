@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-11-11 23:05 UTC",
+  "scraped_at": "2026-11-13 22:10 UTC",
   "total": 25,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "California State University",
@@ -304,18 +304,5 @@
       "ats": "CSUCareers"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "California State University",
-      "title": "Network Operations Analyst",
-      "location": "Long Beach",
-      "url": "https://csucareers.calstate.edu/en-us/job/563964/network-operations-analyst",
-      "direct_url": "https://csucareers.calstate.edu/en-us/job/563964/network-operations-analyst",
-      "date_posted": "",
-      "closing_date": "2026-11-26",
-      "description": "",
-      "salary": "",
-      "ats": "CSUCareers"
-    }
-  ]
+  "new_jobs": []
 }
