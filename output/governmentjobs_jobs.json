@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-11-08 20:30 UTC",
+  "scraped_at": "2026-11-14 20:47 UTC",
   "total": 4,
-  "new_count": 2,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Superior Court of California County of Los Angeles",
@@ -40,24 +40,5 @@
       "ats": "NEOGOV"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Superior Court of California County of Los Angeles",
-      "title": "Project Manager",
-      "location": "Los Angeles, CA",
-      "url": "https://www.governmentjobs.com/jobs/5534739-0/project-manager",
-      "date_posted": "",
-      "salary": "$106,342.92 - $155,453.40 Annually",
-      "ats": "NEOGOV"
-    },
-    {
-      "company": "City of San Jose",
-      "title": "Program Manager (Capital Improvement Program) - Environmental Services Department",
-      "location": "San Jose",
-      "url": "https://www.governmentjobs.com/jobs/5540569-0/program-manager-capital-improvement-program-environmental-services-department",
-      "date_posted": "",
-      "salary": "$138,531.12 - $180,092.64 Annually",
-      "ats": "NEOGOV"
-    }
-  ]
+  "new_jobs": []
 }

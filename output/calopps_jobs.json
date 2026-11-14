@@ -1,8 +1,17 @@
 {
-  "scraped_at": "2026-11-08 20:31 UTC",
-  "total": 9,
+  "scraped_at": "2026-11-14 20:48 UTC",
+  "total": 11,
   "new_count": 2,
   "jobs": [
+    {
+      "company": "San Mateo",
+      "title": "Senior Engineer/Senior Project Manager",
+      "location": "San Francisco/Peninsula",
+      "url": "https://www.calopps.org/san-mateo/job-20790921",
+      "date_posted": "",
+      "salary": "$149,364.00-$194,916.00 Annually",
+      "ats": "CalOpps"
+    },
     {
       "company": "Cupertino",
       "title": "Public Works Project Manager",
@@ -28,6 +37,15 @@
       "url": "https://www.calopps.org/san-mateo-county/job-20790008",
       "date_posted": "",
       "salary": "$110,136.00-$137,592.00 Annually",
+      "ats": "CalOpps"
+    },
+    {
+      "company": "Millbrae",
+      "title": "Capital Improvement Program Manager",
+      "location": "San Francisco/Peninsula",
+      "url": "https://www.calopps.org/millbrae/job-20784318",
+      "date_posted": "",
+      "salary": "$176,566.00-$238,365.00 Annually",
       "ats": "CalOpps"
     },
     {
@@ -87,21 +105,21 @@
   ],
   "new_jobs": [
     {
-      "company": "Cupertino",
-      "title": "Public Works Project Manager",
-      "location": "South Bay",
-      "url": "https://www.calopps.org/cupertino/job-20790676",
+      "company": "San Mateo",
+      "title": "Senior Engineer/Senior Project Manager",
+      "location": "San Francisco/Peninsula",
+      "url": "https://www.calopps.org/san-mateo/job-20790921",
       "date_posted": "",
-      "salary": "$0.00-$0.00",
+      "salary": "$149,364.00-$194,916.00 Annually",
       "ats": "CalOpps"
     },
     {
-      "company": "San Jose",
-      "title": "Program Manager (Capital Improvement Program)- Environmental Services Department",
-      "location": "South Bay",
-      "url": "https://www.calopps.org/san-jose/job-20790543",
+      "company": "Millbrae",
+      "title": "Capital Improvement Program Manager",
+      "location": "San Francisco/Peninsula",
+      "url": "https://www.calopps.org/millbrae/job-20784318",
       "date_posted": "",
-      "salary": "$134,490.72-$174,851.04 Annually",
+      "salary": "$176,566.00-$238,365.00 Annually",
       "ats": "CalOpps"
     }
   ]
