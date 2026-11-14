@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-11-13 22:10 UTC",
-  "total": 25,
-  "new_count": 0,
+  "scraped_at": "2026-11-14 20:57 UTC",
+  "total": 26,
+  "new_count": 1,
   "jobs": [
     {
       "company": "California State University",
@@ -302,7 +302,32 @@
       "description": "",
       "salary": "",
       "ats": "CSUCareers"
+    },
+    {
+      "company": "California State University",
+      "title": "Budget & Operations Analyst - University Personnel",
+      "location": "Cal Poly - San Luis Obispo Campus",
+      "url": "https://csucareers.calstate.edu/en-us/job/563920/budget-operations-analyst-university-personnel",
+      "direct_url": "https://csucareers.calstate.edu/en-us/job/563920/budget-operations-analyst-university-personnel",
+      "date_posted": "",
+      "closing_date": "",
+      "description": "",
+      "salary": "",
+      "ats": "CSUCareers"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "California State University",
+      "title": "Budget & Operations Analyst - University Personnel",
+      "location": "Cal Poly - San Luis Obispo Campus",
+      "url": "https://csucareers.calstate.edu/en-us/job/563920/budget-operations-analyst-university-personnel",
+      "direct_url": "https://csucareers.calstate.edu/en-us/job/563920/budget-operations-analyst-university-personnel",
+      "date_posted": "",
+      "closing_date": "",
+      "description": "",
+      "salary": "",
+      "ats": "CSUCareers"
+    }
+  ]
 }
