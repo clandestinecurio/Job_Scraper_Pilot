@@ -1,18 +1,23 @@
 # 🟦 Indeed — Megan's Strategy, Security & Operations Roles
-*Last updated: 2026-11-15 07:17 UTC*
+*Last updated: 2026-11-15 21:01 UTC*
 
-**2 new role(s)** since last run · 27 total in last 24h
+**3 new role(s)** since last run · 14 total in last 24h
 
-### [Senior Program Manager](https://www.indeed.com/viewjob?jk=93b09a584ecbccba) — General Dynamics Mission Systems
-- 📍 **Location:** Manassas, VA, USA
-- 💰 **Salary:** $184k–$225k/yr
+### [Salesforce Business Analyst](https://www.indeed.com/viewjob?jk=8e23aa2113d9308c) — Robotics Technologies
+- 📍 **Location:** Plano, TX, USA
+- 💰 **Salary:** $78/hr
 - **Work mode:** Remote in-state eligible
+- 🕒 **Posted:** 2026-11-15
+
+### [Program Manager II, Workplace Health and Safety Audit](https://www.indeed.com/viewjob?jk=6aa78d964e6eeb68) — Amazon.com
+- 📍 **Location:** Arlington, VA, USA
+- 💰 **Salary:** $67k–$130k/yr
+- **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-11-15
 
-### [Enterprise Transformation (Program Delivery), Program Manager - VP](https://www.indeed.com/viewjob?jk=f2d3299d4b77a927) — State Street
-- 📍 **Location:** Stamford, CT, USA
-- 💰 **Salary:** $120k–$202k/yr
+### [Finance Strategic Transformation - Finance Reporting Business Analyst (2 Year FTC)](https://uk.indeed.com/viewjob?jk=fd500ed344721b7e) — Arup
+- 📍 **Location:** London, ENG, UK
 - **Work mode:** On-site
-- **Job type:** fulltime
+- **Job type:** contract
 - 🕒 **Posted:** 2026-11-15
