@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-11-14 20:47 UTC",
+  "scraped_at": "2026-11-15 21:04 UTC",
   "total": 4,
-  "new_count": 0,
+  "new_count": 1,
   "jobs": [
     {
       "company": "Superior Court of California County of Los Angeles",
@@ -22,6 +22,15 @@
       "ats": "NEOGOV"
     },
     {
+      "company": "County of Los Angeles",
+      "title": "HEALTH PROGRAM MANAGER I - CASE MANAGEMENT - EMERGENCY APPOINTMENT (HOMELESSNESS)",
+      "location": "Los Angeles County, CA",
+      "url": "https://www.governmentjobs.com/jobs/5526523-0/health-program-manager-i-case-management-emergency-appointment-homelessness",
+      "date_posted": "",
+      "salary": "$134,649.60 - $209,407.92 Annually",
+      "ats": "NEOGOV"
+    },
+    {
       "company": "Port of Oakland",
       "title": "AVIATION SECURITY MANAGER",
       "location": "Oakland Airport, CA",
@@ -29,16 +38,17 @@
       "date_posted": "",
       "salary": "$17,369.00 - $21,517.00 Monthly",
       "ats": "NEOGOV"
-    },
-    {
-      "company": "San Jose State University",
-      "title": "Funds and Records Operations Analyst",
-      "location": "San Jose, CA",
-      "url": "https://www.governmentjobs.com/jobs/152508-1/funds-and-records-operations-analyst",
-      "date_posted": "",
-      "salary": "$5,709.00 - $5,940.00 Monthly",
-      "ats": "NEOGOV"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "County of Los Angeles",
+      "title": "HEALTH PROGRAM MANAGER I - CASE MANAGEMENT - EMERGENCY APPOINTMENT (HOMELESSNESS)",
+      "location": "Los Angeles County, CA",
+      "url": "https://www.governmentjobs.com/jobs/5526523-0/health-program-manager-i-case-management-emergency-appointment-homelessness",
+      "date_posted": "",
+      "salary": "$134,649.60 - $209,407.92 Annually",
+      "ats": "NEOGOV"
+    }
+  ]
 }
