@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-11-14 20:40 UTC",
-  "total": 24,
+  "scraped_at": "2026-11-15 21:02 UTC",
+  "total": 23,
   "new_count": 0,
   "jobs": [
     {
@@ -64,18 +64,6 @@
       "work_arrangement": "Telecommute eligible"
     },
     {
-      "company": "Department of Child Support Services",
-      "title": "Sr. Project Manager",
-      "location": "Sacramento County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=538006",
-      "date_posted": "2026-11-04",
-      "salary": "$8625.00 - $11557.00",
-      "ats": "CalCareers",
-      "telework": "Hybrid",
-      "job_type": "Permanent, Full Time",
-      "work_arrangement": "Telecommute eligible"
-    },
-    {
       "company": "Department of Public Health",
       "title": "Senior Project Manager",
       "location": "Sacramento County",
@@ -112,12 +100,12 @@
       "work_arrangement": "On-site"
     },
     {
-      "company": "Employment Development Department",
-      "title": "Employment Program Manager I",
-      "location": "Sacramento County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=537940",
-      "date_posted": "2026-11-04",
-      "salary": "$6525.00 - $8170.00",
+      "company": "Department of Fish and Wildlife",
+      "title": "Wildlife Diversity Program Manager",
+      "location": "Yolo County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=538832",
+      "date_posted": "2026-11-13",
+      "salary": "$12551.00 - $15602.00",
       "ats": "CalCareers",
       "telework": "Hybrid",
       "job_type": "Permanent, Full Time",
@@ -136,18 +124,6 @@
       "work_arrangement": "Telecommute eligible"
     },
     {
-      "company": "Department of Fish and Wildlife",
-      "title": "Wildlife Diversity Program Manager",
-      "location": "Yolo County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=538832",
-      "date_posted": "2026-11-13",
-      "salary": "$12551.00 - $15602.00",
-      "ats": "CalCareers",
-      "telework": "Hybrid",
-      "job_type": "Permanent, Full Time",
-      "work_arrangement": "Telecommute eligible"
-    },
-    {
       "company": "California Correctional Health Care Services",
       "title": "HEALTH PROGRAM MANAGER I - California Institution for Women (CIW)",
       "location": "San Bernardino County",
@@ -158,6 +134,18 @@
       "telework": "In Office",
       "job_type": "12 Month Limited Term - Full Time",
       "work_arrangement": "On-site"
+    },
+    {
+      "company": "Department of Human Resources",
+      "title": "Personnel Program Manager",
+      "location": "Sacramento County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=538645",
+      "date_posted": "2026-11-10",
+      "salary": "$9572.00 - $10867.00",
+      "ats": "CalCareers",
+      "telework": "Hybrid",
+      "job_type": "Permanent, Full Time",
+      "work_arrangement": "Telecommute eligible"
     },
     {
       "company": "California Governor's Office of Emergency Services",
@@ -258,6 +246,18 @@
     {
       "company": "Public Utilities Commission",
       "title": "Energy Planning Data Analyst",
+      "location": "San Francisco County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=538601",
+      "date_posted": "2026-11-10",
+      "salary": "$7980.00 - $9994.00",
+      "ats": "CalCareers",
+      "telework": "Hybrid",
+      "job_type": "Permanent, Full Time",
+      "work_arrangement": "Telecommute eligible"
+    },
+    {
+      "company": "Public Utilities Commission",
+      "title": "Energy Planning Data Analyst",
       "location": "Sacramento County",
       "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=538624",
       "date_posted": "2026-11-10",
@@ -272,18 +272,6 @@
       "title": "Energy Planning Data Analyst",
       "location": "Los Angeles County",
       "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=538628",
-      "date_posted": "2026-11-10",
-      "salary": "$7980.00 - $9994.00",
-      "ats": "CalCareers",
-      "telework": "Hybrid",
-      "job_type": "Permanent, Full Time",
-      "work_arrangement": "Telecommute eligible"
-    },
-    {
-      "company": "Public Utilities Commission",
-      "title": "Energy Planning Data Analyst",
-      "location": "San Francisco County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=538601",
       "date_posted": "2026-11-10",
       "salary": "$7980.00 - $9994.00",
       "ats": "CalCareers",
