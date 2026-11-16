@@ -1,18 +1,9 @@
 # 🟦 Indeed — Megan's Strategy, Security & Operations Roles
-*Last updated: 2026-11-16 00:26 UTC*
+*Last updated: 2026-11-16 07:22 UTC*
 
-**2 new role(s)** since last run · 7 total in last 24h
+**1 new role(s)** since last run · 6 total in last 24h
 
-### [AV Project Manager](https://uk.indeed.com/viewjob?jk=5c538c874133c845) — Factotum Eng. Services Ltd
-- 📍 **Location:** Kempston, ENG, UK
-- 💰 **Salary:** $45k–$55k/yr
+### [Embellishment Project Manager](https://fr.indeed.com/viewjob?jk=a185c89e637ab198) — Reckitt
+- 📍 **Location:** Massy, A8, France
 - **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-11-15
-
-### [Security Intelligence Analyst, Consultant](https://www.indeed.com/viewjob?jk=d3084c392397a23f) — Blue Shield of California
-- 📍 **Location:** Oakland, CA, USA
-- 💰 **Salary:** $123k–$185k/yr
-- **Work mode:** On-site
-- **Job type:** fulltime
 - 🕒 **Posted:** 2026-11-16
